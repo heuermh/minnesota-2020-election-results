@@ -11,5 +11,5 @@ wget \
     "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=136&scenario=USRepresentative"
 
 TIMESTAMP=`date`
-git commit -a -m "Update at $TIMESTAMP" .
+git commit -a -m "Update at $TIMESTAMP"
 git push
