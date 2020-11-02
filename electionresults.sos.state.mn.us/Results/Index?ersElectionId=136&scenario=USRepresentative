@@ -1,0 +1,972 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index - Election Results</title>
+
+    
+    
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css" />
+<meta name="x-stylesheet-fallback-test" content="" class="sr-only" /><script>!function(a,b,c,d){var e,f=document,g=f.getElementsByTagName("SCRIPT"),h=g[g.length-1].previousElementSibling,i=f.defaultView&&f.defaultView.getComputedStyle?f.defaultView.getComputedStyle(h):h.currentStyle;if(i&&i[a]!==b)for(e=0;e<c.length;e++)f.write('<link href="'+c[e]+'" '+d+"/>")}("position","absolute",["/lib/bootstrap/dist/css/bootstrap.min.css"], "rel=\u0022stylesheet\u0022 ");</script>
+        
+
+<link rel="shortcut icon" href="https://commoncontent.sos.state.mn.us/images/mn-favicon/favicon.ico" type="image/x-icon" />
+
+   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900"/>
+   <link rel="stylesheet" type="text/css" href="https://commoncontent.sos.state.mn.us/stylesheets/mn-sos-bundle.min.css"/>
+
+        <link rel="stylesheet" href="/css/site.min.css?v=PRntpVzLBVrMaBznNN_8csqQcScH7AmOd-rfMkGUQ3w" />
+    
+
+    
+</head>
+<body>
+    <a id="skippy" class="sr-only sr-only-focusable" href="#main-content"><div class="container"><span class="skiplink-text">Skip to main content</span></div></a>
+<header id="header-site">
+    <div class="header-alert">Important Changes to Office Operations: <a href="https://www.sos.state.mn.us/about-the-office/about-the-office/covid-19/">COVID-19 Information</a></div>
+    <div class="container-fluid trim-mn-seal">
+        <div class="header-block">
+            <div class="menu-button-label">MENU</div>
+            <div>
+                <button class="navbar-toggle collapsed" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+        </div>
+        <div class="header-block logo">
+            <a href="https://www.sos.state.mn.us" title="Minnesota Secretary Of State Home Page"><span class="text-style-1">Office Of</span> The Minnesota<br>Secretary Of State <span class="text-style-1">Steve Simon</span></a>
+        </div>
+        <div class="header-block-search">
+            <div class="form-horizontal search-field-inline">
+                <label class="search-label col-xs-4" for="search-box">search</label>
+                <input class="col-xs-6" id="search-box" name="search-box" type="search" onkeyup="handleEnter(event)" autocomplete="off">
+                <a id="site-search-btn" class="col-xs-1 header-search-btn text-left"><span class="btn-label sr-only">search</span></a>
+            </div>
+        </div>
+    </div>
+</header>
+    <nav class="navbar-collapse bs-navbar-collapse collapse mn-accordion" id="nav-site" aria-expanded="false" role="navigation" aria-label="Main menu">
+    <ul class="sm item-menu nav navbar-nav" id="menu-site" role="menubar">
+        <li>
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/home" class="item-link single-line" title="MN Secretary Of State Home Page"><em class="mn-icon icon-home"></em> Home<br />&nbsp;</a>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/elections-voting/" class="item-link" title="Elections & Voting"><em class="mn-icon icon-checkbox2"></em>Elections &amp; <br>Voting</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/register-to-vote" title="Register to Vote"> Register to Vote</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/election-day-voting" title="Election Day Voting"> Election Day Voting</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/other-ways-to-vote" title="Other Ways to Vote"> Other Ways to Vote</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot" title="What&#39;s on My Ballot?"> What's on My Ballot?</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/election-results" title="Election Results"> Election Results</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/find-county-election-office/" title="Find County Election Office">Find County Election Office</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections"> Secure and Fair Elections</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/get-involved" title="Get Involved!"> Get Involved!</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/how-elections-work" title="How Elections Work"> How Elections Work</a></li>
+                            <li><a href="https://www.sos.state.mn.us/elections-voting/" title="More Elections and Voting">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/election-administration-campaigns/" class="item-link" title="Election Administration"><em class="mn-icon icon-ballotbox"></em>Election <br>Administration</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/become-a-candidate/" title="Become a Candidate"> Become a Candidate</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/campaigning/" title="Campaigning"> Campaigning </a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/data-maps/" title="Data &amp; Maps"> Data & Maps</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/election-administration/" title="Election Administration"> Election Administration</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/elections-calendar/" title="Elections Calendar"> Elections Calendar</a></li>
+                            <li><a href="https://www.sos.state.mn.us/election-administration-campaigns/" title="More Elections Administration">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/business-liens" class="item-link" title="Business & Liens"><em class="mn-icon icon-briefcase"></em>Business <br>&amp; Liens</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://mblsportal.sos.state.mn.us/Business/Search" title="Business Filings Online"> Business Filings Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/SearchUCC" title="UCC / Tax Liens Online"> UCC / Tax Liens Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/SearchCNS" title="CNS Liens Online"> CNS Liens Online</a></li>
+                            <li><a href="https://mblsportal.sos.state.mn.us/Secured/Subscriptions" title="Online Subscriptions"> Online Subscriptions</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/ucc-cns-tax-liens-help/" title="UCC, CNS &amp; Tax Liens Help"> UCC, CNS & Tax Liens Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/ucc-tax-cns-forms-fees/" title="UCC, Tax &amp; CNS Forms &amp; Fees"> UCC, Tax & CNS Forms & Fees</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/start-a-business/how-to-start-a-business-in-minnesota/" title="Start a Business"> Start a  Business</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/business-help/" title="Business Help"> Business  Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/business-forms-fees/" title="Business Forms &amp; Fees"> Business Forms  &amp; Fees</a></li>
+                            <li><a href="https://www.sos.state.mn.us/business-liens/" title="More Business Forms &amp; Fees">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/notary-apostille/" class="item-link" title="Notary &amp; Apostille"><i class="mn-icon icon-feather"></i>Notary &amp; <br>Apostille</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://notary.sos.state.mn.us/search/searchfornotary" title="Find a Notary">Find a Notary</a></li>
+                            <li><a href="https://notary.sos.state.mn.us/account/login" title="Existing Notaries">Existing Notaries</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/become-a-notary/" title="Become a Notary"> Become a Notary</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-training-supplies/" title="Notary Training &amp; Supplies">Notary Training & Supplies</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-help/" title="Notary Help"> Notary Help</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/notary-forms/" title="Notary Forms"> Notary Forms</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/apostille-authentication/" title="Apostille Authentication">Apostille Authentication</a></li>
+                            <li><a href="https://apostille.sos.state.mn.us/search" title="Apostille Verification">Apostille Verification</a></li>
+                            <li><a href="https://www.sos.state.mn.us/notary-apostille/" title="More Apostille and Authentication">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/study-abroad/" class="item-link" title="Study Abroad"><em class="mn-icon icon-globe"></em>Study <br>Abroad</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/international-exchange-organizations-in-minnesota/" title="International Exchange Organizations in Minnesota"> International Exchange Organizations in Minnesota</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/college-university-study-abroad-safety/" title="College &amp; University Study Abroad Safety"> College & University Study Abroad Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/high-school-study-abroad-safety/" title="High School Study Abroad Safety"> High School Study Abroad Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/international-safety-resources/" title="International Safety Resources"> International Safety Resources</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/hosting-studying-abroad/" title="Hosting &amp; Studying Abroad"> Hosting &amp; Studying Abroad</a></li>
+                            <li><a href="https://www.sos.state.mn.us/study-abroad/" title="More Study Abroad Information">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/boards-commissions/" class="item-link" title="Boards & Commissions"><em class="mn-icon icon-people"></em>Boards &amp; <br>Commissions</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Position/" title="Open Positions"> Open Positions</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Agency/" title="Boards & Commissins"> Boards & Commissions</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/AppointingAuthority/" title="Appointing Authorities"> Appointing Authorities</a></li>
+                            <li><a href="https://commissionsandappointments.sos.state.mn.us/Member" title="Members"> Members</a></li>
+                            <li><a href="https://www.sos.state.mn.us/boards-commissions/help-how-tos/" title="Help & How To"> Help & How To</a></li>
+                            <li><a href="https://www.sos.state.mn.us/boards-commissions/" title="More Boards and Commissions Information">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/safe-at-home/" class="item-link" title="Safe At Home"><em class="mn-icon icon-shield"></em>Safe at <br>Home</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/about-safe-at-home/" title="About Safe at Home"> About Safe at Home</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/enroll-in-safe-at-home/" title="Enroll in Safe at Home"> Enroll in Safe at Home</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/resources-for-safety/" title="Resources for Safety"> Resources for Safety</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/application-assistants/" title="Application Assistants"> Application Assistants</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/safe-at-home-news/" title="Safe at Home News"> Safe at Home News</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/safe-at-home-outreach/" title="Safe at Home Outreach"> Safe at Home Outreach</a></li>
+                            <li><a href="https://www.sos.state.mn.us/safe-at-home/" title="More Safe at Home">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/about-minnesota/" class="item-link" title="Learn About Minnesota"><em class="mn-icon icon-mn"></em>About <br>Minnesota</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-in-profile/" title="Minnesota in Profile"> Minnesota in Profile</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-government/" title="Minnesota Government"> Minnesota Government</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/state-symbols/" title="State Symbols"> State Symbols</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/get-a-blue-book/" title="Get a Blue Book!"> Get a Blue Book!</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/minnesota-veterans/" title="Minnesota Veterans"> Minnesota Veterans</a></li>
+                            <li><a href="https://officialdocuments.sos.state.mn.us/" title="Official Documents"> Official Documents</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-minnesota/" title="More About Minnesota">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="mn-top-menu" role="menuitem">
+            <div class="mn-menu-head">
+                <a href="https://www.sos.state.mn.us/about-the-office/" class="item-link" title="About the Office"><em class="mn-icon icon-head"></em>About the <br />Office</a>
+                <a class="btn-top-menu" href="#">
+                    <em class="glyphicon glyphicon-chevron-down"></em><em class="glyphicon glyphicon-chevron-up"></em>
+                    <span class="sr-only">Open Menu</span>
+                </a>
+            </div>
+            <div class="submenu">
+                <div class="submenu-group">
+                    <ul class="submenu-links">
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/about-the-office/" title="About the Office"> About  the Office</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/office-initiatives/" title="Office Initiatives"> Office Initiatives</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/steves-blog/" title="Steve&#39;s Blog"> Steve's Blog</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/around-minnesota/" title="Around Minnesota"> Around Minnesota</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/news-room/" title="News Room"> News Room</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/rulemaking-data-practice/" title="Rulemaking &amp; Data Practice"> Rulemaking & Data Practice</a></li>
+                            <li><a href="https://www.sos.state.mn.us/about-the-office/" title="More About the Office">More...</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</nav>
+
+
+    
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-sm-12 bg-banner positioning-electionsandvoting" style="background-image: url('https://commoncontent.sos.state.mn.us/images/Banner-Voters-at-booths.jpg')">
+            <ul class="banner-heading">
+                <li>
+                            <a href="https://www.sos.state.mn.us/elections-voting/"><span class="mn-icon icon-chevronleft"></span>Elections &amp; Voting</a>
+
+                </li>
+            </ul>
+                    <div class="languages-content">
+                        <ul class="list-languages">
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/spanish" aria-label="Spanish" lang="es">Español</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/hmong" aria-label="Hmoob" lang="hmn">Hmoob</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/somali" aria-label="Soomaali" lang="so">Soomaali</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/vietnamese" aria-label="Vietnamese" lang="vi">Tiếng Việt</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/russian" aria-label="Russian" lang="ru">Pусский</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/chinese" aria-label="Chinese" lang="zh">中文</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/lao" aria-label="Lao" lang="lo">ພາສາລາວ</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/oromo" aria-label="Afaan Oromo" lang="om">Afaan Oromo</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/khmer" aria-label="Khmer" lang="km">ខ្មែរ</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/amharic" aria-label="Amharic" lang="am">አማርኛ</a></li>
+
+                        </ul>
+                    </div>
+
+        </div>
+    </div>
+</div>
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="page-subnav-wrap">
+                <div class="nav-subpage">
+                    <ul class="subpage-nav-links">
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/register-to-vote" title="Register to Vote"> Register<br/> to Vote</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/election-day-voting" title="Election Day Voting"> Election Day<br/> Voting</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/other-ways-to-vote" title="Other Ways to Vote"> Other Ways<br/> to Vote</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/whats-on-my-ballot" title="What&#39;s on My Ballot?"> What's on My<br/> Ballot?</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/election-results" title="Election Results"> Election<br/> Results</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/find-county-election-office/" title="Find County Election Office">Find County<br/> Election Office</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/secure-and-fair-elections" title="Secure and Fair Elections"> Secure and Fair<br/> Elections</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/get-involved" title="Get Involved!"> Get<br/> Involved!</a></li>
+                                    <li><a href="https://www.sos.state.mn.us/elections-voting/how-elections-work" title="How Elections Work"> How Elections<br/> Work</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <main id="main-content">
+        <div class="container-fluid">
+            <div class="row header-bg-color  font-white boldFont" style="padding-top: 1em; padding-bottom: 1em">
+    <div class="col-xs-6">Unofficial Results  Tuesday, November 3, 2020</div>
+    <div class="col-xs-6 text-right text-nowrap">
+        <a class="menulink" href="/136">Results Home</a>
+        &nbsp;<img src="../images/DoubleLeftArrow.png" alt="" />&nbsp;
+        <a title="Previous Page" href="javascript:history.go(-1);" class="menulink">Previous Page</a>
+    </div>
+</div>                  
+<div class="table-responsive-sm">
+
+        <div class="flex-container">
+            <table class="table table-condensed hidden-sm hidden-xs" role="presentation">
+
+                    <tr>
+<!-- if not legacy then show, regardless of whether there is data-->
+                        <td>
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;2.38%&nbsp;&nbsp;98&nbsp;of&nbsp;4,110
+                        </td>
+                            <td>
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/01/20 4:37 PM
+                            </td>
+                            <td class="text-right">
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,312,136
+                            </td>
+                    </tr>
+            </table>
+            <table class="table table-condensed hidden-md hidden-lg" role="presentation">
+
+                    <tr>
+<!-- if not legacy then show, regardless of whether there is data-->
+                        <td>
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;2.38%&nbsp;&nbsp;98&nbsp;of&nbsp;4,110
+                        </td>
+                    </tr>
+<!-- if not legacy then show, regardless of whether there is data-->
+                        <tr>
+                            <td>
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/01/20 4:37 PM
+                            </td>
+                        </tr>
+<!-- if not legacy then show, regardless of whether there is data-->
+                        <tr>
+                            <td>
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,312,136
+                            </td>
+                        </tr>
+            </table>
+        </div>
+</div>
+
+<div>
+            <div>
+                    <div class="row header-bg-color font-white">
+        <h1>
+            Results for All Congressional Districts
+        </h1>
+    </div>
+    <div class="table-responsive-sm">
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 1</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />697 precincts in contest. 21 of 697 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">697 precincts in contest. 21 of 697 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Bill Rood</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">60</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">10.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="10" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jim Hagedorn</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">120</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">20.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="20" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Dan Feehan</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">180</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">30.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="30" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">240</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">40.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="40" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 2</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />289 precincts in contest. 0 of 289 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">289 precincts in contest. 0 of 289 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Adam Charles Weeks</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tyler Kistner</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Angie Craig</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 3</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />249 precincts in contest. 12 of 249 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">249 precincts in contest. 12 of 249 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Kendall Qualls</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">16.67%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="16" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Dean Phillips</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">2</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">33.33%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="33" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">3</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">50.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="50" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 4</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />225 precincts in contest. 0 of 225 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">225 precincts in contest. 0 of 225 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Susan Sindt</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Gene Rechtzigel</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Betty McCollum</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 5</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />238 precincts in contest. 8 of 238 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">238 precincts in contest. 8 of 238 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michael Moore</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Lacy Johnson</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Ilhan Omar</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">12</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">100.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="100" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 6</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />281 precincts in contest. 0 of 281 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">281 precincts in contest. 0 of 281 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tom Emmer</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tawnja Zahradka</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 7</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />1329 precincts in contest. 57 of 1329 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">1329 precincts in contest. 57 of 1329 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Slater Johnson</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">160</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">16.55%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="16" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rae Hart Anderson</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">188</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">19.44%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="19" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michelle Fischbach</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">214</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">22.13%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="22" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Collin C Peterson</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">242</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">25.03%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="25" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">163</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">16.86%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="16" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+                <table class="table col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <caption class="table-Caption">
+                        <div>
+                            <span class="boldFont">U.S. Representative District 8</span>&nbsp;&nbsp;&nbsp;
+                                <span class="hidden-lg hidden-md"><br />802 precincts in contest. 0 of 802 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">802 precincts in contest. 0 of 802 precincts reported.</span>
+                            </div>
+                        </div>
+                    </caption>
+
+                    <thead>
+                        <tr>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-2 col-xs-1 table-Caption resultofficeth" scope="col">Party</th>
+                            <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-4 table-Caption resultofficeth" scope="col">Candidate</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficeth" scope="col">Totals</th>
+                            <th class="text-center col-lg-2 col-md-2 col-sm-2 col-xs-2 table-Caption resultofficethNoBorderRight" scope="col">Pct</th>
+                            <th class="text-left col-lg-2 col-md-2  hidden-sm hidden-xs table-Caption resultofficethNoBorderRight" scope="col">Graph</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Judith Schwartzbacker</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Pete Stauber</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Quinn Nystrom</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                            <tr>
+                                <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
+                                <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
+                                <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.00%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                            </tr>
+                    </tbody>
+                </table>
+    </div>
+
+            </div>
+</div>
+
+
+
+<script type="text/javascript">
+    var messageVisble = "Show Question";
+    var messageNotVisble = "Hide Question";
+    function DisplayQuestion(questionid, myobject) {
+
+        var pound = "#" + questionid;
+
+        if ($(pound).is(':visible')) {
+            $(myobject).text(messageVisble);
+        } else {
+            $(myobject).text(messageNotVisble);
+        }
+        $(pound).toggle();
+        return false;
+    }
+</script>
+
+        </div>
+    </main>
+
+    <footer id="footer-site">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Elections &amp; Administration:</h3>
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Elections Phone Numbers:</span><br>
+                    Metro Area: <a href="tel:651-215-1440" title="Call Us">651-215-1440</a><br>
+                    Greater MN: <a href="tel:1-877-600-8683" title="Call Us">1-877-600-VOTE (8683)</a><br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                <p class="item-contact"><i class="mn-icon icon-clock"></i><span>Hours: 8 a.m. to 4:30 p.m.</span></p>
+                <p class="item-contact item-contact-alert">
+                    Public service counters at the office are currently closed. Please call or email for any services.<br>
+                    Metro Area: 651-215-1440<br>
+                    Greater MN: 1-877-600-VOTE (8683)<br>
+                    MN Relay Service: 711
+                </p>
+                <p class="item-contact"><i class="mn-icon icon-envelop"></i><span>Email:<a href="mailto:secretary.state@state.mn.us"> secretary.state@state.mn.us</a></span></p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Elections &amp; Administration Address:</span><br>
+                    <a href="https://www.google.com/maps/dir//State+Office+Building,+100+Rev+Dr+Martin+Luther+King+Jr+Boulevard.,+St+Paul,+MN+55155/@44.9543588,-93.1067943,17z/data=!4m13!1m4!3m3!1s0x87f62aa922b5848f:0xa498258fd7ae1c29!2sState+Office+Building,+100+Rev+Dr+Martin+Luther+King+Jr+Boulevard.,+St+Paul,+MN+55155!3b1!4m7!1m0!1m5!1m1!1s0x87f62aa922b5848f:0xa498258fd7ae1c29!2m2!1d-93.1046056!2d44.954355" title="Get Directions" aria-label=" Get directions to Elections and Administration"> Get Directions</a><br>
+                    180 State Office Building<br>
+                    100 Rev. Dr. Martin Luther King Jr. Blvd.<br>
+                    Saint Paul, MN 55155
+                </p>
+
+            </div>
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Safe At Home:</h3>
+
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Safe At Home Phone Numbers:</span><br />
+                    <span>Minnesota’s address confidentiality program</span>
+                    Metro Area: <a href="tel:651-201-1399" title="Call Us">651-201-1399</a><br>
+                    Greater MN: <a href="tel:1-866-723-3035" title="Call Us">1-866-723-3035</a><br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                <p class="item-contact"><i class="mn-icon icon-clock"></i><span>Phone Hours: 8 a.m. to 3:30 p.m.</span></p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-envelop"></i><span>
+                        Email:<a href="https://www.sos.state.mn.us/safe-at-home/about-safe-at-home/contact-safe-at-home/" title="Contact Us" aria-label=" Contact Safe at Home">  Contact Us</a>
+                        
+                    </span>
+                </p>
+
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Safe At Home Mailing Address:</span><br>
+                    PO Box 17370<br>
+                    Saint Paul, MN 55117-0370
+                </p>
+
+            </div>
+            <div class="col-sm-4">
+                <h3 class="footer-h3">Business Services:</h3>
+                <p class="item-contact">
+                    <i class="mn-icon icon-phone"></i>
+                    <span class="contact-head">Business, Lien & Notary Information Phone Line:</span><br>
+                    Metro Area: <a href="tel:651-296-2803" title="Call Us">651-296-2803</a> (9 a.m. to 4 p.m.)<br>
+                    Greater MN: <a href="tel:1-877-551-6767" title="Call Us">1-877-551-6767</a> (9 a.m. to 4 p.m.)<br>
+                    MN Relay Service: <a href="tel:711" title="Call Us">711</a>
+                </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-clock"></i><span>Hours: 8 a.m. to 4 p.m.</span>
+                </p>
+                <p class="item-contact item-contact-alert">
+                    Public service counters at the office are currently closed. Please call or email for any services.<br>
+                    Metro Area: 651-296-2803 (9 a.m. to 4 p.m.)<br>
+                    Greater MN: 1-877-551-6767 (9 a.m. to 4 p.m.)<br>
+                    MN Relay Service: 711
+                </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-envelop"></i><span>Email:<a href="mailto:business.services@state.mn.us"> business.services@state.mn.us</a></span><br />
+                    <i class="mn-icon icon-envelop"></i><span>UCC Email:<a href="mailto:ucc.dept@state.mn.us"> ucc.dept@state.mn.us</a></span><br />
+                    <i class="mn-icon icon-envelop"></i><span>Notary Email:<a href="mailto:notary.sos@state.mn.us"> notary.sos@state.mn.us</a></span>
+                </p>
+                <p class="item-contact">
+                    <i class="mn-icon icon-map-marker"></i>
+                    <span class="contact-head">Business Services Address:</span><br>
+                    <a href="https://www.google.com/maps/dir//Minnesota+Secretary+of+State,+60+Empire+Dr+%23100,+St+Paul,+MN+55103/@44.9613799,-93.1043459,17z/data=!4m12!1m3!3m2!1s0x52b32aab945ece83:0xb3f6897ac19ad142!2sMinnesota+Secretary+of+State!4m7!1m0!1m5!1m1!1s0x52b32aab945ece83:0xb3f6897ac19ad142!2m2!1d-93.1021572!2d44.9613761" title="Get Directions" aria-label=" Get directions to Business services"> Get Directions</a><br>
+                    Retirement Systems of Minnesota Building<br>
+                    60 Empire Dr., Suite 100<br>
+                    Saint Paul, MN 55103
+                </p>
+            </div>
+        </div><!-- /.row -->
+    </div>
+</footer>
+
+<!-- /.site-contact-info -->
+<div class="site-copyright"  style="text-align: left">
+    <div class="container-fluid">
+        <div class="col-md-4 text-left">
+            <span>&copy; 2020 Office of the Minnesota Secretary of State</span>
+            <span> - <a href="https://www.sos.state.mn.us/about-the-office/about-the-office/web-site-terms-and-conditions-of-use" title="Terms &amp; Conditions"> Terms & Conditions</a></span>
+        </div>
+        <div class="col-md-4 text-center">
+            <span>The Office of the Secretary of State is an equal opportunity employer</span>
+        </div>
+        <div class="col-md-4">
+            <div class="social-block">
+                <div class="links-social" style="float:right">
+                    <a href="https://www.facebook.com/MNSteveSimon" class="mn-icon icon-facebook2" rel="nofollow" title="Steve Simon on Facebook. Like Us!"><span class="sr-only">Steve Simon on Facebook. Like Us!</span></a>
+                    <a href="https://twitter.com/mnsecofstate" class="mn-icon icon-twitter" rel="nofollow" title="Steve Simon on Twitter. Follow Us!"><span class="sr-only">Steve Simon on Twitter. Follow Us!</span></a>
+                    <a href="https://www.youtube.com/channel/UClVwrWOudd8bRWylSIRCOog" class="mn-icon icon-youtube3" rel="nofollow" title="Steve Simon on YouTube. Follow Us!"><span class="sr-only">Steve Simon on YouTube. Follow Us!</span></a>
+                </div>
+                <div style="float:right">
+                    <a href="https://public.govdelivery.com/accounts/MNSOS/subscriber/new" title="Subscribe for email updates!"> <i class="mn-icon icon-envelop"></i> Subscribe for email updates!</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- /.site-copyright -->
+    
+    
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.3.1.min.js" crossorigin="anonymous" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT">
+        </script>
+<script>(window.jQuery||document.write("\u003Cscript src=\u0022/lib/jquery/jquery.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV\u002BrXbYlF2cqB8txI/8aZajjp4Bqd\u002BV6D5IgvKT\u0022\u003E\u003C/script\u003E"));</script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js" crossorigin="anonymous" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+<script>(window.jQuery && window.jQuery.fn && window.jQuery.fn.modal||document.write("\u003Cscript src=\u0022/lib/bootstrap/dist/js/bootstrap.min.js\u0022 crossorigin=\u0022anonymous\u0022 integrity=\u0022sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa\u0022\u003E\u003C/script\u003E"));</script>
+    
+
+    
+        <script src="https://commoncontent.sos.state.mn.us/javascript/bootstrap-datepicker.min.js"></script>
+    <script src="https://commoncontent.sos.state.mn.us/javascript/mn-app.min.js"></script>
+
+<script type="text/javascript">
+   function handleEnter(event) {
+        if (event.which === 13) {
+            $('#site-search-btn')[0].click();
+        } else {
+          var term = $('#search-box').val();
+          $('#site-search-btn').attr('href', 'https://www.sos.state.mn.us/search-results-master/?search-box=' + term);
+        }
+    }
+</script>
+</body>
+</html>
