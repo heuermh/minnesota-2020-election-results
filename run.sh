@@ -10,6 +10,11 @@ wget \
     --no-parent \
     "https://electionresults.sos.state.mn.us/Results/Index?ersElectionId=136&scenario=USRepresentative"
 
+wget \
+    --mirror \
+    --no-parent \
+    "https://electionresults.sos.state.mn.us/Select/MediaFiles/Index?ersElectionId=136"
+
 TIMESTAMP=`date`
 git commit -a -m "Update at $TIMESTAMP"
 
