@@ -13,6 +13,7 @@ wget \
 wget \
     --mirror \
     --no-parent \
+    --accept=txt,136 \
     "https://electionresults.sos.state.mn.us/Select/MediaFiles/Index?ersElectionId=136"
 
 TIMESTAMP=`date`
