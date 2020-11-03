@@ -4,4 +4,4 @@
 
 #### Updates
 
-* Test data were cleared as of commit e88504d788711c99941f8b9c6046a4b86a7c5000
+* Test data were cleared as of commit https://github.com/heuermh/minnesota-2020-election-results/commit/e88504d788711c99941f8b9c6046a4b86a7c5000
