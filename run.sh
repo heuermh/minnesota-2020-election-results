@@ -31,6 +31,8 @@ wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/stsenate.txt
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/StateSenateByPct.txt
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/LegislativeByDistrict.txt
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/sthousepct.txt
+wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/allracesbycounty.txt
+wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/allracesbyprecinct.txt
 wget --mirror https://electionresultsfiles.sos.state.mn.us/20201103/pctstats.txt
 
 TIMESTAMP=`date`
