@@ -349,29 +349,19 @@
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/USPresCty.txt">U.S. President By County</a>
                     <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/USPresPct.txt">U.S. President By Precinct</a>
-                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ussenate.txt">U.S. Senate Statewide</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ussenatecg.txt">U.S. Senate by Congressional District</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ussenatecty.txt">U.S. Senate by County</a>
                     <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ussenatepct.txt">U.S. Senate by Precinct</a>
-                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ushouse.txt">U.S. Representative by District</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/USHouseCty.txt">U.S. Representative by County</a>
                     <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/ushousepct.txt">U.S. Representative by Precinct</a>
-                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/stsenate.txt">State Senator by District</a>
                     <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/StateSenateByPct.txt">State Senator by Precinct</a>
-                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/LegislativeByDistrict.txt">State Representative by District</a>
-                    <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/sthousepct.txt">State Representative by Precinct</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/judicial.txt">Supreme Court and Courts of Appeals Races</a>
                     <br />
@@ -385,8 +375,6 @@
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/local.txt">Municipal and Hospital District Races and Questions</a>
                     <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/localPrct.txt">Municipal, Hospital, and School District Races and Questions by Precinct</a>
-                    <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/hospital.txt">Hospital District Races</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/sdrace.txt">School Board Races</a>
@@ -396,10 +384,6 @@
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/SDRaceQuestions.txt">School Board Races and Questions</a>
                     <br />
                             <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/allracesbycounty.txt">All Federal, State, and County Races by County</a>
-                    <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/allracesbyprecinct.txt">All Federal, State, and County Races by Precinct</a>
-                    <br />
-                            <a class="downloadlink" href="https://electionresultsfiles.sos.state.mn.us/20201103/pctstats.txt">Precinct Reporting Statistics</a>
                     <br />
         </div>
         <br /><br />
