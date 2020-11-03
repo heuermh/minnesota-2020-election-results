@@ -12,4 +12,4 @@ wget \
 
 TIMESTAMP=`date`
 git commit -a -m "Update at $TIMESTAMP"
-git push
+
