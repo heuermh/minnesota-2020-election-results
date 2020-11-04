@@ -1510,10 +1510,10 @@ MN;50;0175;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;9;2.98
 MN;50;0175;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;197;65.23;302
 MN;50;0175;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;96;31.79;302
 MN;50;0175;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;302
-MN;50;0180;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;15;4.73;317
-MN;50;0180;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;221;69.72;317
-MN;50;0180;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;81;25.55;317
-MN;50;0180;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;317
+MN;50;0180;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;22;4.73;465
+MN;50;0180;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;284;61.08;465
+MN;50;0180;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;158;33.98;465
+MN;50;0180;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;1;0.22;465
 MN;50;0185;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;0;0.00;0
 MN;50;0185;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;0;0.00;0
 MN;50;0185;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;0;0.00;0
@@ -1534,10 +1534,10 @@ MN;50;0205;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;0;0.00
 MN;50;0205;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;0;0.00;0
 MN;50;0205;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;0;0.00;0
 MN;50;0205;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;50;0210;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;5;7.46;67
-MN;50;0210;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;39;58.21;67
-MN;50;0210;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;23;34.33;67
-MN;50;0210;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;67
+MN;50;0210;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;6;7.50;80
+MN;50;0210;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;45;56.25;80
+MN;50;0210;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;29;36.25;80
+MN;50;0210;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;80
 MN;50;0215;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;0;0.00;0
 MN;50;0215;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;0;0.00;0
 MN;50;0215;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;0;0.00;0
@@ -3890,34 +3890,34 @@ MN;79;0170;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1
 MN;79;0170;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;71;77.17;92
 MN;79;0170;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;19;20.65;92
 MN;79;0170;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;92
-MN;82;0040;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;191;5.86;3258
-MN;82;0040;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1401;43.00;3258
-MN;82;0040;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1664;51.07;3258
-MN;82;0040;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.06;3258
-MN;82;0045;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;307;6.67;4601
-MN;82;0045;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1931;41.97;4601
-MN;82;0045;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;2361;51.31;4601
-MN;82;0045;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.04;4601
+MN;82;0040;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;191;5.86;3260
+MN;82;0040;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1401;42.98;3260
+MN;82;0040;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1666;51.10;3260
+MN;82;0040;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.06;3260
+MN;82;0045;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;308;6.69;4602
+MN;82;0045;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1931;41.96;4602
+MN;82;0045;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;2361;51.30;4602
+MN;82;0045;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.04;4602
 MN;82;0050;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;194;5.61;3456
 MN;82;0050;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1665;48.18;3456
 MN;82;0050;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1593;46.09;3456
 MN;82;0050;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;4;0.12;3456
-MN;82;0055;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;168;7.93;2119
-MN;82;0055;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;915;43.18;2119
-MN;82;0055;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1033;48.75;2119
-MN;82;0055;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;3;0.14;2119
+MN;82;0055;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;170;8.02;2121
+MN;82;0055;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;915;43.14;2121
+MN;82;0055;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1033;48.70;2121
+MN;82;0055;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;3;0.14;2121
 MN;82;0060;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;147;6.45;2278
 MN;82;0060;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;1054;46.27;2278
 MN;82;0060;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;1074;47.15;2278
 MN;82;0060;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;3;0.13;2278
-MN;82;0065;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;156;7.96;1961
-MN;82;0065;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;821;41.87;1961
-MN;82;0065;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;981;50.03;1961
-MN;82;0065;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;3;0.15;1961
-MN;82;0070;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;314;6.87;4569
-MN;82;0070;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;2007;43.93;4569
-MN;82;0070;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;2246;49.16;4569
-MN;82;0070;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.04;4569
+MN;82;0065;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;157;8.00;1963
+MN;82;0065;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;821;41.82;1963
+MN;82;0065;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;982;50.03;1963
+MN;82;0065;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;3;0.15;1963
+MN;82;0070;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;314;6.87;4570
+MN;82;0070;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;2008;43.94;4570
+MN;82;0070;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;2246;49.15;4570
+MN;82;0070;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;2;0.04;4570
 MN;82;0100;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;54;4.23;1278
 MN;82;0100;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;684;53.52;1278
 MN;82;0100;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;539;42.18;1278
@@ -3930,10 +3930,10 @@ MN;82;0140;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1
 MN;82;0140;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;2;100.00;2
 MN;82;0140;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;0;0.00;2
 MN;82;0140;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;2
-MN;82;0285;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;82;11.73;699
-MN;82;0285;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;299;42.78;699
-MN;82;0285;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;318;45.49;699
-MN;82;0285;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;699
+MN;82;0285;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;82;11.71;700
+MN;82;0285;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;299;42.71;700
+MN;82;0285;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;319;45.57;700
+MN;82;0285;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;700
 MN;82;0295;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;1;1;125;11.49;1088
 MN;82;0295;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;1;1;470;43.20;1088
 MN;82;0295;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;1;1;493;45.31;1088
@@ -5369,18 +5369,18 @@ MN;82;0010;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;30;5
 MN;82;0010;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;272;48.48;561
 MN;82;0010;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;258;45.99;561
 MN;82;0010;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.18;561
-MN;82;0015;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;24;4.60;522
-MN;82;0015;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;220;42.15;522
-MN;82;0015;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;278;53.26;522
-MN;82;0015;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;522
+MN;82;0015;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;24;4.59;523
+MN;82;0015;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;220;42.06;523
+MN;82;0015;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;279;53.35;523
+MN;82;0015;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;523
 MN;82;0020;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;18;3.31;543
 MN;82;0020;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;248;45.67;543
 MN;82;0020;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;277;51.01;543
 MN;82;0020;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;543
-MN;82;0025;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;103;6.72;1532
-MN;82;0025;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;654;42.69;1532
-MN;82;0025;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;771;50.33;1532
-MN;82;0025;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;4;0.26;1532
+MN;82;0025;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;103;6.72;1533
+MN;82;0025;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;655;42.73;1533
+MN;82;0025;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;771;50.29;1533
+MN;82;0025;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;4;0.26;1533
 MN;82;0030;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;52;3.50;1487
 MN;82;0030;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;771;51.85;1487
 MN;82;0030;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;656;44.12;1487
@@ -5389,22 +5389,22 @@ MN;82;0035;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;34;5
 MN;82;0035;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;240;35.87;669
 MN;82;0035;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;393;58.74;669
 MN;82;0035;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.30;669
-MN;82;0095;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;22;2.64;832
-MN;82;0095;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;471;56.61;832
-MN;82;0095;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;339;40.75;832
-MN;82;0095;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;832
+MN;82;0095;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;23;2.76;833
+MN;82;0095;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;471;56.54;833
+MN;82;0095;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;339;40.70;833
+MN;82;0095;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;833
 MN;82;0130;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;112;3.77;2967
 MN;82;0130;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1564;52.71;2967
 MN;82;0130;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1285;43.31;2967
 MN;82;0130;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.20;2967
-MN;82;0170;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;218;5.52;3947
-MN;82;0170;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1779;45.07;3947
-MN;82;0170;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1948;49.35;3947
-MN;82;0170;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.05;3947
-MN;82;0175;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;116;3.34;3470
-MN;82;0175;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1648;47.49;3470
-MN;82;0175;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1700;48.99;3470
-MN;82;0175;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.17;3470
+MN;82;0170;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;219;5.54;3950
+MN;82;0170;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1781;45.09;3950
+MN;82;0170;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1948;49.32;3950
+MN;82;0170;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.05;3950
+MN;82;0175;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;117;3.37;3474
+MN;82;0175;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1651;47.52;3474
+MN;82;0175;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1700;48.93;3474
+MN;82;0175;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.17;3474
 MN;82;0180;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;66;5.50;1201
 MN;82;0180;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;555;46.21;1201
 MN;82;0180;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;580;48.29;1201
@@ -5425,38 +5425,38 @@ MN;82;0200;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;121;
 MN;82;0200;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1014;40.72;2490
 MN;82;0200;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1352;54.30;2490
 MN;82;0200;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;3;0.12;2490
-MN;82;0205;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;140;4.78;2929
-MN;82;0205;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1213;41.41;2929
-MN;82;0205;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1574;53.74;2929
-MN;82;0205;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.07;2929
+MN;82;0205;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;141;4.81;2932
+MN;82;0205;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1214;41.41;2932
+MN;82;0205;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1575;53.72;2932
+MN;82;0205;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.07;2932
 MN;82;0220;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;238;11.77;2022
 MN;82;0220;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;830;41.05;2022
 MN;82;0220;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;942;46.59;2022
 MN;82;0220;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;12;0.59;2022
-MN;82;0225;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;162;10.13;1600
-MN;82;0225;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;632;39.50;1600
-MN;82;0225;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;797;49.81;1600
-MN;82;0225;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;9;0.56;1600
-MN;82;0230;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;166;11.19;1484
-MN;82;0230;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;481;32.41;1484
-MN;82;0230;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;836;56.33;1484
-MN;82;0230;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.07;1484
-MN;82;0235;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;231;8.48;2723
-MN;82;0235;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;948;34.81;2723
-MN;82;0235;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1530;56.19;2723
-MN;82;0235;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;14;0.51;2723
-MN;82;0240;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;173;9.05;1912
-MN;82;0240;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;634;33.16;1912
-MN;82;0240;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1104;57.74;1912
-MN;82;0240;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.05;1912
-MN;82;0245;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;223;10.27;2172
-MN;82;0245;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;727;33.47;2172
-MN;82;0245;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1220;56.17;2172
-MN;82;0245;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.09;2172
-MN;82;0250;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;142;6.97;2037
-MN;82;0250;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;871;42.76;2037
-MN;82;0250;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1021;50.12;2037
-MN;82;0250;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;3;0.15;2037
+MN;82;0225;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;162;10.12;1601
+MN;82;0225;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;633;39.54;1601
+MN;82;0225;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;797;49.78;1601
+MN;82;0225;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;9;0.56;1601
+MN;82;0230;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;167;11.24;1486
+MN;82;0230;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;481;32.37;1486
+MN;82;0230;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;837;56.33;1486
+MN;82;0230;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.07;1486
+MN;82;0235;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;232;8.52;2724
+MN;82;0235;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;948;34.80;2724
+MN;82;0235;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1530;56.17;2724
+MN;82;0235;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;14;0.51;2724
+MN;82;0240;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;174;9.08;1916
+MN;82;0240;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;634;33.09;1916
+MN;82;0240;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1107;57.78;1916
+MN;82;0240;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.05;1916
+MN;82;0245;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;224;10.30;2174
+MN;82;0245;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;727;33.44;2174
+MN;82;0245;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1221;56.16;2174
+MN;82;0245;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.09;2174
+MN;82;0250;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;142;6.97;2038
+MN;82;0250;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;872;42.79;2038
+MN;82;0250;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1021;50.10;2038
+MN;82;0250;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;3;0.15;2038
 MN;82;0255;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;225;7.28;3090
 MN;82;0255;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1170;37.86;3090
 MN;82;0255;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1689;54.66;3090
@@ -5465,10 +5465,10 @@ MN;82;0260;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;32;3
 MN;82;0260;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;379;42.87;884
 MN;82;0260;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;471;53.28;884
 MN;82;0260;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.23;884
-MN;82;0270;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;163;5.90;2761
-MN;82;0270;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1117;40.46;2761
-MN;82;0270;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1479;53.57;2761
-MN;82;0270;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.07;2761
+MN;82;0270;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;164;5.94;2762
+MN;82;0270;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1117;40.44;2762
+MN;82;0270;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1479;53.55;2762
+MN;82;0270;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.07;2762
 MN;82;0275;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;8;2.81;285
 MN;82;0275;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;134;47.02;285
 MN;82;0275;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;141;49.47;285
@@ -5481,10 +5481,10 @@ MN;82;0290;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;13;8
 MN;82;0290;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;66;43.71;151
 MN;82;0290;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;71;47.02;151
 MN;82;0290;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.66;151
-MN;82;0310;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;90;8.25;1091
-MN;82;0310;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;433;39.69;1091
-MN;82;0310;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;567;51.97;1091
-MN;82;0310;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.09;1091
+MN;82;0310;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;90;8.24;1092
+MN;82;0310;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;433;39.65;1092
+MN;82;0310;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;568;52.01;1092
+MN;82;0310;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.09;1092
 MN;82;0315;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;137;8.13;1685
 MN;82;0315;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;559;33.18;1685
 MN;82;0315;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;986;58.52;1685
@@ -5497,50 +5497,50 @@ MN;82;0325;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;133;
 MN;82;0325;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;688;34.96;1968
 MN;82;0325;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1146;58.23;1968
 MN;82;0325;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.05;1968
-MN;82;0330;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;151;4.59;3292
-MN;82;0330;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1455;44.20;3292
-MN;82;0330;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1684;51.15;3292
-MN;82;0330;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.06;3292
+MN;82;0330;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;152;4.62;3293
+MN;82;0330;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1455;44.18;3293
+MN;82;0330;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1684;51.14;3293
+MN;82;0330;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.06;3293
 MN;82;0340;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;84;4.56;1844
 MN;82;0340;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;775;42.03;1844
 MN;82;0340;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;983;53.31;1844
 MN;82;0340;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.11;1844
-MN;82;0345;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;51;3.76;1355
-MN;82;0345;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;502;37.05;1355
-MN;82;0345;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;800;59.04;1355
-MN;82;0345;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.15;1355
+MN;82;0345;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;51;3.76;1357
+MN;82;0345;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;503;37.07;1357
+MN;82;0345;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;801;59.03;1357
+MN;82;0345;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.15;1357
 MN;82;0350;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;55;3.82;1438
 MN;82;0350;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;686;47.71;1438
 MN;82;0350;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;694;48.26;1438
 MN;82;0350;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;3;0.21;1438
-MN;82;0360;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;96;3.51;2738
-MN;82;0360;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1379;50.37;2738
-MN;82;0360;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1256;45.87;2738
-MN;82;0360;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.26;2738
+MN;82;0360;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;96;3.50;2740
+MN;82;0360;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1380;50.37;2740
+MN;82;0360;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1257;45.88;2740
+MN;82;0360;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.26;2740
 MN;82;0365;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;7;3.07;228
 MN;82;0365;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;104;45.61;228
 MN;82;0365;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;116;50.88;228
 MN;82;0365;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;1;0.44;228
-MN;82;0370;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;27;9.09;297
-MN;82;0370;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;125;42.09;297
-MN;82;0370;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;143;48.15;297
-MN;82;0370;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.67;297
+MN;82;0370;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;27;9.06;298
+MN;82;0370;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;125;41.95;298
+MN;82;0370;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;144;48.32;298
+MN;82;0370;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.67;298
 MN;82;0375;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;172;8.08;2129
 MN;82;0375;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;724;34.01;2129
 MN;82;0375;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1230;57.77;2129
 MN;82;0375;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;3;0.14;2129
-MN;82;0380;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;182;6.11;2978
-MN;82;0380;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1084;36.40;2978
-MN;82;0380;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1706;57.29;2978
-MN;82;0380;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.20;2978
+MN;82;0380;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;182;6.11;2979
+MN;82;0380;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1084;36.39;2979
+MN;82;0380;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1707;57.30;2979
+MN;82;0380;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.20;2979
 MN;82;0385;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;128;8.30;1543
 MN;82;0385;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;463;30.01;1543
 MN;82;0385;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;947;61.37;1543
 MN;82;0385;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;5;0.32;1543
-MN;82;0390;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;163;6.64;2453
-MN;82;0390;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;836;34.08;2453
-MN;82;0390;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1448;59.03;2453
-MN;82;0390;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.24;2453
+MN;82;0390;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;163;6.64;2455
+MN;82;0390;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;837;34.09;2455
+MN;82;0390;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1449;59.02;2455
+MN;82;0390;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;6;0.24;2455
 MN;82;0395;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;192;7.42;2587
 MN;82;0395;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;854;33.01;2587
 MN;82;0395;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1537;59.41;2587
@@ -5549,22 +5549,22 @@ MN;82;0400;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;83;4
 MN;82;0400;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;788;39.92;1974
 MN;82;0400;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1099;55.67;1974
 MN;82;0400;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;4;0.20;1974
-MN;82;0405;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;107;4.60;2328
-MN;82;0405;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;865;37.16;2328
-MN;82;0405;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1348;57.90;2328
-MN;82;0405;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;8;0.34;2328
-MN;82;0410;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;151;5.19;2910
-MN;82;0410;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1142;39.24;2910
-MN;82;0410;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1610;55.33;2910
-MN;82;0410;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.24;2910
+MN;82;0405;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;108;4.63;2331
+MN;82;0405;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;866;37.15;2331
+MN;82;0405;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1349;57.87;2331
+MN;82;0405;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;8;0.34;2331
+MN;82;0410;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;152;5.22;2913
+MN;82;0410;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1143;39.24;2913
+MN;82;0410;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1611;55.30;2913
+MN;82;0410;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.24;2913
 MN;82;0415;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;269;5.98;4502
 MN;82;0415;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1666;37.01;4502
 MN;82;0415;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;2554;56.73;4502
 MN;82;0415;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;13;0.29;4502
-MN;82;0420;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;168;5.59;3003
-MN;82;0420;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1129;37.60;3003
-MN;82;0420;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1699;56.58;3003
-MN;82;0420;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.23;3003
+MN;82;0420;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;168;5.59;3004
+MN;82;0420;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1129;37.58;3004
+MN;82;0420;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1700;56.59;3004
+MN;82;0420;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;7;0.23;3004
 MN;82;0425;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;149;5.06;2943
 MN;82;0425;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1061;36.05;2943
 MN;82;0425;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1717;58.34;2943
@@ -5573,22 +5573,22 @@ MN;82;0430;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;179;
 MN;82;0430;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1131;39.12;2891
 MN;82;0430;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1568;54.24;2891
 MN;82;0430;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;13;0.45;2891
-MN;82;0435;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;111;4.22;2631
-MN;82;0435;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1177;44.74;2631
-MN;82;0435;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1339;50.89;2631
-MN;82;0435;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;4;0.15;2631
+MN;82;0435;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;111;4.22;2632
+MN;82;0435;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1178;44.76;2632
+MN;82;0435;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1339;50.87;2632
+MN;82;0435;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;4;0.15;2632
 MN;82;0440;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;83;3.59;2314
 MN;82;0440;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;990;42.78;2314
 MN;82;0440;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1239;53.54;2314
 MN;82;0440;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.09;2314
-MN;82;0445;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;147;3.98;3698
-MN;82;0445;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1707;46.16;3698
-MN;82;0445;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1835;49.62;3698
-MN;82;0445;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;9;0.24;3698
-MN;82;0450;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;166;4.82;3445
-MN;82;0450;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1545;44.85;3445
-MN;82;0450;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1724;50.04;3445
-MN;82;0450;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;10;0.29;3445
+MN;82;0445;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;147;3.97;3699
+MN;82;0445;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1708;46.17;3699
+MN;82;0445;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1835;49.61;3699
+MN;82;0445;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;9;0.24;3699
+MN;82;0450;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;1;1;167;4.85;3446
+MN;82;0450;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;1;1;1545;44.83;3446
+MN;82;0450;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;1;1;1724;50.03;3446
+MN;82;0450;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;1;1;10;0.29;3446
 MN;02;0805;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;223;12.35;1806
 MN;02;0805;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;449;24.86;1806
 MN;02;0805;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1130;62.57;1806
@@ -7210,45 +7210,45 @@ MN;73;0443;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.59;1
 MN;73;0445;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1342;75.56;1776
 MN;73;0445;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;433;24.38;1776
 MN;73;0445;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.06;1776
-MN;82;0105;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1257;61.08;2058
-MN;82;0105;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;799;38.82;2058
-MN;82;0105;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.10;2058
+MN;82;0105;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1259;61.09;2061
+MN;82;0105;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;800;38.82;2061
+MN;82;0105;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.10;2061
 MN;82;0110;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1199;65.38;1834
 MN;82;0110;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;635;34.62;1834
 MN;82;0110;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;1834
-MN;82;0115;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1556;67.04;2321
-MN;82;0115;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;760;32.74;2321
-MN;82;0115;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;5;0.22;2321
-MN;82;0120;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1246;67.75;1839
-MN;82;0120;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;592;32.19;1839
-MN;82;0120;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.05;1839
+MN;82;0115;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1556;67.01;2322
+MN;82;0115;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;761;32.77;2322
+MN;82;0115;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;5;0.22;2322
+MN;82;0120;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1247;67.70;1842
+MN;82;0120;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;594;32.25;1842
+MN;82;0120;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.05;1842
 MN;82;0125;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;2231;64.55;3456
 MN;82;0125;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1219;35.27;3456
 MN;82;0125;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;6;0.17;3456
-MN;82;0145;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;2048;60.08;3409
-MN;82;0145;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1354;39.72;3409
-MN;82;0145;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;7;0.21;3409
-MN;82;0150;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;291;67.21;433
-MN;82;0150;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;142;32.79;433
-MN;82;0150;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;433
-MN;82;0155;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1611;60.56;2660
-MN;82;0155;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1044;39.25;2660
-MN;82;0155;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;5;0.19;2660
-MN;82;0160;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1389;64.63;2149
-MN;82;0160;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;758;35.27;2149
-MN;82;0160;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.09;2149
-MN;82;0165;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;548;66.59;823
-MN;82;0165;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;275;33.41;823
-MN;82;0165;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;823
+MN;82;0145;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;2048;60.06;3410
+MN;82;0145;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1355;39.74;3410
+MN;82;0145;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;7;0.21;3410
+MN;82;0150;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;292;67.13;435
+MN;82;0150;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;143;32.87;435
+MN;82;0150;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;435
+MN;82;0155;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1613;60.55;2664
+MN;82;0155;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1046;39.26;2664
+MN;82;0155;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;5;0.19;2664
+MN;82;0160;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1389;64.60;2150
+MN;82;0160;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;759;35.30;2150
+MN;82;0160;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.09;2150
+MN;82;0165;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;549;66.63;824
+MN;82;0165;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;275;33.37;824
+MN;82;0165;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;824
 MN;82;0210;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;163;29.96;544
 MN;82;0210;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;381;70.04;544
 MN;82;0210;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;544
 MN;82;0215;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1187;59.38;1999
 MN;82;0215;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;811;40.57;1999
 MN;82;0215;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.05;1999
-MN;82;0305;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1697;60.93;2785
-MN;82;0305;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1082;38.85;2785
-MN;82;0305;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;6;0.22;2785
+MN;82;0305;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1698;60.93;2787
+MN;82;0305;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;1083;38.86;2787
+MN;82;0305;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;6;0.22;2787
 MN;86;0005;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1692;67.33;2513
 MN;86;0005;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;818;32.55;2513
 MN;86;0005;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;3;0.12;2513
@@ -7394,11 +7394,11 @@ MN;03;0010;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;03;0010;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;182;69.20;263
 MN;03;0010;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;58;22.05;263
 MN;03;0010;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;263
-MN;03;0015;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;14;3.26;430
-MN;03;0015;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;0.23;430
-MN;03;0015;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;249;57.91;430
-MN;03;0015;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;164;38.14;430
-MN;03;0015;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.47;430
+MN;03;0015;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;14;3.25;431
+MN;03;0015;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;0.23;431
+MN;03;0015;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;250;58.00;431
+MN;03;0015;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;164;38.05;431
+MN;03;0015;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.46;431
 MN;03;0020;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;36;3.79;950
 MN;03;0020;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;12;1.26;950
 MN;03;0020;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;561;59.05;950
@@ -7409,11 +7409,11 @@ MN;03;0025;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;03;0025;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;36;47.37;76
 MN;03;0025;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;30;39.47;76
 MN;03;0025;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;76
-MN;03;0030;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;7;4.61;152
-MN;03;0030;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;2;1.32;152
-MN;03;0030;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;65;42.76;152
-MN;03;0030;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;76;50.00;152
-MN;03;0030;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;1.32;152
+MN;03;0030;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;7;4.52;155
+MN;03;0030;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;2;1.29;155
+MN;03;0030;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;65;41.94;155
+MN;03;0030;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;79;50.97;155
+MN;03;0030;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;1.29;155
 MN;03;0035;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;4;3.08;130
 MN;03;0035;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;2.31;130
 MN;03;0035;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;62;47.69;130
@@ -7444,36 +7444,36 @@ MN;03;0052;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;03;0052;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;0;0.00;0
 MN;03;0052;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;0;0.00;0
 MN;03;0052;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;03;0055;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;99;6.13;1614
-MN;03;0055;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;49;3.04;1614
-MN;03;0055;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;807;50.00;1614
-MN;03;0055;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;658;40.77;1614
-MN;03;0055;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;1;0.06;1614
+MN;03;0055;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;99;6.13;1615
+MN;03;0055;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;49;3.03;1615
+MN;03;0055;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;808;50.03;1615
+MN;03;0055;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;658;40.74;1615
+MN;03;0055;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;1;0.06;1615
 MN;03;0065;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;74;4.85;1525
 MN;03;0065;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;23;1.51;1525
 MN;03;0065;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;685;44.92;1525
 MN;03;0065;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;743;48.72;1525
 MN;03;0065;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;1525
-MN;03;0075;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;86;4.24;2029
-MN;03;0075;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;29;1.43;2029
-MN;03;0075;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;1028;50.67;2029
-MN;03;0075;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;884;43.57;2029
-MN;03;0075;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.10;2029
+MN;03;0075;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;87;4.29;2030
+MN;03;0075;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;29;1.43;2030
+MN;03;0075;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;1028;50.64;2030
+MN;03;0075;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;884;43.55;2030
+MN;03;0075;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.10;2030
 MN;03;0082;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;5;5.56;90
 MN;03;0082;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;1.11;90
 MN;03;0082;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;43;47.78;90
 MN;03;0082;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;41;45.56;90
 MN;03;0082;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;90
-MN;03;0085;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;45;4.05;1111
-MN;03;0085;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;11;0.99;1111
-MN;03;0085;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;638;57.43;1111
-MN;03;0085;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;415;37.35;1111
-MN;03;0085;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.18;1111
-MN;03;0090;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.29;155
-MN;03;0090;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;1.94;155
-MN;03;0090;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;100;64.52;155
-MN;03;0090;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;50;32.26;155
-MN;03;0090;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;155
+MN;03;0085;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;45;4.04;1113
+MN;03;0085;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;11;0.99;1113
+MN;03;0085;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;638;57.32;1113
+MN;03;0085;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;417;37.47;1113
+MN;03;0085;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;2;0.18;1113
+MN;03;0090;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.28;156
+MN;03;0090;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;1.92;156
+MN;03;0090;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;101;64.74;156
+MN;03;0090;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;50;32.05;156
+MN;03;0090;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;156
 MN;03;0095;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;2.50;80
 MN;03;0095;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;2;2.50;80
 MN;03;0095;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;39;48.75;80
@@ -7594,11 +7594,11 @@ MN;03;0210;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;03;0210;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;152;44.84;339
 MN;03;0210;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;143;42.18;339
 MN;03;0210;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;5;1.47;339
-MN;03;0215;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;7;2.56;273
-MN;03;0215;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;5;1.83;273
-MN;03;0215;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;177;64.84;273
-MN;03;0215;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;83;30.40;273
-MN;03;0215;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;1;0.37;273
+MN;03;0215;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;7;2.55;275
+MN;03;0215;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;5;1.82;275
+MN;03;0215;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;179;65.09;275
+MN;03;0215;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;83;30.18;275
+MN;03;0215;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;1;0.36;275
 MN;03;0220;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;3;1.94;155
 MN;03;0220;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;1.94;155
 MN;03;0220;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;84;54.19;155
@@ -7609,11 +7609,11 @@ MN;03;0225;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;03;0225;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;3;75.00;4
 MN;03;0225;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;1;25.00;4
 MN;03;0225;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;4
-MN;03;0230;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;14;6.45;217
-MN;03;0230;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;6;2.77;217
-MN;03;0230;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;86;39.63;217
-MN;03;0230;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;111;51.15;217
-MN;03;0230;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;217
+MN;03;0230;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;14;6.39;219
+MN;03;0230;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;7;3.20;219
+MN;03;0230;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;87;39.73;219
+MN;03;0230;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;111;50.68;219
+MN;03;0230;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;219
 MN;03;0235;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;1;3.23;31
 MN;03;0235;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;0;0.00;31
 MN;03;0235;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;23;74.19;31
@@ -11334,11 +11334,11 @@ MN;57;0075;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;57;0075;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;23;38.98;59
 MN;57;0075;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;35;59.32;59
 MN;57;0075;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;59
-MN;57;0080;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.74;115
-MN;57;0080;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;0.87;115
-MN;57;0080;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;72;62.61;115
-MN;57;0080;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;40;34.78;115
-MN;57;0080;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;115
+MN;57;0080;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.71;117
+MN;57;0080;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;0.85;117
+MN;57;0080;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;73;62.39;117
+MN;57;0080;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;41;35.04;117
+MN;57;0080;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;117
 MN;57;0085;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;15;4.44;338
 MN;57;0085;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;5;1.48;338
 MN;57;0085;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;174;51.48;338
@@ -11349,11 +11349,11 @@ MN;57;0090;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;57;0090;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;163;50.31;324
 MN;57;0090;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;136;41.98;324
 MN;57;0090;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;324
-MN;57;0095;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;11;8.21;134
-MN;57;0095;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;0;0.00;134
-MN;57;0095;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;69;51.49;134
-MN;57;0095;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;54;40.30;134
-MN;57;0095;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;134
+MN;57;0095;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;11;8.27;133
+MN;57;0095;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;0;0.00;133
+MN;57;0095;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;69;51.88;133
+MN;57;0095;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;53;39.85;133
+MN;57;0095;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;133
 MN;57;0100;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;8;4.47;179
 MN;57;0100;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;1.68;179
 MN;57;0100;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;99;55.31;179
@@ -11514,11 +11514,11 @@ MN;59;0115;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;59;0115;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;36;76.60;47
 MN;59;0115;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;10;21.28;47
 MN;59;0115;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;47
-MN;59;0120;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.35;148
-MN;59;0120;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;4;2.70;148
-MN;59;0120;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;100;67.57;148
-MN;59;0120;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;42;28.38;148
-MN;59;0120;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;148
+MN;59;0120;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;2;1.34;149
+MN;59;0120;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;4;2.68;149
+MN;59;0120;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;101;67.79;149
+MN;59;0120;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;42;28.19;149
+MN;59;0120;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;149
 MN;59;0125;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;6;12.00;50
 MN;59;0125;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;3;6.00;50
 MN;59;0125;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;23;46.00;50
@@ -13524,11 +13524,11 @@ MN;77;0105;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;
 MN;77;0105;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;348;69.60;500
 MN;77;0105;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;130;26.00;500
 MN;77;0105;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;500
-MN;77;0110;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;13;3.02;431
-MN;77;0110;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;10;2.32;431
-MN;77;0110;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;243;56.38;431
-MN;77;0110;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;165;38.28;431
-MN;77;0110;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;431
+MN;77;0110;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;13;3.01;432
+MN;77;0110;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;10;2.31;432
+MN;77;0110;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;243;56.25;432
+MN;77;0110;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;1;1;166;38.43;432
+MN;77;0110;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;1;1;0;0.00;432
 MN;77;0115;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;1;1;11;6.43;171
 MN;77;0115;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;1;1;1;0.58;171
 MN;77;0115;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;1;1;108;63.16;171
