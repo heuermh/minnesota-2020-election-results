@@ -109,10 +109,10 @@ MN;22;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;435;5.54
 MN;22;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;4597;58.60;7845
 MN;22;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;2809;35.81;7845
 MN;22;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;4;0.05;7845
-MN;23;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;694;5.81;11943
-MN;23;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6279;52.57;11943
-MN;23;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;4957;41.51;11943
-MN;23;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;13;0.11;11943
+MN;23;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;694;5.81;11950
+MN;23;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6285;52.59;11950
+MN;23;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;4958;41.49;11950
+MN;23;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;13;0.11;11950
 MN;24;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;958;6.10;15695
 MN;24;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7829;49.88;15695
 MN;24;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;6896;43.94;15695
@@ -234,10 +234,10 @@ MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;
 MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;13920;73.37;18972
 MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;4082;21.52;18972
 MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;6;0.03;18972
-MN;50;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1069;7.02;15219
-MN;50;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6579;43.23;15219
-MN;50;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;7556;49.65;15219
-MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;15;0.10;15219
+MN;50;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1071;7.00;15291
+MN;50;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6613;43.25;15291
+MN;50;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;7592;49.65;15291
+MN;50;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;15;0.10;15291
 MN;51;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;215;4.44;4842
 MN;51;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;59;1.22;4842
 MN;51;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2832;58.49;4842
@@ -289,10 +289,10 @@ MN;61;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;61;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3657;52.70;6939
 MN;61;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2874;41.42;6939
 MN;61;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;5;0.07;6939
-MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;23094;8.23;280721
-MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;68869;24.53;280721
-MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;187978;66.96;280721
-MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;225;780;0.28;280721
+MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;23102;8.23;280801
+MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;68879;24.53;280801
+MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;188037;66.96;280801
+MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;225;783;0.28;280801
 MN;62;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;169;9.09;1860
 MN;62;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;563;30.27;1860
 MN;62;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;238;1119;60.16;1860
