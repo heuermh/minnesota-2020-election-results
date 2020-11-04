@@ -305,8 +305,8 @@ MN;03;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;48;4
 MN;03;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;48;48;52;0.42;12501
 MN;03;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;48;48;12495;99.57;12549
 MN;03;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;48;48;54;0.43;12549
-MN;04;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;63;63;12181;50.38;24179
-MN;04;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;63;63;11424;47.25;24179
+MN;04;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;63;63;12182;50.38;24179
+MN;04;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;63;63;11423;47.24;24179
 MN;04;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;63;63;31;0.13;24179
 MN;04;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;63;63;75;0.31;24179
 MN;04;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;63;63;95;0.39;24179
@@ -317,13 +317,13 @@ MN;04;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike
 MN;04;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;63;63;58;0.24;24179
 MN;04;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;63;63;1804;7.57;23835
 MN;04;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;63;63;564;2.37;23835
-MN;04;;0102;U.S. Senator;;0301;Jason Lewis;;;R;63;63;11459;48.08;23835
-MN;04;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;63;63;9986;41.90;23835
+MN;04;;0102;U.S. Senator;;0301;Jason Lewis;;;R;63;63;11460;48.08;23835
+MN;04;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;63;63;9985;41.89;23835
 MN;04;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;63;63;22;0.09;23835
 MN;04;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;36;36;1337;9.11;14669
 MN;04;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;36;36;524;3.57;14669
-MN;04;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;36;36;5823;39.70;14669
-MN;04;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;36;36;6965;47.48;14669
+MN;04;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;36;36;5824;39.70;14669
+MN;04;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;36;36;6964;47.47;14669
 MN;04;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;36;36;20;0.14;14669
 MN;04;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;27;27;465;5.17;8994
 MN;04;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;27;27;5519;61.36;8994
@@ -332,17 +332,17 @@ MN;04;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;27;27;6;0.07;899
 MN;04;;0122;State Senator District 2;2;0301;Paul Utke;;;R;48;48;5428;53.34;10176
 MN;04;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;48;48;4720;46.38;10176
 MN;04;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;48;48;28;0.28;10176
-MN;04;;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;15;15;848;6.29;13487
-MN;04;;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;15;15;291;2.16;13487
-MN;04;;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;15;15;6825;50.60;13487
-MN;04;;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;15;15;5510;40.85;13487
-MN;04;;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;15;15;13;0.10;13487
+MN;04;;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;15;15;848;6.29;13486
+MN;04;;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;15;15;291;2.16;13486
+MN;04;;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;15;15;6825;50.61;13486
+MN;04;;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;15;15;5509;40.85;13486
+MN;04;;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;15;15;13;0.10;13486
 MN;04;;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;48;48;5461;53.78;10155
 MN;04;;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;48;48;4671;46.00;10155
 MN;04;;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;48;48;23;0.23;10155
-MN;04;;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;15;15;6960;51.61;13485
-MN;04;;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;15;15;6503;48.22;13485
-MN;04;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;15;15;22;0.16;13485
+MN;04;;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;15;15;6960;51.62;13484
+MN;04;;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;15;15;6502;48.22;13484
+MN;04;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;15;15;22;0.16;13484
 MN;04;;0392;County Commissioner District 2;02;9001;Reed Olson;;;NP;4;4;2247;54.24;4143
 MN;04;;0392;County Commissioner District 2;02;9002;Joe Vene;;;NP;4;4;1881;45.40;4143
 MN;04;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;4;4;15;0.36;4143
