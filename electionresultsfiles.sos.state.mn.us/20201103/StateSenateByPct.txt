@@ -2513,12 +2513,12 @@ MN;18;0065;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;1;0.09;1119
 MN;18;0075;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;1292;72.30;1787
 MN;18;0075;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;493;27.59;1787
 MN;18;0075;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;2;0.11;1787
-MN;18;0080;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;907;75.71;1198
-MN;18;0080;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;289;24.12;1198
-MN;18;0080;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;2;0.17;1198
-MN;18;0082;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;3;100.00;3
-MN;18;0082;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;0;0.00;3
-MN;18;0082;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;0;0.00;3
+MN;18;0080;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;904;75.71;1194
+MN;18;0080;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;288;24.12;1194
+MN;18;0080;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;2;0.17;1194
+MN;18;0082;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;6;85.71;7
+MN;18;0082;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;1;14.29;7
+MN;18;0082;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;0;0.00;7
 MN;18;0085;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;1;1;97;59.88;162
 MN;18;0085;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;1;1;64;39.51;162
 MN;18;0085;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;1;1;1;0.62;162
@@ -10108,10 +10108,10 @@ MN;64;0215;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN
 MN;64;0215;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;86;82.69;104
 MN;64;0215;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;13;12.50;104
 MN;64;0215;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;104
-MN;64;0220;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;5;3.73;134
-MN;64;0220;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;123;91.79;134
-MN;64;0220;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;6;4.48;134
-MN;64;0220;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;134
+MN;64;0220;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;5;3.79;132
+MN;64;0220;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;121;91.67;132
+MN;64;0220;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;6;4.55;132
+MN;64;0220;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;132
 MN;65;0005;0137;State Senator District 17;17;0301;Andrew Lang;;;R;1;1;54;66.67;81
 MN;65;0005;0137;State Senator District 17;17;0401;Fernando Alvarado;;;DFL;1;1;27;33.33;81
 MN;65;0005;0137;State Senator District 17;17;9901;WRITE-IN;;;WI;1;1;0;0.00;81
