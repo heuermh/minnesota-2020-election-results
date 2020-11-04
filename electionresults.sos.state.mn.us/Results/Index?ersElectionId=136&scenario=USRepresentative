@@ -332,10 +332,10 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;88.56%&nbsp;&nbsp;3,640&nbsp;of&nbsp;4,110
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;90.58%&nbsp;&nbsp;3,723&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:27 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:36 AM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,588,349
@@ -347,13 +347,13 @@
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;88.56%&nbsp;&nbsp;3,640&nbsp;of&nbsp;4,110
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;90.58%&nbsp;&nbsp;3,723&nbsp;of&nbsp;4,110
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:27 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:36 AM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -432,8 +432,8 @@
                     <caption class="table-Caption">
                         <div>
                             <span class="boldFont">U.S. Representative District 2</span>&nbsp;&nbsp;&nbsp;
-                                <span class="hidden-lg hidden-md"><br />289 precincts in contest. 266 of 289 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
-                                    <span class="hidden-xs hidden-sm" style="text-align: right;">289 precincts in contest. 266 of 289 precincts reported.</span>
+                                <span class="hidden-lg hidden-md"><br />289 precincts in contest. 289 of 289 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">289 precincts in contest. 289 of 289 precincts reported.</span>
                             </div>
                         </div>
                     </caption>
@@ -452,31 +452,31 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Adam Charles Weeks</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">20,950</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5.97%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">23,624</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5.92%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="5" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tyler Kistner</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">163,835</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">46.67%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">187,388</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">46.99%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="46" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Angie Craig</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">166,051</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">47.30%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">187,542</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">47.03%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="47" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">224</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">249</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.06%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -686,8 +686,8 @@
                     <caption class="table-Caption">
                         <div>
                             <span class="boldFont">U.S. Representative District 7</span>&nbsp;&nbsp;&nbsp;
-                                <span class="hidden-lg hidden-md"><br />1329 precincts in contest. 1190 of 1329 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
-                                    <span class="hidden-xs hidden-sm" style="text-align: right;">1329 precincts in contest. 1190 of 1329 precincts reported.</span>
+                                <span class="hidden-lg hidden-md"><br />1329 precincts in contest. 1241 of 1329 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">1329 precincts in contest. 1241 of 1329 precincts reported.</span>
                             </div>
                         </div>
                     </caption>
@@ -706,39 +706,39 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Slater Johnson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">14,841</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">4.69%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">16,014</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">4.75%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="4" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rae Hart Anderson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5,391</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.70%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5,831</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.73%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michelle Fischbach</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">169,516</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.51%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">181,609</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.84%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="53" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Collin C Peterson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">126,667</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.99%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">133,483</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.57%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="39" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">352</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">376</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.11%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -748,8 +748,8 @@
                     <caption class="table-Caption">
                         <div>
                             <span class="boldFont">U.S. Representative District 8</span>&nbsp;&nbsp;&nbsp;
-                                <span class="hidden-lg hidden-md"><br />802 precincts in contest. 665 of 802 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
-                                    <span class="hidden-xs hidden-sm" style="text-align: right;">802 precincts in contest. 665 of 802 precincts reported.</span>
+                                <span class="hidden-lg hidden-md"><br />802 precincts in contest. 674 of 802 precincts reported.</span>                             <div class="hidden-xs hidden-sm" style="float: right">
+                                    <span class="hidden-xs hidden-sm" style="text-align: right;">802 precincts in contest. 674 of 802 precincts reported.</span>
                             </div>
                         </div>
                     </caption>
@@ -768,7 +768,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Judith Schwartzbacker</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,895</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,975</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">5.55%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="5" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -776,16 +776,16 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Pete Stauber</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">178,855</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">55.47%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">179,731</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">55.48%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="55" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Quinn Nystrom</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">125,479</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">38.92%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">126,070</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">38.91%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="38" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
