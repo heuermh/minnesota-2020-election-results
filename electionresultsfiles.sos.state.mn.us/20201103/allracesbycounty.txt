@@ -70,28 +70,28 @@ MN;01;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;0;54;0;0.0
 MN;01;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;0;54;0;0.00;0
 MN;01;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;0;54;0;0.00;0
 MN;01;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;0;54;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;0;128;0;0.00;0
-MN;02;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;0;128;0;0.00;0
-MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;0;128;0;0.00;0
-MN;02;;0102;U.S. Senator;;0301;Jason Lewis;;;R;0;128;0;0.00;0
-MN;02;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;0;128;0;0.00;0
-MN;02;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
+MN;02;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;1;128;220;25.32;869
+MN;02;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;1;128;610;70.20;869
+MN;02;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;1;128;4;0.46;869
+MN;02;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;1;128;9;1.04;869
+MN;02;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;1;128;6;0.69;869
+MN;02;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;1;128;4;0.46;869
+MN;02;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;1;128;1;0.12;869
+MN;02;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;1;128;1;0.12;869
+MN;02;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;1;128;11;1.27;869
+MN;02;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;1;128;3;0.35;869
+MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;128;116;13.86;837
+MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;128;26;3.11;837
+MN;02;;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;128;192;22.94;837
+MN;02;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;128;502;59.98;837
+MN;02;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;128;1;0.12;837
 MN;02;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;22;0;0.00;0
 MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;22;0;0.00;0
 MN;02;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;22;0;0.00;0
-MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;24;0;0.00;0
-MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;24;0;0.00;0
-MN;02;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;24;0;0.00;0
-MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;24;0;0.00;0
+MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;24;145;17.47;830
+MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;24;245;29.52;830
+MN;02;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;24;437;52.65;830
+MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;24;3;0.36;830
 MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;82;0;0.00;0
 MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;82;0;0.00;0
 MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;82;0;0.00;0
@@ -110,9 +110,9 @@ MN;02;;0157;State Senator District 37;37;9901;WRITE-IN;;;WI;0;32;0;0.00;0
 MN;02;;0158;State Senator District 38;38;0301;Roger Chamberlain;;;R;0;14;0;0.00;0
 MN;02;;0158;State Senator District 38;38;0401;Justin Stofferahn;;;DFL;0;14;0;0.00;0
 MN;02;;0158;State Senator District 38;38;9901;WRITE-IN;;;WI;0;14;0;0.00;0
-MN;02;;0161;State Senator District 41;41;0301;Lucia Marina Vogel;;;R;0;22;0;0.00;0
-MN;02;;0161;State Senator District 41;41;0401;Mary Kunesh-Podein;;;DFL;0;22;0;0.00;0
-MN;02;;0161;State Senator District 41;41;9901;WRITE-IN;;;WI;0;22;0;0.00;0
+MN;02;;0161;State Senator District 41;41;0301;Lucia Marina Vogel;;;R;1;22;208;26.07;798
+MN;02;;0161;State Senator District 41;41;0401;Mary Kunesh-Podein;;;DFL;1;22;586;73.43;798
+MN;02;;0161;State Senator District 41;41;9901;WRITE-IN;;;WI;1;22;4;0.50;798
 MN;02;;0248;State Representative District 31A;31A;0301;Kurt Daudt;;;R;0;8;0;0.00;0
 MN;02;;0248;State Representative District 31A;31A;0401;Brad Brown;;;DFL;0;8;0;0.00;0
 MN;02;;0248;State Representative District 31A;31A;9901;WRITE-IN;;;WI;0;8;0;0.00;0
@@ -140,9 +140,9 @@ MN;02;;0261;State Representative District 37B;37B;9901;WRITE-IN;;;WI;0;15;0;0.00
 MN;02;;0262;State Representative District 38A;38A;0301;Donald Raleigh;;;R;0;14;0;0.00;0
 MN;02;;0262;State Representative District 38A;38A;0401;Kris Fredrick;;;DFL;0;14;0;0.00;0
 MN;02;;0262;State Representative District 38A;38A;9901;WRITE-IN;;;WI;0;14;0;0.00;0
-MN;02;;0268;State Representative District 41A;41A;0301;Susan A. Erickson;;;R;0;13;0;0.00;0
-MN;02;;0268;State Representative District 41A;41A;0401;Connie Bernardy;;;DFL;0;13;0;0.00;0
-MN;02;;0268;State Representative District 41A;41A;9901;WRITE-IN;;;WI;0;13;0;0.00;0
+MN;02;;0268;State Representative District 41A;41A;0301;Susan A. Erickson;;;R;1;13;219;27.24;804
+MN;02;;0268;State Representative District 41A;41A;0401;Connie Bernardy;;;DFL;1;13;583;72.51;804
+MN;02;;0268;State Representative District 41A;41A;9901;WRITE-IN;;;WI;1;13;2;0.25;804
 MN;02;;0269;State Representative District 41B;41B;0301;Ronald Ray Vogel;;;R;0;9;0;0.00;0
 MN;02;;0269;State Representative District 41B;41B;0401;Sandra Feist;;;DFL;0;9;0;0.00;0
 MN;02;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;0;9;0;0.00;0
@@ -165,57 +165,57 @@ MN;02;;0434;Soil and Water Supervisor District 4;4004;9001;Mary Jo Truchon;;;NP;
 MN;02;;0434;Soil and Water Supervisor District 4;4004;9901;WRITE-IN;;;WI;0;27;0;0.00;0
 MN;02;;0435;Soil and Water Supervisor District 5;4005;9001;Sharon LeMay;;;NP;0;23;0;0.00;0
 MN;02;;0435;Soil and Water Supervisor District 5;4005;9901;WRITE-IN;;;WI;0;23;0;0.00;0
-MN;02;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;0;128;0;0.00;0
-MN;02;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;0;128;0;0.00;0
-MN;02;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;0;128;0;0.00;0
-MN;02;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;0;128;0;0.00;0
-MN;02;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;0;128;0;0.00;0
-MN;02;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;0;128;0;0.00;0
-MN;02;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9200;Judge - 10th District Court 1;10;9001;Juanita C. Freeman;;;NP;0;128;0;0.00;0
-MN;02;;9200;Judge - 10th District Court 1;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9203;Judge - 10th District Court 4;10;9001;Suzanne M. Brown;;;NP;0;128;0;0.00;0
-MN;02;;9203;Judge - 10th District Court 4;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9204;Judge - 10th District Court 5;10;9001;Douglas B Meslow;;;NP;0;128;0;0.00;0
-MN;02;;9204;Judge - 10th District Court 5;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9205;Judge - 10th District Court 6;10;9001;Stoney L Hiljus;;;NP;0;128;0;0.00;0
-MN;02;;9205;Judge - 10th District Court 6;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9206;Judge - 10th District Court 7;10;9001;Richard C. Ilkka;;;NP;0;128;0;0.00;0
-MN;02;;9206;Judge - 10th District Court 7;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9207;Judge - 10th District Court 8;10;9001;Laura A. Pietan;;;NP;0;128;0;0.00;0
-MN;02;;9207;Judge - 10th District Court 8;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9208;Judge - 10th District Court 9;10;9001;Sheridan Hawley;;;NP;0;128;0;0.00;0
-MN;02;;9208;Judge - 10th District Court 9;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9213;Judge - 10th District Court 14;10;9001;Nancy J. Logering;;;NP;0;128;0;0.00;0
-MN;02;;9213;Judge - 10th District Court 14;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9214;Judge - 10th District Court 15;10;9001;Thomas R. Lehmann;;;NP;0;128;0;0.00;0
-MN;02;;9214;Judge - 10th District Court 15;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9216;Judge - 10th District Court 17;10;9001;Patrick W. Flanagan;;;NP;0;128;0;0.00;0
-MN;02;;9216;Judge - 10th District Court 17;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9221;Judge - 10th District Court 22;10;9001;Melissa M. Saterbak;;;NP;0;128;0;0.00;0
-MN;02;;9221;Judge - 10th District Court 22;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9222;Judge - 10th District Court 23;10;9001;Catherine (Kate) McPherson;;;NP;0;128;0;0.00;0
-MN;02;;9222;Judge - 10th District Court 23;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9223;Judge - 10th District Court 24;10;9001;Karin L. McCarthy;;;NP;0;128;0;0.00;0
-MN;02;;9223;Judge - 10th District Court 24;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9225;Judge - 10th District Court 26;10;9001;Barry A. Sullivan;;;NP;0;128;0;0.00;0
-MN;02;;9225;Judge - 10th District Court 26;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9227;Judge - 10th District Court 28;10;9001;Karen B. Schommer;;;NP;0;128;0;0.00;0
-MN;02;;9227;Judge - 10th District Court 28;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9231;Judge - 10th District Court 32;10;9001;Elizabeth H. Strand;;;NP;0;128;0;0.00;0
-MN;02;;9231;Judge - 10th District Court 32;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9234;Judge - 10th District Court 35;10;9001;Ellen Louise Maas;;;NP;0;128;0;0.00;0
-MN;02;;9234;Judge - 10th District Court 35;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9237;Judge - 10th District Court 38;10;9001;Gregory G. Galler;;;NP;0;128;0;0.00;0
-MN;02;;9237;Judge - 10th District Court 38;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;0;128;0;0.00;0
-MN;02;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
-MN;02;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;0;128;0;0.00;0
-MN;02;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;0;128;0;0.00;0
+MN;02;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;1;128;290;47.31;613
+MN;02;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;1;128;318;51.88;613
+MN;02;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;1;128;5;0.82;613
+MN;02;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;1;128;462;98.09;471
+MN;02;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;1;128;9;1.91;471
+MN;02;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;1;128;450;97.83;460
+MN;02;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;1;128;10;2.17;460
+MN;02;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;1;128;453;98.05;462
+MN;02;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;1;128;9;1.95;462
+MN;02;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;1;128;455;97.85;465
+MN;02;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;1;128;10;2.15;465
+MN;02;;9200;Judge - 10th District Court 1;10;9001;Juanita C. Freeman;;;NP;1;128;458;98.28;466
+MN;02;;9200;Judge - 10th District Court 1;10;9901;WRITE-IN;;;WI;1;128;8;1.72;466
+MN;02;;9203;Judge - 10th District Court 4;10;9001;Suzanne M. Brown;;;NP;1;128;452;98.26;460
+MN;02;;9203;Judge - 10th District Court 4;10;9901;WRITE-IN;;;WI;1;128;8;1.74;460
+MN;02;;9204;Judge - 10th District Court 5;10;9001;Douglas B Meslow;;;NP;1;128;445;97.80;455
+MN;02;;9204;Judge - 10th District Court 5;10;9901;WRITE-IN;;;WI;1;128;10;2.20;455
+MN;02;;9205;Judge - 10th District Court 6;10;9001;Stoney L Hiljus;;;NP;1;128;440;97.78;450
+MN;02;;9205;Judge - 10th District Court 6;10;9901;WRITE-IN;;;WI;1;128;10;2.22;450
+MN;02;;9206;Judge - 10th District Court 7;10;9001;Richard C. Ilkka;;;NP;1;128;449;98.25;457
+MN;02;;9206;Judge - 10th District Court 7;10;9901;WRITE-IN;;;WI;1;128;8;1.75;457
+MN;02;;9207;Judge - 10th District Court 8;10;9001;Laura A. Pietan;;;NP;1;128;446;98.45;453
+MN;02;;9207;Judge - 10th District Court 8;10;9901;WRITE-IN;;;WI;1;128;7;1.55;453
+MN;02;;9208;Judge - 10th District Court 9;10;9001;Sheridan Hawley;;;NP;1;128;442;98.66;448
+MN;02;;9208;Judge - 10th District Court 9;10;9901;WRITE-IN;;;WI;1;128;6;1.34;448
+MN;02;;9213;Judge - 10th District Court 14;10;9001;Nancy J. Logering;;;NP;1;128;455;98.48;462
+MN;02;;9213;Judge - 10th District Court 14;10;9901;WRITE-IN;;;WI;1;128;7;1.52;462
+MN;02;;9214;Judge - 10th District Court 15;10;9001;Thomas R. Lehmann;;;NP;1;128;438;98.21;446
+MN;02;;9214;Judge - 10th District Court 15;10;9901;WRITE-IN;;;WI;1;128;8;1.79;446
+MN;02;;9216;Judge - 10th District Court 17;10;9001;Patrick W. Flanagan;;;NP;1;128;441;98.00;450
+MN;02;;9216;Judge - 10th District Court 17;10;9901;WRITE-IN;;;WI;1;128;9;2.00;450
+MN;02;;9221;Judge - 10th District Court 22;10;9001;Melissa M. Saterbak;;;NP;1;128;447;98.24;455
+MN;02;;9221;Judge - 10th District Court 22;10;9901;WRITE-IN;;;WI;1;128;8;1.76;455
+MN;02;;9222;Judge - 10th District Court 23;10;9001;Catherine (Kate) McPherson;;;NP;1;128;443;98.44;450
+MN;02;;9222;Judge - 10th District Court 23;10;9901;WRITE-IN;;;WI;1;128;7;1.56;450
+MN;02;;9223;Judge - 10th District Court 24;10;9001;Karin L. McCarthy;;;NP;1;128;444;98.23;452
+MN;02;;9223;Judge - 10th District Court 24;10;9901;WRITE-IN;;;WI;1;128;8;1.77;452
+MN;02;;9225;Judge - 10th District Court 26;10;9001;Barry A. Sullivan;;;NP;1;128;443;98.23;451
+MN;02;;9225;Judge - 10th District Court 26;10;9901;WRITE-IN;;;WI;1;128;8;1.77;451
+MN;02;;9227;Judge - 10th District Court 28;10;9001;Karen B. Schommer;;;NP;1;128;450;98.68;456
+MN;02;;9227;Judge - 10th District Court 28;10;9901;WRITE-IN;;;WI;1;128;6;1.32;456
+MN;02;;9231;Judge - 10th District Court 32;10;9001;Elizabeth H. Strand;;;NP;1;128;455;98.70;461
+MN;02;;9231;Judge - 10th District Court 32;10;9901;WRITE-IN;;;WI;1;128;6;1.30;461
+MN;02;;9234;Judge - 10th District Court 35;10;9001;Ellen Louise Maas;;;NP;1;128;449;98.46;456
+MN;02;;9234;Judge - 10th District Court 35;10;9901;WRITE-IN;;;WI;1;128;7;1.54;456
+MN;02;;9237;Judge - 10th District Court 38;10;9001;Gregory G. Galler;;;NP;1;128;441;98.44;448
+MN;02;;9237;Judge - 10th District Court 38;10;9901;WRITE-IN;;;WI;1;128;7;1.56;448
+MN;02;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;1;128;440;98.21;448
+MN;02;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;1;128;8;1.79;448
+MN;02;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;1;128;444;98.23;452
+MN;02;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;1;128;8;1.77;452
 MN;03;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;48;0;0.00;0
 MN;03;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;48;0;0.00;0
 MN;03;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;48;0;0.00;0
@@ -392,40 +392,40 @@ MN;04;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;0;63;0;0.0
 MN;04;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;0;63;0;0.00;0
 MN;04;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;0;63;0;0.00;0
 MN;04;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;0;63;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;0;27;0;0.00;0
-MN;05;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;0;27;0;0.00;0
-MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;0;27;0;0.00;0
-MN;05;;0102;U.S. Senator;;0301;Jason Lewis;;;R;0;27;0;0.00;0
-MN;05;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;0;27;0;0.00;0
-MN;05;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;27;0;0.00;0
-MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;27;0;0.00;0
-MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;1;27;0;0.00;0
+MN;05;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;27;0;0.00;0
+MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;27;0;0.00;0
+MN;05;;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;27;0;0.00;0
+MN;05;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;27;0;0.00;0
+MN;05;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;27;0;0.00;0
+MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;27;0;0.00;0
+MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;27;0;0.00;0
 MN;05;;0133;State Senator District 13;13;0301;Jeff Howe;;;R;0;8;0;0.00;0
 MN;05;;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;0;8;0;0.00;0
 MN;05;;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;0;8;0;0.00;0
-MN;05;;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;0;5;0;0.00;0
-MN;05;;0134;State Senator District 14;14;0301;Jerry Relph;;;R;0;5;0;0.00;0
-MN;05;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;0;5;0;0.00;0
-MN;05;;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;05;;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;5;0;0.00;0
+MN;05;;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;5;0;0.00;0
+MN;05;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;5;0;0.00;0
+MN;05;;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;5;0;0.00;0
 MN;05;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;0;14;0;0.00;0
 MN;05;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;0;14;0;0.00;0
 MN;05;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;0;14;0;0.00;0
 MN;05;;0213;State Representative District 13B;13B;0301;Tim O'Driscoll;;;R;0;8;0;0.00;0
 MN;05;;0213;State Representative District 13B;13B;0401;Benjamin Carollo;;;DFL;0;8;0;0.00;0
 MN;05;;0213;State Representative District 13B;13B;9901;WRITE-IN;;;WI;0;8;0;0.00;0
-MN;05;;0215;State Representative District 14B;14B;0301;Paul Brandmire;;;R;0;5;0;0.00;0
-MN;05;;0215;State Representative District 14B;14B;0401;Dan Wolgamott;;;DFL;0;5;0;0.00;0
-MN;05;;0215;State Representative District 14B;14B;9901;WRITE-IN;;;WI;0;5;0;0.00;0
+MN;05;;0215;State Representative District 14B;14B;0301;Paul Brandmire;;;R;1;5;0;0.00;0
+MN;05;;0215;State Representative District 14B;14B;0401;Dan Wolgamott;;;DFL;1;5;0;0.00;0
+MN;05;;0215;State Representative District 14B;14B;9901;WRITE-IN;;;WI;1;5;0;0.00;0
 MN;05;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;0;14;0;0.00;0
 MN;05;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;0;14;0;0.00;0
 MN;05;;0217;State Representative District 15B;15B;1101;Myron Arthur Wilson;;;VPM;0;14;0;0.00;0
@@ -436,58 +436,58 @@ MN;05;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;7;0;0.00;0
 MN;05;;0394;County Commissioner District 4;04;9001;Richard "Dick" Soyka;;;NP;0;5;0;0.00;0
 MN;05;;0394;County Commissioner District 4;04;9002;Jared J Gapinski;;;NP;0;5;0;0.00;0
 MN;05;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;0;5;0;0.00;0
-MN;05;;0395;County Commissioner District 5;05;9001;A. Jake Bauerly;;;NP;0;5;0;0.00;0
-MN;05;;0395;County Commissioner District 5;05;9002;Beth Schlangen;;;NP;0;5;0;0.00;0
-MN;05;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;0;5;0;0.00;0
-MN;05;;0431;Soil and Water Supervisor District 1;2009;9001;Wade Bastian;;;NP;0;27;0;0.00;0
-MN;05;;0431;Soil and Water Supervisor District 1;2009;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;0434;Soil and Water Supervisor District 4;2009;9001;Bernie Thole;;;NP;0;27;0;0.00;0
-MN;05;;0434;Soil and Water Supervisor District 4;2009;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;0435;Soil and Water Supervisor District 5;2009;9001;Charles Rau;;;NP;0;27;0;0.00;0
-MN;05;;0435;Soil and Water Supervisor District 5;2009;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;0;27;0;0.00;0
-MN;05;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;0;27;0;0.00;0
-MN;05;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;0;27;0;0.00;0
-MN;05;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;0;27;0;0.00;0
-MN;05;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;0;27;0;0.00;0
-MN;05;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;0;27;0;0.00;0
-MN;05;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8901;Judge - 7th District Court 2;07;9001;Jay D. Carlson;;;NP;0;27;0;0.00;0
-MN;05;;8901;Judge - 7th District Court 2;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8907;Judge - 7th District Court 8;07;9001;Matthew E. Engelking;;;NP;0;27;0;0.00;0
-MN;05;;8907;Judge - 7th District Court 8;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8908;Judge - 7th District Court 9;07;9001;Michelle W. Lawson;;;NP;0;27;0;0.00;0
-MN;05;;8908;Judge - 7th District Court 9;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8910;Judge - 7th District Court 11;07;9001;Andrew Pearson;;;NP;0;27;0;0.00;0
-MN;05;;8910;Judge - 7th District Court 11;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8911;Judge - 7th District Court 12;07;9001;Kevin M. Miller;;;NP;0;27;0;0.00;0
-MN;05;;8911;Judge - 7th District Court 12;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8912;Judge - 7th District Court 13;07;9001;Michelle L. Clark;;;NP;0;27;0;0.00;0
-MN;05;;8912;Judge - 7th District Court 13;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8913;Judge - 7th District Court 14;07;9001;Leonard A. Weiler;;;NP;0;27;0;0.00;0
-MN;05;;8913;Judge - 7th District Court 14;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8914;Judge - 7th District Court 15;07;9001;Sarah E. Hennesy;;;NP;0;27;0;0.00;0
-MN;05;;8914;Judge - 7th District Court 15;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8920;Judge - 7th District Court 21;07;9001;Robert Raupp;;;NP;0;27;0;0.00;0
-MN;05;;8920;Judge - 7th District Court 21;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8921;Judge - 7th District Court 22;07;9001;Doug Clark;;;NP;0;27;0;0.00;0
-MN;05;;8921;Judge - 7th District Court 22;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8922;Judge - 7th District Court 23;07;9001;Amber B. Gustafson;;;NP;0;27;0;0.00;0
-MN;05;;8922;Judge - 7th District Court 23;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8923;Judge - 7th District Court 24;07;9001;Michael S. Jesse;;;NP;0;27;0;0.00;0
-MN;05;;8923;Judge - 7th District Court 24;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8925;Judge - 7th District Court 26;07;9001;Mark J. Herzing;;;NP;0;27;0;0.00;0
-MN;05;;8925;Judge - 7th District Court 26;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8926;Judge - 7th District Court 27;07;9001;Tammy L. Merkins;;;NP;0;27;0;0.00;0
-MN;05;;8926;Judge - 7th District Court 27;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;0;27;0;0.00;0
-MN;05;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;05;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;0;27;0;0.00;0
-MN;05;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;0;27;0;0.00;0
+MN;05;;0395;County Commissioner District 5;05;9001;A. Jake Bauerly;;;NP;1;5;0;0.00;0
+MN;05;;0395;County Commissioner District 5;05;9002;Beth Schlangen;;;NP;1;5;0;0.00;0
+MN;05;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;5;0;0.00;0
+MN;05;;0431;Soil and Water Supervisor District 1;2009;9001;Wade Bastian;;;NP;1;27;0;0.00;0
+MN;05;;0431;Soil and Water Supervisor District 1;2009;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;0434;Soil and Water Supervisor District 4;2009;9001;Bernie Thole;;;NP;1;27;0;0.00;0
+MN;05;;0434;Soil and Water Supervisor District 4;2009;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;0435;Soil and Water Supervisor District 5;2009;9001;Charles Rau;;;NP;1;27;0;0.00;0
+MN;05;;0435;Soil and Water Supervisor District 5;2009;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;1;27;0;0.00;0
+MN;05;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;1;27;0;0.00;0
+MN;05;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;1;27;0;0.00;0
+MN;05;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;1;27;0;0.00;0
+MN;05;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;1;27;0;0.00;0
+MN;05;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;1;27;0;0.00;0
+MN;05;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8901;Judge - 7th District Court 2;07;9001;Jay D. Carlson;;;NP;1;27;0;0.00;0
+MN;05;;8901;Judge - 7th District Court 2;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8907;Judge - 7th District Court 8;07;9001;Matthew E. Engelking;;;NP;1;27;0;0.00;0
+MN;05;;8907;Judge - 7th District Court 8;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8908;Judge - 7th District Court 9;07;9001;Michelle W. Lawson;;;NP;1;27;0;0.00;0
+MN;05;;8908;Judge - 7th District Court 9;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8910;Judge - 7th District Court 11;07;9001;Andrew Pearson;;;NP;1;27;0;0.00;0
+MN;05;;8910;Judge - 7th District Court 11;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8911;Judge - 7th District Court 12;07;9001;Kevin M. Miller;;;NP;1;27;0;0.00;0
+MN;05;;8911;Judge - 7th District Court 12;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8912;Judge - 7th District Court 13;07;9001;Michelle L. Clark;;;NP;1;27;0;0.00;0
+MN;05;;8912;Judge - 7th District Court 13;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8913;Judge - 7th District Court 14;07;9001;Leonard A. Weiler;;;NP;1;27;0;0.00;0
+MN;05;;8913;Judge - 7th District Court 14;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8914;Judge - 7th District Court 15;07;9001;Sarah E. Hennesy;;;NP;1;27;0;0.00;0
+MN;05;;8914;Judge - 7th District Court 15;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8920;Judge - 7th District Court 21;07;9001;Robert Raupp;;;NP;1;27;0;0.00;0
+MN;05;;8920;Judge - 7th District Court 21;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8921;Judge - 7th District Court 22;07;9001;Doug Clark;;;NP;1;27;0;0.00;0
+MN;05;;8921;Judge - 7th District Court 22;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8922;Judge - 7th District Court 23;07;9001;Amber B. Gustafson;;;NP;1;27;0;0.00;0
+MN;05;;8922;Judge - 7th District Court 23;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8923;Judge - 7th District Court 24;07;9001;Michael S. Jesse;;;NP;1;27;0;0.00;0
+MN;05;;8923;Judge - 7th District Court 24;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8925;Judge - 7th District Court 26;07;9001;Mark J. Herzing;;;NP;1;27;0;0.00;0
+MN;05;;8925;Judge - 7th District Court 26;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8926;Judge - 7th District Court 27;07;9001;Tammy L. Merkins;;;NP;1;27;0;0.00;0
+MN;05;;8926;Judge - 7th District Court 27;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;1;27;0;0.00;0
+MN;05;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
+MN;05;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;1;27;0;0.00;0
+MN;05;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;1;27;0;0.00;0
 MN;06;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;23;0;0.00;0
 MN;06;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;23;0;0.00;0
 MN;06;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;23;0;0.00;0
@@ -2107,28 +2107,28 @@ MN;26;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;0;23;0;
 MN;26;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;0;23;0;0.00;0
 MN;26;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;0;23;0;0.00;0
 MN;26;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;0;23;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;4;425;0;0.00;0
-MN;27;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;4;425;0;0.00;0
-MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;4;425;0;0.00;0
-MN;27;;0102;U.S. Senator;;0301;Jason Lewis;;;R;4;425;0;0.00;0
-MN;27;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;4;425;0;0.00;0
-MN;27;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;2;210;0;0.00;0
-MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;2;210;0;0.00;0
-MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;2;210;0;0.00;0
-MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;2;213;0;0.00;0
-MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;2;213;0;0.00;0
-MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;2;213;0;0.00;0
-MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;2;213;0;0.00;0
+MN;27;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;34;425;12473;29.76;41915
+MN;27;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;34;425;28564;68.15;41915
+MN;27;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;34;425;61;0.15;41915
+MN;27;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;34;425;98;0.23;41915
+MN;27;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;34;425;83;0.20;41915
+MN;27;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;34;425;65;0.16;41915
+MN;27;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;34;425;16;0.04;41915
+MN;27;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;34;425;1;0.00;41915
+MN;27;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;34;425;396;0.94;41915
+MN;27;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;34;425;158;0.38;41915
+MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;34;425;1798;4.34;41392
+MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;34;425;515;1.24;41392
+MN;27;;0102;U.S. Senator;;0301;Jason Lewis;;;R;34;425;12962;31.32;41392
+MN;27;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;34;425;26102;63.06;41392
+MN;27;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;34;425;15;0.04;41392
+MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;20;210;10674;46.23;23089
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;20;210;12404;53.72;23089
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;20;210;11;0.05;23089
+MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;14;213;1357;7.57;17932
+MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;14;213;4393;24.50;17932
+MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;14;213;12059;67.25;17932
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;14;213;123;0.69;17932
 MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;2;0;0.00;0
 MN;27;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;2;0;0.00;0
 MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;2;0;0.00;0
@@ -2139,12 +2139,12 @@ MN;27;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;27;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;0;1;0;0.00;0
 MN;27;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;0;1;0;0.00;0
 MN;27;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;27;;0153;State Senator District 33;33;0301;David Osmek;;;R;1;36;0;0.00;0
-MN;27;;0153;State Senator District 33;33;0401;Gretchen Piper;;;DFL;1;36;0;0.00;0
-MN;27;;0153;State Senator District 33;33;9901;WRITE-IN;;;WI;1;36;0;0.00;0
-MN;27;;0154;State Senator District 34;34;0301;Warren Limmer;;;R;0;30;0;0.00;0
-MN;27;;0154;State Senator District 34;34;0401;Bonnie Westlin;;;DFL;0;30;0;0.00;0
-MN;27;;0154;State Senator District 34;34;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;27;;0153;State Senator District 33;33;0301;David Osmek;;;R;10;36;5085;55.09;9231
+MN;27;;0153;State Senator District 33;33;0401;Gretchen Piper;;;DFL;10;36;4139;44.84;9231
+MN;27;;0153;State Senator District 33;33;9901;WRITE-IN;;;WI;10;36;7;0.08;9231
+MN;27;;0154;State Senator District 34;34;0301;Warren Limmer;;;R;2;30;1673;47.69;3508
+MN;27;;0154;State Senator District 34;34;0401;Bonnie Westlin;;;DFL;2;30;1832;52.22;3508
+MN;27;;0154;State Senator District 34;34;9901;WRITE-IN;;;WI;2;30;3;0.09;3508
 MN;27;;0156;State Senator District 36;36;0301;Karen Attia;;;R;0;14;0;0.00;0
 MN;27;;0156;State Senator District 36;36;0401;John Hoffman;;;DFL;0;14;0;0.00;0
 MN;27;;0156;State Senator District 36;36;9901;WRITE-IN;;;WI;0;14;0;0.00;0
@@ -2154,59 +2154,59 @@ MN;27;;0160;State Senator District 40;40;9901;WRITE-IN;;;WI;0;21;0;0.00;0
 MN;27;;0161;State Senator District 41;41;0301;Lucia Marina Vogel;;;R;0;2;0;0.00;0
 MN;27;;0161;State Senator District 41;41;0401;Mary Kunesh-Podein;;;DFL;0;2;0;0.00;0
 MN;27;;0161;State Senator District 41;41;9901;WRITE-IN;;;WI;0;2;0;0.00;0
-MN;27;;0164;State Senator District 44;44;0301;Greg Pulles;;;R;0;30;0;0.00;0
-MN;27;;0164;State Senator District 44;44;0401;Ann Johnson Stewart;;;DFL;0;30;0;0.00;0
-MN;27;;0164;State Senator District 44;44;9901;WRITE-IN;;;WI;0;30;0;0.00;0
+MN;27;;0164;State Senator District 44;44;0301;Greg Pulles;;;R;2;30;1005;35.82;2806
+MN;27;;0164;State Senator District 44;44;0401;Ann Johnson Stewart;;;DFL;2;30;1799;64.11;2806
+MN;27;;0164;State Senator District 44;44;9901;WRITE-IN;;;WI;2;30;2;0.07;2806
 MN;27;;0165;State Senator District 45;45;0101;Andy Schuler;;;LMN;0;31;0;0.00;0
 MN;27;;0165;State Senator District 45;45;0301;Roxana Bruins;;;R;0;31;0;0.00;0
 MN;27;;0165;State Senator District 45;45;0401;Ann H. Rest;;;DFL;0;31;0;0.00;0
 MN;27;;0165;State Senator District 45;45;9901;WRITE-IN;;;WI;0;31;0;0.00;0
-MN;27;;0166;State Senator District 46;46;0301;Bryan P. Björnson;;;R;0;29;0;0.00;0
-MN;27;;0166;State Senator District 46;46;0401;Ron Latz;;;DFL;0;29;0;0.00;0
-MN;27;;0166;State Senator District 46;46;9901;WRITE-IN;;;WI;0;29;0;0.00;0
-MN;27;;0168;State Senator District 48;48;0301;Jeff Jiang;;;R;1;29;0;0.00;0
-MN;27;;0168;State Senator District 48;48;0401;Steve Cwodzinski;;;DFL;1;29;0;0.00;0
-MN;27;;0168;State Senator District 48;48;9901;WRITE-IN;;;WI;1;29;0;0.00;0
-MN;27;;0169;State Senator District 49;49;0301;Julie Dupré;;;R;0;34;0;0.00;0
-MN;27;;0169;State Senator District 49;49;0401;Melisa Lopez Franzen;;;DFL;0;34;0;0.00;0
-MN;27;;0169;State Senator District 49;49;9901;WRITE-IN;;;WI;0;34;0;0.00;0
-MN;27;;0170;State Senator District 50;50;0301;Dean Wm Mumbleau;;;R;0;26;0;0.00;0
-MN;27;;0170;State Senator District 50;50;0401;Melissa Halvorson Wiklund;;;DFL;0;26;0;0.00;0
-MN;27;;0170;State Senator District 50;50;9901;WRITE-IN;;;WI;0;26;0;0.00;0
+MN;27;;0166;State Senator District 46;46;0301;Bryan P. Björnson;;;R;2;29;1157;28.34;4082
+MN;27;;0166;State Senator District 46;46;0401;Ron Latz;;;DFL;2;29;2917;71.46;4082
+MN;27;;0166;State Senator District 46;46;9901;WRITE-IN;;;WI;2;29;8;0.20;4082
+MN;27;;0168;State Senator District 48;48;0301;Jeff Jiang;;;R;4;29;1679;40.51;4145
+MN;27;;0168;State Senator District 48;48;0401;Steve Cwodzinski;;;DFL;4;29;2463;59.42;4145
+MN;27;;0168;State Senator District 48;48;9901;WRITE-IN;;;WI;4;29;3;0.07;4145
+MN;27;;0169;State Senator District 49;49;0301;Julie Dupré;;;R;2;34;1155;36.62;3154
+MN;27;;0169;State Senator District 49;49;0401;Melisa Lopez Franzen;;;DFL;2;34;1997;63.32;3154
+MN;27;;0169;State Senator District 49;49;9901;WRITE-IN;;;WI;2;34;2;0.06;3154
+MN;27;;0170;State Senator District 50;50;0301;Dean Wm Mumbleau;;;R;1;26;655;26.77;2447
+MN;27;;0170;State Senator District 50;50;0401;Melissa Halvorson Wiklund;;;DFL;1;26;1791;73.19;2447
+MN;27;;0170;State Senator District 50;50;9901;WRITE-IN;;;WI;1;26;1;0.04;2447
 MN;27;;0179;State Senator District 59;59;0301;Paul Anderson;;;R;0;25;0;0.00;0
 MN;27;;0179;State Senator District 59;59;0401;Bobby Joe Champion;;;DFL;0;25;0;0.00;0
 MN;27;;0179;State Senator District 59;59;9901;WRITE-IN;;;WI;0;25;0;0.00;0
-MN;27;;0180;State Senator District 60;60;0301;Mary Holmberg;;;R;0;27;0;0.00;0
-MN;27;;0180;State Senator District 60;60;0401;Kari Dziedzic;;;DFL;0;27;0;0.00;0
-MN;27;;0180;State Senator District 60;60;9901;WRITE-IN;;;WI;0;27;0;0.00;0
-MN;27;;0181;State Senator District 61;61;0301;Jennifer Zielinski;;;R;2;33;0;0.00;0
-MN;27;;0181;State Senator District 61;61;0401;Scott Dibble;;;DFL;2;33;0;0.00;0
-MN;27;;0181;State Senator District 61;61;9901;WRITE-IN;;;WI;2;33;0;0.00;0
+MN;27;;0180;State Senator District 60;60;0301;Mary Holmberg;;;R;3;27;399;12.08;3304
+MN;27;;0180;State Senator District 60;60;0401;Kari Dziedzic;;;DFL;3;27;2899;87.74;3304
+MN;27;;0180;State Senator District 60;60;9901;WRITE-IN;;;WI;3;27;6;0.18;3304
+MN;27;;0181;State Senator District 61;61;0301;Jennifer Zielinski;;;R;4;33;429;14.19;3024
+MN;27;;0181;State Senator District 61;61;0401;Scott Dibble;;;DFL;4;33;2595;85.81;3024
+MN;27;;0181;State Senator District 61;61;9901;WRITE-IN;;;WI;4;33;0;0.00;3024
 MN;27;;0182;State Senator District 62;62;0301;Bruce Lundeen;;;R;0;25;0;0.00;0
 MN;27;;0182;State Senator District 62;62;0401;Omar Fateh;;;DFL;0;25;0;0.00;0
 MN;27;;0182;State Senator District 62;62;9901;WRITE-IN;;;WI;0;25;0;0.00;0
-MN;27;;0183;State Senator District 63;63;0201;Chris Wright;;;GLC;0;31;0;0.00;0
-MN;27;;0183;State Senator District 63;63;0301;Diane Napper;;;R;0;31;0;0.00;0
-MN;27;;0183;State Senator District 63;63;0401;Patricia Torres Ray;;;DFL;0;31;0;0.00;0
-MN;27;;0183;State Senator District 63;63;9901;WRITE-IN;;;WI;0;31;0;0.00;0
+MN;27;;0183;State Senator District 63;63;0201;Chris Wright;;;GLC;4;31;266;5.52;4823
+MN;27;;0183;State Senator District 63;63;0301;Diane Napper;;;R;4;31;589;12.21;4823
+MN;27;;0183;State Senator District 63;63;0401;Patricia Torres Ray;;;DFL;4;31;3966;82.23;4823
+MN;27;;0183;State Senator District 63;63;9901;WRITE-IN;;;WI;4;31;2;0.04;4823
 MN;27;;0244;State Representative District 29A;29A;0301;Joe McDonald;;;R;0;1;0;0.00;0
 MN;27;;0244;State Representative District 29A;29A;0401;Renée Cardarelle;;;DFL;0;1;0;0.00;0
 MN;27;;0244;State Representative District 29A;29A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;27;;0247;State Representative District 30B;30B;0301;Eric Lucero;;;R;0;1;0;0.00;0
 MN;27;;0247;State Representative District 30B;30B;0401;Brad Kovach;;;DFL;0;1;0;0.00;0
 MN;27;;0247;State Representative District 30B;30B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;27;;0252;State Representative District 33A;33A;0301;Jerry Hertaus;;;R;0;19;0;0.00;0
-MN;27;;0252;State Representative District 33A;33A;0401;Caitlin Cahill;;;DFL;0;19;0;0.00;0
-MN;27;;0252;State Representative District 33A;33A;9901;WRITE-IN;;;WI;0;19;0;0.00;0
-MN;27;;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;1;17;0;0.00;0
-MN;27;;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;1;17;0;0.00;0
-MN;27;;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;17;0;0.00;0
+MN;27;;0252;State Representative District 33A;33A;0301;Jerry Hertaus;;;R;3;19;1977;60.37;3275
+MN;27;;0252;State Representative District 33A;33A;0401;Caitlin Cahill;;;DFL;3;19;1298;39.63;3275
+MN;27;;0252;State Representative District 33A;33A;9901;WRITE-IN;;;WI;3;19;0;0.00;3275
+MN;27;;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;7;17;3096;52.05;5948
+MN;27;;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;7;17;2848;47.88;5948
+MN;27;;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;7;17;4;0.07;5948
 MN;27;;0254;State Representative District 34A;34A;0301;Kristin Robbins;;;R;0;14;0;0.00;0
 MN;27;;0254;State Representative District 34A;34A;0401;Brian Raines;;;DFL;0;14;0;0.00;0
 MN;27;;0254;State Representative District 34A;34A;9901;WRITE-IN;;;WI;0;14;0;0.00;0
-MN;27;;0255;State Representative District 34B;34B;0301;Dori Trossen;;;R;0;16;0;0.00;0
-MN;27;;0255;State Representative District 34B;34B;0401;Kristin Bahner;;;DFL;0;16;0;0.00;0
-MN;27;;0255;State Representative District 34B;34B;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;27;;0255;State Representative District 34B;34B;0301;Dori Trossen;;;R;2;16;1688;48.63;3471
+MN;27;;0255;State Representative District 34B;34B;0401;Kristin Bahner;;;DFL;2;16;1783;51.37;3471
+MN;27;;0255;State Representative District 34B;34B;9901;WRITE-IN;;;WI;2;16;0;0.00;3471
 MN;27;;0258;State Representative District 36A;36A;0301;Bill Maresh;;;R;0;4;0;0.00;0
 MN;27;;0258;State Representative District 36A;36A;0401;Zack Stephenson;;;DFL;0;4;0;0.00;0
 MN;27;;0258;State Representative District 36A;36A;9901;WRITE-IN;;;WI;0;4;0;0.00;0
@@ -2226,35 +2226,35 @@ MN;27;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;0;2;0;0.00;
 MN;27;;0274;State Representative District 44A;44A;0301;Perry Nouis;;;R;0;12;0;0.00;0
 MN;27;;0274;State Representative District 44A;44A;0401;Ginny Klevorn;;;DFL;0;12;0;0.00;0
 MN;27;;0274;State Representative District 44A;44A;9901;WRITE-IN;;;WI;0;12;0;0.00;0
-MN;27;;0275;State Representative District 44B;44B;0301;Gary Porter;;;R;0;18;0;0.00;0
-MN;27;;0275;State Representative District 44B;44B;0401;Patty Acomb;;;DFL;0;18;0;0.00;0
-MN;27;;0275;State Representative District 44B;44B;9901;WRITE-IN;;;WI;0;18;0;0.00;0
+MN;27;;0275;State Representative District 44B;44B;0301;Gary Porter;;;R;2;18;952;34.00;2800
+MN;27;;0275;State Representative District 44B;44B;0401;Patty Acomb;;;DFL;2;18;1845;65.89;2800
+MN;27;;0275;State Representative District 44B;44B;9901;WRITE-IN;;;WI;2;18;3;0.11;2800
 MN;27;;0276;State Representative District 45A;45A;0301;Jesse Pfliger;;;R;0;16;0;0.00;0
 MN;27;;0276;State Representative District 45A;45A;0401;Cedrick Rommel Frazier;;;DFL;0;16;0;0.00;0
 MN;27;;0276;State Representative District 45A;45A;9901;WRITE-IN;;;WI;0;16;0;0.00;0
 MN;27;;0277;State Representative District 45B;45B;0301;Ken Fitzgerald;;;R;0;15;0;0.00;0
 MN;27;;0277;State Representative District 45B;45B;0401;Mike Freiberg;;;DFL;0;15;0;0.00;0
 MN;27;;0277;State Representative District 45B;45B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;27;;0278;State Representative District 46A;46A;0301;Anne Taylor;;;R;0;14;0;0.00;0
-MN;27;;0278;State Representative District 46A;46A;0401;Ryan Winkler;;;DFL;0;14;0;0.00;0
-MN;27;;0278;State Representative District 46A;46A;9901;WRITE-IN;;;WI;0;14;0;0.00;0
+MN;27;;0278;State Representative District 46A;46A;0301;Anne Taylor;;;R;2;14;1229;30.03;4093
+MN;27;;0278;State Representative District 46A;46A;0401;Ryan Winkler;;;DFL;2;14;2859;69.85;4093
+MN;27;;0278;State Representative District 46A;46A;9901;WRITE-IN;;;WI;2;14;5;0.12;4093
 MN;27;;0279;State Representative District 46B;46B;0301;Melissa Moore;;;R;0;15;0;0.00;0
 MN;27;;0279;State Representative District 46B;46B;0401;Cheryl Youakim;;;DFL;0;15;0;0.00;0
 MN;27;;0279;State Representative District 46B;46B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;27;;0282;State Representative District 48A;48A;0301;Eric Wessels;;;R;1;17;0;0.00;0
-MN;27;;0282;State Representative District 48A;48A;0401;Laurie Pryor;;;DFL;1;17;0;0.00;0
-MN;27;;0282;State Representative District 48A;48A;9901;WRITE-IN;;;WI;1;17;0;0.00;0
+MN;27;;0282;State Representative District 48A;48A;0301;Eric Wessels;;;R;4;17;1598;38.50;4151
+MN;27;;0282;State Representative District 48A;48A;0401;Laurie Pryor;;;DFL;4;17;2552;61.48;4151
+MN;27;;0282;State Representative District 48A;48A;9901;WRITE-IN;;;WI;4;17;1;0.02;4151
 MN;27;;0283;State Representative District 48B;48B;0301;Holly Link;;;R;0;12;0;0.00;0
 MN;27;;0283;State Representative District 48B;48B;0401;Carlie Kotyza-Witthuhn;;;DFL;0;12;0;0.00;0
 MN;27;;0283;State Representative District 48B;48B;9901;WRITE-IN;;;WI;0;12;0;0.00;0
-MN;27;;0284;State Representative District 49A;49A;0401;Heather Edelson;;;DFL;0;16;0;0.00;0
-MN;27;;0284;State Representative District 49A;49A;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;27;;0284;State Representative District 49A;49A;0401;Heather Edelson;;;DFL;2;16;2223;95.29;2333
+MN;27;;0284;State Representative District 49A;49A;9901;WRITE-IN;;;WI;2;16;110;4.71;2333
 MN;27;;0285;State Representative District 49B;49B;0301;Joe Thalman;;;R;0;18;0;0.00;0
 MN;27;;0285;State Representative District 49B;49B;0401;Steve Elkins;;;DFL;0;18;0;0.00;0
 MN;27;;0285;State Representative District 49B;49B;9901;WRITE-IN;;;WI;0;18;0;0.00;0
-MN;27;;0286;State Representative District 50A;50A;0301;Tim Johnson;;;R;0;11;0;0.00;0
-MN;27;;0286;State Representative District 50A;50A;0401;Michael Howard;;;DFL;0;11;0;0.00;0
-MN;27;;0286;State Representative District 50A;50A;9901;WRITE-IN;;;WI;0;11;0;0.00;0
+MN;27;;0286;State Representative District 50A;50A;0301;Tim Johnson;;;R;1;11;702;28.47;2466
+MN;27;;0286;State Representative District 50A;50A;0401;Michael Howard;;;DFL;1;11;1763;71.49;2466
+MN;27;;0286;State Representative District 50A;50A;9901;WRITE-IN;;;WI;1;11;1;0.04;2466
 MN;27;;0287;State Representative District 50B;50B;0301;Gary Heyer;;;R;0;15;0;0.00;0
 MN;27;;0287;State Representative District 50B;50B;0401;Andrew Carlson;;;DFL;0;15;0;0.00;0
 MN;27;;0287;State Representative District 50B;50B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
@@ -2265,111 +2265,111 @@ MN;27;;0305;State Representative District 59B;59B;0301;Alan Shilepsky;;;R;0;15;0
 MN;27;;0305;State Representative District 59B;59B;0401;Esther Agbaje;;;DFL;0;15;0;0.00;0
 MN;27;;0305;State Representative District 59B;59B;0601;Lisa Neal-Delgado;;;GP;0;15;0;0.00;0
 MN;27;;0305;State Representative District 59B;59B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;27;;0306;State Representative District 60A;60A;0301;John Holmberg;;;R;0;14;0;0.00;0
-MN;27;;0306;State Representative District 60A;60A;0401;Sydney Jordan;;;DFL;0;14;0;0.00;0
-MN;27;;0306;State Representative District 60A;60A;1101;Calvin Lee Carpenter;;;VPM;0;14;0;0.00;0
-MN;27;;0306;State Representative District 60A;60A;9901;WRITE-IN;;;WI;0;14;0;0.00;0
-MN;27;;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;0;13;0;0.00;0
-MN;27;;0307;State Representative District 60B;60B;9901;WRITE-IN;;;WI;0;13;0;0.00;0
+MN;27;;0306;State Representative District 60A;60A;0301;John Holmberg;;;R;2;14;270;12.15;2223
+MN;27;;0306;State Representative District 60A;60A;0401;Sydney Jordan;;;DFL;2;14;1893;85.16;2223
+MN;27;;0306;State Representative District 60A;60A;1101;Calvin Lee Carpenter;;;VPM;2;14;59;2.65;2223
+MN;27;;0306;State Representative District 60A;60A;9901;WRITE-IN;;;WI;2;14;1;0.04;2223
+MN;27;;0307;State Representative District 60B;60B;0401;Mohamud Noor;;;DFL;1;13;927;97.89;947
+MN;27;;0307;State Representative District 60B;60B;9901;WRITE-IN;;;WI;1;13;20;2.11;947
 MN;27;;0308;State Representative District 61A;61A;0301;Kurtis Fechtmeyer;;;R;2;18;0;0.00;0
 MN;27;;0308;State Representative District 61A;61A;0401;Frank Hornstein;;;DFL;2;18;0;0.00;0
 MN;27;;0308;State Representative District 61A;61A;9901;WRITE-IN;;;WI;2;18;0;0.00;0
-MN;27;;0309;State Representative District 61B;61B;0301;Lisa Pohlman;;;R;0;15;0;0.00;0
-MN;27;;0309;State Representative District 61B;61B;0401;Jamie Long;;;DFL;0;15;0;0.00;0
-MN;27;;0309;State Representative District 61B;61B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
+MN;27;;0309;State Representative District 61B;61B;0301;Lisa Pohlman;;;R;2;15;470;15.65;3004
+MN;27;;0309;State Representative District 61B;61B;0401;Jamie Long;;;DFL;2;15;2534;84.35;3004
+MN;27;;0309;State Representative District 61B;61B;9901;WRITE-IN;;;WI;2;15;0;0.00;3004
 MN;27;;0310;State Representative District 62A;62A;0301;Arjun Kataria;;;R;0;13;0;0.00;0
 MN;27;;0310;State Representative District 62A;62A;0401;Hodan Hassan;;;DFL;0;13;0;0.00;0
 MN;27;;0310;State Representative District 62A;62A;9901;WRITE-IN;;;WI;0;13;0;0.00;0
 MN;27;;0311;State Representative District 62B;62B;0301;Ross Tenneson;;;R;0;12;0;0.00;0
 MN;27;;0311;State Representative District 62B;62B;0401;Aisha Gomez;;;DFL;0;12;0;0.00;0
 MN;27;;0311;State Representative District 62B;62B;9901;WRITE-IN;;;WI;0;12;0;0.00;0
-MN;27;;0312;State Representative District 63A;63A;0101;David Wiester;;;LMN;0;16;0;0.00;0
-MN;27;;0312;State Representative District 63A;63A;0301;Penny Arcos;;;R;0;16;0;0.00;0
-MN;27;;0312;State Representative District 63A;63A;0401;Jim Davnie;;;DFL;0;16;0;0.00;0
-MN;27;;0312;State Representative District 63A;63A;9901;WRITE-IN;;;WI;0;16;0;0.00;0
+MN;27;;0312;State Representative District 63A;63A;0101;David Wiester;;;LMN;4;16;325;6.75;4815
+MN;27;;0312;State Representative District 63A;63A;0301;Penny Arcos;;;R;4;16;538;11.17;4815
+MN;27;;0312;State Representative District 63A;63A;0401;Jim Davnie;;;DFL;4;16;3950;82.04;4815
+MN;27;;0312;State Representative District 63A;63A;9901;WRITE-IN;;;WI;4;16;2;0.04;4815
 MN;27;;0313;State Representative District 63B;63B;0101;Dennis Schuller;;;LMN;0;15;0;0.00;0
 MN;27;;0313;State Representative District 63B;63B;0301;Frank Pafko;;;R;0;15;0;0.00;0
 MN;27;;0313;State Representative District 63B;63B;0401;Emma Greenman;;;DFL;0;15;0;0.00;0
 MN;27;;0313;State Representative District 63B;63B;9901;WRITE-IN;;;WI;0;15;0;0.00;0
-MN;27;;0391;County Commissioner District 1;01;9001;Jeff Lunde;;;NP;0;55;0;0.00;0
-MN;27;;0391;County Commissioner District 1;01;9003;De'Vonna Pittman;;;NP;0;55;0;0.00;0
-MN;27;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;55;0;0.00;0
-MN;27;;0395;County Commissioner District 5;05;9001;Debbie Goettel;;;NP;1;56;0;0.00;0
-MN;27;;0395;County Commissioner District 5;05;9002;Boni Njenga;;;NP;1;56;0;0.00;0
-MN;27;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;1;56;0;0.00;0
-MN;27;;0396;County Commissioner District 6;06;9003;Chris LaTondresse;;;NP;1;76;0;0.00;0
-MN;27;;0396;County Commissioner District 6;06;9004;Dario Anselmo;;;NP;1;76;0;0.00;0
-MN;27;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;1;76;0;0.00;0
-MN;27;;0397;County Commissioner District 7;07;9001;Kevin Anderson;;;NP;0;63;0;0.00;0
-MN;27;;0397;County Commissioner District 7;07;9003;Danny Nadeau;;;NP;0;63;0;0.00;0
-MN;27;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;0;63;0;0.00;0
-MN;27;;0411;County Park Commissioner District 1;1;9001;Marge Beard;;;NP;0;61;0;0.00;0
-MN;27;;0411;County Park Commissioner District 1;1;9901;WRITE-IN;;;WI;0;61;0;0.00;0
-MN;27;;0413;County Park Commissioner District 3;3;9001;Dan Freeman;;;NP;0;52;0;0.00;0
-MN;27;;0413;County Park Commissioner District 3;3;9901;WRITE-IN;;;WI;0;52;0;0.00;0
+MN;27;;0391;County Commissioner District 1;01;9001;Jeff Lunde;;;NP;1;55;715;57.85;1236
+MN;27;;0391;County Commissioner District 1;01;9003;De'Vonna Pittman;;;NP;1;55;512;41.42;1236
+MN;27;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;1;55;9;0.73;1236
+MN;27;;0395;County Commissioner District 5;05;9001;Debbie Goettel;;;NP;2;56;1602;75.28;2128
+MN;27;;0395;County Commissioner District 5;05;9002;Boni Njenga;;;NP;2;56;513;24.11;2128
+MN;27;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;2;56;13;0.61;2128
+MN;27;;0396;County Commissioner District 6;06;9003;Chris LaTondresse;;;NP;12;76;5842;52.47;11134
+MN;27;;0396;County Commissioner District 6;06;9004;Dario Anselmo;;;NP;12;76;5248;47.13;11134
+MN;27;;0396;County Commissioner District 6;06;9901;WRITE-IN;;;WI;12;76;44;0.40;11134
+MN;27;;0397;County Commissioner District 7;07;9001;Kevin Anderson;;;NP;6;63;3147;49.95;6300
+MN;27;;0397;County Commissioner District 7;07;9003;Danny Nadeau;;;NP;6;63;3124;49.59;6300
+MN;27;;0397;County Commissioner District 7;07;9901;WRITE-IN;;;WI;6;63;29;0.46;6300
+MN;27;;0411;County Park Commissioner District 1;1;9001;Marge Beard;;;NP;6;61;4096;97.57;4198
+MN;27;;0411;County Park Commissioner District 1;1;9901;WRITE-IN;;;WI;6;61;102;2.43;4198
+MN;27;;0413;County Park Commissioner District 3;3;9001;Dan Freeman;;;NP;2;52;2280;97.69;2334
+MN;27;;0413;County Park Commissioner District 3;3;9901;WRITE-IN;;;WI;2;52;54;2.31;2334
 MN;27;;0415;County Park Commissioner District 5;5;9001;John F. Gibbs;;;NP;1;56;0;0.00;0
 MN;27;;0415;County Park Commissioner District 5;5;9901;WRITE-IN;;;WI;1;56;0;0.00;0
-MN;27;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;4;425;0;0.00;0
-MN;27;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;4;425;0;0.00;0
-MN;27;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;4;425;0;0.00;0
-MN;27;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;4;425;0;0.00;0
-MN;27;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;4;425;0;0.00;0
-MN;27;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;4;425;0;0.00;0
-MN;27;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8500;Judge - 4th District Court 1;04;9001;William H. Koch;;;NP;4;425;0;0.00;0
-MN;27;;8500;Judge - 4th District Court 1;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8504;Judge - 4th District Court 5;04;9001;Kerry W. Meyer;;;NP;4;425;0;0.00;0
-MN;27;;8504;Judge - 4th District Court 5;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8509;Judge - 4th District Court 10;04;9001;Kathryn L Quaintance;;;NP;4;425;0;0.00;0
-MN;27;;8509;Judge - 4th District Court 10;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8513;Judge - 4th District Court 14;04;9001;Martha Holton Dimick;;;NP;4;425;0;0.00;0
-MN;27;;8513;Judge - 4th District Court 14;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8515;Judge - 4th District Court 16;04;9001;James A. Moore;;;NP;4;425;0;0.00;0
-MN;27;;8515;Judge - 4th District Court 16;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8518;Judge - 4th District Court 19;04;9001;Gina M Brandt;;;NP;4;425;0;0.00;0
-MN;27;;8518;Judge - 4th District Court 19;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8519;Judge - 4th District Court 20;04;9001;Daniel C. Moreno;;;NP;4;425;0;0.00;0
-MN;27;;8519;Judge - 4th District Court 20;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8524;Judge - 4th District Court 25;04;9001;Michelle A. Hatcher;;;NP;4;425;0;0.00;0
-MN;27;;8524;Judge - 4th District Court 25;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8526;Judge - 4th District Court 27;04;9001;Jay M. Quam;;;NP;4;425;0;0.00;0
-MN;27;;8526;Judge - 4th District Court 27;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8527;Judge - 4th District Court 28;04;9001;Toddrick S. Barnette;;;NP;4;425;0;0.00;0
-MN;27;;8527;Judge - 4th District Court 28;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8528;Judge - 4th District Court 29;04;9001;Todd M. Fellman;;;NP;4;425;0;0.00;0
-MN;27;;8528;Judge - 4th District Court 29;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8529;Judge - 4th District Court 30;04;9001;Susan M. Robiner;;;NP;4;425;0;0.00;0
-MN;27;;8529;Judge - 4th District Court 30;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8530;Judge - 4th District Court 31;04;9001;Margaret (Peg) Daly;;;NP;4;425;0;0.00;0
-MN;27;;8530;Judge - 4th District Court 31;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8531;Judge - 4th District Court 32;04;9001;Peter A. Cahill;;;NP;4;425;0;0.00;0
-MN;27;;8531;Judge - 4th District Court 32;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8534;Judge - 4th District Court 35;04;9001;Sarah S. West;;;NP;4;425;0;0.00;0
-MN;27;;8534;Judge - 4th District Court 35;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8537;Judge - 4th District Court 38;04;9001;Kathleen D. Sheehy;;;NP;4;425;0;0.00;0
-MN;27;;8537;Judge - 4th District Court 38;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8541;Judge - 4th District Court 42;04;9001;Luis A. Bartolomei;;;NP;4;425;0;0.00;0
-MN;27;;8541;Judge - 4th District Court 42;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8542;Judge - 4th District Court 43;04;9001;Bridget Ann Sullivan;;;NP;4;425;0;0.00;0
-MN;27;;8542;Judge - 4th District Court 43;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8546;Judge - 4th District Court 47;04;9001;Tanya M. Bransford;;;NP;4;425;0;0.00;0
-MN;27;;8546;Judge - 4th District Court 47;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8552;Judge - 4th District Court 53;04;9001;Bev Benson;;;NP;4;425;0;0.00;0
-MN;27;;8552;Judge - 4th District Court 53;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8553;Judge - 4th District Court 54;04;9001;Kristin Siegesmund;;;NP;4;425;0;0.00;0
-MN;27;;8553;Judge - 4th District Court 54;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8554;Judge - 4th District Court 55;04;9001;Edward T. "Ned" Wahl;;;NP;4;425;0;0.00;0
-MN;27;;8554;Judge - 4th District Court 55;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8556;Judge - 4th District Court 57;04;9001;Jeannice M. Reding;;;NP;4;425;0;0.00;0
-MN;27;;8556;Judge - 4th District Court 57;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8560;Judge - 4th District Court 61;04;9001;Amy Dawson;;;NP;4;425;0;0.00;0
-MN;27;;8560;Judge - 4th District Court 61;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
-MN;27;;8562;Judge - 4th District Court 63;04;9001;Angela Willms;;;NP;4;425;0;0.00;0
-MN;27;;8562;Judge - 4th District Court 63;04;9901;WRITE-IN;;;WI;4;425;0;0.00;0
+MN;27;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;34;425;9654;31.03;31109
+MN;27;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;34;425;21370;68.69;31109
+MN;27;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;34;425;85;0.27;31109
+MN;27;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;34;425;19166;98.93;19373
+MN;27;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;34;425;207;1.07;19373
+MN;27;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;34;425;18640;98.95;18838
+MN;27;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;34;425;198;1.05;18838
+MN;27;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;34;425;18732;99.13;18896
+MN;27;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;34;425;164;0.87;18896
+MN;27;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;34;425;18409;99.01;18593
+MN;27;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;34;425;184;0.99;18593
+MN;27;;8500;Judge - 4th District Court 1;04;9001;William H. Koch;;;NP;34;425;18404;98.96;18598
+MN;27;;8500;Judge - 4th District Court 1;04;9901;WRITE-IN;;;WI;34;425;194;1.04;18598
+MN;27;;8504;Judge - 4th District Court 5;04;9001;Kerry W. Meyer;;;NP;34;425;18314;99.08;18484
+MN;27;;8504;Judge - 4th District Court 5;04;9901;WRITE-IN;;;WI;34;425;170;0.92;18484
+MN;27;;8509;Judge - 4th District Court 10;04;9001;Kathryn L Quaintance;;;NP;34;425;18447;99.19;18598
+MN;27;;8509;Judge - 4th District Court 10;04;9901;WRITE-IN;;;WI;34;425;151;0.81;18598
+MN;27;;8513;Judge - 4th District Court 14;04;9001;Martha Holton Dimick;;;NP;34;425;18305;99.23;18447
+MN;27;;8513;Judge - 4th District Court 14;04;9901;WRITE-IN;;;WI;34;425;142;0.77;18447
+MN;27;;8515;Judge - 4th District Court 16;04;9001;James A. Moore;;;NP;34;425;18224;99.23;18365
+MN;27;;8515;Judge - 4th District Court 16;04;9901;WRITE-IN;;;WI;34;425;141;0.77;18365
+MN;27;;8518;Judge - 4th District Court 19;04;9001;Gina M Brandt;;;NP;34;425;18105;99.23;18246
+MN;27;;8518;Judge - 4th District Court 19;04;9901;WRITE-IN;;;WI;34;425;141;0.77;18246
+MN;27;;8519;Judge - 4th District Court 20;04;9001;Daniel C. Moreno;;;NP;34;425;18007;99.20;18152
+MN;27;;8519;Judge - 4th District Court 20;04;9901;WRITE-IN;;;WI;34;425;145;0.80;18152
+MN;27;;8524;Judge - 4th District Court 25;04;9001;Michelle A. Hatcher;;;NP;34;425;18087;99.31;18212
+MN;27;;8524;Judge - 4th District Court 25;04;9901;WRITE-IN;;;WI;34;425;125;0.69;18212
+MN;27;;8526;Judge - 4th District Court 27;04;9001;Jay M. Quam;;;NP;34;425;17996;99.20;18142
+MN;27;;8526;Judge - 4th District Court 27;04;9901;WRITE-IN;;;WI;34;425;146;0.80;18142
+MN;27;;8527;Judge - 4th District Court 28;04;9001;Toddrick S. Barnette;;;NP;34;425;17925;99.23;18065
+MN;27;;8527;Judge - 4th District Court 28;04;9901;WRITE-IN;;;WI;34;425;140;0.77;18065
+MN;27;;8528;Judge - 4th District Court 29;04;9001;Todd M. Fellman;;;NP;34;425;17918;99.26;18051
+MN;27;;8528;Judge - 4th District Court 29;04;9901;WRITE-IN;;;WI;34;425;133;0.74;18051
+MN;27;;8529;Judge - 4th District Court 30;04;9001;Susan M. Robiner;;;NP;34;425;17983;99.32;18107
+MN;27;;8529;Judge - 4th District Court 30;04;9901;WRITE-IN;;;WI;34;425;124;0.68;18107
+MN;27;;8530;Judge - 4th District Court 31;04;9001;Margaret (Peg) Daly;;;NP;34;425;18014;99.28;18145
+MN;27;;8530;Judge - 4th District Court 31;04;9901;WRITE-IN;;;WI;34;425;131;0.72;18145
+MN;27;;8531;Judge - 4th District Court 32;04;9001;Peter A. Cahill;;;NP;34;425;18005;99.20;18151
+MN;27;;8531;Judge - 4th District Court 32;04;9901;WRITE-IN;;;WI;34;425;146;0.80;18151
+MN;27;;8534;Judge - 4th District Court 35;04;9001;Sarah S. West;;;NP;34;425;18031;99.36;18147
+MN;27;;8534;Judge - 4th District Court 35;04;9901;WRITE-IN;;;WI;34;425;116;0.64;18147
+MN;27;;8537;Judge - 4th District Court 38;04;9001;Kathleen D. Sheehy;;;NP;34;425;18055;99.35;18173
+MN;27;;8537;Judge - 4th District Court 38;04;9901;WRITE-IN;;;WI;34;425;118;0.65;18173
+MN;27;;8541;Judge - 4th District Court 42;04;9001;Luis A. Bartolomei;;;NP;34;425;17909;99.30;18035
+MN;27;;8541;Judge - 4th District Court 42;04;9901;WRITE-IN;;;WI;34;425;126;0.70;18035
+MN;27;;8542;Judge - 4th District Court 43;04;9001;Bridget Ann Sullivan;;;NP;34;425;18020;99.38;18132
+MN;27;;8542;Judge - 4th District Court 43;04;9901;WRITE-IN;;;WI;34;425;112;0.62;18132
+MN;27;;8546;Judge - 4th District Court 47;04;9001;Tanya M. Bransford;;;NP;34;425;18073;99.38;18186
+MN;27;;8546;Judge - 4th District Court 47;04;9901;WRITE-IN;;;WI;34;425;113;0.62;18186
+MN;27;;8552;Judge - 4th District Court 53;04;9001;Bev Benson;;;NP;34;425;17955;99.35;18072
+MN;27;;8552;Judge - 4th District Court 53;04;9901;WRITE-IN;;;WI;34;425;117;0.65;18072
+MN;27;;8553;Judge - 4th District Court 54;04;9001;Kristin Siegesmund;;;NP;34;425;17967;99.39;18078
+MN;27;;8553;Judge - 4th District Court 54;04;9901;WRITE-IN;;;WI;34;425;111;0.61;18078
+MN;27;;8554;Judge - 4th District Court 55;04;9001;Edward T. "Ned" Wahl;;;NP;34;425;17872;99.32;17995
+MN;27;;8554;Judge - 4th District Court 55;04;9901;WRITE-IN;;;WI;34;425;123;0.68;17995
+MN;27;;8556;Judge - 4th District Court 57;04;9001;Jeannice M. Reding;;;NP;34;425;17866;99.30;17992
+MN;27;;8556;Judge - 4th District Court 57;04;9901;WRITE-IN;;;WI;34;425;126;0.70;17992
+MN;27;;8560;Judge - 4th District Court 61;04;9001;Amy Dawson;;;NP;34;425;17991;99.35;18109
+MN;27;;8560;Judge - 4th District Court 61;04;9901;WRITE-IN;;;WI;34;425;118;0.65;18109
+MN;27;;8562;Judge - 4th District Court 63;04;9001;Angela Willms;;;NP;34;425;17947;99.31;18072
+MN;27;;8562;Judge - 4th District Court 63;04;9901;WRITE-IN;;;WI;34;425;125;0.69;18072
 MN;28;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;27;0;0.00;0
 MN;28;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;27;0;0.00;0
 MN;28;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;27;0;0.00;0
@@ -3279,28 +3279,28 @@ MN;39;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;1;17;0;0.0
 MN;39;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;1;17;0;0.00;0
 MN;39;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;1;17;0;0.00;0
 MN;39;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;1;17;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;0;26;0;0.00;0
-MN;40;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;0;26;0;0.00;0
-MN;40;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;0;26;0;0.00;0
-MN;40;;0102;U.S. Senator;;0301;Jason Lewis;;;R;0;26;0;0.00;0
-MN;40;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;0;26;0;0.00;0
-MN;40;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;26;0;0.00;0
-MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;26;0;0.00;0
-MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;26;0;0.00;0
-MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;0;3;0;0.00;0
-MN;40;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;0;3;0;0.00;0
-MN;40;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;1;26;0;0.00;0
+MN;40;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;26;0;0.00;0
+MN;40;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;26;0;0.00;0
+MN;40;;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;26;0;0.00;0
+MN;40;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;26;0;0.00;0
+MN;40;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;26;0;0.00;0
+MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;26;0;0.00;0
+MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;26;0;0.00;0
+MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;3;0;0.00;0
+MN;40;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;3;0;0.00;0
+MN;40;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;3;0;0.00;0
 MN;40;;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;0;19;0;0.00;0
 MN;40;;0140;State Senator District 20;20;0301;Rich Draheim;;;R;0;19;0;0.00;0
 MN;40;;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;0;19;0;0.00;0
@@ -3308,9 +3308,9 @@ MN;40;;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;0;19;0;0.00;0
 MN;40;;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;0;4;0;0.00;0
 MN;40;;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;0;4;0;0.00;0
 MN;40;;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;0;4;0;0.00;0
-MN;40;;0224;State Representative District 19A;19A;0301;Susan Akland;;;R;0;3;0;0.00;0
-MN;40;;0224;State Representative District 19A;19A;0401;Jeff Brand;;;DFL;0;3;0;0.00;0
-MN;40;;0224;State Representative District 19A;19A;9901;WRITE-IN;;;WI;0;3;0;0.00;0
+MN;40;;0224;State Representative District 19A;19A;0301;Susan Akland;;;R;1;3;0;0.00;0
+MN;40;;0224;State Representative District 19A;19A;0401;Jeff Brand;;;DFL;1;3;0;0.00;0
+MN;40;;0224;State Representative District 19A;19A;9901;WRITE-IN;;;WI;1;3;0;0.00;0
 MN;40;;0226;State Representative District 20A;20A;0301;Brian Pfarr;;;R;0;12;0;0.00;0
 MN;40;;0226;State Representative District 20A;20A;0401;Erina Prom;;;DFL;0;12;0;0.00;0
 MN;40;;0226;State Representative District 20A;20A;9901;WRITE-IN;;;WI;0;12;0;0.00;0
@@ -3324,44 +3324,44 @@ MN;40;;0391;County Commissioner District 1;01;9001;David Gliszinski;;;NP;0;3;0;0
 MN;40;;0391;County Commissioner District 1;01;9901;WRITE-IN;;;WI;0;3;0;0.00;0
 MN;40;;0393;County Commissioner District 3;03;9001;John King;;;NP;0;3;0;0.00;0
 MN;40;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;0;3;0;0.00;0
-MN;40;;0433;Soil and Water Supervisor District 3;6079;9001;Glendon Braun;;;NP;0;26;0;0.00;0
-MN;40;;0433;Soil and Water Supervisor District 3;6079;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;0434;Soil and Water Supervisor District 4;6079;9001;Cletus Gregor;;;NP;0;26;0;0.00;0
-MN;40;;0434;Soil and Water Supervisor District 4;6079;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;0435;Soil and Water Supervisor District 5;6079;9001;Jim Struck;;;NP;0;26;0;0.00;0
-MN;40;;0435;Soil and Water Supervisor District 5;6079;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;0;26;0;0.00;0
-MN;40;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;0;26;0;0.00;0
-MN;40;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;0;26;0;0.00;0
-MN;40;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;0;26;0;0.00;0
-MN;40;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;0;26;0;0.00;0
-MN;40;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;0;26;0;0.00;0
-MN;40;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8100;Judge - 1st District Court 1;01;9001;Ann M. Offermann;;;NP;0;26;0;0.00;0
-MN;40;;8100;Judge - 1st District Court 1;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8102;Judge - 1st District Court 3;01;9001;Dannia Edwards;;;NP;0;26;0;0.00;0
-MN;40;;8102;Judge - 1st District Court 3;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8103;Judge - 1st District Court 4;01;9001;Tracy L. Perzel;;;NP;0;26;0;0.00;0
-MN;40;;8103;Judge - 1st District Court 4;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8108;Judge - 1st District Court 9;01;9001;Patrick H Goggins;;;NP;0;26;0;0.00;0
-MN;40;;8108;Judge - 1st District Court 9;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8111;Judge - 1st District Court 12;01;9001;Michael D Wentzell;;;NP;0;26;0;0.00;0
-MN;40;;8111;Judge - 1st District Court 12;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8115;Judge - 1st District Court 16;01;9001;Shawn M. Moynihan;;;NP;0;26;0;0.00;0
-MN;40;;8115;Judge - 1st District Court 16;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8117;Judge - 1st District Court 18;01;9001;Christian Sean Wilton;;;NP;0;26;0;0.00;0
-MN;40;;8117;Judge - 1st District Court 18;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8118;Judge - 1st District Court 19;01;9001;Vicki Taylor;;;NP;0;26;0;0.00;0
-MN;40;;8118;Judge - 1st District Court 19;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8126;Judge - 1st District Court 27;01;9001;Tanya O. O'Brien;;;NP;0;26;0;0.00;0
-MN;40;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
-MN;40;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;0;26;0;0.00;0
-MN;40;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;0;26;0;0.00;0
-MN;40;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;0;26;0;0.00;0
+MN;40;;0433;Soil and Water Supervisor District 3;6079;9001;Glendon Braun;;;NP;1;26;0;0.00;0
+MN;40;;0433;Soil and Water Supervisor District 3;6079;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;0434;Soil and Water Supervisor District 4;6079;9001;Cletus Gregor;;;NP;1;26;0;0.00;0
+MN;40;;0434;Soil and Water Supervisor District 4;6079;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;0435;Soil and Water Supervisor District 5;6079;9001;Jim Struck;;;NP;1;26;0;0.00;0
+MN;40;;0435;Soil and Water Supervisor District 5;6079;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;1;26;0;0.00;0
+MN;40;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;1;26;0;0.00;0
+MN;40;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;1;26;0;0.00;0
+MN;40;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;1;26;0;0.00;0
+MN;40;;7018;Judge - Court of Appeals 9;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;1;26;0;0.00;0
+MN;40;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;1;26;0;0.00;0
+MN;40;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8100;Judge - 1st District Court 1;01;9001;Ann M. Offermann;;;NP;1;26;0;0.00;0
+MN;40;;8100;Judge - 1st District Court 1;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8102;Judge - 1st District Court 3;01;9001;Dannia Edwards;;;NP;1;26;0;0.00;0
+MN;40;;8102;Judge - 1st District Court 3;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8103;Judge - 1st District Court 4;01;9001;Tracy L. Perzel;;;NP;1;26;0;0.00;0
+MN;40;;8103;Judge - 1st District Court 4;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8108;Judge - 1st District Court 9;01;9001;Patrick H Goggins;;;NP;1;26;0;0.00;0
+MN;40;;8108;Judge - 1st District Court 9;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8111;Judge - 1st District Court 12;01;9001;Michael D Wentzell;;;NP;1;26;0;0.00;0
+MN;40;;8111;Judge - 1st District Court 12;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8115;Judge - 1st District Court 16;01;9001;Shawn M. Moynihan;;;NP;1;26;0;0.00;0
+MN;40;;8115;Judge - 1st District Court 16;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8117;Judge - 1st District Court 18;01;9001;Christian Sean Wilton;;;NP;1;26;0;0.00;0
+MN;40;;8117;Judge - 1st District Court 18;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8118;Judge - 1st District Court 19;01;9001;Vicki Taylor;;;NP;1;26;0;0.00;0
+MN;40;;8118;Judge - 1st District Court 19;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8126;Judge - 1st District Court 27;01;9001;Tanya O. O'Brien;;;NP;1;26;0;0.00;0
+MN;40;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
+MN;40;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;1;26;0;0.00;0
+MN;40;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;1;26;0;0.00;0
+MN;40;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;1;26;0;0.00;0
 MN;41;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;20;0;0.00;0
 MN;41;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;20;0;0.00;0
 MN;41;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;20;0;0.00;0
