@@ -788,9 +788,9 @@ MN;04;0130;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.30;330
 MN;04;0135;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;95;83.33;114
 MN;04;0135;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;19;16.67;114
 MN;04;0135;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;114
-MN;04;0140;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0140;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0140;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0140;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;17;77.27;22
+MN;04;0140;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;5;22.73;22
+MN;04;0140;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;22
 MN;04;0145;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;289;63.66;454
 MN;04;0145;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;165;36.34;454
 MN;04;0145;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;454
@@ -7597,14 +7597,14 @@ MN;50;0125;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;42;9.74
 MN;50;0125;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;254;58.93;431
 MN;50;0125;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;135;31.32;431
 MN;50;0125;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;431
-MN;50;0130;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0130;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0130;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0130;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0135;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0135;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0135;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0135;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;50;0130;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;3;1.74;172
+MN;50;0130;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;127;73.84;172
+MN;50;0130;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;42;24.42;172
+MN;50;0130;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;172
+MN;50;0135;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;1;0.89;112
+MN;50;0135;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;74;66.07;112
+MN;50;0135;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;37;33.04;112
+MN;50;0135;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;112
 MN;50;0140;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
 MN;50;0140;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
 MN;50;0140;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
@@ -7641,38 +7641,38 @@ MN;50;0180;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;
 MN;50;0180;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
 MN;50;0180;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
 MN;50;0180;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0185;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0185;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0185;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0185;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0190;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0190;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0190;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0190;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0195;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0195;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0195;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0195;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0200;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0200;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0200;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0200;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0205;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0205;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0205;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0205;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;50;0185;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0185;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0185;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0185;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0190;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0190;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0190;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0190;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0195;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0195;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0195;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0195;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0200;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0200;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0200;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0200;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0205;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0205;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0205;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0205;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
 MN;50;0210;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
 MN;50;0210;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
 MN;50;0210;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
 MN;50;0210;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0215;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0215;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0215;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0215;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0220;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0220;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0220;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0220;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;50;0215;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0215;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0215;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0215;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0220;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
+MN;50;0220;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
+MN;50;0220;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
+MN;50;0220;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
 MN;51;0005;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;1;1;5;7.14;70
 MN;51;0005;0142;State Senator District 22;22;0301;Bill Weber;;;R;1;1;46;65.71;70
 MN;51;0005;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;1;1;19;27.14;70
