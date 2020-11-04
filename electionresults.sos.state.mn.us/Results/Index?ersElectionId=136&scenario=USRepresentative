@@ -335,7 +335,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.83%&nbsp;&nbsp;4,103&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:06 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:16 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,581,421
@@ -353,7 +353,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:06 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 12:16 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -706,7 +706,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Slater Johnson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,575</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,648</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">4.87%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="4" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -714,31 +714,31 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rae Hart Anderson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">6,433</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.78%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">6,480</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.79%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michelle Fischbach</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">192,930</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.47%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">193,313</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.36%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="53" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Collin C Peterson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">143,545</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.78%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">144,462</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.88%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="39" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">366</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">367</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.10%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
