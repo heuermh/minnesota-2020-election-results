@@ -28,16 +28,16 @@ MN;03;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;03;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;27;48;11;0.07;15983
 MN;03;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;27;48;151;0.94;15983
 MN;03;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;48;46;0.29;15983
-MN;04;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;1;63;0;0.00;0
-MN;04;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;1;63;0;0.00;0
+MN;04;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;9;63;3910;63.68;6140
+MN;04;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;9;63;2041;33.24;6140
+MN;04;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;9;63;12;0.20;6140
+MN;04;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;9;63;21;0.34;6140
+MN;04;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;9;63;20;0.33;6140
+MN;04;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;9;63;7;0.11;6140
+MN;04;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;9;63;3;0.05;6140
+MN;04;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;9;63;2;0.03;6140
+MN;04;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;9;63;106;1.73;6140
+MN;04;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;9;63;18;0.29;6140
 MN;05;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;1;27;0;0.00;0
 MN;05;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;1;27;0;0.00;0
 MN;05;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;1;27;0;0.00;0
@@ -138,56 +138,56 @@ MN;14;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;14;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;58;58;6;0.02;32216
 MN;14;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;58;58;410;1.27;32216
 MN;14;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;58;58;101;0.31;32216
-MN;15;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;9;29;905;74.61;1213
-MN;15;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;9;29;293;24.15;1213
-MN;15;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;9;29;2;0.16;1213
-MN;15;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;9;29;2;0.16;1213
-MN;15;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;9;29;2;0.16;1213
-MN;15;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;9;29;1;0.08;1213
-MN;15;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;9;29;0;0.00;1213
-MN;15;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;9;29;0;0.00;1213
-MN;15;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;9;29;5;0.41;1213
-MN;15;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;9;29;3;0.25;1213
-MN;16;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;8;13;856;32.76;2613
-MN;16;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;8;13;1688;64.60;2613
-MN;16;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;8;13;5;0.19;2613
-MN;16;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;8;13;11;0.42;2613
-MN;16;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;8;13;8;0.31;2613
-MN;16;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;8;13;5;0.19;2613
-MN;16;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;8;13;1;0.04;2613
-MN;16;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;8;13;1;0.04;2613
-MN;16;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;8;13;24;0.92;2613
-MN;16;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;8;13;14;0.54;2613
-MN;17;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;27;29;3279;67.55;4854
-MN;17;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;27;29;1496;30.82;4854
-MN;17;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;27;29;7;0.14;4854
-MN;17;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;27;29;7;0.14;4854
-MN;17;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;27;29;9;0.19;4854
-MN;17;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;27;29;8;0.16;4854
-MN;17;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;27;29;0;0.00;4854
-MN;17;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;27;29;0;0.00;4854
-MN;17;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;27;29;43;0.89;4854
-MN;17;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;29;5;0.10;4854
-MN;18;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;59;62;24405;64.03;38112
-MN;18;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;59;62;13020;34.16;38112
-MN;18;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;59;62;53;0.14;38112
-MN;18;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;59;62;80;0.21;38112
-MN;18;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;59;62;74;0.19;38112
-MN;18;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;59;62;63;0.17;38112
-MN;18;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;59;62;7;0.02;38112
-MN;18;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;59;62;5;0.01;38112
-MN;18;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;59;62;312;0.82;38112
-MN;18;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;59;62;93;0.24;38112
-MN;19;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;131;141;90322;45.24;199630
-MN;19;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;131;141;104301;52.25;199630
-MN;19;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;131;141;408;0.20;199630
-MN;19;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;131;141;619;0.31;199630
-MN;19;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;131;141;464;0.23;199630
-MN;19;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;131;141;352;0.18;199630
-MN;19;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;131;141;59;0.03;199630
-MN;19;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;131;141;23;0.01;199630
-MN;19;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;131;141;2335;1.17;199630
-MN;19;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;131;141;747;0.37;199630
+MN;15;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;10;29;943;74.90;1259
+MN;15;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;10;29;301;23.91;1259
+MN;15;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;10;29;2;0.16;1259
+MN;15;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;10;29;2;0.16;1259
+MN;15;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;10;29;2;0.16;1259
+MN;15;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;10;29;1;0.08;1259
+MN;15;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;10;29;0;0.00;1259
+MN;15;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;10;29;0;0.00;1259
+MN;15;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;10;29;5;0.40;1259
+MN;15;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;10;29;3;0.24;1259
+MN;16;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;9;13;915;32.82;2788
+MN;16;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;9;13;1799;64.53;2788
+MN;16;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;9;13;5;0.18;2788
+MN;16;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;9;13;12;0.43;2788
+MN;16;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;9;13;8;0.29;2788
+MN;16;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;9;13;8;0.29;2788
+MN;16;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;9;13;1;0.04;2788
+MN;16;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;9;13;1;0.04;2788
+MN;16;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;9;13;25;0.90;2788
+MN;16;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;9;13;14;0.50;2788
+MN;17;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;29;29;4060;67.94;5976
+MN;17;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;29;29;1816;30.39;5976
+MN;17;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;29;29;9;0.15;5976
+MN;17;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;29;29;12;0.20;5976
+MN;17;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;29;29;11;0.18;5976
+MN;17;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;29;29;10;0.17;5976
+MN;17;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;29;29;0;0.00;5976
+MN;17;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;29;29;0;0.00;5976
+MN;17;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;29;29;50;0.84;5976
+MN;17;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;29;29;8;0.13;5976
+MN;18;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;62;62;25301;63.79;39662
+MN;18;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;62;62;13611;34.32;39662
+MN;18;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;62;62;59;0.15;39662
+MN;18;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;62;62;90;0.23;39662
+MN;18;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;62;62;78;0.20;39662
+MN;18;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;62;62;64;0.16;39662
+MN;18;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;62;62;9;0.02;39662
+MN;18;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;62;62;5;0.01;39662
+MN;18;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;62;62;347;0.87;39662
+MN;18;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;62;62;98;0.25;39662
+MN;19;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;141;141;96121;44.77;214707
+MN;19;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;141;141;113187;52.72;214707
+MN;19;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;141;141;435;0.20;214707
+MN;19;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;141;141;674;0.31;214707
+MN;19;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;141;141;503;0.23;214707
+MN;19;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;141;141;376;0.18;214707
+MN;19;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;141;141;69;0.03;214707
+MN;19;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;141;141;24;0.01;214707
+MN;19;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;141;141;2499;1.16;214707
+MN;19;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;141;141;819;0.38;214707
 MN;20;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;22;7774;63.86;12173
 MN;20;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;22;4074;33.47;12173
 MN;20;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;22;27;0.22;12173
@@ -198,16 +198,16 @@ MN;20;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;20;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;3;0.02;12173
 MN;20;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;167;1.37;12173
 MN;20;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;30;0.25;12173
-MN;21;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;26;37;9008;64.43;13981
-MN;21;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;26;37;4664;33.36;13981
-MN;21;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;26;37;28;0.20;13981
-MN;21;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;26;37;34;0.24;13981
-MN;21;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;26;37;33;0.24;13981
-MN;21;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;26;37;34;0.24;13981
-MN;21;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;26;37;2;0.01;13981
-MN;21;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;37;4;0.03;13981
-MN;21;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;37;150;1.07;13981
-MN;21;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;37;24;0.17;13981
+MN;21;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;27;37;10109;64.86;15586
+MN;21;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;27;37;5143;33.00;15586
+MN;21;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;27;37;28;0.18;15586
+MN;21;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;27;37;36;0.23;15586
+MN;21;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;27;37;35;0.22;15586
+MN;21;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;27;37;39;0.25;15586
+MN;21;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;27;37;2;0.01;15586
+MN;21;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;27;37;5;0.03;15586
+MN;21;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;27;37;164;1.05;15586
+MN;21;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;37;25;0.16;15586
 MN;22;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;31;33;4555;64.85;7024
 MN;22;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;31;33;2307;32.84;7024
 MN;22;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;31;33;18;0.26;7024
@@ -248,16 +248,16 @@ MN;25;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;25;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;37;40;9;0.04;25556
 MN;25;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;37;40;341;1.33;25556
 MN;25;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;37;40;64;0.25;25556
-MN;26;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;5;23;767;59.32;1293
-MN;26;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;5;23;483;37.35;1293
-MN;26;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;5;23;3;0.23;1293
-MN;26;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;5;23;4;0.31;1293
-MN;26;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;5;23;4;0.31;1293
-MN;26;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;5;23;5;0.39;1293
-MN;26;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;5;23;1;0.08;1293
-MN;26;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;5;23;1;0.08;1293
-MN;26;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;5;23;21;1.62;1293
-MN;26;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;5;23;4;0.31;1293
+MN;26;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;7;23;1072;60.29;1778
+MN;26;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;7;23;658;37.01;1778
+MN;26;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;7;23;4;0.22;1778
+MN;26;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;7;23;5;0.28;1778
+MN;26;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;7;23;6;0.34;1778
+MN;26;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;7;23;5;0.28;1778
+MN;26;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;7;23;1;0.06;1778
+MN;26;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;7;23;1;0.06;1778
+MN;26;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;7;23;22;1.24;1778
+MN;26;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;7;23;4;0.22;1778
 MN;27;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;425;425;203663;27.29;746165
 MN;27;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;425;425;525710;70.45;746165
 MN;27;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;425;425;1010;0.14;746165
@@ -298,16 +298,16 @@ MN;30;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;30;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;7;19;1;0.01;8475
 MN;30;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;7;19;78;0.92;8475
 MN;30;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;7;19;21;0.25;8475
-MN;31;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;76;8753;56.40;15520
-MN;31;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;76;6453;41.58;15520
-MN;31;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;76;27;0.17;15520
-MN;31;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;76;42;0.27;15520
-MN;31;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;76;35;0.23;15520
-MN;31;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;76;24;0.15;15520
-MN;31;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;76;1;0.01;15520
-MN;31;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;76;1;0.01;15520
-MN;31;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;76;154;0.99;15520
-MN;31;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;76;30;0.19;15520
+MN;31;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;39;76;10605;56.73;18695
+MN;31;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;39;76;7701;41.19;18695
+MN;31;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;39;76;33;0.18;18695
+MN;31;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;39;76;55;0.29;18695
+MN;31;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;39;76;43;0.23;18695
+MN;31;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;39;76;33;0.18;18695
+MN;31;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;39;76;2;0.01;18695
+MN;31;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;39;76;2;0.01;18695
+MN;31;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;39;76;183;0.98;18695
+MN;31;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;39;76;38;0.20;18695
 MN;32;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;28;28;3945;67.84;5815
 MN;32;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;28;28;1744;29.99;5815
 MN;32;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;28;28;15;0.26;5815
@@ -328,16 +328,16 @@ MN;33;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;33;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;19;20;1;0.02;6454
 MN;33;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;19;20;71;1.10;6454
 MN;33;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;19;20;13;0.20;6454
-MN;34;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;47;48;12867;65.44;19662
-MN;34;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;47;48;6392;32.51;19662
-MN;34;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;47;48;34;0.17;19662
-MN;34;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;47;48;43;0.22;19662
-MN;34;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;47;48;52;0.26;19662
-MN;34;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;47;48;40;0.20;19662
-MN;34;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;47;48;4;0.02;19662
-MN;34;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;47;48;9;0.05;19662
-MN;34;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;47;48;185;0.94;19662
-MN;34;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;47;48;36;0.18;19662
+MN;34;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;14433;61.80;23355
+MN;34;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;8434;36.11;23355
+MN;34;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;44;0.19;23355
+MN;34;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;48;48;53;0.23;23355
+MN;34;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;48;48;63;0.27;23355
+MN;34;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;48;48;47;0.20;23355
+MN;34;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;48;48;5;0.02;23355
+MN;34;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;11;0.05;23355
+MN;34;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;211;0.90;23355
+MN;34;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;54;0.23;23355
 MN;35;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;39;39;1544;58.57;2636
 MN;35;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;39;39;1005;38.13;2636
 MN;35;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;39;39;7;0.27;2636
@@ -448,36 +448,36 @@ MN;45;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;45;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;60;60;0;0.00;5105
 MN;45;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;60;60;36;0.71;5105
 MN;45;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;60;60;12;0.24;5105
-MN;46;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;37;5106;66.06;7729
-MN;46;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;37;2477;32.05;7729
-MN;46;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;25;37;12;0.16;7729
-MN;46;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;25;37;13;0.17;7729
-MN;46;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;25;37;24;0.31;7729
-MN;46;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;25;37;12;0.16;7729
-MN;46;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;25;37;1;0.01;7729
-MN;46;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;37;2;0.03;7729
-MN;46;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;37;60;0.78;7729
-MN;46;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;37;22;0.28;7729
-MN;47;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;10;30;1868;71.16;2625
-MN;47;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;10;30;698;26.59;2625
-MN;47;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;10;30;5;0.19;2625
-MN;47;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;10;30;7;0.27;2625
-MN;47;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;10;30;8;0.30;2625
-MN;47;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;10;30;8;0.30;2625
-MN;47;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;10;30;0;0.00;2625
-MN;47;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;10;30;0;0.00;2625
-MN;47;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;10;30;25;0.95;2625
-MN;47;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;10;30;6;0.23;2625
-MN;48;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;9;25;2141;76.90;2784
-MN;48;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;9;25;605;21.73;2784
-MN;48;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;9;25;5;0.18;2784
-MN;48;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;9;25;4;0.14;2784
-MN;48;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;9;25;6;0.22;2784
-MN;48;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;9;25;2;0.07;2784
-MN;48;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;9;25;1;0.04;2784
-MN;48;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;9;25;0;0.00;2784
-MN;48;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;9;25;17;0.61;2784
-MN;48;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;9;25;3;0.11;2784
+MN;46;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;37;5767;66.91;8619
+MN;46;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;37;2689;31.20;8619
+MN;46;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;25;37;12;0.14;8619
+MN;46;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;25;37;17;0.20;8619
+MN;46;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;25;37;25;0.29;8619
+MN;46;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;25;37;15;0.17;8619
+MN;46;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;25;37;1;0.01;8619
+MN;46;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;37;2;0.02;8619
+MN;46;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;37;67;0.78;8619
+MN;46;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;37;24;0.28;8619
+MN;47;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;9351;69.17;13518
+MN;47;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;3865;28.59;13518
+MN;47;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;29;0.21;13518
+MN;47;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;30;41;0.30;13518
+MN;47;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;30;45;0.33;13518
+MN;47;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;30;31;0.23;13518
+MN;47;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;30;2;0.01;13518
+MN;47;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;0;0.00;13518
+MN;47;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;122;0.90;13518
+MN;47;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;32;0.24;13518
+MN;48;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;10;25;2348;76.98;3050
+MN;48;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;10;25;657;21.54;3050
+MN;48;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;10;25;6;0.20;3050
+MN;48;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;10;25;5;0.16;3050
+MN;48;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;10;25;7;0.23;3050
+MN;48;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;10;25;2;0.07;3050
+MN;48;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;10;25;1;0.03;3050
+MN;48;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;10;25;0;0.00;3050
+MN;48;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;10;25;21;0.69;3050
+MN;48;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;10;25;3;0.10;3050
 MN;49;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;48;0;0.00;0
 MN;49;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;48;0;0.00;0
 MN;49;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;48;0;0.00;0
@@ -528,16 +528,16 @@ MN;53;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;53;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;40;40;4;0.05;8708
 MN;53;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;59;0.68;8708
 MN;53;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;23;0.26;8708
-MN;54;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;14;33;1211;57.18;2118
-MN;54;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;14;33;862;40.70;2118
-MN;54;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;14;33;5;0.24;2118
-MN;54;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;14;33;7;0.33;2118
-MN;54;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;14;33;1;0.05;2118
-MN;54;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;14;33;7;0.33;2118
-MN;54;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;14;33;0;0.00;2118
-MN;54;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;14;33;1;0.05;2118
-MN;54;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;14;33;18;0.85;2118
-MN;54;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;14;33;6;0.28;2118
+MN;54;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;16;33;1302;56.31;2312
+MN;54;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;16;33;958;41.44;2312
+MN;54;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;16;33;5;0.22;2312
+MN;54;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;16;33;8;0.35;2312
+MN;54;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;16;33;2;0.09;2312
+MN;54;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;16;33;10;0.43;2312
+MN;54;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;16;33;0;0.00;2312
+MN;54;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;16;33;1;0.04;2312
+MN;54;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;16;33;20;0.87;2312
+MN;54;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;16;33;6;0.26;2312
 MN;55;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;84;84;39618;43.44;91195
 MN;55;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;84;84;49397;54.17;91195
 MN;55;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;84;84;159;0.17;91195
@@ -558,16 +558,16 @@ MN;56;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;56;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;92;92;59;0.16;36684
 MN;56;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;92;92;312;0.85;36684
 MN;56;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;92;92;156;0.43;36684
-MN;57;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;29;31;4173;61.69;6764
-MN;57;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;29;31;2424;35.84;6764
-MN;57;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;29;31;7;0.10;6764
-MN;57;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;29;31;11;0.16;6764
-MN;57;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;29;31;18;0.27;6764
-MN;57;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;29;31;16;0.24;6764
-MN;57;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;29;31;3;0.04;6764
-MN;57;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;29;31;3;0.04;6764
-MN;57;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;29;31;100;1.48;6764
-MN;57;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;29;31;9;0.13;6764
+MN;57;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;31;4316;62.15;6945
+MN;57;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;31;2462;35.45;6945
+MN;57;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;31;7;0.10;6945
+MN;57;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;31;11;0.16;6945
+MN;57;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;31;18;0.26;6945
+MN;57;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;31;16;0.23;6945
+MN;57;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;31;3;0.04;6945
+MN;57;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;31;3;0.04;6945
+MN;57;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;31;100;1.44;6945
+MN;57;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;31;9;0.13;6945
 MN;58;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;41;48;9560;63.96;14948
 MN;58;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;41;48;5084;34.01;14948
 MN;58;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;41;48;24;0.16;14948
@@ -638,16 +638,16 @@ MN;64;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;64;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;32;43;0;0.00;4240
 MN;64;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;32;43;32;0.75;4240
 MN;64;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;32;43;5;0.12;4240
-MN;65;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;38;3379;67.23;5026
-MN;65;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;38;1547;30.78;5026
-MN;65;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;38;11;0.22;5026
-MN;65;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;38;10;0.20;5026
-MN;65;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;38;13;0.26;5026
-MN;65;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;38;16;0.32;5026
-MN;65;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;38;0;0.00;5026
-MN;65;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;38;3;0.06;5026
-MN;65;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;38;41;0.82;5026
-MN;65;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;38;6;0.12;5026
+MN;65;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;38;3759;66.78;5629
+MN;65;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;38;1763;31.32;5629
+MN;65;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;38;11;0.20;5629
+MN;65;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;38;10;0.18;5629
+MN;65;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;38;15;0.27;5629
+MN;65;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;38;16;0.28;5629
+MN;65;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;38;0;0.00;5629
+MN;65;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;38;3;0.05;5629
+MN;65;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;38;46;0.82;5629
+MN;65;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;38;6;0.11;5629
 MN;66;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;31;31;17451;48.95;35653
 MN;66;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;31;31;17384;48.76;35653
 MN;66;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;31;31;68;0.19;35653
@@ -668,26 +668,26 @@ MN;67;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;67;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;24;24;1;0.02;5232
 MN;67;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;24;24;35;0.67;5232
 MN;67;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;24;24;12;0.23;5232
-MN;68;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;44;3792;75.01;5055
-MN;68;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;44;1164;23.03;5055
-MN;68;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;44;10;0.20;5055
-MN;68;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;44;12;0.24;5055
-MN;68;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;44;9;0.18;5055
-MN;68;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;44;6;0.12;5055
-MN;68;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;44;2;0.04;5055
-MN;68;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;44;1;0.02;5055
-MN;68;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;44;53;1.05;5055
-MN;68;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;44;6;0.12;5055
-MN;69;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;157;172;43629;40.06;108898
-MN;69;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;157;172;62725;57.60;108898
-MN;69;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;157;172;155;0.14;108898
-MN;69;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;157;172;366;0.34;108898
-MN;69;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;157;172;263;0.24;108898
-MN;69;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;157;172;139;0.13;108898
-MN;69;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;157;172;46;0.04;108898
-MN;69;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;157;172;15;0.01;108898
-MN;69;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;157;172;1250;1.15;108898
-MN;69;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;157;172;310;0.28;108898
+MN;68;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;44;4582;71.99;6365
+MN;68;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;44;1660;26.08;6365
+MN;68;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;25;44;12;0.19;6365
+MN;68;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;25;44;13;0.20;6365
+MN;68;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;25;44;14;0.22;6365
+MN;68;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;25;44;8;0.13;6365
+MN;68;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;25;44;2;0.03;6365
+MN;68;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;44;2;0.03;6365
+MN;68;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;44;64;1.01;6365
+MN;68;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;44;8;0.13;6365
+MN;69;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;165;172;46228;40.54;114029
+MN;69;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;165;172;65119;57.11;114029
+MN;69;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;165;172;164;0.14;114029
+MN;69;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;165;172;378;0.33;114029
+MN;69;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;165;172;276;0.24;114029
+MN;69;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;165;172;153;0.13;114029
+MN;69;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;165;172;46;0.04;114029
+MN;69;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;165;172;15;0.01;114029
+MN;69;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;165;172;1327;1.16;114029
+MN;69;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;165;172;323;0.28;114029
 MN;70;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;0;47;0;0.00;0
 MN;70;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;0;47;0;0.00;0
 MN;70;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;0;47;0;0.00;0
@@ -738,16 +738,16 @@ MN;74;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;74;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;5;0.02;20806
 MN;74;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;267;1.28;20806
 MN;74;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;50;0.24;20806
-MN;75;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;21;26;2308;66.30;3481
-MN;75;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;21;26;1114;32.00;3481
-MN;75;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;21;26;1;0.03;3481
-MN;75;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;21;26;5;0.14;3481
-MN;75;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;21;26;13;0.37;3481
-MN;75;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;21;26;10;0.29;3481
-MN;75;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;21;26;3;0.09;3481
-MN;75;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;21;26;0;0.00;3481
-MN;75;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;21;26;20;0.57;3481
-MN;75;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;21;26;7;0.20;3481
+MN;75;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;26;2485;67.04;3707
+MN;75;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;26;1160;31.29;3707
+MN;75;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;26;1;0.03;3707
+MN;75;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;26;5;0.13;3707
+MN;75;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;26;14;0.38;3707
+MN;75;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;26;10;0.27;3707
+MN;75;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;26;3;0.08;3707
+MN;75;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;26;0;0.00;3707
+MN;75;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;26;22;0.59;3707
+MN;75;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;26;7;0.19;3707
 MN;76;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;3316;63.86;5193
 MN;76;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;1784;34.35;5193
 MN;76;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;9;0.17;5193
@@ -758,16 +758,16 @@ MN;76;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;76;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;1;0.02;5193
 MN;76;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;42;0.81;5193
 MN;76;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;8;0.15;5193
-MN;77;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;27;40;6058;75.36;8039
-MN;77;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;27;40;1850;23.01;8039
-MN;77;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;27;40;19;0.24;8039
-MN;77;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;27;40;11;0.14;8039
-MN;77;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;27;40;13;0.16;8039
-MN;77;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;27;40;23;0.29;8039
-MN;77;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;27;40;2;0.02;8039
-MN;77;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;27;40;0;0.00;8039
-MN;77;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;27;40;52;0.65;8039
-MN;77;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;40;11;0.14;8039
+MN;77;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;40;40;9752;73.58;13253
+MN;77;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;40;40;3284;24.78;13253
+MN;77;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;40;40;25;0.19;13253
+MN;77;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;40;40;23;0.17;13253
+MN;77;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;40;40;30;0.23;13253
+MN;77;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;40;40;30;0.23;13253
+MN;77;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;40;40;2;0.02;13253
+MN;77;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;40;40;1;0.01;13253
+MN;77;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;85;0.64;13253
+MN;77;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;21;0.16;13253
 MN;78;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;20;20;1170;62.80;1863
 MN;78;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;20;20;662;35.53;1863
 MN;78;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;20;20;2;0.11;1863
@@ -778,16 +778,16 @@ MN;78;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;78;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;20;20;0;0.00;1863
 MN;78;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;20;20;12;0.64;1863
 MN;78;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;20;20;2;0.11;1863
-MN;79;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;8149;62.25;13090
-MN;79;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;4691;35.84;13090
-MN;79;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;21;0.16;13090
-MN;79;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;33;0.25;13090
-MN;79;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;28;0.21;13090
-MN;79;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;29;0.22;13090
-MN;79;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;2;0.02;13090
-MN;79;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;2;0.02;13090
-MN;79;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;133;1.02;13090
-MN;79;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;2;0.02;13090
+MN;79;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;8149;62.23;13096
+MN;79;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;4691;35.82;13096
+MN;79;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;21;0.16;13096
+MN;79;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;33;0.25;13096
+MN;79;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;28;0.21;13096
+MN;79;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;29;0.22;13096
+MN;79;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;2;0.02;13096
+MN;79;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;2;0.02;13096
+MN;79;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;133;1.02;13096
+MN;79;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;8;0.06;13096
 MN;80;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;25;5517;71.91;7672
 MN;80;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;25;2021;26.34;7672
 MN;80;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;25;25;17;0.22;7672
@@ -808,16 +808,16 @@ MN;81;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;81;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;1;0.01;10383
 MN;81;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;123;1.18;10383
 MN;81;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;25;0.24;10383
-MN;82;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;81;83;70011;45.57;153631
-MN;82;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;81;83;80033;52.09;153631
-MN;82;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;81;83;244;0.16;153631
-MN;82;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;81;83;447;0.29;153631
-MN;82;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;81;83;328;0.21;153631
-MN;82;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;81;83;237;0.15;153631
-MN;82;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;81;83;49;0.03;153631
-MN;82;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;81;83;33;0.02;153631
-MN;82;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;81;83;1768;1.15;153631
-MN;82;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;81;83;481;0.31;153631
+MN;82;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;82;83;73587;44.24;166336
+MN;82;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;82;83;88914;53.45;166336
+MN;82;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;82;83;270;0.16;166336
+MN;82;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;82;83;474;0.28;166336
+MN;82;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;82;83;342;0.21;166336
+MN;82;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;82;83;267;0.16;166336
+MN;82;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;82;83;53;0.03;166336
+MN;82;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;82;83;34;0.02;166336
+MN;82;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;82;83;1882;1.13;166336
+MN;82;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;82;83;513;0.31;166336
 MN;83;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;13;21;2373;57.60;4120
 MN;83;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;13;21;1661;40.32;4120
 MN;83;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;13;21;13;0.32;4120
@@ -848,23 +848,23 @@ MN;85;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;85;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;49;49;4;0.01;26941
 MN;85;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;49;49;265;0.98;26941
 MN;85;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;49;49;63;0.23;26941
-MN;86;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;41;45;44689;63.93;69902
-MN;86;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;41;45;23591;33.75;69902
-MN;86;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;41;45;113;0.16;69902
-MN;86;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;41;45;216;0.31;69902
-MN;86;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;41;45;160;0.23;69902
-MN;86;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;41;45;144;0.21;69902
-MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;41;45;7;0.01;69902
-MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;41;45;5;0.01;69902
-MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;41;45;785;1.12;69902
-MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;41;45;192;0.27;69902
-MN;87;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;14;30;2345;65.87;3560
-MN;87;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;14;30;1144;32.13;3560
-MN;87;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;14;30;7;0.20;3560
-MN;87;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;14;30;7;0.20;3560
-MN;87;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;14;30;6;0.17;3560
-MN;87;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;14;30;8;0.22;3560
-MN;87;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;14;30;0;0.00;3560
-MN;87;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;14;30;0;0.00;3560
-MN;87;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;14;30;32;0.90;3560
-MN;87;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;14;30;11;0.31;3560
+MN;86;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;45;45;51076;63.23;80774
+MN;86;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;45;45;27763;34.37;80774
+MN;86;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;45;45;131;0.16;80774
+MN;86;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;45;45;259;0.32;80774
+MN;86;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;45;45;187;0.23;80774
+MN;86;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;45;45;165;0.20;80774
+MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;45;45;12;0.01;80774
+MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;45;45;7;0.01;80774
+MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;45;45;949;1.17;80774
+MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;45;45;225;0.28;80774
+MN;87;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;18;30;2716;65.57;4142
+MN;87;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;18;30;1341;32.38;4142
+MN;87;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;18;30;7;0.17;4142
+MN;87;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;18;30;10;0.24;4142
+MN;87;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;18;30;10;0.24;4142
+MN;87;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;18;30;8;0.19;4142
+MN;87;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;18;30;0;0.00;4142
+MN;87;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;18;30;0;0.00;4142
+MN;87;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;18;30;38;0.92;4142
+MN;87;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;18;30;12;0.29;4142
