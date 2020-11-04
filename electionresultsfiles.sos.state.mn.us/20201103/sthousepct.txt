@@ -5060,12 +5060,12 @@ MN;29;0085;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;29;0090;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;82;73.21;112
 MN;29;0090;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;30;26.79;112
 MN;29;0090;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;112
-MN;29;0095;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;29;0095;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;29;0095;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;29;0097;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;0;1;0;0.00;0
-MN;29;0097;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;0;1;0;0.00;0
-MN;29;0097;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;29;0095;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;270;55.21;489
+MN;29;0095;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;218;44.58;489
+MN;29;0095;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.20;489
+MN;29;0097;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;28;62.22;45
+MN;29;0097;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;17;37.78;45
+MN;29;0097;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;0;0.00;45
 MN;29;0100;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;50;65.79;76
 MN;29;0100;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;26;34.21;76
 MN;29;0100;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;76
@@ -7027,9 +7027,9 @@ MN;50;0015;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;2;0
 MN;50;0020;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;716;42.17;1698
 MN;50;0020;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;981;57.77;1698
 MN;50;0020;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;1;0.06;1698
-MN;50;0025;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;19;76.00;25
-MN;50;0025;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;6;24.00;25
-MN;50;0025;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;25
+MN;50;0025;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;41;59.42;69
+MN;50;0025;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;28;40.58;69
+MN;50;0025;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;69
 MN;50;0030;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;314;60.27;521
 MN;50;0030;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;207;39.73;521
 MN;50;0030;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;521
@@ -9547,9 +9547,9 @@ MN;65;0185;0220;State Representative District 17A;17A;0101;Ed Engelmann;;;LMN;1;
 MN;65;0185;0220;State Representative District 17A;17A;0301;Tim Miller;;;R;1;1;93;76.86;121
 MN;65;0185;0220;State Representative District 17A;17A;0401;Ben Dolan;;;DFL;1;1;24;19.83;121
 MN;65;0185;0220;State Representative District 17A;17A;9901;WRITE-IN;;;WI;1;1;0;0.00;121
-MN;66;0005;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;620;49.44;1254
-MN;66;0005;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;630;50.24;1254
-MN;66;0005;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;4;0.32;1254
+MN;66;0005;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;620;49.40;1255
+MN;66;0005;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;631;50.28;1255
+MN;66;0005;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;4;0.32;1255
 MN;66;0010;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;567;73.16;775
 MN;66;0010;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;208;26.84;775
 MN;66;0010;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;0;0.00;775
@@ -9568,9 +9568,9 @@ MN;66;0025;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;4;0
 MN;66;0030;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;1238;58.20;2127
 MN;66;0030;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;884;41.56;2127
 MN;66;0030;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;5;0.24;2127
-MN;66;0035;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;1698;58.94;2881
-MN;66;0035;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;1181;40.99;2881
-MN;66;0035;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;2;0.07;2881
+MN;66;0035;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;1698;58.96;2880
+MN;66;0035;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;1180;40.97;2880
+MN;66;0035;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;2;0.07;2880
 MN;66;0040;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;1569;58.35;2689
 MN;66;0040;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;1109;41.24;2689
 MN;66;0040;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;11;0.41;2689
@@ -9580,21 +9580,21 @@ MN;66;0055;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0
 MN;66;0060;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;1639;69.10;2372
 MN;66;0060;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;731;30.82;2372
 MN;66;0060;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;2;0.08;2372
-MN;66;0065;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;399;75.14;531
-MN;66;0065;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;131;24.67;531
-MN;66;0065;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;1;0.19;531
+MN;66;0065;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;399;75.28;530
+MN;66;0065;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;130;24.53;530
+MN;66;0065;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;1;0.19;530
 MN;66;0070;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;341;83.17;410
 MN;66;0070;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;69;16.83;410
 MN;66;0070;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;0;0.00;410
 MN;66;0075;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;102;64.15;159
 MN;66;0075;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;57;35.85;159
 MN;66;0075;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;0;0.00;159
-MN;66;0080;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;66;6.46;1022
-MN;66;0080;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;956;93.54;1022
-MN;66;0080;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;1022
-MN;66;0085;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;670;29.30;2287
-MN;66;0085;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1613;70.53;2287
-MN;66;0085;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;4;0.17;2287
+MN;66;0080;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;66;6.45;1023
+MN;66;0080;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;957;93.55;1023
+MN;66;0080;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;1023
+MN;66;0085;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;671;29.33;2288
+MN;66;0085;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1613;70.50;2288
+MN;66;0085;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;4;0.17;2288
 MN;66;0090;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;561;35.51;1580
 MN;66;0090;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1017;64.37;1580
 MN;66;0090;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;2;0.13;1580
@@ -9604,18 +9604,18 @@ MN;66;0095;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;1;0
 MN;66;0105;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;436;25.48;1711
 MN;66;0105;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1272;74.34;1711
 MN;66;0105;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;3;0.18;1711
-MN;66;0113;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;318;22.89;1389
-MN;66;0113;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1071;77.11;1389
-MN;66;0113;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;1389
+MN;66;0113;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;318;22.88;1390
+MN;66;0113;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;1072;77.12;1390
+MN;66;0113;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;1390
 MN;66;0114;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;56;6.76;828
 MN;66;0114;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;768;92.75;828
 MN;66;0114;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;4;0.48;828
 MN;66;0115;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;316;54.30;582
 MN;66;0115;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;266;45.70;582
 MN;66;0115;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;582
-MN;66;0120;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;146;65.77;222
-MN;66;0120;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;76;34.23;222
-MN;66;0120;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;0;0.00;222
+MN;66;0120;0235;State Representative District 24B;24B;0301;Brian Daniels;;;R;1;1;149;66.22;225
+MN;66;0120;0235;State Representative District 24B;24B;0401;Ashley Martinez-Perez;;;DFL;1;1;76;33.78;225
+MN;66;0120;0235;State Representative District 24B;24B;9901;WRITE-IN;;;WI;1;1;0;0.00;225
 MN;66;0125;0227;State Representative District 20B;20B;0301;Joe Moravchik;;;R;1;1;519;68.47;758
 MN;66;0125;0227;State Representative District 20B;20B;0401;Todd Lippert;;;DFL;1;1;239;31.53;758
 MN;66;0125;0227;State Representative District 20B;20B;9901;WRITE-IN;;;WI;1;1;0;0.00;758
