@@ -688,9 +688,9 @@ MN;03;0235;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;03;0240;0191;State Representative District 2B;2B;0301;Steve Green;;;R;1;1;133;85.81;155
 MN;03;0240;0191;State Representative District 2B;2B;0401;David Suby;;;DFL;1;1;22;14.19;155
 MN;03;0240;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.00;155
-MN;04;0005;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0005;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0005;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0005;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;49;41.53;118
+MN;04;0005;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;69;58.47;118
+MN;04;0005;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;118
 MN;04;0010;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;11;68.75;16
 MN;04;0010;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;5;31.25;16
 MN;04;0010;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;16
@@ -715,9 +715,9 @@ MN;04;0035;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;4;0.5
 MN;04;0040;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;535;61.21;874
 MN;04;0040;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;338;38.67;874
 MN;04;0040;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;1;0.11;874
-MN;04;0045;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0045;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0045;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0045;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;36;66.67;54
+MN;04;0045;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;18;33.33;54
+MN;04;0045;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;54
 MN;04;0050;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;44;64.71;68
 MN;04;0050;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;24;35.29;68
 MN;04;0050;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;68
@@ -733,9 +733,9 @@ MN;04;0065;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;04;0070;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;88;70.97;124
 MN;04;0070;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;36;29.03;124
 MN;04;0070;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;124
-MN;04;0075;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0075;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0075;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0075;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;668;66.87;999
+MN;04;0075;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;330;33.03;999
+MN;04;0075;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.10;999
 MN;04;0080;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;574;58.39;983
 MN;04;0080;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;407;41.40;983
 MN;04;0080;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;2;0.20;983
@@ -745,18 +745,18 @@ MN;04;0085;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;04;0090;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;753;60.58;1243
 MN;04;0090;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;487;39.18;1243
 MN;04;0090;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;3;0.24;1243
-MN;04;0095;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0095;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0095;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0095;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;161;74.19;217
+MN;04;0095;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;56;25.81;217
+MN;04;0095;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;217
 MN;04;0100;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;8;61.54;13
 MN;04;0100;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;5;38.46;13
 MN;04;0100;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;13
-MN;04;0105;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0105;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0105;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0110;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0110;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0110;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0105;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;310;75.43;411
+MN;04;0105;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;100;24.33;411
+MN;04;0105;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.24;411
+MN;04;0110;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;91;80.53;113
+MN;04;0110;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;22;19.47;113
+MN;04;0110;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;113
 MN;04;0115;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;112;82.35;136
 MN;04;0115;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;24;17.65;136
 MN;04;0115;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;136
@@ -775,9 +775,9 @@ MN;04;0135;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;04;0140;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
 MN;04;0140;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
 MN;04;0140;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0145;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0145;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0145;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0145;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;288;63.86;451
+MN;04;0145;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;162;35.92;451
+MN;04;0145;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.22;451
 MN;04;0150;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;37;57.81;64
 MN;04;0150;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;27;42.19;64
 MN;04;0150;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;64
@@ -799,27 +799,27 @@ MN;04;0172;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;04;0175;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;26;96.30;27
 MN;04;0175;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;1;3.70;27
 MN;04;0175;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;27
-MN;04;0180;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0180;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0180;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0180;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;37;9.11;406
+MN;04;0180;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;366;90.15;406
+MN;04;0180;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;3;0.74;406
 MN;04;0185;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;311;68.50;454
 MN;04;0185;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;143;31.50;454
 MN;04;0185;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;454
 MN;04;0190;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;23;65.71;35
 MN;04;0190;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;12;34.29;35
 MN;04;0190;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;35
-MN;04;0195;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0195;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0195;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0200;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0200;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0200;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0202;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0202;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0202;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0205;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0205;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0205;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0195;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;58;6.87;844
+MN;04;0195;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;785;93.01;844
+MN;04;0195;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.12;844
+MN;04;0200;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;53;8.94;593
+MN;04;0200;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;535;90.22;593
+MN;04;0200;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;5;0.84;593
+MN;04;0202;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;29;7.16;405
+MN;04;0202;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;371;91.60;405
+MN;04;0202;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;5;1.23;405
+MN;04;0205;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;84;56.76;148
+MN;04;0205;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;64;43.24;148
+MN;04;0205;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;148
 MN;04;0210;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;93;93.00;100
 MN;04;0210;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;7;7.00;100
 MN;04;0210;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;100
@@ -838,9 +838,9 @@ MN;04;0230;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;04;0235;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;66;60.55;109
 MN;04;0235;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;43;39.45;109
 MN;04;0235;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;0;0.00;109
-MN;04;0240;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;04;0240;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;04;0240;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0240;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;145;84.80;171
+MN;04;0240;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;26;15.20;171
+MN;04;0240;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;171
 MN;04;0245;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;54;73.97;73
 MN;04;0245;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;19;26.03;73
 MN;04;0245;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.00;73
@@ -7018,36 +7018,36 @@ MN;49;0250;0205;State Representative District 9B;9B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;50;0005;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;187;66.08;283
 MN;50;0005;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;96;33.92;283
 MN;50;0005;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;283
-MN;50;0010;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0010;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0010;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0015;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0015;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0015;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0020;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0020;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0020;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0025;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0025;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0025;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0030;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0030;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0030;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0035;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0035;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0035;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0050;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0050;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0050;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0055;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0055;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0055;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0070;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0070;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0070;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0075;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
-MN;50;0075;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
-MN;50;0075;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;50;0010;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;118;58.42;202
+MN;50;0010;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;84;41.58;202
+MN;50;0010;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;202
+MN;50;0015;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0015;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0015;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0020;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0020;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0020;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0025;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0025;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0025;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0030;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0030;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0030;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0035;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0035;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0035;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0050;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0050;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0050;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0055;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0055;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0055;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0070;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;0;0.00;0
+MN;50;0070;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;0;0.00;0
+MN;50;0070;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0075;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;1;1;62;77.50;80
+MN;50;0075;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;1;1;18;22.50;80
+MN;50;0075;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;1;1;0;0.00;80
 MN;50;0080;0241;State Representative District 27B;27B;0301;Patricia Mueller;;;R;0;1;0;0.00;0
 MN;50;0080;0241;State Representative District 27B;27B;0401;Jeanne Poppe;;;DFL;0;1;0;0.00;0
 MN;50;0080;0241;State Representative District 27B;27B;9901;WRITE-IN;;;WI;0;1;0;0.00;0
