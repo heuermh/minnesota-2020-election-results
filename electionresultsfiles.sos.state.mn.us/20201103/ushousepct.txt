@@ -1538,10 +1538,10 @@ MN;50;0210;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;6;7.50
 MN;50;0210;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;45;56.25;80
 MN;50;0210;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;29;36.25;80
 MN;50;0210;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;80
-MN;50;0215;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;6;2.73;220
-MN;50;0215;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;147;66.82;220
-MN;50;0215;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;67;30.45;220
-MN;50;0215;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;220
+MN;50;0215;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;6;2.71;221
+MN;50;0215;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;147;66.52;221
+MN;50;0215;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;68;30.77;221
+MN;50;0215;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;221
 MN;50;0220;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;14;5.04;278
 MN;50;0220;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;125;44.96;278
 MN;50;0220;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;139;50.00;278
@@ -4035,12 +4035,12 @@ MN;10;0040;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.05;4
 MN;10;0045;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;2405;51.01;4715
 MN;10;0045;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2300;48.78;4715
 MN;10;0045;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;10;0.21;4715
-MN;10;0050;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1465;46.23;3169
-MN;10;0050;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1698;53.58;3169
-MN;10;0050;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;6;0.19;3169
-MN;10;0055;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1746;48.66;3588
-MN;10;0055;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1840;51.28;3588
-MN;10;0055;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.06;3588
+MN;10;0050;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1465;46.21;3170
+MN;10;0050;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1699;53.60;3170
+MN;10;0050;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;6;0.19;3170
+MN;10;0055;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1746;48.65;3589
+MN;10;0055;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1841;51.30;3589
+MN;10;0055;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.06;3589
 MN;10;0072;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;26;66.67;39
 MN;10;0072;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;13;33.33;39
 MN;10;0072;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;39
@@ -6898,9 +6898,9 @@ MN;10;0095;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.07;1
 MN;10;0100;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;190;80.51;236
 MN;10;0100;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;46;19.49;236
 MN;10;0100;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;236
-MN;10;0105;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1569;72.67;2159
-MN;10;0105;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;587;27.19;2159
-MN;10;0105;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;3;0.14;2159
+MN;10;0105;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1569;72.64;2160
+MN;10;0105;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;588;27.22;2160
+MN;10;0105;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;3;0.14;2160
 MN;10;0110;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;467;74.60;626
 MN;10;0110;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;158;25.24;626
 MN;10;0110;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.16;626
@@ -6916,9 +6916,9 @@ MN;10;0130;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.25;7
 MN;10;0135;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1840;69.83;2635
 MN;10;0135;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;792;30.06;2635
 MN;10;0135;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;3;0.11;2635
-MN;10;0140;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;624;74.64;836
-MN;10;0140;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;212;25.36;836
-MN;10;0140;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;836
+MN;10;0140;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;624;74.55;837
+MN;10;0140;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;213;25.45;837
+MN;10;0140;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;837
 MN;10;0150;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;382;82.33;464
 MN;10;0150;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;82;17.67;464
 MN;10;0150;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;464
