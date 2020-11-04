@@ -691,14 +691,14 @@ MN;03;0240;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;157
 MN;04;0005;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0005;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0005;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0010;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0010;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0010;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0015;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;56;5.40;1037
-MN;04;0015;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;15;1.45;1037
-MN;04;0015;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;726;70.01;1037
-MN;04;0015;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;240;23.14;1037
-MN;04;0015;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;1037
+MN;04;0010;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;10;62.50;16
+MN;04;0010;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;6;37.50;16
+MN;04;0010;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;16
+MN;04;0015;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;81;4.79;1690
+MN;04;0015;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;30;1.78;1690
+MN;04;0015;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;1008;59.65;1690
+MN;04;0015;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;570;33.73;1690
+MN;04;0015;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.06;1690
 MN;04;0020;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;104;17.36;599
 MN;04;0020;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;16;2.67;599
 MN;04;0020;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;243;40.57;599
@@ -732,41 +732,41 @@ MN;04;0040;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;880
 MN;04;0045;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0045;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0045;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0050;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0050;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0050;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0055;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;159;70.98;224
-MN;04;0055;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;64;28.57;224
-MN;04;0055;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.45;224
-MN;04;0060;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0060;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0060;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0065;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0065;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0065;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0050;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;44;64.71;68
+MN;04;0050;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;24;35.29;68
+MN;04;0050;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;68
+MN;04;0055;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;190;62.91;302
+MN;04;0055;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;111;36.76;302
+MN;04;0055;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.33;302
+MN;04;0060;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;119;67.61;176
+MN;04;0060;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;57;32.39;176
+MN;04;0060;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;176
+MN;04;0065;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;77;74.04;104
+MN;04;0065;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;27;25.96;104
+MN;04;0065;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;104
 MN;04;0070;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0070;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0070;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;04;0075;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0075;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0075;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0080;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;26;4.39;592
-MN;04;0080;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;7;1.18;592
-MN;04;0080;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;425;71.79;592
-MN;04;0080;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;134;22.64;592
-MN;04;0080;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;592
-MN;04;0085;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0085;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0085;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0090;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;581;70.51;824
-MN;04;0090;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;243;29.49;824
-MN;04;0090;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;824
+MN;04;0080;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;37;3.80;973
+MN;04;0080;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;10;1.03;973
+MN;04;0080;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;576;59.20;973
+MN;04;0080;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;350;35.97;973
+MN;04;0080;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;973
+MN;04;0085;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;4;66.67;6
+MN;04;0085;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;2;33.33;6
+MN;04;0085;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;6
+MN;04;0090;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;749;60.06;1247
+MN;04;0090;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;497;39.86;1247
+MN;04;0090;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.08;1247
 MN;04;0095;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0095;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0095;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0100;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0100;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0100;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0100;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;8;61.54;13
+MN;04;0100;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;5;38.46;13
+MN;04;0100;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;13
 MN;04;0105;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0105;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0105;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -776,60 +776,60 @@ MN;04;0110;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;04;0115;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0115;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0115;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0120;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0120;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0120;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0125;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0125;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0125;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0130;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0130;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0130;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0135;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0135;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0135;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0120;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;76;64.41;118
+MN;04;0120;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;42;35.59;118
+MN;04;0120;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;118
+MN;04;0125;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;52;65.00;80
+MN;04;0125;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;28;35.00;80
+MN;04;0125;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;80
+MN;04;0130;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;242;73.33;330
+MN;04;0130;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;87;26.36;330
+MN;04;0130;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.30;330
+MN;04;0135;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;95;83.33;114
+MN;04;0135;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;19;16.67;114
+MN;04;0135;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;114
 MN;04;0140;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0140;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0140;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;04;0145;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0145;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0145;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0150;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0150;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0150;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0155;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0155;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0155;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0160;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;0;1;0;0.00;0
-MN;04;0160;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;0;1;0;0.00;0
-MN;04;0160;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;0;1;0;0.00;0
-MN;04;0160;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;0;1;0;0.00;0
-MN;04;0160;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0165;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0165;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0165;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0170;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;69;5.04;1369
-MN;04;0170;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;21;1.53;1369
-MN;04;0170;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;984;71.88;1369
-MN;04;0170;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;294;21.48;1369
-MN;04;0170;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.07;1369
+MN;04;0150;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;40;60.61;66
+MN;04;0150;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;26;39.39;66
+MN;04;0150;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;66
+MN;04;0155;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;10;62.50;16
+MN;04;0155;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;6;37.50;16
+MN;04;0155;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;16
+MN;04;0160;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;3;1.94;155
+MN;04;0160;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;2.58;155
+MN;04;0160;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;97;62.58;155
+MN;04;0160;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;51;32.90;155
+MN;04;0160;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;155
+MN;04;0165;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;103;64.38;160
+MN;04;0165;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;57;35.63;160
+MN;04;0165;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;160
+MN;04;0170;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;89;4.14;2149
+MN;04;0170;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;32;1.49;2149
+MN;04;0170;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;1340;62.35;2149
+MN;04;0170;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;687;31.97;2149
+MN;04;0170;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.05;2149
 MN;04;0172;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;0;0.00;0
 MN;04;0172;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;0;0.00;0
 MN;04;0172;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;0;0.00;0
 MN;04;0172;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;0;0.00;0
 MN;04;0172;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;04;0175;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0175;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0175;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0175;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;26;96.30;27
+MN;04;0175;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;1;3.70;27
+MN;04;0175;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;27
 MN;04;0180;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0180;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0180;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0185;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;240;77.67;309
-MN;04;0185;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;69;22.33;309
-MN;04;0185;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;309
-MN;04;0190;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0190;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0190;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0185;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;306;67.11;456
+MN;04;0185;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;150;32.89;456
+MN;04;0185;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;456
+MN;04;0190;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;22;64.71;34
+MN;04;0190;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;12;35.29;34
+MN;04;0190;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;34
 MN;04;0195;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0195;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0195;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -842,65 +842,65 @@ MN;04;0202;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;04;0205;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0205;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0205;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0210;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0210;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0210;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0215;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0215;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0215;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0220;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0220;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0220;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0225;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0225;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0225;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0230;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0230;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0230;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0235;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;0;1;0;0.00;0
-MN;04;0235;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;0;1;0;0.00;0
-MN;04;0235;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;0;1;0;0.00;0
-MN;04;0235;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;0;1;0;0.00;0
-MN;04;0235;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0210;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;95;95.96;99
+MN;04;0210;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;4;4.04;99
+MN;04;0210;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;99
+MN;04;0215;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;18;66.67;27
+MN;04;0215;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;9;33.33;27
+MN;04;0215;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;27
+MN;04;0220;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;32;76.19;42
+MN;04;0220;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;10;23.81;42
+MN;04;0220;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;42
+MN;04;0225;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;26;61.90;42
+MN;04;0225;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;16;38.10;42
+MN;04;0225;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;42
+MN;04;0230;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;13;76.47;17
+MN;04;0230;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;4;23.53;17
+MN;04;0230;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;17
+MN;04;0235;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;4;3.54;113
+MN;04;0235;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;3.54;113
+MN;04;0235;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;65;57.52;113
+MN;04;0235;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;40;35.40;113
+MN;04;0235;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;113
 MN;04;0240;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0240;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0240;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0245;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0245;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0245;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0250;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;27;7.26;372
-MN;04;0250;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;14;3.76;372
-MN;04;0250;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;133;35.75;372
-MN;04;0250;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;197;52.96;372
-MN;04;0250;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.27;372
-MN;04;0255;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0255;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0255;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0260;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;381;77.76;490
-MN;04;0260;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;109;22.24;490
-MN;04;0260;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;490
-MN;04;0265;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0265;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0265;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0245;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;54;73.97;73
+MN;04;0245;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;19;26.03;73
+MN;04;0245;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;73
+MN;04;0250;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;35;6.65;526
+MN;04;0250;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;15;2.85;526
+MN;04;0250;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;185;35.17;526
+MN;04;0250;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;290;55.13;526
+MN;04;0250;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.19;526
+MN;04;0255;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;69;70.41;98
+MN;04;0255;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;29;29.59;98
+MN;04;0255;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;98
+MN;04;0260;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;553;63.06;877
+MN;04;0260;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;324;36.94;877
+MN;04;0260;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;877
+MN;04;0265;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;21;36.21;58
+MN;04;0265;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;37;63.79;58
+MN;04;0265;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;58
 MN;04;0270;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;0;1;0;0.00;0
 MN;04;0270;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;0;1;0;0.00;0
 MN;04;0270;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;0;1;0;0.00;0
 MN;04;0270;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;0;1;0;0.00;0
 MN;04;0270;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0275;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0275;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0275;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0280;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0280;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0280;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0285;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;0;1;0;0.00;0
-MN;04;0285;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;0;1;0;0.00;0
-MN;04;0285;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;0;1;0;0.00;0
-MN;04;0285;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;0;1;0;0.00;0
-MN;04;0285;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;04;0290;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;04;0290;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;04;0290;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;04;0275;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;15;71.43;21
+MN;04;0275;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;6;28.57;21
+MN;04;0275;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;21
+MN;04;0280;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;12;75.00;16
+MN;04;0280;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;4;25.00;16
+MN;04;0280;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;16
+MN;04;0285;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;4;3.60;111
+MN;04;0285;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;5;4.50;111
+MN;04;0285;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;54;48.65;111
+MN;04;0285;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;48;43.24;111
+MN;04;0285;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;111
+MN;04;0290;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;50;62.50;80
+MN;04;0290;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;30;37.50;80
+MN;04;0290;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;80
 MN;04;0295;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
 MN;04;0295;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
 MN;04;0295;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
@@ -6817,9 +6817,9 @@ MN;43;0070;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;0;1;0;0.00;0
 MN;43;0075;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;1495;62.63;2387
 MN;43;0075;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;889;37.24;2387
 MN;43;0075;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;3;0.13;2387
-MN;43;0080;0138;State Senator District 18;18;0301;Scott Newman;;;R;0;1;0;0.00;0
-MN;43;0080;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;0;1;0;0.00;0
-MN;43;0080;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;43;0080;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;1804;65.94;2736
+MN;43;0080;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;924;33.77;2736
+MN;43;0080;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;8;0.29;2736
 MN;43;0095;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;597;76.83;777
 MN;43;0095;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;178;22.91;777
 MN;43;0095;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;2;0.26;777
