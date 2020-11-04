@@ -333,17 +333,17 @@
                             <span class="boldFont">Counties Reporting:</span> &nbsp; 87 &nbsp; of &nbsp; 87
                         </td>
                         <td colspan="2">
-                            <span class="boldFont">Counties Complete:</span> &nbsp; 81
+                            <span class="boldFont">Counties Complete:</span> &nbsp; 82
                         </td>
                     </tr>
 
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.76%&nbsp;&nbsp;4,100&nbsp;of&nbsp;4,110
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.78%&nbsp;&nbsp;4,101&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:13 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:26 AM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,581,421
@@ -358,20 +358,20 @@
                     </tr>
                     <tr>
                         <td colspan="2">
-                            <span class="boldFont">Counties Complete:</span> &nbsp; 81
+                            <span class="boldFont">Counties Complete:</span> &nbsp; 82
                         </td>
                     </tr>
 
                     <tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <td>
-                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.76%&nbsp;&nbsp;4,100&nbsp;of&nbsp;4,110
+                            <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.78%&nbsp;&nbsp;4,101&nbsp;of&nbsp;4,110
                         </td>
                     </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:13 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:26 AM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -415,7 +415,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Donald J. Trump and Michael R. Pence</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,452,550</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,452,672</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">45.27%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="45" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -423,7 +423,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Joseph R. Biden and Kamala Harris</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,682,138</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,682,268</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">52.42%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="52" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -431,7 +431,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Independence-Alliance</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">IA</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Roque &quot;Rocky&quot; De La Fuente and Darcy Richardson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5,479</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">5,480</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.17%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -439,7 +439,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Green Party</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GP</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Howie Hawkins and Angela Walker</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,731</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">9,732</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.30%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -479,7 +479,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Libertarian Party</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LIB</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jo Jorgensen and Jeremy &quot;Spike&quot; Cohen</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">33,992</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">33,998</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.06%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -516,7 +516,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Kevin O&#x27;Connor</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">185,617</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">185,623</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">5.90%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="5" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -524,7 +524,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Oliver Steinberg</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">55,605</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">55,608</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.77%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -532,7 +532,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jason Lewis</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,368,771</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,368,893</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">43.49%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="43" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -540,7 +540,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Tina Smith</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,534,973</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,535,098</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">48.77%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="48" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -548,7 +548,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Write-In</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,235</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">2,236</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.07%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>

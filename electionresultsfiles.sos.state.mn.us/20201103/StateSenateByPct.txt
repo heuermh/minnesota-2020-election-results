@@ -7529,10 +7529,10 @@ MN;50;0020;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;90;17.6
 MN;50;0020;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;296;57.93;511
 MN;50;0020;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;125;24.46;511
 MN;50;0020;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;511
-MN;50;0025;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
-MN;50;0025;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
-MN;50;0025;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
-MN;50;0025;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;0
+MN;50;0025;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;4;16.00;25
+MN;50;0025;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;13;52.00;25
+MN;50;0025;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;8;32.00;25
+MN;50;0025;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;25
 MN;50;0030;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
 MN;50;0030;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
 MN;50;0030;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
@@ -12610,10 +12610,10 @@ MN;82;0350;0159;State Senator District 39;39;9901;WRITE-IN;;;WI;1;1;1;0.07;1464
 MN;82;0360;0159;State Senator District 39;39;0301;Karin Housley;;;R;1;1;1599;57.09;2801
 MN;82;0360;0159;State Senator District 39;39;0401;Josiah Hill;;;DFL;1;1;1200;42.84;2801
 MN;82;0360;0159;State Senator District 39;39;9901;WRITE-IN;;;WI;1;1;2;0.07;2801
-MN;82;0365;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;0;1;0;0.00;0
-MN;82;0365;0163;State Senator District 43;43;0301;Bob Zick;;;R;0;1;0;0.00;0
-MN;82;0365;0163;State Senator District 43;43;0401;Charles "Chuck" Wiger;;;DFL;0;1;0;0.00;0
-MN;82;0365;0163;State Senator District 43;43;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;82;0365;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;1;1;10;4.42;226
+MN;82;0365;0163;State Senator District 43;43;0301;Bob Zick;;;R;1;1;109;48.23;226
+MN;82;0365;0163;State Senator District 43;43;0401;Charles "Chuck" Wiger;;;DFL;1;1;107;47.35;226
+MN;82;0365;0163;State Senator District 43;43;9901;WRITE-IN;;;WI;1;1;0;0.00;226
 MN;82;0370;0163;State Senator District 43;43;0201;Doug Daubenspeck;;;GLC;1;1;28;9.40;298
 MN;82;0370;0163;State Senator District 43;43;0301;Bob Zick;;;R;1;1;129;43.29;298
 MN;82;0370;0163;State Senator District 43;43;0401;Charles "Chuck" Wiger;;;DFL;1;1;141;47.32;298
