@@ -343,7 +343,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.81%&nbsp;&nbsp;4,102&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:54 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 10:05 AM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,581,421
@@ -371,7 +371,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 9:54 AM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 10:05 AM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
