@@ -5018,12 +5018,12 @@ MN;29;0025;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;29;0030;0191;State Representative District 2B;2B;0301;Steve Green;;;R;1;1;162;62.79;258
 MN;29;0030;0191;State Representative District 2B;2B;0401;David Suby;;;DFL;1;1;96;37.21;258
 MN;29;0030;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.00;258
-MN;29;0035;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;0;1;0;0.00;0
-MN;29;0035;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;0;1;0;0.00;0
-MN;29;0035;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;29;0037;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;0;1;0;0.00;0
-MN;29;0037;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;0;1;0;0.00;0
-MN;29;0037;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;29;0035;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;343;57.94;592
+MN;29;0035;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;248;41.89;592
+MN;29;0035;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;1;0.17;592
+MN;29;0037;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;29;54.72;53
+MN;29;0037;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;24;45.28;53
+MN;29;0037;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;0;0.00;53
 MN;29;0040;0190;State Representative District 2A;2A;0301;Mathew J. Grossell;;;R;1;1;146;74.49;196
 MN;29;0040;0190;State Representative District 2A;2A;0401;Jeremiah Liend;;;DFL;1;1;48;24.49;196
 MN;29;0040;0190;State Representative District 2A;2A;9901;WRITE-IN;;;WI;1;1;2;1.02;196
@@ -5974,9 +5974,9 @@ MN;38;0020;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;38;0025;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;93;33.45;278
 MN;38;0025;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;185;66.55;278
 MN;38;0025;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.00;278
-MN;38;0035;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;204;40.16;508
-MN;38;0035;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;303;59.65;508
-MN;38;0035;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;1;0.20;508
+MN;38;0035;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;205;40.20;510
+MN;38;0035;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;304;59.61;510
+MN;38;0035;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;1;0.20;510
 MN;38;0040;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;165;47.14;350
 MN;38;0040;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;185;52.86;350
 MN;38;0040;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.00;350
@@ -5992,9 +5992,9 @@ MN;38;0065;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;38;0070;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;199;38.64;515
 MN;38;0070;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;315;61.16;515
 MN;38;0070;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;1;0.19;515
-MN;38;0080;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;203;48.22;421
-MN;38;0080;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;218;51.78;421
-MN;38;0080;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;0;0.00;421
+MN;38;0080;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;203;48.10;422
+MN;38;0080;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;219;51.90;422
+MN;38;0080;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;0;0.00;422
 MN;38;0090;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;221;41.94;527
 MN;38;0090;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;304;57.69;527
 MN;38;0090;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;2;0.38;527

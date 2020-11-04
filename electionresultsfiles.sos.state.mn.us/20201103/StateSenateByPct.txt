@@ -5259,14 +5259,14 @@ MN;29;0025;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;110
 MN;29;0030;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;168;64.62;260
 MN;29;0030;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;92;35.38;260
 MN;29;0030;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;260
-MN;29;0035;0122;State Senator District 2;2;0301;Paul Utke;;;R;0;1;0;0.00;0
-MN;29;0035;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;0;1;0;0.00;0
-MN;29;0035;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;29;0037;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;0;1;0;0.00;0
-MN;29;0037;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;0;1;0;0.00;0
-MN;29;0037;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;0;1;0;0.00;0
-MN;29;0037;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;0;1;0;0.00;0
-MN;29;0037;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;29;0035;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;350;58.72;596
+MN;29;0035;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;245;41.11;596
+MN;29;0035;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.17;596
+MN;29;0037;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;0;0.00;52
+MN;29;0037;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;0;0.00;52
+MN;29;0037;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;29;55.77;52
+MN;29;0037;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;23;44.23;52
+MN;29;0037;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;52
 MN;29;0040;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;146;74.49;196
 MN;29;0040;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;49;25.00;196
 MN;29;0040;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;1;0.51;196
@@ -6367,9 +6367,9 @@ MN;38;0020;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;166
 MN;38;0025;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;93;33.45;278
 MN;38;0025;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;185;66.55;278
 MN;38;0025;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;278
-MN;38;0035;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;190;37.62;505
-MN;38;0035;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;315;62.38;505
-MN;38;0035;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;505
+MN;38;0035;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;191;37.67;507
+MN;38;0035;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;316;62.33;507
+MN;38;0035;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;507
 MN;38;0040;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;159;45.43;350
 MN;38;0040;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;191;54.57;350
 MN;38;0040;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;350
@@ -6385,9 +6385,9 @@ MN;38;0065;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;117
 MN;38;0070;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;207;40.27;514
 MN;38;0070;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;306;59.53;514
 MN;38;0070;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.19;514
-MN;38;0080;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;198;46.70;424
-MN;38;0080;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;226;53.30;424
-MN;38;0080;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;424
+MN;38;0080;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;198;46.59;425
+MN;38;0080;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;227;53.41;425
+MN;38;0080;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;425
 MN;38;0090;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;214;40.92;523
 MN;38;0090;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;309;59.08;523
 MN;38;0090;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;523
