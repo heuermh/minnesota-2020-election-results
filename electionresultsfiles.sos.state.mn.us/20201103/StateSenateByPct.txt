@@ -7605,14 +7605,14 @@ MN;50;0135;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;1;0.89;
 MN;50;0135;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;74;66.07;112
 MN;50;0135;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;37;33.04;112
 MN;50;0135;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;112
-MN;50;0140;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0140;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0140;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0140;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
-MN;50;0145;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;0;1;0;0.00;0
-MN;50;0145;0147;State Senator District 27;27;0301;Gene Dornink;;;R;0;1;0;0.00;0
-MN;50;0145;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;0;1;0;0.00;0
-MN;50;0145;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;50;0140;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;13;6.37;204
+MN;50;0140;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;101;49.51;204
+MN;50;0140;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;90;44.12;204
+MN;50;0140;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;204
+MN;50;0145;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;9;4.97;181
+MN;50;0145;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;130;71.82;181
+MN;50;0145;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;42;23.20;181
+MN;50;0145;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;0;0.00;181
 MN;50;0150;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;0;0.00;0
 MN;50;0150;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;0;0.00;0
 MN;50;0150;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;0;0.00;0
@@ -11314,15 +11314,15 @@ MN;71;0110;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;1;1;2;0.18;1110
 MN;71;0111;0151;State Senator District 31;31;0301;Michelle R. Benson;;;R;1;1;1032;78.60;1313
 MN;71;0111;0151;State Senator District 31;31;0401;Kate Luthner;;;DFL;1;1;281;21.40;1313
 MN;71;0111;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;1;1;0;0.00;1313
-MN;71;0120;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;0;1;0;0.00;0
-MN;71;0120;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;0;1;0;0.00;0
-MN;71;0120;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;71;0120;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1058;76.17;1389
+MN;71;0120;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;329;23.69;1389
+MN;71;0120;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;2;0.14;1389
 MN;71;0121;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;596;72.07;827
 MN;71;0121;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;230;27.81;827
 MN;71;0121;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;1;0.12;827
-MN;71;0122;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;0;1;0;0.00;0
-MN;71;0122;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;0;1;0;0.00;0
-MN;71;0122;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;0;1;0;0.00;0
+MN;71;0122;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;611;83.58;731
+MN;71;0122;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;119;16.28;731
+MN;71;0122;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.14;731
 MN;71;0125;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;1392;74.24;1875
 MN;71;0125;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;483;25.76;1875
 MN;71;0125;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;1875
