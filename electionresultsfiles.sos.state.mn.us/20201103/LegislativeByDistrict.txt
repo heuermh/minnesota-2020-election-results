@@ -22,12 +22,12 @@ MN;;;0194;State Representative District 4A;4A;9901;WRITE-IN;;;WI;17;17;36;0.18;2
 MN;;;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;82;82;10759;47.22;22784
 MN;;;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;82;82;12015;52.73;22784
 MN;;;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;82;82;10;0.04;22784
-MN;;;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;71;71;11468;53.38;21485
-MN;;;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;71;71;9981;46.46;21485
-MN;;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;71;71;36;0.17;21485
-MN;;;0197;State Representative District 5B;5B;0301;Spencer Igo;;;R;56;56;14408;61.02;23611
-MN;;;0197;State Representative District 5B;5B;0401;Joe Abeyta;;;DFL;56;56;9178;38.87;23611
-MN;;;0197;State Representative District 5B;5B;9901;WRITE-IN;;;WI;56;56;25;0.11;23611
+MN;;;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;71;71;11474;53.36;21503
+MN;;;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;71;71;9993;46.47;21503
+MN;;;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;71;71;36;0.17;21503
+MN;;;0197;State Representative District 5B;5B;0301;Spencer Igo;;;R;56;56;14425;61.03;23636
+MN;;;0197;State Representative District 5B;5B;0401;Joe Abeyta;;;DFL;56;56;9185;38.86;23636
+MN;;;0197;State Representative District 5B;5B;9901;WRITE-IN;;;WI;56;56;26;0.11;23636
 MN;;;0198;State Representative District 6A;6A;0301;Robert Farnsworth;;;R;56;56;10923;50.05;21823
 MN;;;0198;State Representative District 6A;6A;0401;Julie Sandstede;;;DFL;56;56;10876;49.84;21823
 MN;;;0198;State Representative District 6A;6A;9901;WRITE-IN;;;WI;56;56;24;0.11;21823
@@ -46,9 +46,9 @@ MN;;;0202;State Representative District 8A;8A;9901;WRITE-IN;;;WI;52;52;34;0.14;2
 MN;;;0203;State Representative District 8B;8B;0301;Mary Franson;;;R;54;54;17297;68.03;25424
 MN;;;0203;State Representative District 8B;8B;0401;Carol Wenner;;;DFL;54;54;8094;31.84;25424
 MN;;;0203;State Representative District 8B;8B;9901;WRITE-IN;;;WI;54;54;33;0.13;25424
-MN;;;0204;State Representative District 9A;9A;0301;John M Poston;;;R;71;71;16306;73.90;22065
-MN;;;0204;State Representative District 9A;9A;0401;Alex Herring;;;DFL;71;71;5730;25.97;22065
-MN;;;0204;State Representative District 9A;9A;9901;WRITE-IN;;;WI;71;71;29;0.13;22065
+MN;;;0204;State Representative District 9A;9A;0301;John M Poston;;;R;71;71;16399;73.94;22178
+MN;;;0204;State Representative District 9A;9A;0401;Alex Herring;;;DFL;71;71;5749;25.92;22178
+MN;;;0204;State Representative District 9A;9A;9901;WRITE-IN;;;WI;71;71;30;0.14;22178
 MN;;;0205;State Representative District 9B;9B;0301;Ron Kresha;;;R;55;55;16852;77.09;21860
 MN;;;0205;State Representative District 9B;9B;0401;Laura Wright;;;DFL;55;55;4979;22.78;21860
 MN;;;0205;State Representative District 9B;9B;9901;WRITE-IN;;;WI;55;55;29;0.13;21860
@@ -82,9 +82,9 @@ MN;;;0214;State Representative District 14A;14A;9901;WRITE-IN;;;WI;15;15;51;0.23
 MN;;;0215;State Representative District 14B;14B;0301;Paul Brandmire;;;R;20;20;7378;43.82;16836
 MN;;;0215;State Representative District 14B;14B;0401;Dan Wolgamott;;;DFL;20;20;9416;55.93;16836
 MN;;;0215;State Representative District 14B;14B;9901;WRITE-IN;;;WI;20;20;42;0.25;16836
-MN;;;0216;State Representative District 15A;15A;0301;Sondra Erickson;;;R;37;37;15333;73.13;20967
-MN;;;0216;State Representative District 15A;15A;0401;Cal Schmock;;;DFL;37;37;5603;26.72;20967
-MN;;;0216;State Representative District 15A;15A;9901;WRITE-IN;;;WI;37;37;31;0.15;20967
+MN;;;0216;State Representative District 15A;15A;0301;Sondra Erickson;;;R;37;37;15348;73.02;21018
+MN;;;0216;State Representative District 15A;15A;0401;Cal Schmock;;;DFL;37;37;5639;26.83;21018
+MN;;;0216;State Representative District 15A;15A;9901;WRITE-IN;;;WI;37;37;31;0.15;21018
 MN;;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;26;26;17592;70.57;24929
 MN;;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;26;26;5884;23.60;24929
 MN;;;0217;State Representative District 15B;15B;1101;Myron Arthur Wilson;;;VPM;26;26;1421;5.70;24929
@@ -223,15 +223,15 @@ MN;;;0261;State Representative District 37B;37B;9901;WRITE-IN;;;WI;15;15;33;0.12
 MN;;;0262;State Representative District 38A;38A;0301;Donald Raleigh;;;R;16;16;13834;53.61;25807
 MN;;;0262;State Representative District 38A;38A;0401;Kris Fredrick;;;DFL;16;16;11952;46.31;25807
 MN;;;0262;State Representative District 38A;38A;9901;WRITE-IN;;;WI;16;16;21;0.08;25807
-MN;;;0263;State Representative District 38B;38B;0301;Elliott Engen;;;R;13;13;13801;49.77;27732
-MN;;;0263;State Representative District 38B;38B;0401;Ami Wazlawik;;;DFL;13;13;13899;50.12;27732
-MN;;;0263;State Representative District 38B;38B;9901;WRITE-IN;;;WI;13;13;32;0.12;27732
-MN;;;0264;State Representative District 39A;39A;0301;Bob Dettmer;;;R;15;15;15490;57.84;26779
-MN;;;0264;State Representative District 39A;39A;0401;Ann Mozey;;;DFL;15;15;11267;42.07;26779
-MN;;;0264;State Representative District 39A;39A;9901;WRITE-IN;;;WI;15;15;22;0.08;26779
-MN;;;0265;State Representative District 39B;39B;0301;Joe Garofalo;;;R;16;16;13770;49.53;27802
-MN;;;0265;State Representative District 39B;39B;0401;Shelly Christensen;;;DFL;16;16;14014;50.41;27802
-MN;;;0265;State Representative District 39B;39B;9901;WRITE-IN;;;WI;16;16;18;0.06;27802
+MN;;;0263;State Representative District 38B;38B;0301;Elliott Engen;;;R;13;13;13805;49.76;27741
+MN;;;0263;State Representative District 38B;38B;0401;Ami Wazlawik;;;DFL;13;13;13904;50.12;27741
+MN;;;0263;State Representative District 38B;38B;9901;WRITE-IN;;;WI;13;13;32;0.12;27741
+MN;;;0264;State Representative District 39A;39A;0301;Bob Dettmer;;;R;15;15;15498;57.84;26793
+MN;;;0264;State Representative District 39A;39A;0401;Ann Mozey;;;DFL;15;15;11273;42.07;26793
+MN;;;0264;State Representative District 39A;39A;9901;WRITE-IN;;;WI;15;15;22;0.08;26793
+MN;;;0265;State Representative District 39B;39B;0301;Joe Garofalo;;;R;16;16;13778;49.54;27813
+MN;;;0265;State Representative District 39B;39B;0401;Shelly Christensen;;;DFL;16;16;14017;50.40;27813
+MN;;;0265;State Representative District 39B;39B;9901;WRITE-IN;;;WI;16;16;18;0.06;27813
 MN;;;0266;State Representative District 40A;40A;0301;David True;;;R;11;11;4348;26.93;16146
 MN;;;0266;State Representative District 40A;40A;0401;Michael V. Nelson;;;DFL;11;11;11768;72.88;16146
 MN;;;0266;State Representative District 40A;40A;9901;WRITE-IN;;;WI;11;11;30;0.19;16146
@@ -242,22 +242,22 @@ MN;;;0267;State Representative District 40B;40B;9901;WRITE-IN;;;WI;10;10;16;0.09
 MN;;;0268;State Representative District 41A;41A;0301;Susan A. Erickson;;;R;17;17;7935;35.78;22175
 MN;;;0268;State Representative District 41A;41A;0401;Connie Bernardy;;;DFL;17;17;14204;64.05;22175
 MN;;;0268;State Representative District 41A;41A;9901;WRITE-IN;;;WI;17;17;36;0.16;22175
-MN;;;0269;State Representative District 41B;41B;0301;Ronald Ray Vogel;;;R;16;16;6646;29.38;22623
-MN;;;0269;State Representative District 41B;41B;0401;Sandra Feist;;;DFL;16;16;15951;70.51;22623
-MN;;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;16;16;26;0.11;22623
-MN;;;0270;State Representative District 42A;42A;0301;Candy Sina;;;R;13;13;9656;39.15;24662
-MN;;;0270;State Representative District 42A;42A;0401;Kelly Moller;;;DFL;13;13;14974;60.72;24662
-MN;;;0270;State Representative District 42A;42A;9901;WRITE-IN;;;WI;13;13;32;0.13;24662
-MN;;;0271;State Representative District 42B;42B;0301;Sue Finney;;;R;13;13;9744;37.88;25722
-MN;;;0271;State Representative District 42B;42B;0401;Jamie Becker-Finn;;;DFL;13;13;15940;61.97;25722
-MN;;;0271;State Representative District 42B;42B;9901;WRITE-IN;;;WI;13;13;38;0.15;25722
-MN;;;0272;State Representative District 43A;43A;0301;Paul Babin;;;R;15;15;9354;39.19;23869
-MN;;;0272;State Representative District 43A;43A;0401;Peter M Fischer;;;DFL;15;15;14486;60.69;23869
-MN;;;0272;State Representative District 43A;43A;9901;WRITE-IN;;;WI;15;15;29;0.12;23869
-MN;;;0273;State Representative District 43B;43B;0301;Jordan Herzog;;;R;12;12;8344;37.36;22334
-MN;;;0273;State Representative District 43B;43B;0401;Leon M. Lillie;;;DFL;12;12;12656;56.67;22334
-MN;;;0273;State Representative District 43B;43B;1101;Antonio Nerios;;;VPM;12;12;1312;5.87;22334
-MN;;;0273;State Representative District 43B;43B;9901;WRITE-IN;;;WI;12;12;22;0.10;22334
+MN;;;0269;State Representative District 41B;41B;0301;Ronald Ray Vogel;;;R;16;16;6646;29.37;22626
+MN;;;0269;State Representative District 41B;41B;0401;Sandra Feist;;;DFL;16;16;15954;70.51;22626
+MN;;;0269;State Representative District 41B;41B;9901;WRITE-IN;;;WI;16;16;26;0.11;22626
+MN;;;0270;State Representative District 42A;42A;0301;Candy Sina;;;R;13;13;9657;39.15;24667
+MN;;;0270;State Representative District 42A;42A;0401;Kelly Moller;;;DFL;13;13;14978;60.72;24667
+MN;;;0270;State Representative District 42A;42A;9901;WRITE-IN;;;WI;13;13;32;0.13;24667
+MN;;;0271;State Representative District 42B;42B;0301;Sue Finney;;;R;13;13;9745;37.88;25728
+MN;;;0271;State Representative District 42B;42B;0401;Jamie Becker-Finn;;;DFL;13;13;15945;61.98;25728
+MN;;;0271;State Representative District 42B;42B;9901;WRITE-IN;;;WI;13;13;38;0.15;25728
+MN;;;0272;State Representative District 43A;43A;0301;Paul Babin;;;R;15;15;9356;39.19;23875
+MN;;;0272;State Representative District 43A;43A;0401;Peter M Fischer;;;DFL;15;15;14490;60.69;23875
+MN;;;0272;State Representative District 43A;43A;9901;WRITE-IN;;;WI;15;15;29;0.12;23875
+MN;;;0273;State Representative District 43B;43B;0301;Jordan Herzog;;;R;12;12;8347;37.36;22343
+MN;;;0273;State Representative District 43B;43B;0401;Leon M. Lillie;;;DFL;12;12;12659;56.66;22343
+MN;;;0273;State Representative District 43B;43B;1101;Antonio Nerios;;;VPM;12;12;1315;5.89;22343
+MN;;;0273;State Representative District 43B;43B;9901;WRITE-IN;;;WI;12;12;22;0.10;22343
 MN;;;0274;State Representative District 44A;44A;0301;Perry Nouis;;;R;12;12;11917;40.31;29566
 MN;;;0274;State Representative District 44A;44A;0401;Ginny Klevorn;;;DFL;12;12;17635;59.65;29566
 MN;;;0274;State Representative District 44A;44A;9901;WRITE-IN;;;WI;12;12;14;0.05;29566
@@ -311,18 +311,18 @@ MN;;;0290;State Representative District 52A;52A;9901;WRITE-IN;;;WI;14;14;40;0.17
 MN;;;0291;State Representative District 52B;52B;0301;Cynthia Lonnquist;;;R;14;14;10940;44.46;24609
 MN;;;0291;State Representative District 52B;52B;0401;Ruth Richardson;;;DFL;14;14;13648;55.46;24609
 MN;;;0291;State Representative District 52B;52B;9901;WRITE-IN;;;WI;14;14;21;0.09;24609
-MN;;;0292;State Representative District 53A;53A;0301;William A Johnston;;;R;13;13;9271;40.16;23087
-MN;;;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;13;13;13791;59.73;23087
-MN;;;0292;State Representative District 53A;53A;9901;WRITE-IN;;;WI;13;13;25;0.11;23087
-MN;;;0293;State Representative District 53B;53B;0301;Kelly Jahner-Byrne;;;R;10;10;14342;46.85;30615
-MN;;;0293;State Representative District 53B;53B;0401;Steve Sandell;;;DFL;10;10;16250;53.08;30615
-MN;;;0293;State Representative District 53B;53B;9901;WRITE-IN;;;WI;10;10;23;0.08;30615
-MN;;;0294;State Representative District 54A;54A;0301;Keith Franke;;;R;12;12;12120;51.42;23572
-MN;;;0294;State Representative District 54A;54A;0401;Anne Claflin;;;DFL;12;12;11423;48.46;23572
-MN;;;0294;State Representative District 54A;54A;9901;WRITE-IN;;;WI;12;12;29;0.12;23572
-MN;;;0295;State Representative District 54B;54B;0301;Tony Jurgens;;;R;18;18;13172;53.55;24596
-MN;;;0295;State Representative District 54B;54B;0401;Kelsey Waits;;;DFL;18;18;11393;46.32;24596
-MN;;;0295;State Representative District 54B;54B;9901;WRITE-IN;;;WI;18;18;31;0.13;24596
+MN;;;0292;State Representative District 53A;53A;0301;William A Johnston;;;R;13;13;9274;40.15;23097
+MN;;;0292;State Representative District 53A;53A;0401;Tou Xiong;;;DFL;13;13;13798;59.74;23097
+MN;;;0292;State Representative District 53A;53A;9901;WRITE-IN;;;WI;13;13;25;0.11;23097
+MN;;;0293;State Representative District 53B;53B;0301;Kelly Jahner-Byrne;;;R;10;10;14345;46.83;30632
+MN;;;0293;State Representative District 53B;53B;0401;Steve Sandell;;;DFL;10;10;16264;53.09;30632
+MN;;;0293;State Representative District 53B;53B;9901;WRITE-IN;;;WI;10;10;23;0.08;30632
+MN;;;0294;State Representative District 54A;54A;0301;Keith Franke;;;R;12;12;12122;51.41;23578
+MN;;;0294;State Representative District 54A;54A;0401;Anne Claflin;;;DFL;12;12;11427;48.46;23578
+MN;;;0294;State Representative District 54A;54A;9901;WRITE-IN;;;WI;12;12;29;0.12;23578
+MN;;;0295;State Representative District 54B;54B;0301;Tony Jurgens;;;R;18;18;13173;53.54;24602
+MN;;;0295;State Representative District 54B;54B;0401;Kelsey Waits;;;DFL;18;18;11398;46.33;24602
+MN;;;0295;State Representative District 54B;54B;9901;WRITE-IN;;;WI;18;18;31;0.13;24602
 MN;;;0296;State Representative District 55A;55A;0101;Ryan Martin;;;LMN;14;14;1705;7.40;23035
 MN;;;0296;State Representative District 55A;55A;0301;Erik Mortensen;;;R;14;14;10923;47.42;23035
 MN;;;0296;State Representative District 55A;55A;0401;Brad Tabke;;;DFL;14;14;10363;44.99;23035
@@ -381,27 +381,27 @@ MN;;;0313;State Representative District 63B;63B;0101;Dennis Schuller;;;LMN;15;15
 MN;;;0313;State Representative District 63B;63B;0301;Frank Pafko;;;R;15;15;4954;19.05;26007
 MN;;;0313;State Representative District 63B;63B;0401;Emma Greenman;;;DFL;15;15;18975;72.96;26007
 MN;;;0313;State Representative District 63B;63B;9901;WRITE-IN;;;WI;15;15;40;0.15;26007
-MN;;;0314;State Representative District 64A;64A;0301;Sherry Schack;;;R;16;16;3406;14.16;24046
-MN;;;0314;State Representative District 64A;64A;0401;Kaohly Her;;;DFL;16;16;20596;85.65;24046
-MN;;;0314;State Representative District 64A;64A;9901;WRITE-IN;;;WI;16;16;44;0.18;24046
-MN;;;0315;State Representative District 64B;64B;0301;Georgia Dietz;;;R;14;14;5073;19.45;26079
-MN;;;0315;State Representative District 64B;64B;0401;Dave Pinto;;;DFL;14;14;20964;80.39;26079
-MN;;;0315;State Representative District 64B;64B;9901;WRITE-IN;;;WI;14;14;42;0.16;26079
-MN;;;0316;State Representative District 65A;65A;0301;Amy Anderson;;;R;12;12;2839;16.59;17116
-MN;;;0316;State Representative District 65A;65A;0401;Rena Moran;;;DFL;12;12;14232;83.15;17116
-MN;;;0316;State Representative District 65A;65A;9901;WRITE-IN;;;WI;12;12;45;0.26;17116
-MN;;;0317;State Representative District 65B;65B;0301;Margaret Mary Stokely;;;R;14;14;4075;19.81;20569
-MN;;;0317;State Representative District 65B;65B;0401;Carlos Mariani;;;DFL;14;14;16451;79.98;20569
-MN;;;0317;State Representative District 65B;65B;9901;WRITE-IN;;;WI;14;14;43;0.21;20569
-MN;;;0318;State Representative District 66A;66A;0301;Brett Rose;;;R;13;13;6278;25.73;24397
-MN;;;0318;State Representative District 66A;66A;0401;Alice Hausman;;;DFL;13;13;18074;74.08;24397
-MN;;;0318;State Representative District 66A;66A;9901;WRITE-IN;;;WI;13;13;45;0.18;24397
-MN;;;0319;State Representative District 66B;66B;0301;Mikki Murray;;;R;11;11;3442;21.05;16354
-MN;;;0319;State Representative District 66B;66B;0401;Athena Hollins;;;DFL;11;11;12855;78.60;16354
-MN;;;0319;State Representative District 66B;66B;9901;WRITE-IN;;;WI;11;11;57;0.35;16354
-MN;;;0320;State Representative District 67A;67A;0301;John Stromenger;;;R;11;11;3932;26.82;14662
-MN;;;0320;State Representative District 67A;67A;0401;John Thompson;;;DFL;11;11;10631;72.51;14662
-MN;;;0320;State Representative District 67A;67A;9901;WRITE-IN;;;WI;11;11;99;0.68;14662
-MN;;;0321;State Representative District 67B;67B;0301;Fred Turk;;;R;14;14;3938;23.99;16417
-MN;;;0321;State Representative District 67B;67B;0401;Jay Xiong;;;DFL;14;14;12433;75.73;16417
-MN;;;0321;State Representative District 67B;67B;9901;WRITE-IN;;;WI;14;14;46;0.28;16417
+MN;;;0314;State Representative District 64A;64A;0301;Sherry Schack;;;R;16;16;3409;14.17;24053
+MN;;;0314;State Representative District 64A;64A;0401;Kaohly Her;;;DFL;16;16;20600;85.64;24053
+MN;;;0314;State Representative District 64A;64A;9901;WRITE-IN;;;WI;16;16;44;0.18;24053
+MN;;;0315;State Representative District 64B;64B;0301;Georgia Dietz;;;R;14;14;5074;19.45;26083
+MN;;;0315;State Representative District 64B;64B;0401;Dave Pinto;;;DFL;14;14;20967;80.39;26083
+MN;;;0315;State Representative District 64B;64B;9901;WRITE-IN;;;WI;14;14;42;0.16;26083
+MN;;;0316;State Representative District 65A;65A;0301;Amy Anderson;;;R;12;12;2839;16.58;17119
+MN;;;0316;State Representative District 65A;65A;0401;Rena Moran;;;DFL;12;12;14235;83.15;17119
+MN;;;0316;State Representative District 65A;65A;9901;WRITE-IN;;;WI;12;12;45;0.26;17119
+MN;;;0317;State Representative District 65B;65B;0301;Margaret Mary Stokely;;;R;14;14;4079;19.82;20581
+MN;;;0317;State Representative District 65B;65B;0401;Carlos Mariani;;;DFL;14;14;16459;79.97;20581
+MN;;;0317;State Representative District 65B;65B;9901;WRITE-IN;;;WI;14;14;43;0.21;20581
+MN;;;0318;State Representative District 66A;66A;0301;Brett Rose;;;R;13;13;6280;25.74;24401
+MN;;;0318;State Representative District 66A;66A;0401;Alice Hausman;;;DFL;13;13;18076;74.08;24401
+MN;;;0318;State Representative District 66A;66A;9901;WRITE-IN;;;WI;13;13;45;0.18;24401
+MN;;;0319;State Representative District 66B;66B;0301;Mikki Murray;;;R;11;11;3442;21.04;16356
+MN;;;0319;State Representative District 66B;66B;0401;Athena Hollins;;;DFL;11;11;12857;78.61;16356
+MN;;;0319;State Representative District 66B;66B;9901;WRITE-IN;;;WI;11;11;57;0.35;16356
+MN;;;0320;State Representative District 67A;67A;0301;John Stromenger;;;R;11;11;3933;26.82;14667
+MN;;;0320;State Representative District 67A;67A;0401;John Thompson;;;DFL;11;11;10635;72.51;14667
+MN;;;0320;State Representative District 67A;67A;9901;WRITE-IN;;;WI;11;11;99;0.67;14667
+MN;;;0321;State Representative District 67B;67B;0301;Fred Turk;;;R;14;14;3940;23.99;16421
+MN;;;0321;State Representative District 67B;67B;0401;Jay Xiong;;;DFL;14;14;12435;75.73;16421
+MN;;;0321;State Representative District 67B;67B;9901;WRITE-IN;;;WI;14;14;46;0.28;16421
