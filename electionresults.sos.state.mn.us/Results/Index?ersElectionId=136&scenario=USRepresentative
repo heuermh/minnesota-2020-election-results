@@ -335,7 +335,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;99.95%&nbsp;&nbsp;4,108&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 7:12 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 7:26 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,579,318
@@ -353,7 +353,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 7:12 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/04/20 7:26 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -706,7 +706,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Legal Marijuana Now</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LMN</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Slater Johnson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,663</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">17,672</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">4.87%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="4" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -714,7 +714,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Rae Hart Anderson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">6,480</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">6,486</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.79%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -722,16 +722,16 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michelle Fischbach</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">193,579</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.37%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">193,683</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.38%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="53" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Collin C Peterson</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">144,618</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.87%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">144,650</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">39.86%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="39" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
