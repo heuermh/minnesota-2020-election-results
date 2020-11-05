@@ -7351,12 +7351,12 @@ MN;48;0090;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;327
 MN;48;0095;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;182;61.49;296
 MN;48;0095;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;113;38.18;296
 MN;48;0095;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.34;296
-MN;48;0100;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;347;79.59;436
-MN;48;0100;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;88;20.18;436
-MN;48;0100;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.23;436
-MN;48;0105;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;82;76.64;107
-MN;48;0105;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;25;23.36;107
-MN;48;0105;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;107
+MN;48;0100;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;352;76.03;463
+MN;48;0100;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;110;23.76;463
+MN;48;0100;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.22;463
+MN;48;0105;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;86;72.88;118
+MN;48;0105;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;32;27.12;118
+MN;48;0105;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;118
 MN;48;0110;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;1401;68.54;2044
 MN;48;0110;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;642;31.41;2044
 MN;48;0110;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.05;2044
@@ -11139,9 +11139,9 @@ MN;70;0080;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;0;0.00;1604
 MN;70;0084;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;970;60.51;1603
 MN;70;0084;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;633;39.49;1603
 MN;70;0084;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;0;0.00;1603
-MN;70;0090;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1515;59.69;2538
-MN;70;0090;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1021;40.23;2538
-MN;70;0090;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.08;2538
+MN;70;0090;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1515;59.67;2539
+MN;70;0090;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1022;40.25;2539
+MN;70;0090;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.08;2539
 MN;70;0091;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1799;66.83;2692
 MN;70;0091;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;891;33.10;2692
 MN;70;0091;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.07;2692
@@ -11191,46 +11191,46 @@ MN;70;0118;0176;State Senator District 56;56;0301;Dan Hall;;;R;1;1;1171;50.67;23
 MN;70;0118;0176;State Senator District 56;56;0401;Lindsey Port;;;DFL;1;1;1139;49.29;2311
 MN;70;0118;0176;State Senator District 56;56;9901;WRITE-IN;;;WI;1;1;1;0.04;2311
 MN;70;0119;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1153;57.59;2002
-MN;70;0119;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;843;42.11;2002
-MN;70;0119;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;6;0.30;2002
-MN;70;0120;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;824;49.82;1654
-MN;70;0120;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;827;50.00;1654
-MN;70;0120;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;3;0.18;1654
-MN;70;0125;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;681;46.80;1455
-MN;70;0125;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;772;53.06;1455
-MN;70;0125;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.14;1455
-MN;70;0130;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1169;49.18;2377
-MN;70;0130;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1207;50.78;2377
-MN;70;0130;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.04;2377
+MN;70;0119;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;844;42.16;2002
+MN;70;0119;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;5;0.25;2002
+MN;70;0120;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;824;49.91;1651
+MN;70;0120;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;824;49.91;1651
+MN;70;0120;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;3;0.18;1651
+MN;70;0125;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;680;46.77;1454
+MN;70;0125;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;772;53.09;1454
+MN;70;0125;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.14;1454
+MN;70;0130;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1170;49.20;2378
+MN;70;0130;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1207;50.76;2378
+MN;70;0130;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.04;2378
 MN;70;0135;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;698;56.06;1245
 MN;70;0135;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;543;43.61;1245
 MN;70;0135;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;4;0.32;1245
-MN;70;0136;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1423;55.52;2563
-MN;70;0136;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1136;44.32;2563
-MN;70;0136;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;4;0.16;2563
-MN;70;0137;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;576;48.65;1184
-MN;70;0137;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;604;51.01;1184
-MN;70;0137;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;4;0.34;1184
-MN;70;0138;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;853;56.27;1516
-MN;70;0138;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;661;43.60;1516
-MN;70;0138;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.13;1516
-MN;70;0145;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;900;65.50;1374
-MN;70;0145;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;473;34.42;1374
-MN;70;0145;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.07;1374
-MN;70;0150;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1367;54.64;2502
-MN;70;0150;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1134;45.32;2502
-MN;70;0150;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.04;2502
-MN;70;0153;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;808;55.30;1461
-MN;70;0153;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;652;44.63;1461
-MN;70;0153;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.07;1461
-MN;70;0156;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1078;55.08;1957
-MN;70;0156;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;876;44.76;1957
-MN;70;0156;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;3;0.15;1957
+MN;70;0136;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1417;55.46;2555
+MN;70;0136;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1135;44.42;2555
+MN;70;0136;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;3;0.12;2555
+MN;70;0137;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;577;48.61;1187
+MN;70;0137;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;605;50.97;1187
+MN;70;0137;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;5;0.42;1187
+MN;70;0138;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;854;56.37;1515
+MN;70;0138;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;659;43.50;1515
+MN;70;0138;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;2;0.13;1515
+MN;70;0145;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;902;65.55;1376
+MN;70;0145;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;473;34.38;1376
+MN;70;0145;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.07;1376
+MN;70;0150;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1366;54.66;2499
+MN;70;0150;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;1132;45.30;2499
+MN;70;0150;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.04;2499
+MN;70;0153;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;806;55.28;1458
+MN;70;0153;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;651;44.65;1458
+MN;70;0153;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;1;0.07;1458
+MN;70;0156;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1074;54.96;1954
+MN;70;0156;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;877;44.88;1954
+MN;70;0156;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;3;0.15;1954
 MN;70;0157;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;33;47.14;70
 MN;70;0157;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;37;52.86;70
 MN;70;0157;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;0;0.00;70
-MN;70;0158;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;110;65.87;167
-MN;70;0158;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;57;34.13;167
+MN;70;0158;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;111;66.47;167
+MN;70;0158;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;56;33.53;167
 MN;70;0158;0175;State Senator District 55;55;9901;WRITE-IN;;;WI;1;1;0;0.00;167
 MN;70;0160;0175;State Senator District 55;55;0301;Eric Pratt;;;R;1;1;1878;76.09;2468
 MN;70;0160;0175;State Senator District 55;55;0401;Sahra Odowa;;;DFL;1;1;588;23.82;2468
@@ -12972,173 +12972,173 @@ MN;85;0230;0148;State Senator District 28;28;9901;WRITE-IN;;;WI;1;1;3;0.25;1211
 MN;85;0240;0148;State Senator District 28;28;0301;Jeremy R. Miller;;;R;1;1;125;56.05;223
 MN;85;0240;0148;State Senator District 28;28;0401;Sarah Kruger;;;DFL;1;1;98;43.95;223
 MN;85;0240;0148;State Senator District 28;28;9901;WRITE-IN;;;WI;1;1;0;0.00;223
-MN;86;0005;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1643;65.43;2511
-MN;86;0005;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;866;34.49;2511
-MN;86;0005;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;2;0.08;2511
-MN;86;0007;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1031;68.41;1507
-MN;86;0007;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;473;31.39;1507
-MN;86;0007;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.20;1507
-MN;86;0010;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;48;6.00;800
-MN;86;0010;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;566;70.75;800
-MN;86;0010;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;186;23.25;800
-MN;86;0010;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;800
-MN;86;0015;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;194;10.54;1841
-MN;86;0015;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1057;57.41;1841
-MN;86;0015;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;588;31.94;1841
-MN;86;0015;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.11;1841
-MN;86;0020;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;418;10.46;3996
-MN;86;0020;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2357;58.98;3996
-MN;86;0020;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1221;30.56;3996
-MN;86;0020;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;3996
-MN;86;0025;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;200;7.95;2515
-MN;86;0025;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1509;60.00;2515
-MN;86;0025;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;802;31.89;2515
-MN;86;0025;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;4;0.16;2515
-MN;86;0030;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;195;9.57;2038
-MN;86;0030;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1207;59.22;2038
-MN;86;0030;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;633;31.06;2038
-MN;86;0030;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;3;0.15;2038
-MN;86;0031;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;6;7.69;78
-MN;86;0031;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;40;51.28;78
-MN;86;0031;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;32;41.03;78
-MN;86;0031;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;78
-MN;86;0035;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;59;5.02;1175
-MN;86;0035;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;881;74.98;1175
-MN;86;0035;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;235;20.00;1175
-MN;86;0035;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1175
-MN;86;0040;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;50;5.62;890
-MN;86;0040;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;622;69.89;890
-MN;86;0040;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;217;24.38;890
-MN;86;0040;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.11;890
-MN;86;0045;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;662;66.40;997
-MN;86;0045;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;334;33.50;997
-MN;86;0045;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.10;997
-MN;86;0050;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;677;75.06;902
-MN;86;0050;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;225;24.94;902
-MN;86;0050;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;902
-MN;86;0055;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;963;69.88;1378
-MN;86;0055;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;412;29.90;1378
-MN;86;0055;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;3;0.22;1378
-MN;86;0060;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;639;79.08;808
-MN;86;0060;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;166;20.54;808
-MN;86;0060;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;3;0.37;808
-MN;86;0065;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;111;6.22;1785
-MN;86;0065;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1248;69.92;1785
-MN;86;0065;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;425;23.81;1785
-MN;86;0065;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.06;1785
-MN;86;0070;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;22;70.97;31
-MN;86;0070;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;9;29.03;31
-MN;86;0070;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;0;0.00;31
-MN;86;0075;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;303;8.10;3742
-MN;86;0075;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2157;57.64;3742
-MN;86;0075;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1277;34.13;3742
-MN;86;0075;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;5;0.13;3742
-MN;86;0085;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;80;4.44;1802
-MN;86;0085;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1216;67.48;1802
-MN;86;0085;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;506;28.08;1802
-MN;86;0085;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1802
-MN;86;0090;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;49;6.72;729
-MN;86;0090;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;506;69.41;729
-MN;86;0090;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;174;23.87;729
-MN;86;0090;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;729
-MN;86;0095;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1154;70.45;1638
-MN;86;0095;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;480;29.30;1638
-MN;86;0095;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;4;0.24;1638
-MN;86;0096;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;0;0.00;6
-MN;86;0096;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;3;50.00;6
-MN;86;0096;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;3;50.00;6
-MN;86;0096;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;6
-MN;86;0100;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;116;10.19;1138
-MN;86;0100;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;701;61.60;1138
-MN;86;0100;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;319;28.03;1138
-MN;86;0100;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.18;1138
-MN;86;0105;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;114;10.27;1110
-MN;86;0105;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;728;65.59;1110
-MN;86;0105;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;268;24.14;1110
-MN;86;0105;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1110
-MN;86;0110;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;55;4.40;1250
-MN;86;0110;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;915;73.20;1250
-MN;86;0110;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;279;22.32;1250
-MN;86;0110;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.08;1250
-MN;86;0111;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;7;5.19;135
-MN;86;0111;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;88;65.19;135
-MN;86;0111;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;40;29.63;135
-MN;86;0111;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;135
-MN;86;0115;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;78;6.76;1154
-MN;86;0115;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;815;70.62;1154
-MN;86;0115;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;261;22.62;1154
-MN;86;0115;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1154
-MN;86;0120;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;28;4.42;633
-MN;86;0120;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;486;76.78;633
-MN;86;0120;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;118;18.64;633
-MN;86;0120;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.16;633
-MN;86;0125;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;326;10.86;3001
-MN;86;0125;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1619;53.95;3001
-MN;86;0125;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1056;35.19;3001
-MN;86;0125;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;3001
-MN;86;0127;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;360;10.54;3416
-MN;86;0127;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1997;58.46;3416
-MN;86;0127;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1054;30.85;3416
-MN;86;0127;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;5;0.15;3416
-MN;86;0130;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;135;6.86;1968
-MN;86;0130;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1348;68.50;1968
-MN;86;0130;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;479;24.34;1968
-MN;86;0130;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;6;0.30;1968
-MN;86;0135;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;202;11.31;1786
-MN;86;0135;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1140;63.83;1786
-MN;86;0135;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;442;24.75;1786
-MN;86;0135;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.11;1786
-MN;86;0140;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;3916;67.94;5764
-MN;86;0140;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1845;32.01;5764
-MN;86;0140;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.05;5764
-MN;86;0141;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;2975;68.44;4347
-MN;86;0141;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1368;31.47;4347
-MN;86;0141;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;4;0.09;4347
-MN;86;0142;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;382;62.32;613
-MN;86;0142;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;228;37.19;613
-MN;86;0142;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.49;613
-MN;86;0145;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;222;10.52;2110
-MN;86;0145;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1192;56.49;2110
-MN;86;0145;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;693;32.84;2110
-MN;86;0145;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;3;0.14;2110
-MN;86;0150;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;146;6.85;2131
-MN;86;0150;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1451;68.09;2131
-MN;86;0150;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;533;25.01;2131
-MN;86;0150;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.05;2131
-MN;86;0155;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;2959;67.53;4382
-MN;86;0155;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1417;32.34;4382
-MN;86;0155;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;6;0.14;4382
-MN;86;0156;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;4017;65.96;6090
-MN;86;0156;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;2069;33.97;6090
-MN;86;0156;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;4;0.07;6090
-MN;86;0160;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;96;5.84;1643
-MN;86;0160;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1145;69.69;1643
-MN;86;0160;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;400;24.35;1643
-MN;86;0160;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.12;1643
-MN;86;0165;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;4;7.02;57
-MN;86;0165;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;33;57.89;57
-MN;86;0165;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;20;35.09;57
-MN;86;0165;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;57
-MN;86;0170;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;65;6.70;970
-MN;86;0170;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;628;64.74;970
-MN;86;0170;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;276;28.45;970
-MN;86;0170;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.10;970
-MN;86;0175;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;43;7.93;542
-MN;86;0175;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;406;74.91;542
-MN;86;0175;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;93;17.16;542
-MN;86;0175;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;542
-MN;86;0180;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;34;5.07;670
-MN;86;0180;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;507;75.67;670
-MN;86;0180;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;129;19.25;670
-MN;86;0180;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;670
-MN;86;0185;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;118;11.60;1017
-MN;86;0185;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;619;60.87;1017
-MN;86;0185;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;280;27.53;1017
-MN;86;0185;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1017
-MN;86;0190;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;54;7.67;704
-MN;86;0190;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;510;72.44;704
-MN;86;0190;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;139;19.74;704
-MN;86;0190;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.14;704
+MN;86;0005;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;2122;61.58;3446
+MN;86;0005;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1321;38.33;3446
+MN;86;0005;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.09;3446
+MN;86;0007;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1321;63.02;2096
+MN;86;0007;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;770;36.74;2096
+MN;86;0007;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;5;0.24;2096
+MN;86;0010;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;49;6.06;808
+MN;86;0010;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;571;70.67;808
+MN;86;0010;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;188;23.27;808
+MN;86;0010;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;808
+MN;86;0015;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;199;10.57;1882
+MN;86;0015;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1080;57.39;1882
+MN;86;0015;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;601;31.93;1882
+MN;86;0015;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.11;1882
+MN;86;0020;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;434;10.67;4068
+MN;86;0020;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2393;58.83;4068
+MN;86;0020;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1241;30.51;4068
+MN;86;0020;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;4068
+MN;86;0025;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;205;8.02;2555
+MN;86;0025;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1528;59.80;2555
+MN;86;0025;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;818;32.02;2555
+MN;86;0025;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;4;0.16;2555
+MN;86;0030;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;205;9.79;2095
+MN;86;0030;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1236;59.00;2095
+MN;86;0030;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;651;31.07;2095
+MN;86;0030;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;3;0.14;2095
+MN;86;0031;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;10;10.75;93
+MN;86;0031;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;48;51.61;93
+MN;86;0031;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;35;37.63;93
+MN;86;0031;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;93
+MN;86;0035;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;61;5.10;1196
+MN;86;0035;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;893;74.67;1196
+MN;86;0035;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;242;20.23;1196
+MN;86;0035;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1196
+MN;86;0040;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;51;5.62;907
+MN;86;0040;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;631;69.57;907
+MN;86;0040;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;224;24.70;907
+MN;86;0040;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.11;907
+MN;86;0045;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;674;66.27;1017
+MN;86;0045;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;342;33.63;1017
+MN;86;0045;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.10;1017
+MN;86;0050;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;684;75.08;911
+MN;86;0050;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;227;24.92;911
+MN;86;0050;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;911
+MN;86;0055;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;984;69.44;1417
+MN;86;0055;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;430;30.35;1417
+MN;86;0055;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;3;0.21;1417
+MN;86;0060;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;647;78.90;820
+MN;86;0060;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;170;20.73;820
+MN;86;0060;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;3;0.37;820
+MN;86;0065;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;114;6.30;1809
+MN;86;0065;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1266;69.98;1809
+MN;86;0065;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;428;23.66;1809
+MN;86;0065;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.06;1809
+MN;86;0070;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;22;68.75;32
+MN;86;0070;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;10;31.25;32
+MN;86;0070;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;0;0.00;32
+MN;86;0075;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;307;8.12;3782
+MN;86;0075;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2180;57.64;3782
+MN;86;0075;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1290;34.11;3782
+MN;86;0075;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;5;0.13;3782
+MN;86;0085;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;82;4.43;1851
+MN;86;0085;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1250;67.53;1851
+MN;86;0085;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;519;28.04;1851
+MN;86;0085;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1851
+MN;86;0090;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;49;6.69;732
+MN;86;0090;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;508;69.40;732
+MN;86;0090;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;175;23.91;732
+MN;86;0090;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;732
+MN;86;0095;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;1162;70.21;1655
+MN;86;0095;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;488;29.49;1655
+MN;86;0095;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;5;0.30;1655
+MN;86;0096;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;0;0.00;10
+MN;86;0096;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;7;70.00;10
+MN;86;0096;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;3;30.00;10
+MN;86;0096;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;10
+MN;86;0100;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;117;10.20;1147
+MN;86;0100;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;705;61.46;1147
+MN;86;0100;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;323;28.16;1147
+MN;86;0100;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.17;1147
+MN;86;0105;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;116;10.30;1126
+MN;86;0105;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;738;65.54;1126
+MN;86;0105;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;272;24.16;1126
+MN;86;0105;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1126
+MN;86;0110;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;55;4.32;1272
+MN;86;0110;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;930;73.11;1272
+MN;86;0110;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;286;22.48;1272
+MN;86;0110;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.08;1272
+MN;86;0111;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;9;6.43;140
+MN;86;0111;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;91;65.00;140
+MN;86;0111;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;40;28.57;140
+MN;86;0111;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;140
+MN;86;0115;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;79;6.79;1164
+MN;86;0115;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;821;70.53;1164
+MN;86;0115;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;264;22.68;1164
+MN;86;0115;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1164
+MN;86;0120;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;28;4.36;642
+MN;86;0120;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;494;76.95;642
+MN;86;0120;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;119;18.54;642
+MN;86;0120;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.16;642
+MN;86;0125;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;436;9.76;4468
+MN;86;0125;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2238;50.09;4468
+MN;86;0125;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1794;40.15;4468
+MN;86;0125;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;4468
+MN;86;0127;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;496;10.35;4790
+MN;86;0127;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;2591;54.09;4790
+MN;86;0127;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;1696;35.41;4790
+MN;86;0127;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;7;0.15;4790
+MN;86;0130;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;139;6.92;2009
+MN;86;0130;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1370;68.19;2009
+MN;86;0130;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;494;24.59;2009
+MN;86;0130;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;6;0.30;2009
+MN;86;0135;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;208;11.36;1831
+MN;86;0135;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1164;63.57;1831
+MN;86;0135;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;457;24.96;1831
+MN;86;0135;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.11;1831
+MN;86;0140;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;3979;67.88;5862
+MN;86;0140;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1880;32.07;5862
+MN;86;0140;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.05;5862
+MN;86;0141;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;3014;68.45;4403
+MN;86;0141;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1385;31.46;4403
+MN;86;0141;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;4;0.09;4403
+MN;86;0142;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;385;62.10;620
+MN;86;0142;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;232;37.42;620
+MN;86;0142;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;3;0.48;620
+MN;86;0145;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;226;10.50;2152
+MN;86;0145;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1211;56.27;2152
+MN;86;0145;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;712;33.09;2152
+MN;86;0145;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;3;0.14;2152
+MN;86;0150;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;156;7.17;2176
+MN;86;0150;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1470;67.56;2176
+MN;86;0150;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;549;25.23;2176
+MN;86;0150;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.05;2176
+MN;86;0155;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;2997;67.62;4432
+MN;86;0155;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;1429;32.24;4432
+MN;86;0155;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;6;0.14;4432
+MN;86;0156;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;1;1;4058;65.95;6153
+MN;86;0156;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;1;1;2091;33.98;6153
+MN;86;0156;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;1;1;4;0.07;6153
+MN;86;0160;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;99;5.95;1664
+MN;86;0160;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;1154;69.35;1664
+MN;86;0160;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;409;24.58;1664
+MN;86;0160;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;2;0.12;1664
+MN;86;0165;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;5;6.41;78
+MN;86;0165;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;50;64.10;78
+MN;86;0165;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;23;29.49;78
+MN;86;0165;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;78
+MN;86;0170;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;65;6.68;973
+MN;86;0170;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;629;64.65;973
+MN;86;0170;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;278;28.57;973
+MN;86;0170;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.10;973
+MN;86;0175;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;43;7.88;546
+MN;86;0175;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;409;74.91;546
+MN;86;0175;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;94;17.22;546
+MN;86;0175;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;546
+MN;86;0180;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;34;5.05;673
+MN;86;0180;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;508;75.48;673
+MN;86;0180;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;131;19.47;673
+MN;86;0180;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;673
+MN;86;0185;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;119;11.49;1036
+MN;86;0185;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;625;60.33;1036
+MN;86;0185;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;292;28.19;1036
+MN;86;0185;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;0;0.00;1036
+MN;86;0190;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;1;1;54;7.65;706
+MN;86;0190;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;1;1;511;72.38;706
+MN;86;0190;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;1;1;140;19.83;706
+MN;86;0190;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;1;1;1;0.14;706
 MN;87;0005;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;13;14.13;92
 MN;87;0005;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;72;78.26;92
 MN;87;0005;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;7;7.61;92
