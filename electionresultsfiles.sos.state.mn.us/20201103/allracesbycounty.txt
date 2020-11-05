@@ -4661,13 +4661,13 @@ MN;58;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;11;11;5;0.20;24
 MN;58;;0394;County Commissioner District 4;04;9001;J.J. Waldhalm;;;NP;14;14;1449;50.70;2858
 MN;58;;0394;County Commissioner District 4;04;9002;John B. Mikrot Jr.;;;NP;14;14;1402;49.06;2858
 MN;58;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;14;14;7;0.24;2858
-MN;58;;0432;Soil and Water Supervisor District 2;3115;9001;Gerald Weis Jr.;;;NP;48;48;11379;99.30;11459
-MN;58;;0432;Soil and Water Supervisor District 2;3115;9901;WRITE-IN;;;WI;48;48;80;0.70;11459
-MN;58;;0433;Soil and Water Supervisor District 3;3115;9001;Kelly Henry;;;NP;48;48;5815;51.24;11349
-MN;58;;0433;Soil and Water Supervisor District 3;3115;9002;Brenna Doheny;;;NP;48;48;5469;48.19;11349
-MN;58;;0433;Soil and Water Supervisor District 3;3115;9901;WRITE-IN;;;WI;48;48;65;0.57;11349
-MN;58;;0434;Soil and Water Supervisor District 4;3115;9001;Dan Benzie;;;NP;48;48;11055;99.29;11134
-MN;58;;0434;Soil and Water Supervisor District 4;3115;9901;WRITE-IN;;;WI;48;48;79;0.71;11134
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9001;Gerald Weis Jr.;;;NP;48;48;11379;99.28;11461
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9901;WRITE-IN;;;WI;48;48;82;0.72;11461
+MN;58;;0433;Soil and Water Supervisor District 3;3115;9001;Kelly Henry;;;NP;48;48;5815;51.23;11350
+MN;58;;0433;Soil and Water Supervisor District 3;3115;9002;Brenna Doheny;;;NP;48;48;5469;48.19;11350
+MN;58;;0433;Soil and Water Supervisor District 3;3115;9901;WRITE-IN;;;WI;48;48;66;0.58;11350
+MN;58;;0434;Soil and Water Supervisor District 4;3115;9001;Dan Benzie;;;NP;48;48;11055;99.27;11136
+MN;58;;0434;Soil and Water Supervisor District 4;3115;9901;WRITE-IN;;;WI;48;48;81;0.73;11136
 MN;58;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;48;48;5699;47.69;11950
 MN;58;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;48;48;6207;51.94;11950
 MN;58;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;48;48;44;0.37;11950
@@ -4679,8 +4679,8 @@ MN;58;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;48;48;9470;99.
 MN;58;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;48;48;69;0.72;9539
 MN;58;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;48;48;9406;99.37;9466
 MN;58;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;48;48;60;0.63;9466
-MN;58;;9200;Judge - 10th District Court 1;10;9001;Juanita C. Freeman;;;NP;48;48;9402;99.30;9468
-MN;58;;9200;Judge - 10th District Court 1;10;9901;WRITE-IN;;;WI;48;48;66;0.70;9468
+MN;58;;9200;Judge - 10th District Court 1;10;9001;Juanita C. Freeman;;;NP;48;48;9402;99.29;9469
+MN;58;;9200;Judge - 10th District Court 1;10;9901;WRITE-IN;;;WI;48;48;67;0.71;9469
 MN;58;;9203;Judge - 10th District Court 4;10;9001;Suzanne M. Brown;;;NP;48;48;9348;99.23;9421
 MN;58;;9203;Judge - 10th District Court 4;10;9901;WRITE-IN;;;WI;48;48;73;0.77;9421
 MN;58;;9204;Judge - 10th District Court 5;10;9001;Douglas B Meslow;;;NP;48;48;9325;99.33;9388
@@ -5443,11 +5443,11 @@ MN;68;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;44;44;95;1.15;8294
 MN;68;;0102;U.S. Senator;;0301;Jason Lewis;;;R;44;44;5484;66.12;8294
 MN;68;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;44;44;2315;27.91;8294
 MN;68;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;44;44;4;0.05;8294
-MN;68;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;44;44;314;3.77;8324
-MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;44;44;87;1.05;8324
-MN;68;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;44;44;5123;61.54;8324
-MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;44;44;2791;33.53;8324
-MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;9;0.11;8324
+MN;68;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;44;44;314;3.77;8325
+MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;44;44;87;1.05;8325
+MN;68;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;44;44;5123;61.54;8325
+MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;44;44;2791;33.53;8325
+MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;44;44;10;0.12;8325
 MN;68;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;44;44;6309;76.52;8245
 MN;68;;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;44;44;1926;23.36;8245
 MN;68;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;44;44;10;0.12;8245
