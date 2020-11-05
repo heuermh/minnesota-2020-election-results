@@ -46,12 +46,12 @@ MN;09;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;
 MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;10239;50.70;20197
 MN;09;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;8932;44.22;20197
 MN;09;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;7;0.03;20197
-MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;21143;52.00;40656
-MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;19472;47.89;40656
-MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;41;0.10;40656
-MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;16588;68.43;24242
-MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;7624;31.45;24242
-MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;30;0.12;24242
+MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;21156;52.02;40672
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;19475;47.88;40672
+MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;41;0.10;40672
+MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;16592;68.43;24247
+MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;7625;31.45;24247
+MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;30;0.12;24247
 MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1089;6.05;17987
 MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;11185;62.18;17987
 MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;5698;31.68;17987
@@ -226,10 +226,10 @@ MN;47;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;47;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;8050;60.52;13302
 MN;47;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;4324;32.51;13302
 MN;47;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;12;0.09;13302
-MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1060;7.74;13703
-MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;9062;66.13;13703
-MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3571;26.06;13703
-MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;10;0.07;13703
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1065;7.73;13773
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;9081;65.93;13773
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3617;26.26;13773
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;10;0.07;13773
 MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;964;5.08;18972
 MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;13920;73.37;18972
 MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;4082;21.52;18972
@@ -329,10 +329,10 @@ MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;68;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;5123;61.54;8325
 MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2791;33.53;8325
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;10;0.12;8325
-MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;6071;5.13;118318
-MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;53703;45.39;118318
-MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;58458;49.41;118318
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;86;0.07;118318
+MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;6095;5.14;118660
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;53873;45.40;118660
+MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;58606;49.39;118660
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;86;0.07;118660
 MN;70;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;5069;5.93;85549
 MN;70;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;45412;53.08;85549
 MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;35025;40.94;85549
