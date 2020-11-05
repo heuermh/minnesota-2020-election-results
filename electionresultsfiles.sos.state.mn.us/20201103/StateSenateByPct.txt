@@ -6080,9 +6080,9 @@ MN;35;0035;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;11
 MN;35;0040;0121;State Senator District 1;1;0301;Mark Johnson;;;R;1;1;29;54.72;53
 MN;35;0040;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;1;1;24;45.28;53
 MN;35;0040;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;53
-MN;35;0045;0121;State Senator District 1;1;0301;Mark Johnson;;;R;1;1;301;57.66;522
-MN;35;0045;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;1;1;219;41.95;522
-MN;35;0045;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;1;1;2;0.38;522
+MN;35;0045;0121;State Senator District 1;1;0301;Mark Johnson;;;R;1;1;301;57.55;523
+MN;35;0045;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;1;1;220;42.06;523
+MN;35;0045;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;1;1;2;0.38;523
 MN;35;0050;0121;State Senator District 1;1;0301;Mark Johnson;;;R;1;1;39;55.71;70
 MN;35;0050;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;1;1;31;44.29;70
 MN;35;0050;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;70
@@ -7294,12 +7294,12 @@ MN;47;0145;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;0;0.00;399
 MN;47;0150;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;338;72.69;465
 MN;47;0150;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;127;27.31;465
 MN;47;0150;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;0;0.00;465
-MN;48;0005;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;21;72.41;29
-MN;48;0005;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;8;27.59;29
-MN;48;0005;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;29
-MN;48;0010;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;624;79.19;788
-MN;48;0010;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;163;20.69;788
-MN;48;0010;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.13;788
+MN;48;0005;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;26;68.42;38
+MN;48;0005;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;12;31.58;38
+MN;48;0005;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;0;0.00;38
+MN;48;0010;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;639;76.07;840
+MN;48;0010;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;200;23.81;840
+MN;48;0010;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.12;840
 MN;48;0015;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;1;1;729;75.47;966
 MN;48;0015;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;1;1;236;24.43;966
 MN;48;0015;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;1;1;1;0.10;966
