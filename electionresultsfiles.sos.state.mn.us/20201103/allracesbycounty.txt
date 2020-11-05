@@ -5461,8 +5461,8 @@ MN;68;;0394;County Commissioner District 4;04;9002;Russell Walker;;;NP;11;11;100
 MN;68;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;11;11;5;0.33;1495
 MN;68;;0431;Soil and Water Supervisor District 1;1135;9901;WRITE-IN;;;WI;44;44;0;0.00;0
 MN;68;;0432;Soil and Water Supervisor District 2;1135;9901;WRITE-IN;;;WI;44;44;0;0.00;0
-MN;68;;0435;Soil and Water Supervisor District 5;1135;9001;Landon Olson;;;NP;44;44;6807;99.24;6859
-MN;68;;0435;Soil and Water Supervisor District 5;1135;9901;WRITE-IN;;;WI;44;44;52;0.76;6859
+MN;68;;0435;Soil and Water Supervisor District 5;1135;9001;Landon Olson;;;NP;44;44;6814;99.24;6866
+MN;68;;0435;Soil and Water Supervisor District 5;1135;9901;WRITE-IN;;;WI;44;44;52;0.76;6866
 MN;68;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;44;44;3644;52.27;6972
 MN;68;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;44;44;3310;47.48;6972
 MN;68;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;44;44;18;0.26;6972
@@ -6996,18 +6996,18 @@ MN;87;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;65;1.19;5450
 MN;87;;0102;U.S. Senator;;0301;Jason Lewis;;;R;30;30;3436;63.05;5450
 MN;87;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;30;30;1676;30.75;5450
 MN;87;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;30;30;3;0.06;5450
-MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;284;5.18;5479
-MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;73;1.33;5479
-MN;87;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;30;30;2989;54.55;5479
-MN;87;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;30;30;2128;38.84;5479
-MN;87;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;30;30;5;0.09;5479
+MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;284;5.18;5480
+MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;74;1.35;5480
+MN;87;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;30;30;2989;54.54;5480
+MN;87;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;30;30;2128;38.83;5480
+MN;87;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;30;30;5;0.09;5480
 MN;87;;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;30;30;616;11.81;5217
 MN;87;;0136;State Senator District 16;16;0301;Gary Dahms;;;R;30;30;3921;75.16;5217
 MN;87;;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;30;30;672;12.88;5217
 MN;87;;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;30;30;8;0.15;5217
-MN;87;;0218;State Representative District 16A;16A;0301;Chris Swedzinski;;;R;30;30;3931;72.78;5401
-MN;87;;0218;State Representative District 16A;16A;0401;Doria Drost;;;DFL;30;30;1465;27.12;5401
-MN;87;;0218;State Representative District 16A;16A;9901;WRITE-IN;;;WI;30;30;5;0.09;5401
+MN;87;;0218;State Representative District 16A;16A;0301;Chris Swedzinski;;;R;30;30;3941;72.70;5421
+MN;87;;0218;State Representative District 16A;16A;0401;Doria Drost;;;DFL;30;30;1475;27.21;5421
+MN;87;;0218;State Representative District 16A;16A;9901;WRITE-IN;;;WI;30;30;5;0.09;5421
 MN;87;;0393;County Commissioner District 3;03;9001;W. Mitch Kling;;;NP;6;6;416;40.63;1024
 MN;87;;0393;County Commissioner District 3;03;9002;Gary L. Johnson;;;NP;6;6;606;59.18;1024
 MN;87;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;6;6;2;0.20;1024
@@ -7036,11 +7036,11 @@ MN;87;;9000;Judge - 8th District Court 1;08;9001;Jennifer Kurud Fischer;;;NP;30;
 MN;87;;9000;Judge - 8th District Court 1;08;9901;WRITE-IN;;;WI;30;30;27;0.64;4204
 MN;87;;9001;Judge - 8th District Court 2;08;9001;Stephanie L. Beckman;;;NP;30;30;4185;99.57;4203
 MN;87;;9001;Judge - 8th District Court 2;08;9901;WRITE-IN;;;WI;30;30;18;0.43;4203
-MN;87;;9003;Judge - 8th District Court 4;08;9001;M. Listug;;;NP;30;30;3947;99.52;3966
-MN;87;;9003;Judge - 8th District Court 4;08;9901;WRITE-IN;;;WI;30;30;19;0.48;3966
+MN;87;;9003;Judge - 8th District Court 4;08;9001;M. Listug;;;NP;30;30;4149;99.54;4168
+MN;87;;9003;Judge - 8th District Court 4;08;9901;WRITE-IN;;;WI;30;30;19;0.46;4168
 MN;87;;9006;Judge - 8th District Court 7;08;9001;Laurence J. Stratton;;;NP;30;30;4173;99.59;4190
 MN;87;;9006;Judge - 8th District Court 7;08;9901;WRITE-IN;;;WI;30;30;17;0.41;4190
-MN;87;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;30;30;4172;99.50;4193
-MN;87;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;30;30;21;0.50;4193
+MN;87;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;30;30;4190;99.50;4211
+MN;87;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;30;30;21;0.50;4211
 MN;87;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;30;30;4103;99.39;4128
 MN;87;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;30;30;25;0.61;4128
