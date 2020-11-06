@@ -216,16 +216,16 @@ MN;02;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;128;1
 MN;02;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;128;128;1175;1.04;113470
 MN;02;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;128;128;112450;98.85;113756
 MN;02;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;128;128;1306;1.15;113756
-MN;03;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;12446;64.14;19403
-MN;03;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;6583;33.93;19403
-MN;03;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;37;0.19;19403
-MN;03;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;48;48;35;0.18;19403
-MN;03;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;48;48;52;0.27;19403
-MN;03;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;48;48;27;0.14;19403
-MN;03;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;48;48;8;0.04;19403
-MN;03;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;4;0.02;19403
-MN;03;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;168;0.87;19403
-MN;03;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;43;0.22;19403
+MN;03;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;12438;64.11;19401
+MN;03;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;6589;33.96;19401
+MN;03;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;37;0.19;19401
+MN;03;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;48;48;35;0.18;19401
+MN;03;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;48;48;52;0.27;19401
+MN;03;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;48;48;27;0.14;19401
+MN;03;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;48;48;8;0.04;19401
+MN;03;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;4;0.02;19401
+MN;03;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;168;0.87;19401
+MN;03;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;43;0.22;19401
 MN;03;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;1069;5.62;19015
 MN;03;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;297;1.56;19015
 MN;03;;0102;U.S. Senator;;0301;Jason Lewis;;;R;48;48;11272;59.28;19015
@@ -4661,13 +4661,13 @@ MN;58;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;11;11;5;0.20;24
 MN;58;;0394;County Commissioner District 4;04;9001;J.J. Waldhalm;;;NP;14;14;1449;50.70;2858
 MN;58;;0394;County Commissioner District 4;04;9002;John B. Mikrot Jr.;;;NP;14;14;1402;49.06;2858
 MN;58;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;14;14;7;0.24;2858
-MN;58;;0432;Soil and Water Supervisor District 2;3115;9001;Gerald Weis Jr.;;;NP;48;48;11377;99.28;11460
-MN;58;;0432;Soil and Water Supervisor District 2;3115;9901;WRITE-IN;;;WI;48;48;83;0.72;11460
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9001;Gerald Weis Jr.;;;NP;48;48;11378;99.28;11461
+MN;58;;0432;Soil and Water Supervisor District 2;3115;9901;WRITE-IN;;;WI;48;48;83;0.72;11461
 MN;58;;0433;Soil and Water Supervisor District 3;3115;9001;Kelly Henry;;;NP;48;48;5815;51.23;11350
 MN;58;;0433;Soil and Water Supervisor District 3;3115;9002;Brenna Doheny;;;NP;48;48;5469;48.19;11350
 MN;58;;0433;Soil and Water Supervisor District 3;3115;9901;WRITE-IN;;;WI;48;48;66;0.58;11350
-MN;58;;0434;Soil and Water Supervisor District 4;3115;9001;Dan Benzie;;;NP;48;48;11055;99.26;11137
-MN;58;;0434;Soil and Water Supervisor District 4;3115;9901;WRITE-IN;;;WI;48;48;82;0.74;11137
+MN;58;;0434;Soil and Water Supervisor District 4;3115;9001;Dan Benzie;;;NP;48;48;11054;99.26;11136
+MN;58;;0434;Soil and Water Supervisor District 4;3115;9901;WRITE-IN;;;WI;48;48;82;0.74;11136
 MN;58;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;48;48;5699;47.69;11950
 MN;58;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;48;48;6207;51.94;11950
 MN;58;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;48;48;44;0.37;11950
