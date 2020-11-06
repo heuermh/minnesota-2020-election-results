@@ -1579,14 +1579,14 @@ MN;11;0010;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;2;1.79
 MN;11;0010;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;74;66.07;112
 MN;11;0010;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;29;25.89;112
 MN;11;0010;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.89;112
-MN;11;0015;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;18;5.79;311
-MN;11;0015;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;1.29;311
-MN;11;0015;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;192;61.74;311
-MN;11;0015;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;95;30.55;311
-MN;11;0015;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.64;311
-MN;11;0020;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;225;81.52;276
-MN;11;0020;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;51;18.48;276
-MN;11;0020;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;276
+MN;11;0015;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;18;5.75;313
+MN;11;0015;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;1.28;313
+MN;11;0015;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;194;61.98;313
+MN;11;0015;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;95;30.35;313
+MN;11;0015;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.64;313
+MN;11;0020;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;226;81.59;277
+MN;11;0020;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;51;18.41;277
+MN;11;0020;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;277
 MN;11;0025;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;9;18.75;48
 MN;11;0025;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;8;16.67;48
 MN;11;0025;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;7;14.58;48
@@ -1653,9 +1653,9 @@ MN;11;0090;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;1;1.28
 MN;11;0090;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;55;70.51;78
 MN;11;0090;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;20;25.64;78
 MN;11;0090;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;78
-MN;11;0095;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;543;72.02;754
-MN;11;0095;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;211;27.98;754
-MN;11;0095;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;754
+MN;11;0095;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;545;72.09;756
+MN;11;0095;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;211;27.91;756
+MN;11;0095;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;756
 MN;11;0100;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;483;77.28;625
 MN;11;0100;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;141;22.56;625
 MN;11;0100;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;1;0.16;625
@@ -1664,11 +1664,11 @@ MN;11;0105;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;5;8.33
 MN;11;0105;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;25;41.67;60
 MN;11;0105;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;24;40.00;60
 MN;11;0105;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;60
-MN;11;0110;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;8;7.92;101
-MN;11;0110;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;3;2.97;101
-MN;11;0110;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;52;51.49;101
-MN;11;0110;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;38;37.62;101
-MN;11;0110;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;101
+MN;11;0110;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;9;8.82;102
+MN;11;0110;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;3;2.94;102
+MN;11;0110;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;52;50.98;102
+MN;11;0110;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;38;37.25;102
+MN;11;0110;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;102
 MN;11;0115;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;16;9.47;169
 MN;11;0115;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;1;0.59;169
 MN;11;0115;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;84;49.70;169
@@ -1692,14 +1692,14 @@ MN;11;0130;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;1;0.82
 MN;11;0130;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;83;68.03;122
 MN;11;0130;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;33;27.05;122
 MN;11;0130;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;122
-MN;11;0135;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;11;2.91;378
-MN;11;0135;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;9;2.38;378
-MN;11;0135;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;241;63.76;378
-MN;11;0135;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;116;30.69;378
-MN;11;0135;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.26;378
-MN;11;0140;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;583;71.71;813
-MN;11;0140;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;230;28.29;813
-MN;11;0140;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;813
+MN;11;0135;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;11;2.90;379
+MN;11;0135;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;9;2.37;379
+MN;11;0135;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;242;63.85;379
+MN;11;0135;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;116;30.61;379
+MN;11;0135;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.26;379
+MN;11;0140;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;585;71.78;815
+MN;11;0140;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;230;28.22;815
+MN;11;0140;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;815
 MN;11;0145;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;12;4.11;292
 MN;11;0145;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;1;0.34;292
 MN;11;0145;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;184;63.01;292
@@ -1766,11 +1766,11 @@ MN;11;0210;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;23;3.5
 MN;11;0210;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;456;69.62;655
 MN;11;0210;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;148;22.60;655
 MN;11;0210;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.15;655
-MN;11;0215;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;14;3.41;411
-MN;11;0215;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;0.97;411
-MN;11;0215;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;242;58.88;411
-MN;11;0215;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;151;36.74;411
-MN;11;0215;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;411
+MN;11;0215;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;14;3.40;412
+MN;11;0215;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;4;0.97;412
+MN;11;0215;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;243;58.98;412
+MN;11;0215;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;151;36.65;412
+MN;11;0215;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;412
 MN;11;0220;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;76;88.37;86
 MN;11;0220;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;10;11.63;86
 MN;11;0220;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;86
@@ -1834,9 +1834,9 @@ MN;11;0262;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;0;0.00
 MN;11;0262;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;2;22.22;9
 MN;11;0262;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;7;77.78;9
 MN;11;0262;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;9
-MN;11;0265;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;1162;69.92;1662
-MN;11;0265;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;499;30.02;1662
-MN;11;0265;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;1;0.06;1662
+MN;11;0265;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;1166;69.99;1666
+MN;11;0265;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;499;29.95;1666
+MN;11;0265;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;1;0.06;1666
 MN;11;0270;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;6;3.14;191
 MN;11;0270;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;3;1.57;191
 MN;11;0270;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;132;69.11;191
@@ -1852,11 +1852,11 @@ MN;11;0280;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;2;1.60
 MN;11;0280;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;81;64.80;125
 MN;11;0280;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;37;29.60;125
 MN;11;0280;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;125
-MN;11;0285;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;22;5.12;430
-MN;11;0285;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;11;2.56;430
-MN;11;0285;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;258;60.00;430
-MN;11;0285;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;139;32.33;430
-MN;11;0285;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;430
+MN;11;0285;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;22;5.10;431
+MN;11;0285;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;11;2.55;431
+MN;11;0285;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;259;60.09;431
+MN;11;0285;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;139;32.25;431
+MN;11;0285;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;431
 MN;11;0290;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;11;3.33;330
 MN;11;0290;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;2;0.61;330
 MN;11;0290;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;198;60.00;330
@@ -1885,9 +1885,9 @@ MN;11;0312;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;0;0.00
 MN;11;0312;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;15;62.50;24
 MN;11;0312;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;9;37.50;24
 MN;11;0312;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;24
-MN;11;0315;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;275;77.46;355
-MN;11;0315;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;80;22.54;355
-MN;11;0315;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;355
+MN;11;0315;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;276;77.53;356
+MN;11;0315;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;80;22.47;356
+MN;11;0315;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;356
 MN;11;0317;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;6;4.48;134
 MN;11;0317;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;3;2.24;134
 MN;11;0317;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;78;58.21;134
@@ -6463,10 +6463,10 @@ MN;39;0075;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;0
 MN;39;0080;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;27;71.05;38
 MN;39;0080;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;11;28.95;38
 MN;39;0080;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;38
-MN;40;0005;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;26;6.33;411
-MN;40;0005;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;256;62.29;411
-MN;40;0005;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;129;31.39;411
-MN;40;0005;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;411
+MN;40;0005;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;27;6.55;412
+MN;40;0005;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;256;62.14;412
+MN;40;0005;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;129;31.31;412
+MN;40;0005;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;412
 MN;40;0010;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;14;2.84;493
 MN;40;0010;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;335;67.95;493
 MN;40;0010;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;144;29.21;493
@@ -6492,33 +6492,33 @@ MN;40;0035;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;89
 MN;40;0040;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;187;52.38;357
 MN;40;0040;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;170;47.62;357
 MN;40;0040;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;0;0.00;357
-MN;40;0045;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;149;49.17;303
-MN;40;0045;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;153;50.49;303
-MN;40;0045;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;1;0.33;303
-MN;40;0047;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;24;3.13;768
-MN;40;0047;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;447;58.20;768
-MN;40;0047;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;297;38.67;768
-MN;40;0047;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;768
+MN;40;0045;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;150;49.34;304
+MN;40;0045;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;153;50.33;304
+MN;40;0045;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;1;0.33;304
+MN;40;0047;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;24;3.12;769
+MN;40;0047;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;448;58.26;769
+MN;40;0047;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;297;38.62;769
+MN;40;0047;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;769
 MN;40;0050;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;4;5.19;77
 MN;40;0050;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;48;62.34;77
 MN;40;0050;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;25;32.47;77
 MN;40;0050;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;77
-MN;40;0055;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;10;3.73;268
-MN;40;0055;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;199;74.25;268
-MN;40;0055;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;59;22.01;268
-MN;40;0055;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;268
-MN;40;0062;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;60;4.70;1277
-MN;40;0062;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;887;69.46;1277
-MN;40;0062;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;329;25.76;1277
-MN;40;0062;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;1;0.08;1277
+MN;40;0055;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;10;3.72;269
+MN;40;0055;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;199;73.98;269
+MN;40;0055;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;60;22.30;269
+MN;40;0055;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;269
+MN;40;0062;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;60;4.69;1278
+MN;40;0062;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;888;69.48;1278
+MN;40;0062;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;329;25.74;1278
+MN;40;0062;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;1;0.08;1278
 MN;40;0065;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;69;6.44;1071
 MN;40;0065;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;663;61.90;1071
 MN;40;0065;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;337;31.47;1071
 MN;40;0065;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;2;0.19;1071
-MN;40;0075;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;181;8.94;2025
-MN;40;0075;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;1091;53.88;2025
-MN;40;0075;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;752;37.14;2025
-MN;40;0075;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;1;0.05;2025
+MN;40;0075;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;181;8.93;2026
+MN;40;0075;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;1092;53.90;2026
+MN;40;0075;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;752;37.12;2026
+MN;40;0075;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;1;0.05;2026
 MN;40;0085;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;22;4.87;452
 MN;40;0085;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;343;75.89;452
 MN;40;0085;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;86;19.03;452
@@ -6534,10 +6534,10 @@ MN;40;0100;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;16;3
 MN;40;0100;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;305;72.62;420
 MN;40;0100;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;99;23.57;420
 MN;40;0100;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;420
-MN;40;0105;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;94;4.92;1911
-MN;40;0105;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;1139;59.60;1911
-MN;40;0105;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;676;35.37;1911
-MN;40;0105;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;2;0.10;1911
+MN;40;0105;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;94;4.92;1912
+MN;40;0105;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;1140;59.62;1912
+MN;40;0105;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;676;35.36;1912
+MN;40;0105;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;2;0.10;1912
 MN;40;0110;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;11;6.08;181
 MN;40;0110;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;116;64.09;181
 MN;40;0110;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;54;29.83;181
@@ -6554,9 +6554,9 @@ MN;40;0125;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;1;1;17;2
 MN;40;0125;0140;State Senator District 20;20;0301;Rich Draheim;;;R;1;1;429;71.98;596
 MN;40;0125;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;1;1;150;25.17;596
 MN;40;0125;0140;State Senator District 20;20;9901;WRITE-IN;;;WI;1;1;0;0.00;596
-MN;40;0130;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;280;30.11;930
-MN;40;0130;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;649;69.78;930
-MN;40;0130;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.11;930
+MN;40;0130;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;280;30.08;931
+MN;40;0130;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;650;69.82;931
+MN;40;0130;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.11;931
 MN;40;0140;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;89;21.29;418
 MN;40;0140;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;328;78.47;418
 MN;40;0140;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.24;418
