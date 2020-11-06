@@ -205,9 +205,9 @@ MN;02;0120;0155;State Senator District 35;35;9901;WRITE-IN;;;WI;1;1;2;0.17;1177
 MN;02;0125;0155;State Senator District 35;35;0301;Jim Abeler;;;R;1;1;622;58.62;1061
 MN;02;0125;0155;State Senator District 35;35;0401;David L. Nelson;;;DFL;1;1;437;41.19;1061
 MN;02;0125;0155;State Senator District 35;35;9901;WRITE-IN;;;WI;1;1;2;0.19;1061
-MN;02;0130;0155;State Senator District 35;35;0301;Jim Abeler;;;R;1;1;811;58.01;1398
-MN;02;0130;0155;State Senator District 35;35;0401;David L. Nelson;;;DFL;1;1;583;41.70;1398
-MN;02;0130;0155;State Senator District 35;35;9901;WRITE-IN;;;WI;1;1;4;0.29;1398
+MN;02;0130;0155;State Senator District 35;35;0301;Jim Abeler;;;R;1;1;813;58.07;1400
+MN;02;0130;0155;State Senator District 35;35;0401;David L. Nelson;;;DFL;1;1;583;41.64;1400
+MN;02;0130;0155;State Senator District 35;35;9901;WRITE-IN;;;WI;1;1;4;0.29;1400
 MN;02;0135;0155;State Senator District 35;35;0301;Jim Abeler;;;R;1;1;695;58.45;1189
 MN;02;0135;0155;State Senator District 35;35;0401;David L. Nelson;;;DFL;1;1;494;41.55;1189
 MN;02;0135;0155;State Senator District 35;35;9901;WRITE-IN;;;WI;1;1;0;0.00;1189
@@ -541,9 +541,9 @@ MN;02;3105;0157;State Senator District 37;37;9901;WRITE-IN;;;WI;1;1;0;0.00;929
 MN;02;3110;0161;State Senator District 41;41;0301;Lucia Marina Vogel;;;R;1;1;457;44.98;1016
 MN;02;3110;0161;State Senator District 41;41;0401;Mary Kunesh-Podein;;;DFL;1;1;557;54.82;1016
 MN;02;3110;0161;State Senator District 41;41;9901;WRITE-IN;;;WI;1;1;2;0.20;1016
-MN;02;3115;0157;State Senator District 37;37;0301;Brad Sanford;;;R;1;1;730;41.93;1741
-MN;02;3115;0157;State Senator District 37;37;0401;Jerry Newton;;;DFL;1;1;1008;57.90;1741
-MN;02;3115;0157;State Senator District 37;37;9901;WRITE-IN;;;WI;1;1;3;0.17;1741
+MN;02;3115;0157;State Senator District 37;37;0301;Brad Sanford;;;R;1;1;731;41.96;1742
+MN;02;3115;0157;State Senator District 37;37;0401;Jerry Newton;;;DFL;1;1;1008;57.86;1742
+MN;02;3115;0157;State Senator District 37;37;9901;WRITE-IN;;;WI;1;1;3;0.17;1742
 MN;03;0005;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;42;67.74;62
 MN;03;0005;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;20;32.26;62
 MN;03;0005;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;62
@@ -7273,9 +7273,9 @@ MN;47;0110;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;1;0.14;732
 MN;47;0115;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;399;66.39;601
 MN;47;0115;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;201;33.44;601
 MN;47;0115;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;1;0.17;601
-MN;47;0120;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;450;65.60;686
-MN;47;0120;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;236;34.40;686
-MN;47;0120;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;0;0.00;686
+MN;47;0120;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;451;65.65;687
+MN;47;0120;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;236;34.35;687
+MN;47;0120;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;0;0.00;687
 MN;47;0125;0138;State Senator District 18;18;0301;Scott Newman;;;R;1;1;347;63.21;549
 MN;47;0125;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;1;1;201;36.61;549
 MN;47;0125;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;1;1;1;0.18;549
@@ -12340,9 +12340,9 @@ MN;80;0120;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;521
 MN;80;0125;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;1;1;225;88.24;255
 MN;80;0125;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;1;1;30;11.76;255
 MN;80;0125;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;1;1;0;0.00;255
-MN;81;0005;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;38;15.38;247
-MN;81;0005;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;208;84.21;247
-MN;81;0005;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.40;247
+MN;81;0005;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;38;15.32;248
+MN;81;0005;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;209;84.27;248
+MN;81;0005;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.40;248
 MN;81;0010;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;1;1;279;73.23;381
 MN;81;0010;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;1;1;100;26.25;381
 MN;81;0010;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;2;0.52;381
@@ -12355,9 +12355,9 @@ MN;81;0020;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;81;0025;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;26;12.38;210
 MN;81;0025;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;183;87.14;210
 MN;81;0025;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;1;0.48;210
-MN;81;0030;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;60;16.90;355
-MN;81;0030;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;295;83.10;355
-MN;81;0030;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;0;0.00;355
+MN;81;0030;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;60;16.85;356
+MN;81;0030;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;296;83.15;356
+MN;81;0030;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;0;0.00;356
 MN;81;0035;0143;State Senator District 23;23;0101;David Pulkrabek;;;LMN;1;1;288;23.41;1230
 MN;81;0035;0143;State Senator District 23;23;0301;Julie A. Rosen;;;R;1;1;940;76.42;1230
 MN;81;0035;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;1;1;2;0.16;1230
@@ -12394,9 +12394,9 @@ MN;81;0090;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;1;0.08;1326
 MN;81;0095;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;1;1;274;53.94;508
 MN;81;0095;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;1;1;234;46.06;508
 MN;81;0095;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;0;0.00;508
-MN;81;0100;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;1;1;214;63.13;339
-MN;81;0100;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;1;1;125;36.87;339
-MN;81;0100;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;0;0.00;339
+MN;81;0100;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;1;1;214;62.94;340
+MN;81;0100;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;1;1;126;37.06;340
+MN;81;0100;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;0;0.00;340
 MN;81;0105;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;1;1;480;64.26;747
 MN;81;0105;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;1;1;267;35.74;747
 MN;81;0105;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;1;1;0;0.00;747
