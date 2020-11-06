@@ -335,10 +335,10 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,110&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/06/20 3:47 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/06/20 3:56 PM
                             </td>
                             <td class="text-right">
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,785
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,786
                             </td>
                     </tr>
             </table>
@@ -353,13 +353,13 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/06/20 3:47 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/06/20 3:56 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,785
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,786
                             </td>
                         </tr>
             </table>
@@ -722,7 +722,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Michelle Fischbach</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">193,981</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">193,983</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">53.40%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="53" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
