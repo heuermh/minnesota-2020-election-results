@@ -565,9 +565,9 @@ MN;03;0030;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;03;0035;0191;State Representative District 2B;2B;0301;Steve Green;;;R;1;1;80;60.61;132
 MN;03;0035;0191;State Representative District 2B;2B;0401;David Suby;;;DFL;1;1;52;39.39;132
 MN;03;0035;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.00;132
-MN;03;0040;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;416;54.59;762
-MN;03;0040;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;346;45.41;762
-MN;03;0040;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.00;762
+MN;03;0040;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;417;54.65;763
+MN;03;0040;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;346;45.35;763
+MN;03;0040;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.00;763
 MN;03;0045;0191;State Representative District 2B;2B;0301;Steve Green;;;R;1;1;110;70.51;156
 MN;03;0045;0191;State Representative District 2B;2B;0401;David Suby;;;DFL;1;1;46;29.49;156
 MN;03;0045;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.00;156
@@ -580,12 +580,12 @@ MN;03;0051;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;03;0052;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;0;0.00;0
 MN;03;0052;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;0;0.00;0
 MN;03;0052;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;03;0055;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;860;54.36;1582
-MN;03;0055;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;720;45.51;1582
-MN;03;0055;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;2;0.13;1582
-MN;03;0065;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;735;49.40;1488
-MN;03;0065;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;753;50.60;1488
-MN;03;0065;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.00;1488
+MN;03;0055;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;860;54.40;1581
+MN;03;0055;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;719;45.48;1581
+MN;03;0055;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;2;0.13;1581
+MN;03;0065;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;735;49.36;1489
+MN;03;0065;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;754;50.64;1489
+MN;03;0065;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;0;0.00;1489
 MN;03;0075;0195;State Representative District 4B;4B;0301;Brian Anderson;;;R;1;1;1121;55.80;2009
 MN;03;0075;0195;State Representative District 4B;4B;0401;Paul Marquart;;;DFL;1;1;887;44.15;2009
 MN;03;0075;0195;State Representative District 4B;4B;9901;WRITE-IN;;;WI;1;1;1;0.05;2009
@@ -9292,9 +9292,9 @@ MN;64;0030;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;1;0
 MN;64;0035;0218;State Representative District 16A;16A;0301;Chris Swedzinski;;;R;1;1;81;90.00;90
 MN;64;0035;0218;State Representative District 16A;16A;0401;Doria Drost;;;DFL;1;1;9;10.00;90
 MN;64;0035;0218;State Representative District 16A;16A;9901;WRITE-IN;;;WI;1;1;0;0.00;90
-MN;64;0040;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;99;85.34;116
-MN;64;0040;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;15;12.93;116
-MN;64;0040;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;2;1.72;116
+MN;64;0040;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;100;85.47;117
+MN;64;0040;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;15;12.82;117
+MN;64;0040;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;2;1.71;117
 MN;64;0045;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;31;93.94;33
 MN;64;0045;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;2;6.06;33
 MN;64;0045;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;0;0.00;33
@@ -9334,9 +9334,9 @@ MN;64;0105;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;0;0
 MN;64;0110;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;467;60.49;772
 MN;64;0110;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;303;39.25;772
 MN;64;0110;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;2;0.26;772
-MN;64;0115;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;541;67.29;804
-MN;64;0115;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;263;32.71;804
-MN;64;0115;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;0;0.00;804
+MN;64;0115;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;542;67.33;805
+MN;64;0115;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;263;32.67;805
+MN;64;0115;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;0;0.00;805
 MN;64;0120;0219;State Representative District 16B;16B;0301;Paul Torkelson;;;R;1;1;575;65.12;883
 MN;64;0120;0219;State Representative District 16B;16B;0401;Marinda "Mindy" Kimmel;;;DFL;1;1;306;34.65;883
 MN;64;0120;0219;State Representative District 16B;16B;9901;WRITE-IN;;;WI;1;1;2;0.23;883

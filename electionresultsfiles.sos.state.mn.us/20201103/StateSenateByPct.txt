@@ -565,9 +565,9 @@ MN;03;0030;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;150
 MN;03;0035;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;78;58.65;133
 MN;03;0035;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;55;41.35;133
 MN;03;0035;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;133
-MN;03;0040;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;449;59.63;753
-MN;03;0040;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;304;40.37;753
-MN;03;0040;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;753
+MN;03;0040;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;450;59.68;754
+MN;03;0040;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;304;40.32;754
+MN;03;0040;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;754
 MN;03;0045;0122;State Senator District 2;2;0301;Paul Utke;;;R;1;1;108;68.35;158
 MN;03;0045;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;1;1;50;31.65;158
 MN;03;0045;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;1;1;0;0.00;158
@@ -580,12 +580,12 @@ MN;03;0051;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;435
 MN;03;0052;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;0;0.00;0
 MN;03;0052;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;0;0.00;0
 MN;03;0052;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;03;0055;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;879;55.46;1585
-MN;03;0055;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;704;44.42;1585
-MN;03;0055;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.13;1585
-MN;03;0065;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;762;51.52;1479
-MN;03;0065;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;717;48.48;1479
-MN;03;0065;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;1479
+MN;03;0055;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;879;55.49;1584
+MN;03;0055;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;703;44.38;1584
+MN;03;0055;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;2;0.13;1584
+MN;03;0065;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;762;51.49;1480
+MN;03;0065;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;718;48.51;1480
+MN;03;0065;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;1480
 MN;03;0075;0124;State Senator District 4;4;0301;Mark Larson;;;R;1;1;1137;57.08;1992
 MN;03;0075;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;1;1;855;42.92;1992
 MN;03;0075;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;1;1;0;0.00;1992
@@ -9968,10 +9968,10 @@ MN;64;0035;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN
 MN;64;0035;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;76;83.52;91
 MN;64;0035;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;9;9.89;91
 MN;64;0035;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;91
-MN;64;0040;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;2;1.71;117
-MN;64;0040;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;106;90.60;117
-MN;64;0040;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;9;7.69;117
-MN;64;0040;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;117
+MN;64;0040;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;2;1.69;118
+MN;64;0040;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;107;90.68;118
+MN;64;0040;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;9;7.63;118
+MN;64;0040;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;118
 MN;64;0045;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;0;0.00;34
 MN;64;0045;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;33;97.06;34
 MN;64;0045;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;1;2.94;34
@@ -10024,10 +10024,10 @@ MN;64;0110;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN
 MN;64;0110;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;523;69.46;753
 MN;64;0110;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;100;13.28;753
 MN;64;0110;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;2;0.27;753
-MN;64;0115;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;93;11.89;782
-MN;64;0115;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;604;77.24;782
-MN;64;0115;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;81;10.36;782
-MN;64;0115;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;4;0.51;782
+MN;64;0115;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;93;11.86;784
+MN;64;0115;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;606;77.30;784
+MN;64;0115;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;81;10.33;784
+MN;64;0115;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;4;0.51;784
 MN;64;0120;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;96;11.18;859
 MN;64;0120;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;658;76.60;859
 MN;64;0120;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;103;11.99;859
