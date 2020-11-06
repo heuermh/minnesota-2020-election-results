@@ -6255,10 +6255,10 @@ MN;37;0020;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN
 MN;37;0020;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;79;68.10;116
 MN;37;0020;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;27;23.28;116
 MN;37;0020;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;0;0.00;116
-MN;37;0025;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;12;13.64;88
-MN;37;0025;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;61;69.32;88
-MN;37;0025;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;14;15.91;88
-MN;37;0025;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;1;1.14;88
+MN;37;0025;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;12;13.48;89
+MN;37;0025;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;62;69.66;89
+MN;37;0025;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;14;15.73;89
+MN;37;0025;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;1;1;1;1.12;89
 MN;37;0030;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;1;1;14;18.42;76
 MN;37;0030;0136;State Senator District 16;16;0301;Gary Dahms;;;R;1;1;51;67.11;76
 MN;37;0030;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;1;1;11;14.47;76
@@ -7801,9 +7801,9 @@ MN;52;0015;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;0;0.00;83
 MN;52;0020;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;298;65.21;457
 MN;52;0020;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;158;34.57;457
 MN;52;0020;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;1;0.22;457
-MN;52;0025;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;245;65.51;374
-MN;52;0025;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;128;34.22;374
-MN;52;0025;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;1;0.27;374
+MN;52;0025;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;246;65.60;375
+MN;52;0025;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;128;34.13;375
+MN;52;0025;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;1;0.27;375
 MN;52;0030;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;1;1;108;65.85;164
 MN;52;0030;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;1;1;56;34.15;164
 MN;52;0030;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;1;1;0;0.00;164
@@ -8849,15 +8849,15 @@ MN;58;0160;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;0;0.00;158
 MN;58;0165;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;11;61.11;18
 MN;58;0165;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;7;38.89;18
 MN;58;0165;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;0;0.00;18
-MN;58;0170;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;262;67.18;390
-MN;58;0170;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;127;32.56;390
-MN;58;0170;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.26;390
-MN;58;0175;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;1021;64.99;1571
-MN;58;0175;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;549;34.95;1571
-MN;58;0175;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.06;1571
-MN;58;0185;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;624;70.83;881
-MN;58;0185;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;256;29.06;881
-MN;58;0185;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.11;881
+MN;58;0170;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;262;67.53;388
+MN;58;0170;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;125;32.22;388
+MN;58;0170;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.26;388
+MN;58;0175;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;1021;64.87;1574
+MN;58;0175;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;552;35.07;1574
+MN;58;0175;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.06;1574
+MN;58;0185;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;624;70.91;880
+MN;58;0185;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;255;28.98;880
+MN;58;0185;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;1;0.11;880
 MN;58;0190;0131;State Senator District 11;11;0301;Jason Rarick;;;R;1;1;269;70.05;384
 MN;58;0190;0131;State Senator District 11;11;0401;Michelle Lee;;;DFL;1;1;115;29.95;384
 MN;58;0190;0131;State Senator District 11;11;9901;WRITE-IN;;;WI;1;1;0;0.00;384
