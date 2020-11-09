@@ -7541,10 +7541,10 @@ MN;50;0035;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;125;5.1
 MN;50;0035;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;983;40.70;2415
 MN;50;0035;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;1304;54.00;2415
 MN;50;0035;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;3;0.12;2415
-MN;50;0050;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;128;10.19;1256
-MN;50;0050;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;433;34.47;1256
-MN;50;0050;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;692;55.10;1256
-MN;50;0050;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;3;0.24;1256
+MN;50;0050;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;169;13.03;1297
+MN;50;0050;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;433;33.38;1297
+MN;50;0050;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;692;53.35;1297
+MN;50;0050;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;1;1;3;0.23;1297
 MN;50;0055;0147;State Senator District 27;27;0101;Tyler Becvar;;;LMN;1;1;69;5.73;1204
 MN;50;0055;0147;State Senator District 27;27;0301;Gene Dornink;;;R;1;1;378;31.40;1204
 MN;50;0055;0147;State Senator District 27;27;0401;Dan Sparks;;;DFL;1;1;756;62.79;1204
@@ -10936,9 +10936,9 @@ MN;69;0855;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;117
 MN;69;0857;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;110;40.15;274
 MN;69;0857;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;164;59.85;274
 MN;69;0857;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;274
-MN;69;0860;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;58;36.48;159
-MN;69;0860;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;101;63.52;159
-MN;69;0860;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;159
+MN;69;0860;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;58;41.73;139
+MN;69;0860;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;81;58.27;139
+MN;69;0860;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;139
 MN;69;0865;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;70;46.36;151
 MN;69;0865;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;79;52.32;151
 MN;69;0865;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;2;1.32;151
@@ -11428,9 +11428,9 @@ MN;73;0010;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;1;0.16;625
 MN;73;0015;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;128;92.09;139
 MN;73;0015;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;11;7.91;139
 MN;73;0015;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;139
-MN;73;0020;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;716;73.81;970
-MN;73;0020;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;252;25.98;970
-MN;73;0020;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;2;0.21;970
+MN;73;0020;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;717;73.84;971
+MN;73;0020;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;252;25.95;971
+MN;73;0020;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;2;0.21;971
 MN;73;0025;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;545;79.10;689
 MN;73;0025;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;143;20.75;689
 MN;73;0025;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.15;689
@@ -11449,9 +11449,9 @@ MN;73;0040;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;321
 MN;73;0042;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;0;0.00;0
 MN;73;0042;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;0;0.00;0
 MN;73;0042;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;73;0045;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1683;72.05;2336
-MN;73;0045;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;653;27.95;2336
-MN;73;0045;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;2336
+MN;73;0045;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1685;72.07;2338
+MN;73;0045;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;653;27.93;2338
+MN;73;0045;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;2338
 MN;73;0050;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;834;67.10;1243
 MN;73;0050;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;409;32.90;1243
 MN;73;0050;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1243
@@ -11464,21 +11464,21 @@ MN;73;0060;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;178
 MN;73;0065;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;119;76.28;156
 MN;73;0065;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;37;23.72;156
 MN;73;0065;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;156
-MN;73;0070;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;777;77.86;998
-MN;73;0070;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;220;22.04;998
-MN;73;0070;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.10;998
+MN;73;0070;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;778;77.88;999
+MN;73;0070;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;220;22.02;999
+MN;73;0070;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.10;999
 MN;73;0075;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;167;70.46;237
 MN;73;0075;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;69;29.11;237
 MN;73;0075;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.42;237
 MN;73;0080;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;107;93.04;115
 MN;73;0080;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;8;6.96;115
 MN;73;0080;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;115
-MN;73;0085;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;727;74.41;977
-MN;73;0085;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;248;25.38;977
-MN;73;0085;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;2;0.20;977
-MN;73;0090;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;509;85.98;592
-MN;73;0090;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;83;14.02;592
-MN;73;0090;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;592
+MN;73;0085;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;728;74.44;978
+MN;73;0085;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;248;25.36;978
+MN;73;0085;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;2;0.20;978
+MN;73;0090;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;510;85.86;594
+MN;73;0090;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;84;14.14;594
+MN;73;0090;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;594
 MN;73;0095;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;305;84.49;361
 MN;73;0095;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;56;15.51;361
 MN;73;0095;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;361
@@ -11500,12 +11500,12 @@ MN;73;0120;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.24;413
 MN;73;0125;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;277;72.51;382
 MN;73;0125;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;104;27.23;382
 MN;73;0125;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.26;382
-MN;73;0130;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;497;87.19;570
-MN;73;0130;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;73;12.81;570
-MN;73;0130;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;570
-MN;73;0135;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;149;91.41;163
-MN;73;0135;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;14;8.59;163
-MN;73;0135;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;163
+MN;73;0130;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;498;87.22;571
+MN;73;0130;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;73;12.78;571
+MN;73;0130;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;571
+MN;73;0135;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;150;91.46;164
+MN;73;0135;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;14;8.54;164
+MN;73;0135;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;164
 MN;73;0137;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;36;90.00;40
 MN;73;0137;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;4;10.00;40
 MN;73;0137;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;40
@@ -11536,12 +11536,12 @@ MN;73;0180;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;448
 MN;73;0185;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;558;88.01;634
 MN;73;0185;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;76;11.99;634
 MN;73;0185;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;634
-MN;73;0190;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;387;83.23;465
-MN;73;0190;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;78;16.77;465
-MN;73;0190;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;465
-MN;73;0192;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;397;75.19;528
-MN;73;0192;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;131;24.81;528
-MN;73;0192;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;528
+MN;73;0190;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;388;83.26;466
+MN;73;0190;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;78;16.74;466
+MN;73;0190;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;466
+MN;73;0192;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;398;75.24;529
+MN;73;0192;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;131;24.76;529
+MN;73;0192;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;529
 MN;73;0195;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;157;88.20;178
 MN;73;0195;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;21;11.80;178
 MN;73;0195;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;178
@@ -11572,46 +11572,46 @@ MN;73;0245;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;52
 MN;73;0250;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;47;90.38;52
 MN;73;0250;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;5;9.62;52
 MN;73;0250;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;52
-MN;73;0255;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;99;4.53;2184
-MN;73;0255;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;1577;72.21;2184
-MN;73;0255;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;508;23.26;2184
-MN;73;0255;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;2184
+MN;73;0255;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;99;4.53;2185
+MN;73;0255;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;1578;72.22;2185
+MN;73;0255;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;508;23.25;2185
+MN;73;0255;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;2185
 MN;73;0260;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;32;18.82;170
 MN;73;0260;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;37;21.76;170
 MN;73;0260;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;101;59.41;170
 MN;73;0260;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;170
-MN;73;0265;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;141;14.21;992
-MN;73;0265;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;276;27.82;992
-MN;73;0265;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;574;57.86;992
-MN;73;0265;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.10;992
-MN;73;0270;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;74;16.16;458
-MN;73;0270;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;132;28.82;458
-MN;73;0270;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;252;55.02;458
-MN;73;0270;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;458
+MN;73;0265;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;141;14.17;995
+MN;73;0265;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;277;27.84;995
+MN;73;0265;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;576;57.89;995
+MN;73;0265;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.10;995
+MN;73;0270;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;74;16.12;459
+MN;73;0270;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;132;28.76;459
+MN;73;0270;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;253;55.12;459
+MN;73;0270;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;459
 MN;73;0275;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;104;12.16;855
 MN;73;0275;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;345;40.35;855
 MN;73;0275;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;406;47.49;855
 MN;73;0275;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;855
-MN;73;0280;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;103;16.48;625
-MN;73;0280;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;210;33.60;625
-MN;73;0280;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;312;49.92;625
-MN;73;0280;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;625
-MN;73;0285;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;64;6.27;1021
-MN;73;0285;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;474;46.43;1021
-MN;73;0285;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;483;47.31;1021
-MN;73;0285;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;1021
-MN;73;0290;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;108;9.88;1093
-MN;73;0290;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;205;18.76;1093
-MN;73;0290;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;776;71.00;1093
-MN;73;0290;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;4;0.37;1093
-MN;73;0295;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;138;8.62;1601
-MN;73;0295;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;582;36.35;1601
-MN;73;0295;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;879;54.90;1601
-MN;73;0295;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.12;1601
-MN;73;0305;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;53;3.18;1668
-MN;73;0305;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;891;53.42;1668
-MN;73;0305;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;722;43.29;1668
-MN;73;0305;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.12;1668
+MN;73;0280;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;103;16.43;627
+MN;73;0280;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;211;33.65;627
+MN;73;0280;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;313;49.92;627
+MN;73;0280;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;627
+MN;73;0285;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;64;6.26;1022
+MN;73;0285;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;475;46.48;1022
+MN;73;0285;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;483;47.26;1022
+MN;73;0285;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;1022
+MN;73;0290;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;109;9.96;1094
+MN;73;0290;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;205;18.74;1094
+MN;73;0290;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;776;70.93;1094
+MN;73;0290;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;4;0.37;1094
+MN;73;0295;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;140;8.73;1603
+MN;73;0295;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;582;36.31;1603
+MN;73;0295;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;879;54.83;1603
+MN;73;0295;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.12;1603
+MN;73;0305;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;53;3.18;1667
+MN;73;0305;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;891;53.45;1667
+MN;73;0305;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;721;43.25;1667
+MN;73;0305;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.12;1667
 MN;73;0307;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;152;8.81;1725
 MN;73;0307;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;752;43.59;1725
 MN;73;0307;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;821;47.59;1725
@@ -11624,42 +11624,42 @@ MN;73;0312;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;74;9.1
 MN;73;0312;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;383;47.40;808
 MN;73;0312;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;351;43.44;808
 MN;73;0312;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;808
-MN;73;0315;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;67;7.74;866
-MN;73;0315;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;422;48.73;866
-MN;73;0315;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;376;43.42;866
-MN;73;0315;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.12;866
+MN;73;0315;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;67;7.75;865
+MN;73;0315;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;422;48.79;865
+MN;73;0315;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;375;43.35;865
+MN;73;0315;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.12;865
 MN;73;0317;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;106;8.92;1188
 MN;73;0317;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;523;44.02;1188
 MN;73;0317;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;556;46.80;1188
 MN;73;0317;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;3;0.25;1188
-MN;73;0320;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;95;7.42;1280
-MN;73;0320;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;471;36.80;1280
-MN;73;0320;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;712;55.63;1280
-MN;73;0320;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.16;1280
-MN;73;0330;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;64;6.55;977
-MN;73;0330;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;429;43.91;977
-MN;73;0330;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;481;49.23;977
-MN;73;0330;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;3;0.31;977
-MN;73;0335;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;63;10.41;605
-MN;73;0335;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;278;45.95;605
-MN;73;0335;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;261;43.14;605
-MN;73;0335;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;3;0.50;605
+MN;73;0320;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;96;7.49;1281
+MN;73;0320;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;471;36.77;1281
+MN;73;0320;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;712;55.58;1281
+MN;73;0320;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.16;1281
+MN;73;0330;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;64;6.54;978
+MN;73;0330;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;429;43.87;978
+MN;73;0330;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;482;49.28;978
+MN;73;0330;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;3;0.31;978
+MN;73;0335;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;64;10.56;606
+MN;73;0335;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;278;45.87;606
+MN;73;0335;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;261;43.07;606
+MN;73;0335;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;3;0.50;606
 MN;73;0340;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;68;10.00;680
 MN;73;0340;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;311;45.74;680
 MN;73;0340;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;300;44.12;680
 MN;73;0340;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.15;680
-MN;73;0345;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;95;6.44;1476
-MN;73;0345;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;410;27.78;1476
-MN;73;0345;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;970;65.72;1476
-MN;73;0345;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.07;1476
-MN;73;0350;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;73;6.27;1165
-MN;73;0350;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;561;48.15;1165
-MN;73;0350;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;530;45.49;1165
-MN;73;0350;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.09;1165
-MN;73;0355;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;105;4.41;2382
-MN;73;0355;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;1278;53.65;2382
-MN;73;0355;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;999;41.94;2382
-MN;73;0355;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;2382
+MN;73;0345;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;95;6.44;1475
+MN;73;0345;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;410;27.80;1475
+MN;73;0345;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;969;65.69;1475
+MN;73;0345;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.07;1475
+MN;73;0350;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;73;6.27;1164
+MN;73;0350;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;560;48.11;1164
+MN;73;0350;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;530;45.53;1164
+MN;73;0350;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.09;1164
+MN;73;0355;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;105;4.40;2384
+MN;73;0355;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;1279;53.65;2384
+MN;73;0355;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;1000;41.95;2384
+MN;73;0355;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;0;0.00;2384
 MN;73;0360;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;142;6.17;2300
 MN;73;0360;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;1175;51.09;2300
 MN;73;0360;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;981;42.65;2300
@@ -11682,30 +11682,30 @@ MN;73;0400;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;239
 MN;73;0404;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;32;88.89;36
 MN;73;0404;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;4;11.11;36
 MN;73;0404;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;36
-MN;73;0405;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;417;84.41;494
-MN;73;0405;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;77;15.59;494
-MN;73;0405;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;494
-MN;73;0410;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1044;72.10;1448
-MN;73;0410;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;404;27.90;1448
-MN;73;0410;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1448
+MN;73;0405;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;418;84.44;495
+MN;73;0405;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;77;15.56;495
+MN;73;0405;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;495
+MN;73;0410;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1045;72.07;1450
+MN;73;0410;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;405;27.93;1450
+MN;73;0410;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1450
 MN;73;0414;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1147;67.39;1702
 MN;73;0414;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;554;32.55;1702
 MN;73;0414;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.06;1702
 MN;73;0415;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;670;60.63;1105
 MN;73;0415;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;432;39.09;1105
 MN;73;0415;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;3;0.27;1105
-MN;73;0416;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1228;59.93;2049
-MN;73;0416;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;817;39.87;2049
-MN;73;0416;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;4;0.20;2049
-MN;73;0417;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;790;67.75;1166
-MN;73;0417;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;375;32.16;1166
-MN;73;0417;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.09;1166
+MN;73;0416;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1228;59.90;2050
+MN;73;0416;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;818;39.90;2050
+MN;73;0416;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;4;0.20;2050
+MN;73;0417;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;792;67.81;1168
+MN;73;0417;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;375;32.11;1168
+MN;73;0417;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;1;0.09;1168
 MN;73;0418;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;821;64.70;1269
 MN;73;0418;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;448;35.30;1269
 MN;73;0418;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1269
-MN;73;0419;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1128;61.88;1823
-MN;73;0419;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;690;37.85;1823
-MN;73;0419;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;5;0.27;1823
+MN;73;0419;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1128;61.81;1825
+MN;73;0419;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;692;37.92;1825
+MN;73;0419;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;5;0.27;1825
 MN;73;0420;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;1600;73.36;2181
 MN;73;0420;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;580;26.59;2181
 MN;73;0420;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;1;0.05;2181
@@ -11715,17 +11715,17 @@ MN;73;0430;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;680
 MN;73;0434;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;29;80.56;36
 MN;73;0434;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;7;19.44;36
 MN;73;0434;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;0;0.00;36
-MN;73;0435;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;196;88.69;221
-MN;73;0435;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;24;10.86;221
-MN;73;0435;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;1;0.45;221
+MN;73;0435;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;1;1;197;88.74;222
+MN;73;0435;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;1;1;24;10.81;222
+MN;73;0435;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;1;1;1;0.45;222
 MN;73;0440;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;91;9.30;979
 MN;73;0440;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;485;49.54;979
 MN;73;0440;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;402;41.06;979
 MN;73;0440;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.10;979
-MN;73;0441;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;157;8.36;1877
-MN;73;0441;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;704;37.51;1877
-MN;73;0441;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;1014;54.02;1877
-MN;73;0441;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.11;1877
+MN;73;0441;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;157;8.36;1878
+MN;73;0441;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;705;37.54;1878
+MN;73;0441;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;1014;53.99;1878
+MN;73;0441;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;2;0.11;1878
 MN;73;0442;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;1;1;24;5.05;475
 MN;73;0442;0134;State Senator District 14;14;0301;Jerry Relph;;;R;1;1;258;54.32;475
 MN;73;0442;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;1;1;192;40.42;475
@@ -11733,9 +11733,9 @@ MN;73;0442;0134;State Senator District 14;14;9901;WRITE-IN;;;WI;1;1;1;0.21;475
 MN;73;0443;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;113;67.26;168
 MN;73;0443;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;52;30.95;168
 MN;73;0443;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;3;1.79;168
-MN;73;0445;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1457;76.97;1893
-MN;73;0445;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;436;23.03;1893
-MN;73;0445;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1893
+MN;73;0445;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;1458;76.90;1896
+MN;73;0445;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;438;23.10;1896
+MN;73;0445;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;1896
 MN;73;0450;0133;State Senator District 13;13;0301;Jeff Howe;;;R;1;1;158;88.27;179
 MN;73;0450;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;1;1;21;11.73;179
 MN;73;0450;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;1;1;0;0.00;179
