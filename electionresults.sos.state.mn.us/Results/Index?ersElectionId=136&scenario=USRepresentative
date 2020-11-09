@@ -335,7 +335,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,110&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 4:59 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 5:10 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,787
@@ -353,7 +353,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 4:59 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 5:10 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -552,7 +552,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Susan Sindt</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,503</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,504</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">7.59%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="7" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -560,7 +560,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Gene Rechtzigel</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">112,668</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">112,670</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">28.98%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="28" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -568,7 +568,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Betty McCollum</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">245,589</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">245,591</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.17%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="63" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
