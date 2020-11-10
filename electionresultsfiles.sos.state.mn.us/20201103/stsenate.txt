@@ -53,9 +53,9 @@ MN;;;0136;State Senator District 16;16;9901;WRITE-IN;;;WI;154;154;97;0.24;40329
 MN;;;0137;State Senator District 17;17;0301;Andrew Lang;;;R;135;135;28331;67.86;41748
 MN;;;0137;State Senator District 17;17;0401;Fernando Alvarado;;;DFL;135;135;13377;32.04;41748
 MN;;;0137;State Senator District 17;17;9901;WRITE-IN;;;WI;135;135;40;0.10;41748
-MN;;;0138;State Senator District 18;18;0301;Scott Newman;;;R;85;85;31350;71.35;43940
-MN;;;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;85;85;12536;28.53;43940
-MN;;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;85;85;54;0.12;43940
+MN;;;0138;State Senator District 18;18;0301;Scott Newman;;;R;85;85;31353;71.35;43943
+MN;;;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;85;85;12536;28.53;43943
+MN;;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;85;85;54;0.12;43943
 MN;;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;55;55;17504;40.02;43741
 MN;;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;55;55;26165;59.82;43741
 MN;;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;55;55;72;0.16;43741
@@ -76,9 +76,9 @@ MN;;;0143;State Senator District 23;23;9901;WRITE-IN;;;WI;145;145;98;0.24;41356
 MN;;;0144;State Senator District 24;24;0301;John R. Jasinski;;;R;51;51;25943;63.66;40754
 MN;;;0144;State Senator District 24;24;0401;Roger Steinkamp;;;DFL;51;51;14756;36.21;40754
 MN;;;0144;State Senator District 24;24;9901;WRITE-IN;;;WI;51;51;55;0.13;40754
-MN;;;0145;State Senator District 25;25;0301;David H. Senjem;;;R;43;43;25018;51.21;48851
-MN;;;0145;State Senator District 25;25;0401;Sara Flick;;;DFL;43;43;23779;48.68;48851
-MN;;;0145;State Senator District 25;25;9901;WRITE-IN;;;WI;43;43;54;0.11;48851
+MN;;;0145;State Senator District 25;25;0301;David H. Senjem;;;R;43;43;25018;51.21;48852
+MN;;;0145;State Senator District 25;25;0401;Sara Flick;;;DFL;43;43;23780;48.68;48852
+MN;;;0145;State Senator District 25;25;9901;WRITE-IN;;;WI;43;43;54;0.11;48852
 MN;;;0146;State Senator District 26;26;0301;Carla Nelson;;;R;52;52;24740;50.86;48644
 MN;;;0146;State Senator District 26;26;0401;Aleta Borrud;;;DFL;52;52;23831;48.99;48644
 MN;;;0146;State Senator District 26;26;9901;WRITE-IN;;;WI;52;52;73;0.15;48644
@@ -89,13 +89,13 @@ MN;;;0147;State Senator District 27;27;9901;WRITE-IN;;;WI;93;93;31;0.08;40414
 MN;;;0148;State Senator District 28;28;0301;Jeremy R. Miller;;;R;98;98;24810;57.66;43028
 MN;;;0148;State Senator District 28;28;0401;Sarah Kruger;;;DFL;98;98;18170;42.23;43028
 MN;;;0148;State Senator District 28;28;9901;WRITE-IN;;;WI;98;98;48;0.11;43028
-MN;;;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;33;33;4275;8.45;50565
-MN;;;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;33;33;31393;62.08;50565
-MN;;;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;33;33;14854;29.38;50565
-MN;;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;33;33;43;0.09;50565
-MN;;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;24;24;35464;66.78;53108
-MN;;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;24;24;17596;33.13;53108
-MN;;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;24;24;48;0.09;53108
+MN;;;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;33;33;4289;8.46;50719
+MN;;;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;33;33;31491;62.09;50719
+MN;;;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;33;33;14895;29.37;50719
+MN;;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;33;33;44;0.09;50719
+MN;;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;24;24;35484;66.77;53145
+MN;;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;24;24;17613;33.14;53145
+MN;;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;24;24;48;0.09;53145
 MN;;;0151;State Senator District 31;31;0301;Michelle R. Benson;;;R;32;32;35977;70.57;50983
 MN;;;0151;State Senator District 31;31;0401;Kate Luthner;;;DFL;32;32;14961;29.35;50983
 MN;;;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;32;32;45;0.09;50983
