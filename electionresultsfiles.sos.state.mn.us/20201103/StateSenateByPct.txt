@@ -719,11 +719,11 @@ MN;04;0032;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;11;1.7
 MN;04;0032;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;295;47.97;615
 MN;04;0032;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;257;41.79;615
 MN;04;0032;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.33;615
-MN;04;0035;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;136;9.31;1461
-MN;04;0035;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;38;2.60;1461
-MN;04;0035;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;617;42.23;1461
-MN;04;0035;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;668;45.72;1461
-MN;04;0035;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.14;1461
+MN;04;0035;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;136;9.29;1464
+MN;04;0035;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;38;2.60;1464
+MN;04;0035;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;620;42.35;1464
+MN;04;0035;0125;State Senator District 5;5;0401;Rita Albrecht;;;DFL;1;1;668;45.63;1464
+MN;04;0035;0125;State Senator District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.14;1464
 MN;04;0040;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;1;1;109;6.75;1614
 MN;04;0040;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;1;1;45;2.79;1614
 MN;04;0040;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;1;1;765;47.40;1614
@@ -10960,9 +10960,9 @@ MN;69;0890;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;34
 MN;69;0895;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;729;39.13;1863
 MN;69;0895;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;1133;60.82;1863
 MN;69;0895;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1863
-MN;69;0910;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;1181;45.11;2618
-MN;69;0910;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;1435;54.81;2618
-MN;69;0910;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.08;2618
+MN;69;0910;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;1;1;1182;45.13;2619
+MN;69;0910;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;1;1;1435;54.79;2619
+MN;69;0910;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.08;2619
 MN;69;0915;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;99;41.42;239
 MN;69;0915;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;140;58.58;239
 MN;69;0915;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;239
@@ -10990,9 +10990,9 @@ MN;69;0945;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;179
 MN;69;0950;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;82;42.71;192
 MN;69;0950;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;110;57.29;192
 MN;69;0950;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;192
-MN;69;0960;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;257;50.59;508
-MN;69;0960;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;251;49.41;508
-MN;69;0960;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;508
+MN;69;0960;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;258;50.69;509
+MN;69;0960;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;251;49.31;509
+MN;69;0960;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;509
 MN;69;0962;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;1;50.00;2
 MN;69;0962;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;1;50.00;2
 MN;69;0962;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;2
@@ -11050,12 +11050,12 @@ MN;69;1040;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;3;0.30;986
 MN;69;1045;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;315;40.08;786
 MN;69;1045;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;469;59.67;786
 MN;69;1045;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.25;786
-MN;69;1050;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;242;37.06;653
-MN;69;1050;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;410;62.79;653
-MN;69;1050;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.15;653
-MN;69;1055;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;277;35.70;776
-MN;69;1055;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;499;64.30;776
-MN;69;1055;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;776
+MN;69;1050;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;242;37.00;654
+MN;69;1050;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;411;62.84;654
+MN;69;1050;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.15;654
+MN;69;1055;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;279;35.86;778
+MN;69;1055;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;499;64.14;778
+MN;69;1055;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;778
 MN;69;1060;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;414;43.67;948
 MN;69;1060;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;532;56.12;948
 MN;69;1060;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.21;948
@@ -11065,9 +11065,9 @@ MN;69;1125;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;148
 MN;69;1130;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;367;40.11;915
 MN;69;1130;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;544;59.45;915
 MN;69;1130;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;4;0.44;915
-MN;69;1135;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;269;56.39;477
-MN;69;1135;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;208;43.61;477
-MN;69;1135;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;477
+MN;69;1135;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;269;56.28;478
+MN;69;1135;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;209;43.72;478
+MN;69;1135;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;478
 MN;69;1136;0126;State Senator District 6;6;0301;John J. Moren;;;R;1;1;175;40.14;436
 MN;69;1136;0126;State Senator District 6;6;0401;David J Tomassoni;;;DFL;1;1;261;59.86;436
 MN;69;1136;0126;State Senator District 6;6;9901;WRITE-IN;;;WI;1;1;0;0.00;436

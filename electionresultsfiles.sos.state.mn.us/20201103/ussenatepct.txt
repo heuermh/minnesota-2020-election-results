@@ -73,11 +73,11 @@ MN;15;0005;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;12;2.03;591
 MN;15;0005;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;343;58.04;591
 MN;15;0005;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;200;33.84;591
 MN;15;0005;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.17;591
-MN;16;0005;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;5;2.25;222
-MN;16;0005;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;12;5.41;222
-MN;16;0005;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;67;30.18;222
-MN;16;0005;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;137;61.71;222
-MN;16;0005;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.45;222
+MN;16;0005;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;5;2.23;224
+MN;16;0005;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;12;5.36;224
+MN;16;0005;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;68;30.36;224
+MN;16;0005;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;138;61.61;224
+MN;16;0005;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.45;224
 MN;17;0005;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;2;2.11;95
 MN;17;0005;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;0;0.00;95
 MN;17;0005;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;71;74.74;95
@@ -2618,11 +2618,11 @@ MN;86;0031;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;0;0.00;97
 MN;86;0031;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;43;44.33;97
 MN;86;0031;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;47;48.45;97
 MN;86;0031;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;97
-MN;04;0032;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;48;7.82;614
-MN;04;0032;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;13;2.12;614
-MN;04;0032;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;284;46.25;614
-MN;04;0032;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;269;43.81;614
-MN;04;0032;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;614
+MN;04;0032;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;48;7.80;615
+MN;04;0032;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;13;2.11;615
+MN;04;0032;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;285;46.34;615
+MN;04;0032;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;269;43.74;615
+MN;04;0032;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;615
 MN;12;0032;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;0;0.00;0
 MN;12;0032;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;0;0.00;0
 MN;12;0032;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;0;0.00;0
@@ -2653,11 +2653,11 @@ MN;03;0035;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;3;2.26;133
 MN;03;0035;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;76;57.14;133
 MN;03;0035;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;49;36.84;133
 MN;03;0035;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;133
-MN;04;0035;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;137;9.34;1467
-MN;04;0035;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;48;3.27;1467
-MN;04;0035;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;567;38.65;1467
-MN;04;0035;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;714;48.67;1467
-MN;04;0035;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.07;1467
+MN;04;0035;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;137;9.32;1470
+MN;04;0035;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;48;3.27;1470
+MN;04;0035;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;570;38.78;1470
+MN;04;0035;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;714;48.57;1470
+MN;04;0035;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.07;1470
 MN;05;0035;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;15;3.18;471
 MN;05;0035;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;6;1.27;471
 MN;05;0035;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;369;78.34;471
@@ -17363,11 +17363,11 @@ MN;62;0910;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;12;0.76;1588
 MN;62;0910;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;246;15.49;1588
 MN;62;0910;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1287;81.05;1588
 MN;62;0910;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;4;0.25;1588
-MN;69;0910;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;142;5.31;2673
-MN;69;0910;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;45;1.68;2673
-MN;69;0910;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;1159;43.36;2673
-MN;69;0910;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1326;49.61;2673
-MN;69;0910;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.04;2673
+MN;69;0910;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;142;5.31;2675
+MN;69;0910;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;45;1.68;2675
+MN;69;0910;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;1160;43.36;2675
+MN;69;0910;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1327;49.61;2675
+MN;69;0910;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.04;2675
 MN;27;0915;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;54;4.11;1313
 MN;27;0915;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;31;2.36;1313
 MN;27;0915;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;344;26.20;1313
@@ -17473,11 +17473,11 @@ MN;62;0960;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;15;0.79;1887
 MN;62;0960;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;260;13.78;1887
 MN;62;0960;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1545;81.88;1887
 MN;62;0960;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;2;0.11;1887
-MN;69;0960;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;20;3.91;511
-MN;69;0960;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;8;1.57;511
-MN;69;0960;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;276;54.01;511
-MN;69;0960;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;207;40.51;511
-MN;69;0960;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;511
+MN;69;0960;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;20;3.91;512
+MN;69;0960;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;8;1.56;512
+MN;69;0960;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;277;54.10;512
+MN;69;0960;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;207;40.43;512
+MN;69;0960;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;512
 MN;69;0962;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;0;0.00;2
 MN;69;0962;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;0;0.00;2
 MN;69;0962;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;1;50.00;2
@@ -17718,11 +17718,11 @@ MN;19;1055;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;41;1.53;2688
 MN;19;1055;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;1075;39.99;2688
 MN;19;1055;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1463;54.43;2688
 MN;19;1055;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;2;0.07;2688
-MN;69;1055;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;35;4.46;785
-MN;69;1055;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;20;2.55;785
-MN;69;1055;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;329;41.91;785
-MN;69;1055;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;400;50.96;785
-MN;69;1055;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.13;785
+MN;69;1055;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;35;4.45;787
+MN;69;1055;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;20;2.54;787
+MN;69;1055;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;331;42.06;787
+MN;69;1055;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;400;50.83;787
+MN;69;1055;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.13;787
 MN;19;1060;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;68;4.96;1371
 MN;19;1060;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;19;1.39;1371
 MN;19;1060;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;515;37.56;1371
@@ -17883,11 +17883,11 @@ MN;27;1135;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;44;2.23;1970
 MN;27;1135;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;516;26.19;1970
 MN;27;1135;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;1267;64.31;1970
 MN;27;1135;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;1;0.05;1970
-MN;69;1135;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;21;4.41;476
-MN;69;1135;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;8;1.68;476
-MN;69;1135;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;283;59.45;476
-MN;69;1135;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;164;34.45;476
-MN;69;1135;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;476
+MN;69;1135;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;21;4.40;477
+MN;69;1135;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;8;1.68;477
+MN;69;1135;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;284;59.54;477
+MN;69;1135;0102;U.S. Senator;;0401;Tina Smith;;;DFL;1;1;164;34.38;477
+MN;69;1135;0102;U.S. Senator;;9901;WRITE-IN;;;WI;1;1;0;0.00;477
 MN;69;1136;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;1;1;23;5.34;431
 MN;69;1136;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;1;1;9;2.09;431
 MN;69;1136;0102;U.S. Senator;;0301;Jason Lewis;;;R;1;1;217;50.35;431

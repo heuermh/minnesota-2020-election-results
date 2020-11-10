@@ -709,9 +709,9 @@ MN;04;0030;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;2;0.1
 MN;04;0032;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;309;50.66;610
 MN;04;0032;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;301;49.34;610
 MN;04;0032;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;0;0.00;610
-MN;04;0035;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;628;43.19;1454
-MN;04;0035;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;820;56.40;1454
-MN;04;0035;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;6;0.41;1454
+MN;04;0035;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;630;43.24;1457
+MN;04;0035;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;821;56.35;1457
+MN;04;0035;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;6;0.41;1457
 MN;04;0040;0196;State Representative District 5A;5A;0301;Matt Bliss;;;R;1;1;769;47.62;1615
 MN;04;0040;0196;State Representative District 5A;5A;0401;John Persell;;;DFL;1;1;845;52.32;1615
 MN;04;0040;0196;State Representative District 5A;5A;9901;WRITE-IN;;;WI;1;1;1;0.06;1615
@@ -2166,9 +2166,9 @@ MN;15;0135;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;15;0140;0191;State Representative District 2B;2B;0301;Steve Green;;;R;1;1;19;48.72;39
 MN;15;0140;0191;State Representative District 2B;2B;0401;David Suby;;;DFL;1;1;20;51.28;39
 MN;15;0140;0191;State Representative District 2B;2B;9901;WRITE-IN;;;WI;1;1;0;0.00;39
-MN;16;0005;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;68;31.19;218
-MN;16;0005;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;150;68.81;218
-MN;16;0005;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.00;218
+MN;16;0005;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;69;31.36;220
+MN;16;0005;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;151;68.64;220
+MN;16;0005;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.00;220
 MN;16;0010;0192;State Representative District 3A;3A;0301;Thomas Manninen;;;R;1;1;120;26.61;451
 MN;16;0010;0192;State Representative District 3A;3A;0401;Rob Ecklund;;;DFL;1;1;331;73.39;451
 MN;16;0010;0192;State Representative District 3A;3A;9901;WRITE-IN;;;WI;1;1;0;0.00;451
@@ -10234,9 +10234,9 @@ MN;69;0890;0198;State Representative District 6A;6A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;69;0895;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;731;38.80;1884
 MN;69;0895;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;1151;61.09;1884
 MN;69;0895;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;2;0.11;1884
-MN;69;0910;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;1181;45.11;2618
-MN;69;0910;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;1434;54.77;2618
-MN;69;0910;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;3;0.11;2618
+MN;69;0910;0193;State Representative District 3B;3B;0301;Andrew J Hjelle;;;R;1;1;1182;45.13;2619
+MN;69;0910;0193;State Representative District 3B;3B;0401;Mary Murphy;;;DFL;1;1;1434;54.75;2619
+MN;69;0910;0193;State Representative District 3B;3B;9901;WRITE-IN;;;WI;1;1;3;0.11;2619
 MN;69;0915;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;108;45.38;238
 MN;69;0915;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;130;54.62;238
 MN;69;0915;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;238
@@ -10264,9 +10264,9 @@ MN;69;0945;0198;State Representative District 6A;6A;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;69;0950;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;94;47.96;196
 MN;69;0950;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;102;52.04;196
 MN;69;0950;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;196
-MN;69;0960;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;257;50.49;509
-MN;69;0960;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;252;49.51;509
-MN;69;0960;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;509
+MN;69;0960;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;258;50.59;510
+MN;69;0960;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;252;49.41;510
+MN;69;0960;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;510
 MN;69;0962;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;1;50.00;2
 MN;69;0962;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;1;50.00;2
 MN;69;0962;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;2
@@ -10324,12 +10324,12 @@ MN;69;1040;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.2
 MN;69;1045;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;330;41.88;788
 MN;69;1045;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;457;57.99;788
 MN;69;1045;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;1;0.13;788
-MN;69;1050;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;253;38.80;652
-MN;69;1050;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;397;60.89;652
-MN;69;1050;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.31;652
-MN;69;1055;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;298;38.06;783
-MN;69;1055;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;483;61.69;783
-MN;69;1055;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.26;783
+MN;69;1050;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;253;38.74;653
+MN;69;1050;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;398;60.95;653
+MN;69;1050;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.31;653
+MN;69;1055;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;300;38.22;785
+MN;69;1055;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;483;61.53;785
+MN;69;1055;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.25;785
 MN;69;1060;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;417;43.89;950
 MN;69;1060;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;531;55.89;950
 MN;69;1060;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.21;950
@@ -10339,9 +10339,9 @@ MN;69;1125;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.0
 MN;69;1130;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;358;38.49;930
 MN;69;1130;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;570;61.29;930
 MN;69;1130;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;2;0.22;930
-MN;69;1135;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;270;56.49;478
-MN;69;1135;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;208;43.51;478
-MN;69;1135;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;478
+MN;69;1135;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;270;56.37;479
+MN;69;1135;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;209;43.63;479
+MN;69;1135;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;0;0.00;479
 MN;69;1136;0199;State Representative District 6B;6B;0301;Julie Buria;;;R;1;1;168;38.01;442
 MN;69;1136;0199;State Representative District 6B;6B;0401;David Lislegard;;;DFL;1;1;273;61.76;442
 MN;69;1136;0199;State Representative District 6B;6B;9901;WRITE-IN;;;WI;1;1;1;0.23;442
