@@ -1419,9 +1419,9 @@ MN;10;0005;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;1;0
 MN;10;0010;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;478;78.49;609
 MN;10;0010;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;131;21.51;609
 MN;10;0010;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;609
-MN;10;0015;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;1700;55.90;3041
-MN;10;0015;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;1341;44.10;3041
-MN;10;0015;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;3041
+MN;10;0015;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;1700;55.88;3042
+MN;10;0015;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;1342;44.12;3042
+MN;10;0015;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;3042
 MN;10;0020;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;1;1;854;44.29;1928
 MN;10;0020;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;1;1;1074;55.71;1928
 MN;10;0020;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;1;0;0.00;1928
@@ -1431,24 +1431,24 @@ MN;10;0025;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;1;1;0
 MN;10;0030;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;1;1;823;49.43;1665
 MN;10;0030;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;1;1;841;50.51;1665
 MN;10;0030;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;1;1;0.06;1665
-MN;10;0035;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;1;1;1242;50.12;2478
-MN;10;0035;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;1;1;1231;49.68;2478
-MN;10;0035;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;1;5;0.20;2478
-MN;10;0036;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1497;52.43;2855
-MN;10;0036;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1357;47.53;2855
-MN;10;0036;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;1;0.04;2855
+MN;10;0035;0253;State Representative District 33B;33B;0301;Andrew Myers;;;R;1;1;1242;50.08;2480
+MN;10;0035;0253;State Representative District 33B;33B;0401;Kelly Morrison;;;DFL;1;1;1233;49.72;2480
+MN;10;0035;0253;State Representative District 33B;33B;9901;WRITE-IN;;;WI;1;1;5;0.20;2480
+MN;10;0036;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1498;52.45;2856
+MN;10;0036;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1357;47.51;2856
+MN;10;0036;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;1;0.04;2856
 MN;10;0037;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1354;48.81;2774
 MN;10;0037;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1418;51.12;2774
 MN;10;0037;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;2;0.07;2774
 MN;10;0038;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1515;53.16;2850
 MN;10;0038;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1334;46.81;2850
 MN;10;0038;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;1;0.04;2850
-MN;10;0040;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;2142;53.27;4021
-MN;10;0040;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1875;46.63;4021
-MN;10;0040;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;4;0.10;4021
-MN;10;0045;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;2387;51.12;4669
-MN;10;0045;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;2274;48.70;4669
-MN;10;0045;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;8;0.17;4669
+MN;10;0040;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;2143;53.27;4023
+MN;10;0040;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1876;46.63;4023
+MN;10;0040;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;4;0.10;4023
+MN;10;0045;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;2387;51.10;4671
+MN;10;0045;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;2276;48.73;4671
+MN;10;0045;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;8;0.17;4671
 MN;10;0050;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1481;46.88;3159
 MN;10;0050;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1673;52.96;3159
 MN;10;0050;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;5;0.16;3159
@@ -1476,9 +1476,9 @@ MN;10;0085;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;2;0
 MN;10;0090;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;826;70.60;1170
 MN;10;0090;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;342;29.23;1170
 MN;10;0090;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;2;0.17;1170
-MN;10;0095;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;1045;76.22;1371
-MN;10;0095;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;326;23.78;1371
-MN;10;0095;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;1371
+MN;10;0095;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;1046;76.24;1372
+MN;10;0095;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;326;23.76;1372
+MN;10;0095;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;1372
 MN;10;0100;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;187;80.26;233
 MN;10;0100;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;46;19.74;233
 MN;10;0100;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;0;0.00;233
@@ -1491,15 +1491,15 @@ MN;10;0110;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;3;0
 MN;10;0112;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;0;0.00;0
 MN;10;0112;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;0;0.00;0
 MN;10;0112;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;10;0115;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;728;57.87;1258
-MN;10;0115;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;528;41.97;1258
-MN;10;0115;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;2;0.16;1258
+MN;10;0115;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;729;57.90;1259
+MN;10;0115;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;528;41.94;1259
+MN;10;0115;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;2;0.16;1259
 MN;10;0117;0281;State Representative District 47B;47B;0301;Greg Boe;;;R;1;1;1318;56.09;2350
 MN;10;0117;0281;State Representative District 47B;47B;0401;Dan Kessler;;;DFL;1;1;1029;43.79;2350
 MN;10;0117;0281;State Representative District 47B;47B;9901;WRITE-IN;;;WI;1;1;3;0.13;2350
-MN;10;0119;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;2031;63.21;3213
-MN;10;0119;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;1179;36.69;3213
-MN;10;0119;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;3;0.09;3213
+MN;10;0119;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;2032;63.22;3214
+MN;10;0119;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;1179;36.68;3214
+MN;10;0119;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;3;0.09;3214
 MN;10;0120;0280;State Representative District 47A;47A;0301;Jim Nash;;;R;1;1;2075;63.19;3284
 MN;10;0120;0280;State Representative District 47A;47A;0401;Arlan Brinkmeier;;;DFL;1;1;1206;36.72;3284
 MN;10;0120;0280;State Representative District 47A;47A;9901;WRITE-IN;;;WI;1;1;3;0.09;3284
@@ -6148,9 +6148,9 @@ MN;40;0130;0233;State Representative District 23B;23B;9901;WRITE-IN;;;WI;1;1;0;0
 MN;40;0140;0233;State Representative District 23B;23B;0301;Jeremy Munson;;;R;1;1;300;67.87;442
 MN;40;0140;0233;State Representative District 23B;23B;0401;Leroy McClelland;;;DFL;1;1;142;32.13;442
 MN;40;0140;0233;State Representative District 23B;23B;9901;WRITE-IN;;;WI;1;1;0;0.00;442
-MN;41;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;62;59.05;105
-MN;41;0005;0230;State Representative District 22A;22A;0401;Chris Baumberger;;;DFL;1;1;43;40.95;105
-MN;41;0005;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;1;1;0;0.00;105
+MN;41;0005;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;63;59.43;106
+MN;41;0005;0230;State Representative District 22A;22A;0401;Chris Baumberger;;;DFL;1;1;43;40.57;106
+MN;41;0005;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;1;1;0;0.00;106
 MN;41;0010;0230;State Representative District 22A;22A;0301;Joe Schomacker;;;R;1;1;25;62.50;40
 MN;41;0010;0230;State Representative District 22A;22A;0401;Chris Baumberger;;;DFL;1;1;15;37.50;40
 MN;41;0010;0230;State Representative District 22A;22A;9901;WRITE-IN;;;WI;1;1;0;0.00;40
