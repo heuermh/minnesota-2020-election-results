@@ -2342,10 +2342,10 @@ MN;74;0035;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;28;8.4
 MN;74;0035;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;187;56.16;333
 MN;74;0035;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;117;35.14;333
 MN;74;0035;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;1;0.30;333
-MN;74;0040;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;19;5.12;371
-MN;74;0040;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;226;60.92;371
-MN;74;0040;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;126;33.96;371
-MN;74;0040;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;371
+MN;74;0040;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;1;0.94;106
+MN;74;0040;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;52;49.06;106
+MN;74;0040;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;53;50.00;106
+MN;74;0040;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;1;1;0;0.00;106
 MN;74;0045;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;1;1;17;5.30;321
 MN;74;0045;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;1;1;203;63.24;321
 MN;74;0045;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;1;1;101;31.46;321
@@ -4059,12 +4059,12 @@ MN;10;0117;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2
 MN;10;0119;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1991;60.72;3279
 MN;10;0119;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1286;39.22;3279
 MN;10;0119;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.06;3279
-MN;27;0005;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;617;43.70;1412
-MN;27;0005;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;789;55.88;1412
-MN;27;0005;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;6;0.42;1412
-MN;27;0010;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;702;43.88;1600
-MN;27;0010;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;897;56.06;1600
-MN;27;0010;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1600
+MN;27;0005;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;617;43.67;1413
+MN;27;0005;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;790;55.91;1413
+MN;27;0005;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;6;0.42;1413
+MN;27;0010;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;702;43.85;1601
+MN;27;0010;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;898;56.09;1601
+MN;27;0010;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1601
 MN;27;0015;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;454;35.50;1279
 MN;27;0015;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;823;64.35;1279
 MN;27;0015;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.16;1279
@@ -4083,9 +4083,9 @@ MN;27;0035;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;27;0036;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;641;34.69;1848
 MN;27;0036;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1207;65.31;1848
 MN;27;0036;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1848
-MN;27;0040;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;778;39.88;1951
-MN;27;0040;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1171;60.02;1951
-MN;27;0040;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;1951
+MN;27;0040;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;778;39.86;1952
+MN;27;0040;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1172;60.04;1952
+MN;27;0040;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;1952
 MN;27;0045;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1007;36.26;2777
 MN;27;0045;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1770;63.74;2777
 MN;27;0045;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2777
@@ -4098,18 +4098,18 @@ MN;27;0055;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;1
 MN;27;0060;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;787;44.36;1774
 MN;27;0060;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;986;55.58;1774
 MN;27;0060;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1774
-MN;27;0065;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;696;47.84;1455
-MN;27;0065;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;759;52.16;1455
-MN;27;0065;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1455
+MN;27;0065;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;696;47.80;1456
+MN;27;0065;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;760;52.20;1456
+MN;27;0065;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1456
 MN;27;0070;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;752;41.55;1810
 MN;27;0070;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1056;58.34;1810
 MN;27;0070;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.11;1810
-MN;27;0071;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;523;39.86;1312
-MN;27;0071;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;787;59.98;1312
-MN;27;0071;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1312
-MN;27;0075;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;834;38.01;2194
-MN;27;0075;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1358;61.90;2194
-MN;27;0075;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2194
+MN;27;0071;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;523;39.83;1313
+MN;27;0071;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;788;60.02;1313
+MN;27;0071;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1313
+MN;27;0075;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;835;38.04;2195
+MN;27;0075;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1358;61.87;2195
+MN;27;0075;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2195
 MN;27;0080;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;514;38.42;1338
 MN;27;0080;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;824;61.58;1338
 MN;27;0080;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1338
@@ -4134,27 +4134,27 @@ MN;27;0106;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;27;0107;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;463;35.24;1314
 MN;27;0107;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;848;64.54;1314
 MN;27;0107;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.23;1314
-MN;27;0110;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;526;32.31;1628
-MN;27;0110;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1100;67.57;1628
-MN;27;0110;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1628
+MN;27;0110;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;526;32.29;1629
+MN;27;0110;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1101;67.59;1629
+MN;27;0110;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1629
 MN;27;0115;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;544;28.53;1907
 MN;27;0115;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1355;71.05;1907
 MN;27;0115;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;8;0.42;1907
-MN;27;0120;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;697;39.33;1772
-MN;27;0120;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1074;60.61;1772
-MN;27;0120;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1772
-MN;27;0125;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;571;36.00;1586
-MN;27;0125;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1013;63.87;1586
-MN;27;0125;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1586
+MN;27;0120;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;697;39.31;1773
+MN;27;0120;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1075;60.63;1773
+MN;27;0120;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1773
+MN;27;0125;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;572;36.04;1587
+MN;27;0125;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1013;63.83;1587
+MN;27;0125;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1587
 MN;27;0130;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;809;41.09;1969
 MN;27;0130;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1160;58.91;1969
 MN;27;0130;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1969
 MN;27;0131;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;336;38.44;874
 MN;27;0131;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;538;61.56;874
 MN;27;0131;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;874
-MN;27;0132;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;437;33.18;1317
-MN;27;0132;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;875;66.44;1317
-MN;27;0132;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;5;0.38;1317
+MN;27;0132;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;437;33.16;1318
+MN;27;0132;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;876;66.46;1318
+MN;27;0132;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;5;0.38;1318
 MN;27;0300;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;266;23.79;1118
 MN;27;0300;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;851;76.12;1118
 MN;27;0300;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.09;1118
@@ -4167,27 +4167,27 @@ MN;27;0310;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1
 MN;27;0315;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;312;24.61;1268
 MN;27;0315;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;951;75.00;1268
 MN;27;0315;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;5;0.39;1268
-MN;27;0320;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;804;36.20;2221
-MN;27;0320;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1416;63.76;2221
-MN;27;0320;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2221
-MN;27;0325;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;814;36.50;2230
-MN;27;0325;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1414;63.41;2230
-MN;27;0325;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2230
+MN;27;0320;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;805;36.23;2222
+MN;27;0320;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1416;63.73;2222
+MN;27;0320;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2222
+MN;27;0325;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;815;36.53;2231
+MN;27;0325;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1414;63.38;2231
+MN;27;0325;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2231
 MN;27;0330;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;917;37.38;2453
 MN;27;0330;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1534;62.54;2453
 MN;27;0330;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.08;2453
-MN;27;0335;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1210;45.64;2651
-MN;27;0335;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1440;54.32;2651
-MN;27;0335;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.04;2651
-MN;27;0340;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;434;30.39;1428
-MN;27;0340;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;992;69.47;1428
-MN;27;0340;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1428
+MN;27;0335;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1210;45.63;2652
+MN;27;0335;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1441;54.34;2652
+MN;27;0335;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.04;2652
+MN;27;0340;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;434;30.37;1429
+MN;27;0340;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;993;69.49;1429
+MN;27;0340;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1429
 MN;27;0345;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;457;30.15;1516
 MN;27;0345;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1056;69.66;1516
 MN;27;0345;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.20;1516
-MN;27;0350;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;684;36.77;1860
-MN;27;0350;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1175;63.17;1860
-MN;27;0350;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1860
+MN;27;0350;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;684;36.75;1861
+MN;27;0350;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1176;63.19;1861
+MN;27;0350;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1861
 MN;27;0355;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;295;27.26;1082
 MN;27;0355;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;786;72.64;1082
 MN;27;0355;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.09;1082
@@ -4197,9 +4197,9 @@ MN;27;0360;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2
 MN;27;0362;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;504;38.98;1293
 MN;27;0362;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;788;60.94;1293
 MN;27;0362;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.08;1293
-MN;27;0365;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;332;43.34;766
-MN;27;0365;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;434;56.66;766
-MN;27;0365;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;766
+MN;27;0365;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;332;43.29;767
+MN;27;0365;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;435;56.71;767
+MN;27;0365;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;767
 MN;27;0370;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;833;41.86;1990
 MN;27;0370;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1155;58.04;1990
 MN;27;0370;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;1990
@@ -4221,18 +4221,18 @@ MN;27;0405;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;4;0.20;2
 MN;27;0410;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;595;32.55;1828
 MN;27;0410;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1231;67.34;1828
 MN;27;0410;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.11;1828
-MN;27;0415;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;327;24.87;1315
-MN;27;0415;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;988;75.13;1315
-MN;27;0415;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1315
+MN;27;0415;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;327;24.85;1316
+MN;27;0415;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;989;75.15;1316
+MN;27;0415;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1316
 MN;27;0420;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;188;36.86;510
 MN;27;0420;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;321;62.94;510
 MN;27;0420;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.20;510
-MN;27;0450;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;2127;48.86;4353
-MN;27;0450;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2224;51.09;4353
-MN;27;0450;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.05;4353
-MN;27;0455;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1957;49.54;3950
-MN;27;0455;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1991;50.41;3950
-MN;27;0455;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.05;3950
+MN;27;0450;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;2129;48.89;4355
+MN;27;0450;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2224;51.07;4355
+MN;27;0450;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.05;4355
+MN;27;0455;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1959;49.57;3952
+MN;27;0455;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1991;50.38;3952
+MN;27;0455;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.05;3952
 MN;27;0460;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1509;48.61;3104
 MN;27;0460;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1593;51.32;3104
 MN;27;0460;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.06;3104
@@ -4251,9 +4251,9 @@ MN;27;0500;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1
 MN;27;0505;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;686;62.53;1097
 MN;27;0505;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;410;37.37;1097
 MN;27;0505;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.09;1097
-MN;27;0510;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;846;59.24;1428
-MN;27;0510;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;581;40.69;1428
-MN;27;0510;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1428
+MN;27;0510;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;848;59.30;1430
+MN;27;0510;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;581;40.63;1430
+MN;27;0510;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1430
 MN;27;0640;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;578;53.72;1076
 MN;27;0640;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;498;46.28;1076
 MN;27;0640;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1076
@@ -4266,36 +4266,36 @@ MN;27;0650;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.12;2
 MN;27;0675;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;577;45.47;1269
 MN;27;0675;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;692;54.53;1269
 MN;27;0675;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1269
-MN;27;0680;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;678;46.63;1454
-MN;27;0680;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;776;53.37;1454
-MN;27;0680;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1454
+MN;27;0680;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;680;46.70;1456
+MN;27;0680;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;776;53.30;1456
+MN;27;0680;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1456
 MN;27;0690;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;697;40.95;1702
 MN;27;0690;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1004;58.99;1702
 MN;27;0690;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1702
-MN;27;0695;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;796;43.31;1838
-MN;27;0695;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1041;56.64;1838
-MN;27;0695;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1838
+MN;27;0695;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;797;43.34;1839
+MN;27;0695;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1041;56.61;1839
+MN;27;0695;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1839
 MN;27;0700;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;704;38.92;1809
 MN;27;0700;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1104;61.03;1809
 MN;27;0700;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1809
-MN;27;0705;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;657;36.89;1781
-MN;27;0705;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1123;63.05;1781
-MN;27;0705;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1781
-MN;27;0710;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;878;42.01;2090
-MN;27;0710;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1212;57.99;2090
-MN;27;0710;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2090
+MN;27;0705;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;659;36.96;1783
+MN;27;0705;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1123;62.98;1783
+MN;27;0705;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1783
+MN;27;0710;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;879;42.04;2091
+MN;27;0710;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1212;57.96;2091
+MN;27;0710;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2091
 MN;27;0715;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;729;42.04;1734
 MN;27;0715;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1005;57.96;1734
 MN;27;0715;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1734
-MN;27;0720;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;670;41.77;1604
-MN;27;0720;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;931;58.04;1604
-MN;27;0720;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.19;1604
+MN;27;0720;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;670;41.74;1605
+MN;27;0720;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;932;58.07;1605
+MN;27;0720;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.19;1605
 MN;27;0725;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;626;45.86;1365
 MN;27;0725;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;738;54.07;1365
 MN;27;0725;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1365
-MN;27;0730;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1024;45.94;2229
-MN;27;0730;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1205;54.06;2229
-MN;27;0730;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2229
+MN;27;0730;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1025;45.96;2230
+MN;27;0730;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1205;54.04;2230
+MN;27;0730;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2230
 MN;27;0735;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;944;45.98;2053
 MN;27;0735;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1109;54.02;2053
 MN;27;0735;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2053
@@ -4305,99 +4305,99 @@ MN;27;0740;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.19;1
 MN;27;0745;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;737;36.25;2033
 MN;27;0745;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1296;63.75;2033
 MN;27;0745;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2033
-MN;27;0750;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;669;36.90;1813
-MN;27;0750;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1144;63.10;1813
-MN;27;0750;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1813
-MN;27;0755;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1149;42.97;2674
-MN;27;0755;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1523;56.96;2674
-MN;27;0755;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.07;2674
-MN;27;0760;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;808;38.40;2104
-MN;27;0760;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1294;61.50;2104
-MN;27;0760;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;2104
+MN;27;0750;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;669;36.84;1816
+MN;27;0750;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1147;63.16;1816
+MN;27;0750;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1816
+MN;27;0755;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1150;42.99;2675
+MN;27;0755;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1523;56.93;2675
+MN;27;0755;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.07;2675
+MN;27;0760;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;808;38.38;2105
+MN;27;0760;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1295;61.52;2105
+MN;27;0760;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;2105
 MN;27;0765;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1117;43.04;2595
 MN;27;0765;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1478;56.96;2595
 MN;27;0765;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2595
-MN;27;0770;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;745;45.82;1626
-MN;27;0770;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;881;54.18;1626
-MN;27;0770;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1626
-MN;27;0775;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1268;50.72;2500
-MN;27;0775;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1229;49.16;2500
-MN;27;0775;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.12;2500
-MN;27;0780;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1084;45.53;2381
-MN;27;0780;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1297;54.47;2381
-MN;27;0780;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2381
-MN;27;0785;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;444;39.33;1129
-MN;27;0785;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;685;60.67;1129
-MN;27;0785;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1129
-MN;27;0850;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;763;39.99;1908
-MN;27;0850;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1145;60.01;1908
-MN;27;0850;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1908
+MN;27;0770;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;745;45.79;1627
+MN;27;0770;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;882;54.21;1627
+MN;27;0770;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1627
+MN;27;0775;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1269;50.68;2504
+MN;27;0775;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1232;49.20;2504
+MN;27;0775;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.12;2504
+MN;27;0780;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1085;45.53;2383
+MN;27;0780;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1298;54.47;2383
+MN;27;0780;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2383
+MN;27;0785;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;447;39.49;1132
+MN;27;0785;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;685;60.51;1132
+MN;27;0785;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1132
+MN;27;0850;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;764;40.02;1909
+MN;27;0850;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1145;59.98;1909
+MN;27;0850;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1909
 MN;27;0855;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1010;45.43;2223
 MN;27;0855;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1212;54.52;2223
 MN;27;0855;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2223
-MN;27;0860;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;455;31.08;1464
-MN;27;0860;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1008;68.85;1464
-MN;27;0860;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1464
-MN;27;0875;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;881;42.60;2068
-MN;27;0875;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1187;57.40;2068
-MN;27;0875;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2068
-MN;27;0880;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;693;37.24;1861
-MN;27;0880;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1168;62.76;1861
-MN;27;0880;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1861
-MN;27;0885;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;516;38.14;1353
-MN;27;0885;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;837;61.86;1353
-MN;27;0885;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1353
-MN;27;0900;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;622;44.24;1406
-MN;27;0900;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;784;55.76;1406
-MN;27;0900;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1406
+MN;27;0860;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;455;31.06;1465
+MN;27;0860;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1009;68.87;1465
+MN;27;0860;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1465
+MN;27;0875;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;882;42.63;2069
+MN;27;0875;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1187;57.37;2069
+MN;27;0875;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2069
+MN;27;0880;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;694;37.25;1863
+MN;27;0880;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1169;62.75;1863
+MN;27;0880;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1863
+MN;27;0885;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;517;38.18;1354
+MN;27;0885;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;837;61.82;1354
+MN;27;0885;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1354
+MN;27;0900;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;622;44.21;1407
+MN;27;0900;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;785;55.79;1407
+MN;27;0900;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1407
 MN;27;0905;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;692;35.13;1970
 MN;27;0905;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1277;64.82;1970
 MN;27;0905;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1970
 MN;27;0910;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;317;42.38;748
 MN;27;0910;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;431;57.62;748
 MN;27;0910;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;748
-MN;27;0915;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;379;29.02;1306
-MN;27;0915;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;925;70.83;1306
-MN;27;0915;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1306
-MN;27;0925;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;687;39.39;1744
-MN;27;0925;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1056;60.55;1744
-MN;27;0925;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1744
+MN;27;0915;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;379;29.00;1307
+MN;27;0915;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;926;70.85;1307
+MN;27;0915;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1307
+MN;27;0925;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;687;39.37;1745
+MN;27;0925;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1057;60.57;1745
+MN;27;0925;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1745
 MN;27;0930;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;648;34.62;1872
 MN;27;0930;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1224;65.38;1872
 MN;27;0930;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1872
 MN;27;0935;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;613;33.90;1808
 MN;27;0935;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1194;66.04;1808
 MN;27;0935;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1808
-MN;27;0940;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;784;30.90;2537
-MN;27;0940;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1753;69.10;2537
-MN;27;0940;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2537
-MN;27;0945;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;531;41.91;1267
-MN;27;0945;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;736;58.09;1267
-MN;27;0945;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1267
-MN;27;0965;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;636;41.35;1538
-MN;27;0965;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;902;58.65;1538
-MN;27;0965;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1538
+MN;27;0940;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;785;30.93;2538
+MN;27;0940;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1753;69.07;2538
+MN;27;0940;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2538
+MN;27;0945;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;532;41.96;1268
+MN;27;0945;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;736;58.04;1268
+MN;27;0945;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1268
+MN;27;0965;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;637;41.36;1540
+MN;27;0965;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;903;58.64;1540
+MN;27;0965;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1540
 MN;27;1050;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1349;69.25;1948
 MN;27;1050;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;599;30.75;1948
 MN;27;1050;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1948
 MN;27;1065;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;290;51.69;561
 MN;27;1065;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;271;48.31;561
 MN;27;1065;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;561
-MN;27;1150;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1653;62.83;2631
-MN;27;1150;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;975;37.06;2631
-MN;27;1150;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.11;2631
-MN;27;1160;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;504;45.99;1096
-MN;27;1160;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;592;54.01;1096
-MN;27;1160;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1096
+MN;27;1150;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1655;62.86;2633
+MN;27;1150;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;975;37.03;2633
+MN;27;1150;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.11;2633
+MN;27;1160;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;504;45.90;1098
+MN;27;1160;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;594;54.10;1098
+MN;27;1160;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1098
 MN;27;1170;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;270;63.38;426
 MN;27;1170;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;156;36.62;426
 MN;27;1170;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;426
-MN;27;1190;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;851;47.97;1774
-MN;27;1190;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;922;51.97;1774
-MN;27;1190;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1774
-MN;27;1195;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;777;46.53;1670
-MN;27;1195;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;892;53.41;1670
-MN;27;1195;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1670
+MN;27;1190;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;852;48.00;1775
+MN;27;1190;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;922;51.94;1775
+MN;27;1190;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1775
+MN;27;1195;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;778;46.50;1673
+MN;27;1195;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;894;53.44;1673
+MN;27;1195;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1673
 MN;27;1200;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;747;47.92;1559
 MN;27;1200;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;812;52.08;1559
 MN;27;1200;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1559
@@ -4413,18 +4413,18 @@ MN;27;1215;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.17;1
 MN;27;1220;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;925;45.86;2017
 MN;27;1220;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1089;53.99;2017
 MN;27;1220;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.15;2017
-MN;27;1225;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1006;52.10;1931
-MN;27;1225;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;925;47.90;1931
-MN;27;1225;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1931
+MN;27;1225;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1007;52.10;1933
+MN;27;1225;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;926;47.90;1933
+MN;27;1225;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1933
 MN;27;1230;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1003;50.38;1991
 MN;27;1230;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;988;49.62;1991
 MN;27;1230;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1991
 MN;27;1235;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;912;46.79;1949
 MN;27;1235;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1037;53.21;1949
 MN;27;1235;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1949
-MN;27;1240;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1146;47.77;2399
-MN;27;1240;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1251;52.15;2399
-MN;27;1240;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.08;2399
+MN;27;1240;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1146;47.75;2400
+MN;27;1240;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1252;52.17;2400
+MN;27;1240;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.08;2400
 MN;27;1245;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;847;44.09;1921
 MN;27;1245;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1072;55.80;1921
 MN;27;1245;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.10;1921
@@ -4443,24 +4443,24 @@ MN;27;1265;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2
 MN;27;1270;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;784;45.53;1722
 MN;27;1270;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;938;54.47;1722
 MN;27;1270;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1722
-MN;27;1275;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;939;47.30;1985
-MN;27;1275;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1046;52.70;1985
-MN;27;1275;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1985
-MN;27;1280;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;741;51.46;1440
-MN;27;1280;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;699;48.54;1440
-MN;27;1280;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1440
+MN;27;1275;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;941;47.33;1988
+MN;27;1275;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1047;52.67;1988
+MN;27;1275;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1988
+MN;27;1280;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;741;51.42;1441
+MN;27;1280;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;700;48.58;1441
+MN;27;1280;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1441
 MN;27;1285;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1374;55.81;2462
 MN;27;1285;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1088;44.19;2462
 MN;27;1285;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2462
 MN;27;1290;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1061;48.27;2198
 MN;27;1290;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1136;51.68;2198
 MN;27;1290;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2198
-MN;27;1295;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1004;53.75;1868
-MN;27;1295;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;864;46.25;1868
-MN;27;1295;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1868
-MN;27;1300;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;680;47.26;1439
-MN;27;1300;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;758;52.68;1439
-MN;27;1300;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1439
+MN;27;1295;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1004;53.72;1869
+MN;27;1295;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;865;46.28;1869
+MN;27;1295;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1869
+MN;27;1300;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;681;47.29;1440
+MN;27;1300;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;758;52.64;1440
+MN;27;1300;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1440
 MN;27;1305;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;666;42.64;1562
 MN;27;1305;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;894;57.23;1562
 MN;27;1305;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1562
@@ -4470,87 +4470,87 @@ MN;27;1335;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;27;1345;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;90;34.88;258
 MN;27;1345;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;168;65.12;258
 MN;27;1345;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;258
-MN;27;1350;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;888;56.96;1559
-MN;27;1350;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;671;43.04;1559
-MN;27;1350;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1559
-MN;27;1355;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1584;55.42;2858
-MN;27;1355;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1272;44.51;2858
-MN;27;1355;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.07;2858
-MN;27;2090;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;631;37.32;1691
-MN;27;2090;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1059;62.63;1691
-MN;27;2090;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1691
+MN;27;1350;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;889;56.99;1560
+MN;27;1350;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;671;43.01;1560
+MN;27;1350;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1560
+MN;27;1355;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1586;55.45;2860
+MN;27;1355;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1272;44.48;2860
+MN;27;1355;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.07;2860
+MN;27;2090;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;631;37.29;1692
+MN;27;2090;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1060;62.65;1692
+MN;27;2090;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1692
 MN;27;2095;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;493;36.79;1340
 MN;27;2095;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;846;63.13;1340
 MN;27;2095;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1340
 MN;27;2100;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;565;33.39;1692
 MN;27;2100;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1126;66.55;1692
 MN;27;2100;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1692
-MN;27;2105;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;740;36.19;2045
-MN;27;2105;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1305;63.81;2045
-MN;27;2105;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2045
+MN;27;2105;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;741;36.20;2047
+MN;27;2105;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1306;63.80;2047
+MN;27;2105;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2047
 MN;27;2110;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;453;39.39;1150
 MN;27;2110;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;697;60.61;1150
 MN;27;2110;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1150
 MN;27;2115;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;549;34.31;1600
 MN;27;2115;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1051;65.69;1600
 MN;27;2115;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1600
-MN;27;2120;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;521;36.64;1422
-MN;27;2120;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;899;63.22;1422
-MN;27;2120;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1422
-MN;27;2125;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;623;31.17;1999
-MN;27;2125;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1376;68.83;1999
-MN;27;2125;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1999
-MN;27;2130;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;732;35.26;2076
-MN;27;2130;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1343;64.69;2076
-MN;27;2130;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2076
-MN;27;2135;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;578;29.50;1959
-MN;27;2135;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1380;70.44;1959
-MN;27;2135;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1959
-MN;27;2140;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;521;30.47;1710
-MN;27;2140;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1187;69.42;1710
-MN;27;2140;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1710
-MN;27;2145;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;404;34.01;1188
-MN;27;2145;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;784;65.99;1188
-MN;27;2145;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1188
-MN;27;2150;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;636;42.71;1489
-MN;27;2150;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;852;57.22;1489
-MN;27;2150;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1489
-MN;27;2155;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;590;38.19;1545
-MN;27;2155;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;955;61.81;1545
-MN;27;2155;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1545
-MN;27;2160;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;815;45.71;1783
-MN;27;2160;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;968;54.29;1783
-MN;27;2160;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1783
-MN;27;2165;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;459;35.86;1280
-MN;27;2165;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;819;63.98;1280
-MN;27;2165;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.16;1280
-MN;27;2170;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;864;40.39;2139
-MN;27;2170;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1273;59.51;2139
-MN;27;2170;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2139
-MN;27;2185;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;487;39.15;1244
-MN;27;2185;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;754;60.61;1244
-MN;27;2185;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.24;1244
-MN;27;2190;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;569;42.18;1349
-MN;27;2190;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;778;57.67;1349
-MN;27;2190;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1349
+MN;27;2120;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;521;36.59;1424
+MN;27;2120;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;901;63.27;1424
+MN;27;2120;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1424
+MN;27;2125;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;623;31.15;2000
+MN;27;2125;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1377;68.85;2000
+MN;27;2125;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2000
+MN;27;2130;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;732;35.23;2078
+MN;27;2130;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1345;64.73;2078
+MN;27;2130;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;2078
+MN;27;2135;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;578;29.49;1960
+MN;27;2135;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1381;70.46;1960
+MN;27;2135;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.05;1960
+MN;27;2140;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;522;30.51;1711
+MN;27;2140;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1187;69.37;1711
+MN;27;2140;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1711
+MN;27;2145;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;405;34.06;1189
+MN;27;2145;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;784;65.94;1189
+MN;27;2145;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1189
+MN;27;2150;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;636;42.68;1490
+MN;27;2150;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;853;57.25;1490
+MN;27;2150;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1490
+MN;27;2155;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;590;38.14;1547
+MN;27;2155;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;957;61.86;1547
+MN;27;2155;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1547
+MN;27;2160;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;815;45.68;1784
+MN;27;2160;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;969;54.32;1784
+MN;27;2160;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1784
+MN;27;2165;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;460;35.91;1281
+MN;27;2165;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;819;63.93;1281
+MN;27;2165;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.16;1281
+MN;27;2170;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;864;40.34;2142
+MN;27;2170;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1276;59.57;2142
+MN;27;2170;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.09;2142
+MN;27;2185;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;488;39.17;1246
+MN;27;2185;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;755;60.59;1246
+MN;27;2185;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.24;1246
+MN;27;2190;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;569;42.15;1350
+MN;27;2190;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;779;57.70;1350
+MN;27;2190;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1350
 MN;27;2195;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;676;42.22;1601
 MN;27;2195;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;924;57.71;1601
 MN;27;2195;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1601
 MN;27;2200;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;656;38.75;1693
 MN;27;2200;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1036;61.19;1693
 MN;27;2200;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1693
-MN;27;2205;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;485;34.28;1415
-MN;27;2205;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;928;65.58;1415
-MN;27;2205;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1415
+MN;27;2205;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;485;34.25;1416
+MN;27;2205;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;929;65.61;1416
+MN;27;2205;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.14;1416
 MN;27;2210;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;535;36.54;1464
 MN;27;2210;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;929;63.46;1464
 MN;27;2210;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1464
 MN;27;2230;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;222;52.98;419
 MN;27;2230;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;197;47.02;419
 MN;27;2230;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;419
-MN;27;2240;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1032;57.46;1796
-MN;27;2240;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;764;42.54;1796
-MN;27;2240;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1796
+MN;27;2240;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1032;57.43;1797
+MN;27;2240;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;765;42.57;1797
+MN;27;2240;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1797
 MN;27;2245;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;345;66.22;521
 MN;27;2245;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;176;33.78;521
 MN;27;2245;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;521
@@ -4563,9 +4563,9 @@ MN;27;2248;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;27;2250;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;820;55.26;1484
 MN;27;2250;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;663;44.68;1484
 MN;27;2250;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1484
-MN;27;2255;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;817;54.54;1498
-MN;27;2255;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;679;45.33;1498
-MN;27;2255;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1498
+MN;27;2255;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;817;54.43;1501
+MN;27;2255;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;682;45.44;1501
+MN;27;2255;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.13;1501
 MN;27;2260;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;823;52.69;1562
 MN;27;2260;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;738;47.25;1562
 MN;27;2260;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1562
@@ -4575,114 +4575,114 @@ MN;27;2265;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1
 MN;27;2355;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;925;53.75;1721
 MN;27;2355;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;796;46.25;1721
 MN;27;2355;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1721
-MN;27;2360;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;463;57.02;812
-MN;27;2360;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;349;42.98;812
-MN;27;2360;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;812
+MN;27;2360;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;465;57.13;814
+MN;27;2360;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;349;42.87;814
+MN;27;2360;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;814
 MN;27;2365;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;762;55.99;1361
 MN;27;2365;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;599;44.01;1361
 MN;27;2365;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1361
-MN;27;2370;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1143;54.35;2103
-MN;27;2370;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;960;45.65;2103
-MN;27;2370;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2103
-MN;27;2385;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;718;46.74;1536
-MN;27;2385;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;817;53.19;1536
-MN;27;2385;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1536
-MN;27;2400;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1454;43.91;3311
-MN;27;2400;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1853;55.97;3311
-MN;27;2400;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;4;0.12;3311
-MN;27;2405;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1872;43.80;4274
-MN;27;2405;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2401;56.18;4274
-MN;27;2405;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.02;4274
+MN;27;2370;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1144;54.35;2105
+MN;27;2370;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;961;45.65;2105
+MN;27;2370;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2105
+MN;27;2385;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;719;46.78;1537
+MN;27;2385;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;817;53.16;1537
+MN;27;2385;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1537
+MN;27;2400;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1456;43.95;3313
+MN;27;2400;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1853;55.93;3313
+MN;27;2400;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;4;0.12;3313
+MN;27;2405;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1873;43.81;4275
+MN;27;2405;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2401;56.16;4275
+MN;27;2405;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.02;4275
 MN;27;2410;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;674;45.66;1476
 MN;27;2410;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;802;54.34;1476
 MN;27;2410;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1476
-MN;27;2415;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;847;41.97;2018
-MN;27;2415;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1171;58.03;2018
-MN;27;2415;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2018
-MN;27;2420;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1088;43.71;2489
-MN;27;2420;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1400;56.25;2489
-MN;27;2420;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.04;2489
+MN;27;2415;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;848;42.00;2019
+MN;27;2415;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1171;58.00;2019
+MN;27;2415;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2019
+MN;27;2420;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1088;43.69;2490
+MN;27;2420;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1401;56.27;2490
+MN;27;2420;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.04;2490
 MN;27;2425;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;583;43.38;1344
 MN;27;2425;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;759;56.47;1344
 MN;27;2425;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.15;1344
-MN;27;2430;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1322;42.87;3084
-MN;27;2430;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1761;57.10;3084
-MN;27;2430;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.03;3084
+MN;27;2430;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1323;42.87;3086
+MN;27;2430;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1762;57.10;3086
+MN;27;2430;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.03;3086
 MN;27;2435;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;668;40.53;1648
 MN;27;2435;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;980;59.47;1648
 MN;27;2435;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1648
 MN;27;2440;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;993;37.39;2656
 MN;27;2440;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1663;62.61;2656
 MN;27;2440;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2656
-MN;27;2445;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;650;45.17;1439
-MN;27;2445;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;789;54.83;1439
-MN;27;2445;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1439
-MN;27;2450;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;670;44.73;1498
-MN;27;2450;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;827;55.21;1498
-MN;27;2450;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1498
+MN;27;2445;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;650;45.11;1441
+MN;27;2445;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;791;54.89;1441
+MN;27;2445;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1441
+MN;27;2450;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;670;44.70;1499
+MN;27;2450;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;828;55.24;1499
+MN;27;2450;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1499
 MN;27;2455;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;766;49.45;1549
 MN;27;2455;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;783;50.55;1549
 MN;27;2455;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1549
 MN;27;2460;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;906;38.88;2330
 MN;27;2460;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1423;61.07;2330
 MN;27;2460;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.04;2330
-MN;27;2465;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1280;38.93;3288
-MN;27;2465;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2008;61.07;3288
-MN;27;2465;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;3288
-MN;27;2470;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;702;40.93;1715
-MN;27;2470;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1011;58.95;1715
-MN;27;2470;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1715
-MN;27;2475;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1042;40.91;2547
-MN;27;2475;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1502;58.97;2547
-MN;27;2475;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.12;2547
+MN;27;2465;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1280;38.92;3289
+MN;27;2465;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;2009;61.08;3289
+MN;27;2465;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;3289
+MN;27;2470;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;704;41.00;1717
+MN;27;2470;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1011;58.88;1717
+MN;27;2470;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;2;0.12;1717
+MN;27;2475;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1042;40.89;2548
+MN;27;2475;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1503;58.99;2548
+MN;27;2475;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.12;2548
 MN;27;2480;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;485;35.87;1352
 MN;27;2480;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;867;64.13;1352
 MN;27;2480;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1352
 MN;27;2485;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;946;44.19;2141
 MN;27;2485;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1195;55.81;2141
 MN;27;2485;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2141
-MN;27;2490;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;608;42.28;1438
-MN;27;2490;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;830;57.72;1438
-MN;27;2490;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1438
+MN;27;2490;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;610;42.33;1441
+MN;27;2490;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;831;57.67;1441
+MN;27;2490;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1441
 MN;27;2495;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;964;45.58;2115
 MN;27;2495;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1148;54.28;2115
 MN;27;2495;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.14;2115
 MN;27;2500;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;844;41.60;2029
 MN;27;2500;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1185;58.40;2029
 MN;27;2500;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2029
-MN;27;2505;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;776;37.22;2085
-MN;27;2505;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1306;62.64;2085
-MN;27;2505;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.14;2085
+MN;27;2505;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;776;37.20;2086
+MN;27;2505;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1307;62.66;2086
+MN;27;2505;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;3;0.14;2086
 MN;27;2510;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;694;38.53;1801
 MN;27;2510;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1106;61.41;1801
 MN;27;2510;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.06;1801
-MN;27;2710;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1833;60.48;3031
-MN;27;2710;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1197;39.49;3031
-MN;27;2710;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.03;3031
+MN;27;2710;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1833;60.46;3032
+MN;27;2710;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1198;39.51;3032
+MN;27;2710;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.03;3032
 MN;27;2715;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;3129;62.39;5015
 MN;27;2715;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1886;37.61;5015
 MN;27;2715;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;5015
 MN;27;2720;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;84;57.14;147
 MN;27;2720;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;63;42.86;147
 MN;27;2720;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;147
-MN;27;2725;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;833;50.30;1656
-MN;27;2725;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;823;49.70;1656
-MN;27;2725;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1656
-MN;27;2730;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;784;46.83;1674
-MN;27;2730;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;890;53.17;1674
-MN;27;2730;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1674
-MN;27;2735;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;963;46.43;2074
-MN;27;2735;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1111;53.57;2074
-MN;27;2735;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2074
+MN;27;2725;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;833;50.27;1657
+MN;27;2725;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;824;49.73;1657
+MN;27;2725;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1657
+MN;27;2730;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;784;46.81;1675
+MN;27;2730;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;891;53.19;1675
+MN;27;2730;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1675
+MN;27;2735;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;963;46.41;2075
+MN;27;2735;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1112;53.59;2075
+MN;27;2735;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;2075
 MN;27;2755;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;591;52.30;1130
 MN;27;2755;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;539;47.70;1130
 MN;27;2755;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1130
 MN;27;2780;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;822;58.55;1404
 MN;27;2780;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;581;41.38;1404
 MN;27;2780;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.07;1404
-MN;27;2900;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;585;51.77;1130
-MN;27;2900;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;545;48.23;1130
-MN;27;2900;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1130
+MN;27;2900;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;587;51.81;1133
+MN;27;2900;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;546;48.19;1133
+MN;27;2900;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;0;0.00;1133
 MN;27;2910;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;1;1;1544;48.49;3184
 MN;27;2910;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;1;1;1639;51.48;3184
 MN;27;2910;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;1;1;1;0.03;3184
@@ -5693,14 +5693,14 @@ MN;27;0205;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;28
 MN;27;0205;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;442;25.65;1723
 MN;27;0205;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;991;57.52;1723
 MN;27;0205;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.23;1723
-MN;27;0210;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;275;13.01;2113
-MN;27;0210;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;707;33.46;2113
-MN;27;0210;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1130;53.48;2113
-MN;27;0210;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.05;2113
-MN;27;0215;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;358;15.00;2387
-MN;27;0215;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;763;31.96;2387
-MN;27;0215;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1264;52.95;2387
-MN;27;0215;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.08;2387
+MN;27;0210;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;275;13.01;2114
+MN;27;0210;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;707;33.44;2114
+MN;27;0210;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1131;53.50;2114
+MN;27;0210;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.05;2114
+MN;27;0215;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;358;14.99;2388
+MN;27;0215;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;763;31.95;2388
+MN;27;0215;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1265;52.97;2388
+MN;27;0215;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.08;2388
 MN;27;0220;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;340;14.13;2406
 MN;27;0220;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;808;33.58;2406
 MN;27;0220;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1254;52.12;2406
@@ -5737,10 +5737,10 @@ MN;27;0567;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;79
 MN;27;0567;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;203;33.72;602
 MN;27;0567;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;318;52.82;602
 MN;27;0567;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.33;602
-MN;27;0570;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;175;14.74;1187
-MN;27;0570;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;448;37.74;1187
-MN;27;0570;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;561;47.26;1187
-MN;27;0570;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.25;1187
+MN;27;0570;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;175;14.73;1188
+MN;27;0570;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;449;37.79;1188
+MN;27;0570;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;561;47.22;1188
+MN;27;0570;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.25;1188
 MN;27;0575;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;222;12.82;1732
 MN;27;0575;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;735;42.44;1732
 MN;27;0575;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;773;44.63;1732
@@ -5757,26 +5757,26 @@ MN;27;0590;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;19
 MN;27;0590;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;588;44.48;1322
 MN;27;0590;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;541;40.92;1322
 MN;27;0590;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.08;1322
-MN;27;0865;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;96;4.28;2245
-MN;27;0865;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;1245;55.46;2245
-MN;27;0865;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;888;39.55;2245
-MN;27;0865;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.71;2245
+MN;27;0865;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;96;4.27;2249
+MN;27;0865;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;1247;55.45;2249
+MN;27;0865;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;890;39.57;2249
+MN;27;0865;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.71;2249
 MN;27;0870;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;84;4.44;1891
 MN;27;0870;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;725;38.34;1891
 MN;27;0870;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1062;56.16;1891
 MN;27;0870;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;20;1.06;1891
-MN;27;0890;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;58;3.27;1774
-MN;27;0890;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;942;53.10;1774
-MN;27;0890;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;765;43.12;1774
-MN;27;0890;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.51;1774
-MN;27;0895;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;108;6.51;1659
-MN;27;0895;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;740;44.61;1659
-MN;27;0895;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;805;48.52;1659
-MN;27;0895;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1659
-MN;27;0920;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;154;7.82;1970
-MN;27;0920;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;773;39.24;1970
-MN;27;0920;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1038;52.69;1970
-MN;27;0920;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.25;1970
+MN;27;0890;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;58;3.27;1776
+MN;27;0890;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;943;53.10;1776
+MN;27;0890;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;766;43.13;1776
+MN;27;0890;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.51;1776
+MN;27;0895;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;109;6.57;1660
+MN;27;0895;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;740;44.58;1660
+MN;27;0895;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;805;48.49;1660
+MN;27;0895;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1660
+MN;27;0920;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;154;7.81;1971
+MN;27;0920;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;773;39.22;1971
+MN;27;0920;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1039;52.71;1971
+MN;27;0920;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.25;1971
 MN;27;0975;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;21;15.91;132
 MN;27;0975;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;48;36.36;132
 MN;27;0975;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;63;47.73;132
@@ -5785,86 +5785,86 @@ MN;27;0985;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;10
 MN;27;0985;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;539;31.95;1687
 MN;27;0985;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1027;60.88;1687
 MN;27;0985;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;14;0.83;1687
-MN;27;0990;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;188;7.95;2365
-MN;27;0990;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;774;32.73;2365
-MN;27;0990;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1398;59.11;2365
-MN;27;0990;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.21;2365
+MN;27;0990;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;189;7.98;2367
+MN;27;0990;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;774;32.70;2367
+MN;27;0990;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1399;59.10;2367
+MN;27;0990;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.21;2367
 MN;27;1000;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;139;7.23;1923
 MN;27;1000;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;595;30.94;1923
 MN;27;1000;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1171;60.89;1923
 MN;27;1000;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;18;0.94;1923
-MN;27;1005;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;9.05;1658
-MN;27;1005;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;661;39.87;1658
-MN;27;1005;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;841;50.72;1658
-MN;27;1005;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1658
-MN;27;1010;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;8.95;1531
-MN;27;1010;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;505;32.98;1531
-MN;27;1010;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;881;57.54;1531
-MN;27;1010;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.52;1531
-MN;27;1015;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;198;9.11;2173
-MN;27;1015;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;815;37.51;2173
-MN;27;1015;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1155;53.15;2173
-MN;27;1015;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.23;2173
-MN;27;1020;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;139;7.31;1902
-MN;27;1020;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;768;40.38;1902
-MN;27;1020;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;984;51.73;1902
-MN;27;1020;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.58;1902
-MN;27;1025;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;204;9.72;2099
-MN;27;1025;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;774;36.87;2099
-MN;27;1025;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1109;52.83;2099
-MN;27;1025;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.57;2099
+MN;27;1005;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;9.04;1659
+MN;27;1005;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;662;39.90;1659
+MN;27;1005;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;841;50.69;1659
+MN;27;1005;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1659
+MN;27;1010;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;8.93;1534
+MN;27;1010;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;506;32.99;1534
+MN;27;1010;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;883;57.56;1534
+MN;27;1010;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.52;1534
+MN;27;1015;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;198;9.11;2174
+MN;27;1015;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;815;37.49;2174
+MN;27;1015;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1156;53.17;2174
+MN;27;1015;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.23;2174
+MN;27;1020;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;139;7.30;1904
+MN;27;1020;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;769;40.39;1904
+MN;27;1020;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;985;51.73;1904
+MN;27;1020;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.58;1904
+MN;27;1025;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;204;9.71;2102
+MN;27;1025;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;774;36.82;2102
+MN;27;1025;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1112;52.90;2102
+MN;27;1025;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.57;2102
 MN;27;1110;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;148;10.22;1448
 MN;27;1110;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;443;30.59;1448
 MN;27;1110;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;855;59.05;1448
 MN;27;1110;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.14;1448
-MN;27;1115;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;195;9.74;2003
-MN;27;1115;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;608;30.35;2003
-MN;27;1115;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1195;59.66;2003
-MN;27;1115;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.25;2003
-MN;27;1120;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;189;13.55;1395
-MN;27;1120;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;486;34.84;1395
-MN;27;1120;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;716;51.33;1395
-MN;27;1120;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.29;1395
-MN;27;1125;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;211;11.35;1859
-MN;27;1125;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;580;31.20;1859
-MN;27;1125;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1064;57.24;1859
-MN;27;1125;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.22;1859
-MN;27;1130;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;166;10.79;1539
-MN;27;1130;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;523;33.98;1539
-MN;27;1130;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;843;54.78;1539
-MN;27;1130;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.45;1539
-MN;27;1135;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;223;11.47;1944
-MN;27;1135;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;689;35.44;1944
-MN;27;1135;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1025;52.73;1944
-MN;27;1135;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.36;1944
+MN;27;1115;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;195;9.73;2004
+MN;27;1115;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;609;30.39;2004
+MN;27;1115;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1195;59.63;2004
+MN;27;1115;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.25;2004
+MN;27;1120;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;190;13.60;1397
+MN;27;1120;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;487;34.86;1397
+MN;27;1120;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;716;51.25;1397
+MN;27;1120;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.29;1397
+MN;27;1125;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;212;11.40;1860
+MN;27;1125;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;580;31.18;1860
+MN;27;1125;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1064;57.20;1860
+MN;27;1125;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.22;1860
+MN;27;1130;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;166;10.78;1540
+MN;27;1130;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;524;34.03;1540
+MN;27;1130;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;843;54.74;1540
+MN;27;1130;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.45;1540
+MN;27;1135;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;223;11.47;1945
+MN;27;1135;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;689;35.42;1945
+MN;27;1135;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1026;52.75;1945
+MN;27;1135;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.36;1945
 MN;27;1360;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;117;13.33;878
 MN;27;1360;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;206;23.46;878
 MN;27;1360;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;554;63.10;878
 MN;27;1360;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.11;878
-MN;27;1365;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;217;7.96;2726
-MN;27;1365;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;642;23.55;2726
-MN;27;1365;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1861;68.27;2726
-MN;27;1365;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.22;2726
-MN;27;1370;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;165;6.89;2394
-MN;27;1370;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;526;21.97;2394
-MN;27;1370;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1697;70.89;2394
-MN;27;1370;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.25;2394
-MN;27;1375;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;142;6.70;2121
-MN;27;1375;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;429;20.23;2121
-MN;27;1375;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1544;72.80;2121
-MN;27;1375;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2121
+MN;27;1365;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;217;7.96;2727
+MN;27;1365;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;642;23.54;2727
+MN;27;1365;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1862;68.28;2727
+MN;27;1365;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.22;2727
+MN;27;1370;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;166;6.93;2396
+MN;27;1370;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;526;21.95;2396
+MN;27;1370;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1698;70.87;2396
+MN;27;1370;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.25;2396
+MN;27;1375;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;142;6.69;2122
+MN;27;1375;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;429;20.22;2122
+MN;27;1375;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1545;72.81;2122
+MN;27;1375;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2122
 MN;27;1380;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;7.28;1881
 MN;27;1380;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;419;22.28;1881
 MN;27;1380;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1322;70.28;1881
 MN;27;1380;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.16;1881
-MN;27;1385;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;232;10.62;2184
-MN;27;1385;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;376;17.22;2184
-MN;27;1385;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1572;71.98;2184
-MN;27;1385;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.18;2184
-MN;27;1390;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;162;9.13;1774
-MN;27;1390;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;280;15.78;1774
-MN;27;1390;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1330;74.97;1774
-MN;27;1390;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.11;1774
+MN;27;1385;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;232;10.62;2185
+MN;27;1385;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;377;17.25;2185
+MN;27;1385;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1572;71.95;2185
+MN;27;1385;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.18;2185
+MN;27;1390;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;162;9.12;1776
+MN;27;1390;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;280;15.77;1776
+MN;27;1390;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1332;75.00;1776
+MN;27;1390;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.11;1776
 MN;27;1395;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;97;7.59;1278
 MN;27;1395;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;179;14.01;1278
 MN;27;1395;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1000;78.25;1278
@@ -5881,34 +5881,34 @@ MN;27;1410;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;15
 MN;27;1410;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;212;15.59;1360
 MN;27;1410;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;991;72.87;1360
 MN;27;1410;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.37;1360
-MN;27;1415;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;75;5.58;1343
-MN;27;1415;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;155;11.54;1343
-MN;27;1415;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1110;82.65;1343
-MN;27;1415;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.22;1343
-MN;27;1420;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;10.47;1691
-MN;27;1420;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;205;12.12;1691
-MN;27;1420;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1301;76.94;1691
-MN;27;1420;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.47;1691
+MN;27;1415;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;76;5.65;1345
+MN;27;1415;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;155;11.52;1345
+MN;27;1415;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1111;82.60;1345
+MN;27;1415;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.22;1345
+MN;27;1420;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;10.45;1693
+MN;27;1420;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;206;12.17;1693
+MN;27;1420;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1302;76.90;1693
+MN;27;1420;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.47;1693
 MN;27;1425;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;37;7.97;464
 MN;27;1425;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;118;25.43;464
 MN;27;1425;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;308;66.38;464
 MN;27;1425;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.22;464
-MN;27;1430;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;167;6.78;2464
-MN;27;1430;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;303;12.30;2464
-MN;27;1430;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1990;80.76;2464
-MN;27;1430;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.16;2464
-MN;27;1435;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;61;5.49;1112
-MN;27;1435;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;142;12.77;1112
-MN;27;1435;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;899;80.85;1112
-MN;27;1435;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.90;1112
+MN;27;1430;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;168;6.82;2465
+MN;27;1430;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;303;12.29;2465
+MN;27;1430;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1990;80.73;2465
+MN;27;1430;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.16;2465
+MN;27;1435;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;61;5.47;1115
+MN;27;1435;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;142;12.74;1115
+MN;27;1435;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;902;80.90;1115
+MN;27;1435;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.90;1115
 MN;27;1440;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;45;10.02;449
 MN;27;1440;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;71;15.81;449
 MN;27;1440;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;330;73.50;449
 MN;27;1440;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.67;449
-MN;27;1445;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;153;5.82;2628
-MN;27;1445;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;410;15.60;2628
-MN;27;1445;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2049;77.97;2628
-MN;27;1445;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.61;2628
+MN;27;1445;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;153;5.82;2629
+MN;27;1445;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;410;15.60;2629
+MN;27;1445;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2050;77.98;2629
+MN;27;1445;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.61;2629
 MN;27;1450;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;44;6.29;699
 MN;27;1450;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;79;11.30;699
 MN;27;1450;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;575;82.26;699
@@ -5917,46 +5917,46 @@ MN;27;1455;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;81
 MN;27;1455;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;206;21.13;975
 MN;27;1455;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;686;70.36;975
 MN;27;1455;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.21;975
-MN;27;1456;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;109;7.77;1403
-MN;27;1456;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;237;16.89;1403
-MN;27;1456;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1047;74.63;1403
-MN;27;1456;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.71;1403
+MN;27;1456;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;110;7.83;1404
+MN;27;1456;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;237;16.88;1404
+MN;27;1456;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1047;74.57;1404
+MN;27;1456;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.71;1404
 MN;27;1460;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;142;10.18;1395
 MN;27;1460;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;311;22.29;1395
 MN;27;1460;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;938;67.24;1395
 MN;27;1460;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.29;1395
-MN;27;1465;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;222;8.92;2488
-MN;27;1465;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;406;16.32;2488
-MN;27;1465;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1853;74.48;2488
-MN;27;1465;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.28;2488
-MN;27;1470;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;246;7.14;3445
-MN;27;1470;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;720;20.90;3445
-MN;27;1470;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2456;71.29;3445
-MN;27;1470;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.67;3445
+MN;27;1465;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;223;8.96;2490
+MN;27;1465;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;406;16.31;2490
+MN;27;1465;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1854;74.46;2490
+MN;27;1465;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.28;2490
+MN;27;1470;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;247;7.17;3446
+MN;27;1470;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;720;20.89;3446
+MN;27;1470;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2456;71.27;3446
+MN;27;1470;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.67;3446
 MN;27;1475;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;126;10.68;1180
 MN;27;1475;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;213;18.05;1180
 MN;27;1475;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;837;70.93;1180
 MN;27;1475;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.34;1180
-MN;27;1480;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;139;8.06;1725
-MN;27;1480;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;346;20.06;1725
-MN;27;1480;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1236;71.65;1725
-MN;27;1480;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.23;1725
-MN;27;1485;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;299;9.70;3082
-MN;27;1485;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;523;16.97;3082
-MN;27;1485;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2256;73.20;3082
-MN;27;1485;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.13;3082
-MN;27;1490;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;6.33;2369
-MN;27;1490;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;669;28.24;2369
-MN;27;1490;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1538;64.92;2369
-MN;27;1490;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.51;2369
-MN;27;1495;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;107;6.17;1733
-MN;27;1495;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;531;30.64;1733
-MN;27;1495;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1087;62.72;1733
-MN;27;1495;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.46;1733
-MN;27;1500;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;220;6.60;3335
-MN;27;1500;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;950;28.49;3335
-MN;27;1500;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2142;64.23;3335
-MN;27;1500;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.69;3335
+MN;27;1480;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;139;8.05;1726
+MN;27;1480;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;346;20.05;1726
+MN;27;1480;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1237;71.67;1726
+MN;27;1480;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.23;1726
+MN;27;1485;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;299;9.69;3086
+MN;27;1485;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;525;17.01;3086
+MN;27;1485;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2258;73.17;3086
+MN;27;1485;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.13;3086
+MN;27;1490;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;6.33;2370
+MN;27;1490;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;669;28.23;2370
+MN;27;1490;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1539;64.94;2370
+MN;27;1490;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.51;2370
+MN;27;1495;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;107;6.17;1735
+MN;27;1495;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;531;30.61;1735
+MN;27;1495;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1089;62.77;1735
+MN;27;1495;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.46;1735
+MN;27;1500;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;221;6.62;3336
+MN;27;1500;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;950;28.48;3336
+MN;27;1500;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2142;64.21;3336
+MN;27;1500;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.69;3336
 MN;27;1501;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;101;9.63;1049
 MN;27;1501;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;208;19.83;1049
 MN;27;1501;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;739;70.45;1049
@@ -5969,10 +5969,10 @@ MN;27;1503;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;91
 MN;27;1503;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;324;29.32;1105
 MN;27;1503;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;685;61.99;1105
 MN;27;1503;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.45;1105
-MN;27;1504;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;95;10.56;900
-MN;27;1504;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;156;17.33;900
-MN;27;1504;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;649;72.11;900
-MN;27;1504;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;900
+MN;27;1504;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;95;10.54;901
+MN;27;1504;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;157;17.43;901
+MN;27;1504;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;649;72.03;901
+MN;27;1504;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;901
 MN;27;1505;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;236;15.88;1486
 MN;27;1505;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;370;24.90;1486
 MN;27;1505;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;876;58.95;1486
@@ -5993,14 +5993,14 @@ MN;27;1525;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;38
 MN;27;1525;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;375;16.73;2241
 MN;27;1525;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1485;66.27;2241
 MN;27;1525;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.04;2241
-MN;27;1530;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;242;16.19;1495
-MN;27;1530;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;292;19.53;1495
-MN;27;1530;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;956;63.95;1495
-MN;27;1530;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.33;1495
-MN;27;1535;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;180;10.71;1681
-MN;27;1535;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;441;26.23;1681
-MN;27;1535;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1057;62.88;1681
-MN;27;1535;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.18;1681
+MN;27;1530;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;242;16.18;1496
+MN;27;1530;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;292;19.52;1496
+MN;27;1530;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;957;63.97;1496
+MN;27;1530;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.33;1496
+MN;27;1535;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;180;10.70;1682
+MN;27;1535;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;441;26.22;1682
+MN;27;1535;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1058;62.90;1682
+MN;27;1535;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.18;1682
 MN;27;1540;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;273;13.92;1961
 MN;27;1540;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;354;18.05;1961
 MN;27;1540;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1328;67.72;1961
@@ -6021,10 +6021,10 @@ MN;27;1570;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;14
 MN;27;1570;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;180;15.35;1173
 MN;27;1570;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;846;72.12;1173
 MN;27;1570;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.43;1173
-MN;27;1575;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;157;13.45;1167
-MN;27;1575;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;165;14.14;1167
-MN;27;1575;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;839;71.89;1167
-MN;27;1575;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.51;1167
+MN;27;1575;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;157;13.43;1169
+MN;27;1575;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;166;14.20;1169
+MN;27;1575;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;840;71.86;1169
+MN;27;1575;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.51;1169
 MN;27;1580;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;66;12.55;526
 MN;27;1580;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;73;13.88;526
 MN;27;1580;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;385;73.19;526
@@ -6033,26 +6033,26 @@ MN;27;1585;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;22
 MN;27;1585;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;233;13.43;1735
 MN;27;1585;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1273;73.37;1735
 MN;27;1585;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;1735
-MN;27;1590;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;322;20.91;1540
-MN;27;1590;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;235;15.26;1540
-MN;27;1590;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;982;63.77;1540
-MN;27;1590;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.06;1540
+MN;27;1590;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;322;20.90;1541
+MN;27;1590;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;235;15.25;1541
+MN;27;1590;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;983;63.79;1541
+MN;27;1590;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.06;1541
 MN;27;1595;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;169;12.64;1337
 MN;27;1595;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;157;11.74;1337
 MN;27;1595;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1007;75.32;1337
 MN;27;1595;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.30;1337
-MN;27;1605;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;40;5.71;701
-MN;27;1605;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;41;5.85;701
-MN;27;1605;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;618;88.16;701
-MN;27;1605;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.29;701
-MN;27;1610;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;108;6.13;1762
-MN;27;1610;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;113;6.41;1762
-MN;27;1610;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1539;87.34;1762
-MN;27;1610;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.11;1762
-MN;27;1615;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;100;4.63;2161
-MN;27;1615;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;166;7.68;2161
-MN;27;1615;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1889;87.41;2161
-MN;27;1615;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2161
+MN;27;1605;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;40;5.70;702
+MN;27;1605;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;41;5.84;702
+MN;27;1605;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;619;88.18;702
+MN;27;1605;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.28;702
+MN;27;1610;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;108;6.13;1763
+MN;27;1610;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;113;6.41;1763
+MN;27;1610;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1540;87.35;1763
+MN;27;1610;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.11;1763
+MN;27;1615;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;100;4.63;2162
+MN;27;1615;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;166;7.68;2162
+MN;27;1615;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1890;87.42;2162
+MN;27;1615;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2162
 MN;27;1620;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;185;11.20;1652
 MN;27;1620;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;442;26.76;1652
 MN;27;1620;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1022;61.86;1652
@@ -6069,10 +6069,10 @@ MN;27;1635;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;56
 MN;27;1635;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;87;13.79;631
 MN;27;1635;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;488;77.34;631
 MN;27;1635;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;631
-MN;27;1640;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;76;7.44;1022
-MN;27;1640;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;151;14.78;1022
-MN;27;1640;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;789;77.20;1022
-MN;27;1640;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.59;1022
+MN;27;1640;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;76;7.41;1025
+MN;27;1640;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;152;14.83;1025
+MN;27;1640;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;791;77.17;1025
+MN;27;1640;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.59;1025
 MN;27;1642;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;149;9.10;1638
 MN;27;1642;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;142;8.67;1638
 MN;27;1642;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1342;81.93;1638
@@ -6081,50 +6081,50 @@ MN;27;1645;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;53
 MN;27;1645;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;154;14.94;1031
 MN;27;1645;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;819;79.44;1031
 MN;27;1645;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.49;1031
-MN;27;1650;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;88;5.90;1491
-MN;27;1650;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;402;26.96;1491
-MN;27;1650;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;979;65.66;1491
-MN;27;1650;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;22;1.48;1491
-MN;27;1655;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;159;6.69;2375
-MN;27;1655;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;407;17.14;2375
-MN;27;1655;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1786;75.20;2375
-MN;27;1655;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.97;2375
-MN;27;1660;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;187;7.72;2422
-MN;27;1660;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;653;26.96;2422
-MN;27;1660;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1560;64.41;2422
-MN;27;1660;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;22;0.91;2422
-MN;27;1665;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;204;9.34;2185
-MN;27;1665;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;347;15.88;2185
-MN;27;1665;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1627;74.46;2185
-MN;27;1665;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.32;2185
+MN;27;1650;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;88;5.89;1494
+MN;27;1650;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;402;26.91;1494
+MN;27;1650;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;982;65.73;1494
+MN;27;1650;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;22;1.47;1494
+MN;27;1655;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;159;6.69;2378
+MN;27;1655;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;408;17.16;2378
+MN;27;1655;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1788;75.19;2378
+MN;27;1655;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.97;2378
+MN;27;1660;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;188;7.76;2423
+MN;27;1660;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;653;26.95;2423
+MN;27;1660;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1560;64.38;2423
+MN;27;1660;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;22;0.91;2423
+MN;27;1665;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;204;9.33;2187
+MN;27;1665;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;347;15.87;2187
+MN;27;1665;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1629;74.49;2187
+MN;27;1665;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.32;2187
 MN;27;1670;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;313;10.83;2889
 MN;27;1670;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;731;25.30;2889
 MN;27;1670;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1837;63.59;2889
 MN;27;1670;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.28;2889
-MN;27;1675;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;77;7.33;1050
-MN;27;1675;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;217;20.67;1050
-MN;27;1675;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;746;71.05;1050
-MN;27;1675;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.95;1050
-MN;27;1680;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;317;8.78;3610
-MN;27;1680;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;759;21.02;3610
-MN;27;1680;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2506;69.42;3610
-MN;27;1680;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;28;0.78;3610
-MN;27;1685;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;152;6.34;2399
-MN;27;1685;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;386;16.09;2399
-MN;27;1685;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1838;76.62;2399
-MN;27;1685;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.96;2399
+MN;27;1675;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;78;7.42;1051
+MN;27;1675;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;217;20.65;1051
+MN;27;1675;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;746;70.98;1051
+MN;27;1675;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.95;1051
+MN;27;1680;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;317;8.78;3611
+MN;27;1680;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;759;21.02;3611
+MN;27;1680;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2507;69.43;3611
+MN;27;1680;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;28;0.78;3611
+MN;27;1685;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;152;6.33;2401
+MN;27;1685;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;386;16.08;2401
+MN;27;1685;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1840;76.63;2401
+MN;27;1685;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;23;0.96;2401
 MN;27;1690;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;56;7.91;708
 MN;27;1690;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;72;10.17;708
 MN;27;1690;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;580;81.92;708
 MN;27;1690;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;708
-MN;27;1700;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;91;8.00;1137
-MN;27;1700;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;121;10.64;1137
-MN;27;1700;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;924;81.27;1137
-MN;27;1700;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.09;1137
-MN;27;1705;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;201;7.80;2576
-MN;27;1705;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;240;9.32;2576
-MN;27;1705;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2132;82.76;2576
-MN;27;1705;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.12;2576
+MN;27;1700;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;91;8.00;1138
+MN;27;1700;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;122;10.72;1138
+MN;27;1700;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;924;81.20;1138
+MN;27;1700;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.09;1138
+MN;27;1705;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;201;7.79;2579
+MN;27;1705;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;240;9.31;2579
+MN;27;1705;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2135;82.78;2579
+MN;27;1705;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.12;2579
 MN;27;1710;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;121;8.81;1373
 MN;27;1710;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;151;11.00;1373
 MN;27;1710;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1099;80.04;1373
@@ -6133,14 +6133,14 @@ MN;27;1715;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;13
 MN;27;1715;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;174;11.93;1458
 MN;27;1715;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1150;78.88;1458
 MN;27;1715;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;1458
-MN;27;1720;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;189;8.00;2363
-MN;27;1720;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;361;15.28;2363
-MN;27;1720;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1801;76.22;2363
-MN;27;1720;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.51;2363
-MN;27;1725;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;145;6.45;2249
-MN;27;1725;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;267;11.87;2249
-MN;27;1725;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1831;81.41;2249
-MN;27;1725;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.27;2249
+MN;27;1720;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;189;7.99;2366
+MN;27;1720;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;362;15.30;2366
+MN;27;1720;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1803;76.20;2366
+MN;27;1720;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.51;2366
+MN;27;1725;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;145;6.44;2250
+MN;27;1725;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;267;11.87;2250
+MN;27;1725;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1832;81.42;2250
+MN;27;1725;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.27;2250
 MN;27;1730;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;158;5.43;2910
 MN;27;1730;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;380;13.06;2910
 MN;27;1730;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2358;81.03;2910
@@ -6149,14 +6149,14 @@ MN;27;1735;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;21
 MN;27;1735;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;376;13.85;2715
 MN;27;1735;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2118;78.01;2715
 MN;27;1735;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.29;2715
-MN;27;1750;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;130;10.44;1245
-MN;27;1750;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;101;8.11;1245
-MN;27;1750;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1008;80.96;1245
-MN;27;1750;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.48;1245
-MN;27;1755;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;7.37;2402
-MN;27;1755;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;207;8.62;2402
-MN;27;1755;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2011;83.72;2402
-MN;27;1755;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.29;2402
+MN;27;1750;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;131;10.51;1246
+MN;27;1750;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;101;8.11;1246
+MN;27;1750;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1008;80.90;1246
+MN;27;1750;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.48;1246
+MN;27;1755;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;7.37;2403
+MN;27;1755;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;208;8.66;2403
+MN;27;1755;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;2011;83.69;2403
+MN;27;1755;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.29;2403
 MN;27;1760;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;172;10.30;1670
 MN;27;1760;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;242;14.49;1670
 MN;27;1760;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1253;75.03;1670
@@ -6173,78 +6173,78 @@ MN;27;1775;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;21
 MN;27;1775;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;310;13.78;2249
 MN;27;1775;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1717;76.34;2249
 MN;27;1775;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.18;2249
-MN;27;1780;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;88;7.61;1157
-MN;27;1780;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;156;13.48;1157
-MN;27;1780;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;910;78.65;1157
-MN;27;1780;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.26;1157
+MN;27;1780;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;88;7.60;1158
+MN;27;1780;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;156;13.47;1158
+MN;27;1780;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;911;78.67;1158
+MN;27;1780;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.26;1158
 MN;27;1785;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;20;10.58;189
 MN;27;1785;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;29;15.34;189
 MN;27;1785;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;140;74.07;189
 MN;27;1785;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;189
-MN;27;1790;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;105;10.16;1033
-MN;27;1790;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;91;8.81;1033
-MN;27;1790;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;836;80.93;1033
-MN;27;1790;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.10;1033
-MN;27;1805;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;155;7.38;2099
-MN;27;1805;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;184;8.77;2099
-MN;27;1805;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1751;83.42;2099
-MN;27;1805;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.43;2099
-MN;27;1810;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;161;9.61;1676
-MN;27;1810;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;319;19.03;1676
-MN;27;1810;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1190;71.00;1676
-MN;27;1810;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1676
-MN;27;1815;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;8.12;1847
-MN;27;1815;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;360;19.49;1847
-MN;27;1815;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1328;71.90;1847
-MN;27;1815;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.49;1847
+MN;27;1790;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;105;10.15;1034
+MN;27;1790;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;92;8.90;1034
+MN;27;1790;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;836;80.85;1034
+MN;27;1790;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.10;1034
+MN;27;1805;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;155;7.38;2100
+MN;27;1805;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;184;8.76;2100
+MN;27;1805;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1752;83.43;2100
+MN;27;1805;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.43;2100
+MN;27;1810;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;161;9.59;1678
+MN;27;1810;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;320;19.07;1678
+MN;27;1810;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1191;70.98;1678
+MN;27;1810;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1678
+MN;27;1815;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;8.11;1849
+MN;27;1815;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;360;19.47;1849
+MN;27;1815;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1330;71.93;1849
+MN;27;1815;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.49;1849
 MN;27;1817;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;0;0.00;0
 MN;27;1817;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;0;0.00;0
 MN;27;1817;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;0;0.00;0
 MN;27;1817;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;27;1820;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;146;8.12;1798
-MN;27;1820;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;252;14.02;1798
-MN;27;1820;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1397;77.70;1798
-MN;27;1820;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.17;1798
-MN;27;1825;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;89;6.34;1404
-MN;27;1825;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;204;14.53;1404
-MN;27;1825;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1104;78.63;1404
-MN;27;1825;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.50;1404
+MN;27;1820;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;146;8.11;1801
+MN;27;1820;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;253;14.05;1801
+MN;27;1820;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1399;77.68;1801
+MN;27;1820;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.17;1801
+MN;27;1825;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;89;6.33;1406
+MN;27;1825;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;205;14.58;1406
+MN;27;1825;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1105;78.59;1406
+MN;27;1825;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.50;1406
 MN;27;1827;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;0;0.00;0
 MN;27;1827;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;0;0.00;0
 MN;27;1827;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;0;0.00;0
 MN;27;1827;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;0
-MN;27;1830;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;6.78;2212
-MN;27;1830;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;309;13.97;2212
-MN;27;1830;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1746;78.93;2212
-MN;27;1830;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.32;2212
-MN;27;1835;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;136;7.96;1709
-MN;27;1835;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;144;8.43;1709
-MN;27;1835;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1425;83.38;1709
-MN;27;1835;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.23;1709
+MN;27;1830;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;150;6.78;2213
+MN;27;1830;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;309;13.96;2213
+MN;27;1830;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1747;78.94;2213
+MN;27;1830;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.32;2213
+MN;27;1835;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;136;7.95;1711
+MN;27;1835;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;144;8.42;1711
+MN;27;1835;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1427;83.40;1711
+MN;27;1835;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.23;1711
 MN;27;1840;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;93;6.96;1337
 MN;27;1840;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;138;10.32;1337
 MN;27;1840;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1103;82.50;1337
 MN;27;1840;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.22;1337
-MN;27;1845;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;172;8.21;2095
-MN;27;1845;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;211;10.07;2095
-MN;27;1845;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1711;81.67;2095
-MN;27;1845;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.05;2095
-MN;27;1850;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;165;7.71;2141
-MN;27;1850;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;224;10.46;2141
-MN;27;1850;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1747;81.60;2141
-MN;27;1850;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.23;2141
-MN;27;1855;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;171;9.39;1822
-MN;27;1855;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;270;14.82;1822
-MN;27;1855;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1375;75.47;1822
-MN;27;1855;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.33;1822
-MN;27;1860;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;116;7.03;1651
-MN;27;1860;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;295;17.87;1651
-MN;27;1860;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1225;74.20;1651
-MN;27;1860;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;15;0.91;1651
-MN;27;1865;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;117;5.38;2173
-MN;27;1865;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;474;21.81;2173
-MN;27;1865;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1564;71.97;2173
-MN;27;1865;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;18;0.83;2173
+MN;27;1845;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;172;8.21;2096
+MN;27;1845;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;211;10.07;2096
+MN;27;1845;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1712;81.68;2096
+MN;27;1845;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.05;2096
+MN;27;1850;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;165;7.70;2142
+MN;27;1850;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;224;10.46;2142
+MN;27;1850;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1748;81.61;2142
+MN;27;1850;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.23;2142
+MN;27;1855;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;171;9.38;1823
+MN;27;1855;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;270;14.81;1823
+MN;27;1855;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1376;75.48;1823
+MN;27;1855;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.33;1823
+MN;27;1860;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;116;7.02;1653
+MN;27;1860;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;295;17.85;1653
+MN;27;1860;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1227;74.23;1653
+MN;27;1860;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;15;0.91;1653
+MN;27;1865;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;117;5.38;2174
+MN;27;1865;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;474;21.80;2174
+MN;27;1865;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1565;71.99;2174
+MN;27;1865;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;18;0.83;2174
 MN;27;1870;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;221;10.65;2076
 MN;27;1870;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;387;18.64;2076
 MN;27;1870;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1462;70.42;2076
@@ -6253,46 +6253,46 @@ MN;27;1875;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;15
 MN;27;1875;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;498;19.05;2614
 MN;27;1875;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1950;74.60;2614
 MN;27;1875;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;13;0.50;2614
-MN;27;1880;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;89;6.17;1442
-MN;27;1880;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;320;22.19;1442
-MN;27;1880;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1019;70.67;1442
-MN;27;1880;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;14;0.97;1442
+MN;27;1880;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;89;6.17;1443
+MN;27;1880;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;321;22.25;1443
+MN;27;1880;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1019;70.62;1443
+MN;27;1880;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;14;0.97;1443
 MN;27;1885;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;143;6.15;2326
 MN;27;1885;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;549;23.60;2326
 MN;27;1885;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1620;69.65;2326
 MN;27;1885;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;14;0.60;2326
-MN;27;1890;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;7.94;2228
-MN;27;1890;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;552;24.78;2228
-MN;27;1890;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1490;66.88;2228
-MN;27;1890;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.40;2228
-MN;27;1895;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;199;9.40;2118
-MN;27;1895;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;570;26.91;2118
-MN;27;1895;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1341;63.31;2118
-MN;27;1895;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.38;2118
+MN;27;1890;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;177;7.94;2229
+MN;27;1890;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;552;24.76;2229
+MN;27;1890;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1491;66.89;2229
+MN;27;1890;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.40;2229
+MN;27;1895;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;199;9.39;2119
+MN;27;1895;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;571;26.95;2119
+MN;27;1895;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1341;63.28;2119
+MN;27;1895;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.38;2119
 MN;27;1900;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;116;10.05;1154
 MN;27;1900;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;298;25.82;1154
 MN;27;1900;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;736;63.78;1154
 MN;27;1900;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.35;1154
-MN;27;1902;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;123;7.59;1620
-MN;27;1902;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;414;25.56;1620
-MN;27;1902;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1077;66.48;1620
-MN;27;1902;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.37;1620
-MN;27;1905;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;201;8.54;2353
-MN;27;1905;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;380;16.15;2353
-MN;27;1905;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1763;74.93;2353
-MN;27;1905;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.38;2353
-MN;27;1910;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;152;6.89;2207
-MN;27;1910;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;396;17.94;2207
-MN;27;1910;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1653;74.90;2207
-MN;27;1910;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.27;2207
-MN;27;1915;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;207;7.80;2653
-MN;27;1915;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;486;18.32;2653
-MN;27;1915;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1944;73.28;2653
-MN;27;1915;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.60;2653
-MN;27;1920;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;118;8.29;1424
-MN;27;1920;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;276;19.38;1424
-MN;27;1920;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1023;71.84;1424
-MN;27;1920;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.49;1424
+MN;27;1902;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;123;7.59;1621
+MN;27;1902;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;415;25.60;1621
+MN;27;1902;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1077;66.44;1621
+MN;27;1902;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.37;1621
+MN;27;1905;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;201;8.54;2354
+MN;27;1905;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;380;16.14;2354
+MN;27;1905;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1764;74.94;2354
+MN;27;1905;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.38;2354
+MN;27;1910;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;153;6.93;2209
+MN;27;1910;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;397;17.97;2209
+MN;27;1910;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1653;74.83;2209
+MN;27;1910;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.27;2209
+MN;27;1915;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;207;7.80;2654
+MN;27;1915;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;486;18.31;2654
+MN;27;1915;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1945;73.29;2654
+MN;27;1915;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;16;0.60;2654
+MN;27;1920;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;118;8.28;1425
+MN;27;1920;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;276;19.37;1425
+MN;27;1920;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1024;71.86;1425
+MN;27;1920;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.49;1425
 MN;27;1925;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;113;6.62;1707
 MN;27;1925;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;344;20.15;1707
 MN;27;1925;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1241;72.70;1707
@@ -6309,10 +6309,10 @@ MN;27;1940;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;89
 MN;27;1940;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;164;14.39;1140
 MN;27;1940;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;884;77.54;1140
 MN;27;1940;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.26;1140
-MN;27;1945;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;102;6.17;1653
-MN;27;1945;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;337;20.39;1653
-MN;27;1945;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1210;73.20;1653
-MN;27;1945;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.24;1653
+MN;27;1945;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;102;6.16;1655
+MN;27;1945;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;338;20.42;1655
+MN;27;1945;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1211;73.17;1655
+MN;27;1945;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;4;0.24;1655
 MN;27;1950;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;216;11.32;1908
 MN;27;1950;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;525;27.52;1908
 MN;27;1950;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1167;61.16;1908
@@ -6321,18 +6321,18 @@ MN;27;1955;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;14
 MN;27;1955;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;353;22.10;1597
 MN;27;1955;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1096;68.63;1597
 MN;27;1955;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.44;1597
-MN;27;1956;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;207;7.90;2619
-MN;27;1956;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;495;18.90;2619
-MN;27;1956;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1912;73.00;2619
-MN;27;1956;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.19;2619
+MN;27;1956;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;207;7.89;2622
+MN;27;1956;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;495;18.88;2622
+MN;27;1956;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1915;73.04;2622
+MN;27;1956;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.19;2622
 MN;27;1957;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;102;9.01;1132
 MN;27;1957;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;270;23.85;1132
 MN;27;1957;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;757;66.87;1132
 MN;27;1957;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.27;1132
-MN;27;1960;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;172;8.08;2130
-MN;27;1960;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;572;26.85;2130
-MN;27;1960;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1378;64.69;2130
-MN;27;1960;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.38;2130
+MN;27;1960;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;172;8.06;2133
+MN;27;1960;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;572;26.82;2133
+MN;27;1960;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1381;64.74;2133
+MN;27;1960;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.38;2133
 MN;27;1965;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;47;3.83;1228
 MN;27;1965;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;260;21.17;1228
 MN;27;1965;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;911;74.19;1228
@@ -6341,10 +6341,10 @@ MN;27;1970;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;71
 MN;27;1970;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;322;20.42;1577
 MN;27;1970;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1172;74.32;1577
 MN;27;1970;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.76;1577
-MN;27;1975;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;111;6.35;1748
-MN;27;1975;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;359;20.54;1748
-MN;27;1975;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1273;72.83;1748
-MN;27;1975;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.29;1748
+MN;27;1975;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;111;6.34;1750
+MN;27;1975;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;360;20.57;1750
+MN;27;1975;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1274;72.80;1750
+MN;27;1975;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.29;1750
 MN;27;1980;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;83;5.31;1563
 MN;27;1980;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;348;22.26;1563
 MN;27;1980;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1126;72.04;1563
@@ -6353,34 +6353,34 @@ MN;27;1985;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;10
 MN;27;1985;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;396;20.36;1945
 MN;27;1985;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1425;73.26;1945
 MN;27;1985;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;22;1.13;1945
-MN;27;1990;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;5.05;2713
-MN;27;1990;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;619;22.82;2713
-MN;27;1990;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1936;71.36;2713
-MN;27;1990;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;21;0.77;2713
+MN;27;1990;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;5.05;2714
+MN;27;1990;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;619;22.81;2714
+MN;27;1990;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1937;71.37;2714
+MN;27;1990;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;21;0.77;2714
 MN;27;1995;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;132;6.44;2050
 MN;27;1995;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;502;24.49;2050
 MN;27;1995;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1403;68.44;2050
 MN;27;1995;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;13;0.63;2050
-MN;27;2000;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;197;7.55;2608
-MN;27;2000;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;656;25.15;2608
-MN;27;2000;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1746;66.95;2608
-MN;27;2000;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.35;2608
-MN;27;2005;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;62;5.68;1092
-MN;27;2005;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;228;20.88;1092
-MN;27;2005;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;794;72.71;1092
-MN;27;2005;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.73;1092
-MN;27;2010;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;77;4.48;1718
-MN;27;2010;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;450;26.19;1718
-MN;27;2010;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1182;68.80;1718
-MN;27;2010;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.52;1718
-MN;27;2015;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;65;5.93;1096
-MN;27;2015;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;220;20.07;1096
-MN;27;2015;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;806;73.54;1096
-MN;27;2015;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.46;1096
-MN;27;2020;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;67;4.12;1627
-MN;27;2020;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;331;20.34;1627
-MN;27;2020;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1209;74.31;1627
-MN;27;2020;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;20;1.23;1627
+MN;27;2000;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;197;7.55;2609
+MN;27;2000;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;656;25.14;2609
+MN;27;2000;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1747;66.96;2609
+MN;27;2000;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.35;2609
+MN;27;2005;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;62;5.67;1093
+MN;27;2005;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;228;20.86;1093
+MN;27;2005;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;795;72.74;1093
+MN;27;2005;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.73;1093
+MN;27;2010;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;77;4.47;1721
+MN;27;2010;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;450;26.15;1721
+MN;27;2010;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1185;68.86;1721
+MN;27;2010;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.52;1721
+MN;27;2015;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;66;6.02;1097
+MN;27;2015;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;220;20.05;1097
+MN;27;2015;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;806;73.47;1097
+MN;27;2015;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.46;1097
+MN;27;2020;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;67;4.12;1628
+MN;27;2020;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;331;20.33;1628
+MN;27;2020;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1210;74.32;1628
+MN;27;2020;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;20;1.23;1628
 MN;27;2290;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;137;12.62;1086
 MN;27;2290;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;422;38.86;1086
 MN;27;2290;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;527;48.53;1086
@@ -6393,10 +6393,10 @@ MN;27;2300;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;15
 MN;27;2300;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;747;44.36;1684
 MN;27;2300;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;784;46.56;1684
 MN;27;2300;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.18;1684
-MN;27;2310;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;184;10.97;1677
-MN;27;2310;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;738;44.01;1677
-MN;27;2310;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;750;44.72;1677
-MN;27;2310;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.30;1677
+MN;27;2310;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;184;10.97;1678
+MN;27;2310;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;738;43.98;1678
+MN;27;2310;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;751;44.76;1678
+MN;27;2310;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.30;1678
 MN;27;2315;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;158;14.54;1087
 MN;27;2315;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;390;35.88;1087
 MN;27;2315;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;537;49.40;1087
@@ -6405,86 +6405,86 @@ MN;27;2320;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;47
 MN;27;2320;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;146;31.26;467
 MN;27;2320;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;274;58.67;467
 MN;27;2320;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;467
-MN;27;2330;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;265;12.27;2160
-MN;27;2330;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;887;41.06;2160
-MN;27;2330;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1002;46.39;2160
-MN;27;2330;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2160
-MN;27;2335;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;180;11.22;1604
-MN;27;2335;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;554;34.54;1604
-MN;27;2335;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;868;54.11;1604
-MN;27;2335;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.12;1604
-MN;27;2575;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;245;9.68;2532
-MN;27;2575;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;879;34.72;2532
-MN;27;2575;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1402;55.37;2532
-MN;27;2575;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.24;2532
-MN;27;2580;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;242;11.04;2193
-MN;27;2580;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;764;34.84;2193
-MN;27;2580;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1184;53.99;2193
-MN;27;2580;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.14;2193
-MN;27;2585;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;181;7.58;2387
-MN;27;2585;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;867;36.32;2387
-MN;27;2585;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1327;55.59;2387
-MN;27;2585;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.50;2387
-MN;27;2590;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;285;10.04;2840
-MN;27;2590;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;956;33.66;2840
-MN;27;2590;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1594;56.13;2840
-MN;27;2590;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.18;2840
-MN;27;2595;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;273;10.81;2526
-MN;27;2595;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;883;34.96;2526
-MN;27;2595;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1359;53.80;2526
-MN;27;2595;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.44;2526
+MN;27;2330;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;265;12.26;2161
+MN;27;2330;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;888;41.09;2161
+MN;27;2330;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1002;46.37;2161
+MN;27;2330;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2161
+MN;27;2335;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;180;11.21;1606
+MN;27;2335;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;556;34.62;1606
+MN;27;2335;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;868;54.05;1606
+MN;27;2335;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.12;1606
+MN;27;2575;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;245;9.67;2533
+MN;27;2575;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;879;34.70;2533
+MN;27;2575;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1403;55.39;2533
+MN;27;2575;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.24;2533
+MN;27;2580;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;242;11.03;2194
+MN;27;2580;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;765;34.87;2194
+MN;27;2580;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1184;53.97;2194
+MN;27;2580;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.14;2194
+MN;27;2585;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;181;7.58;2388
+MN;27;2585;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;867;36.31;2388
+MN;27;2585;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1328;55.61;2388
+MN;27;2585;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;12;0.50;2388
+MN;27;2590;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;285;10.03;2841
+MN;27;2590;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;956;33.65;2841
+MN;27;2590;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1595;56.14;2841
+MN;27;2590;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.18;2841
+MN;27;2595;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;273;10.80;2527
+MN;27;2595;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;883;34.94;2527
+MN;27;2595;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1360;53.82;2527
+MN;27;2595;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.44;2527
 MN;27;2600;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;182;10.58;1721
 MN;27;2600;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;595;34.57;1721
 MN;27;2600;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;939;54.56;1721
 MN;27;2600;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.29;1721
-MN;27;2605;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;205;12.21;1679
-MN;27;2605;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;593;35.32;1679
-MN;27;2605;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;874;52.05;1679
-MN;27;2605;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.42;1679
-MN;27;2610;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;221;12.89;1715
-MN;27;2610;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;596;34.75;1715
-MN;27;2610;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;893;52.07;1715
-MN;27;2610;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.29;1715
+MN;27;2605;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;205;12.20;1680
+MN;27;2605;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;593;35.30;1680
+MN;27;2605;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;875;52.08;1680
+MN;27;2605;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;7;0.42;1680
+MN;27;2610;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;222;12.94;1716
+MN;27;2610;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;596;34.73;1716
+MN;27;2610;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;893;52.04;1716
+MN;27;2610;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;5;0.29;1716
 MN;27;2615;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;318;13.17;2415
 MN;27;2615;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;774;32.05;2415
 MN;27;2615;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1317;54.53;2415
 MN;27;2615;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.25;2415
-MN;27;2645;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;260;12.36;2103
-MN;27;2645;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;777;36.95;2103
-MN;27;2645;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1057;50.26;2103
-MN;27;2645;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.43;2103
+MN;27;2645;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;260;12.35;2105
+MN;27;2645;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;779;37.01;2105
+MN;27;2645;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1057;50.21;2105
+MN;27;2645;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.43;2105
 MN;27;2655;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;204;8.61;2368
 MN;27;2655;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;817;34.50;2368
 MN;27;2655;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1346;56.84;2368
 MN;27;2655;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;1;0.04;2368
-MN;27;2665;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;253;11.72;2158
-MN;27;2665;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;731;33.87;2158
-MN;27;2665;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1168;54.12;2158
-MN;27;2665;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2158
-MN;27;2675;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;261;12.37;2110
-MN;27;2675;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;623;29.53;2110
-MN;27;2675;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1226;58.10;2110
-MN;27;2675;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;2110
-MN;27;2765;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;103;7.05;1461
-MN;27;2765;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;587;40.18;1461
-MN;27;2765;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;768;52.57;1461
-MN;27;2765;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.21;1461
+MN;27;2665;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;253;11.72;2159
+MN;27;2665;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;731;33.86;2159
+MN;27;2665;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1169;54.15;2159
+MN;27;2665;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.28;2159
+MN;27;2675;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;261;12.36;2111
+MN;27;2675;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;623;29.51;2111
+MN;27;2675;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1227;58.12;2111
+MN;27;2675;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;0;0.00;2111
+MN;27;2765;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;103;7.05;1462
+MN;27;2765;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;588;40.22;1462
+MN;27;2765;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;768;52.53;1462
+MN;27;2765;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.21;1462
 MN;27;2770;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;186;8.21;2265
 MN;27;2770;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;900;39.74;2265
 MN;27;2770;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1173;51.79;2265
 MN;27;2770;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.26;2265
-MN;27;2790;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;185;7.44;2488
-MN;27;2790;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;965;38.79;2488
-MN;27;2790;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1293;51.97;2488
-MN;27;2790;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;45;1.81;2488
+MN;27;2790;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;187;7.50;2493
+MN;27;2790;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;968;38.83;2493
+MN;27;2790;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1293;51.87;2493
+MN;27;2790;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;45;1.81;2493
 MN;27;2795;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;252;8.43;2988
 MN;27;2795;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;1027;34.37;2988
 MN;27;2795;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1699;56.86;2988
 MN;27;2795;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.33;2988
-MN;27;2800;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;125;10.25;1220
-MN;27;2800;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;384;31.48;1220
-MN;27;2800;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;709;58.11;1220
-MN;27;2800;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.16;1220
+MN;27;2800;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;125;10.24;1221
+MN;27;2800;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;385;31.53;1221
+MN;27;2800;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;709;58.07;1221
+MN;27;2800;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;2;0.16;1221
 MN;27;2805;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;100;10.06;994
 MN;27;2805;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;282;28.37;994
 MN;27;2805;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;608;61.17;994
@@ -6493,14 +6493,14 @@ MN;27;2810;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;12
 MN;27;2810;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;484;33.31;1453
 MN;27;2810;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;834;57.40;1453
 MN;27;2810;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.41;1453
-MN;27;2815;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;195;7.79;2503
-MN;27;2815;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;731;29.20;2503
-MN;27;2815;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1569;62.68;2503
-MN;27;2815;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.32;2503
-MN;27;2820;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;147;5.79;2537
-MN;27;2820;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;828;32.64;2537
-MN;27;2820;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1551;61.14;2537
-MN;27;2820;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.43;2537
+MN;27;2815;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;195;7.78;2506
+MN;27;2815;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;734;29.29;2506
+MN;27;2815;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1569;62.61;2506
+MN;27;2815;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;8;0.32;2506
+MN;27;2820;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;147;5.79;2538
+MN;27;2820;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;828;32.62;2538
+MN;27;2820;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1552;61.15;2538
+MN;27;2820;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;11;0.43;2538
 MN;27;2825;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;199;9.61;2071
 MN;27;2825;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;672;32.45;2071
 MN;27;2825;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1188;57.36;2071
@@ -6517,18 +6517,18 @@ MN;27;2840;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;10
 MN;27;2840;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;510;33.55;1520
 MN;27;2840;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;903;59.41;1520
 MN;27;2840;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;3;0.20;1520
-MN;27;2845;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;256;10.66;2401
-MN;27;2845;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;757;31.53;2401
-MN;27;2845;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1379;57.43;2401
-MN;27;2845;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.37;2401
-MN;27;2850;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;162;9.61;1686
-MN;27;2850;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;610;36.18;1686
-MN;27;2850;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;908;53.86;1686
-MN;27;2850;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1686
-MN;27;2855;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;239;8.91;2681
-MN;27;2855;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;849;31.67;2681
-MN;27;2855;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1583;59.05;2681
-MN;27;2855;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.37;2681
+MN;27;2845;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;257;10.70;2402
+MN;27;2845;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;757;31.52;2402
+MN;27;2845;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1379;57.41;2402
+MN;27;2845;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;9;0.37;2402
+MN;27;2850;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;163;9.66;1687
+MN;27;2850;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;610;36.16;1687
+MN;27;2850;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;908;53.82;1687
+MN;27;2850;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;6;0.36;1687
+MN;27;2855;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;239;8.91;2682
+MN;27;2855;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;850;31.69;2682
+MN;27;2855;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1583;59.02;2682
+MN;27;2855;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;1;1;10;0.37;2682
 MN;27;2860;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;185;10.16;1820
 MN;27;2860;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;605;33.24;1820
 MN;27;2860;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1027;56.43;1820
@@ -6961,9 +6961,9 @@ MN;71;0040;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;2;0.17;1
 MN;71;0045;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1071;64.09;1671
 MN;71;0045;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;599;35.85;1671
 MN;71;0045;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.06;1671
-MN;71;0050;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1332;73.92;1802
-MN;71;0050;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;469;26.03;1802
-MN;71;0050;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.06;1802
+MN;71;0050;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;1332;73.96;1801
+MN;71;0050;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;468;25.99;1801
+MN;71;0050;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.06;1801
 MN;71;0055;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;1;1;745;63.03;1182
 MN;71;0055;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;1;1;436;36.89;1182
 MN;71;0055;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;1;1;1;0.08;1182
@@ -14837,10 +14837,10 @@ MN;13;0055;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GL
 MN;13;0055;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;1711;57.03;3000
 MN;13;0055;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1071;35.70;3000
 MN;13;0055;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;3000
-MN;13;0060;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;76;5.90;1289
-MN;13;0060;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;880;68.27;1289
-MN;13;0060;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;332;25.76;1289
-MN;13;0060;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.08;1289
+MN;13;0060;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;76;5.91;1287
+MN;13;0060;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;880;68.38;1287
+MN;13;0060;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;330;25.64;1287
+MN;13;0060;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.08;1287
 MN;13;0065;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;155;9.90;1566
 MN;13;0065;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;976;62.32;1566
 MN;13;0065;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;433;27.65;1566
@@ -15341,10 +15341,10 @@ MN;29;0155;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GL
 MN;29;0155;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;164;57.75;284
 MN;29;0155;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;95;33.45;284
 MN;29;0155;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;284
-MN;30;0005;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;105;8.42;1247
-MN;30;0005;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;829;66.48;1247
-MN;30;0005;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;310;24.86;1247
-MN;30;0005;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;3;0.24;1247
+MN;30;0005;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;105;8.41;1248
+MN;30;0005;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;830;66.51;1248
+MN;30;0005;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;310;24.84;1248
+MN;30;0005;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;3;0.24;1248
 MN;30;0010;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;155;7.22;2148
 MN;30;0010;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;1458;67.88;2148
 MN;30;0010;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;531;24.72;2148
@@ -15413,10 +15413,10 @@ MN;30;0075;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GL
 MN;30;0075;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;1029;70.05;1469
 MN;30;0075;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;344;23.42;1469
 MN;30;0075;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;1469
-MN;30;0080;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;73;6.30;1158
-MN;30;0080;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;747;64.51;1158
-MN;30;0080;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;336;29.02;1158
-MN;30;0080;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;2;0.17;1158
+MN;30;0080;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;73;6.30;1159
+MN;30;0080;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;747;64.45;1159
+MN;30;0080;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;337;29.08;1159
+MN;30;0080;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;2;0.17;1159
 MN;31;0005;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;0;0.00;27
 MN;31;0005;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;23;85.19;27
 MN;31;0005;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;4;14.81;27
@@ -16617,18 +16617,18 @@ MN;69;0210;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GL
 MN;69;0210;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;294;18.13;1622
 MN;69;0210;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1083;66.77;1622
 MN;69;0210;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;2;0.12;1622
-MN;69;0215;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;119;7.10;1677
-MN;69;0215;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;400;23.85;1677
-MN;69;0215;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1158;69.05;1677
-MN;69;0215;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;1677
-MN;69;0220;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;153;7.08;2161
-MN;69;0220;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;638;29.52;2161
-MN;69;0220;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1366;63.21;2161
-MN;69;0220;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;4;0.19;2161
-MN;69;0230;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;154;12.70;1213
-MN;69;0230;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;268;22.09;1213
-MN;69;0230;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;788;64.96;1213
-MN;69;0230;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;3;0.25;1213
+MN;69;0215;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;119;7.09;1679
+MN;69;0215;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;400;23.82;1679
+MN;69;0215;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1160;69.09;1679
+MN;69;0215;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;1679
+MN;69;0220;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;153;7.07;2164
+MN;69;0220;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;639;29.53;2164
+MN;69;0220;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;1368;63.22;2164
+MN;69;0220;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;4;0.18;2164
+MN;69;0230;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;157;12.91;1216
+MN;69;0230;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;268;22.04;1216
+MN;69;0230;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;788;64.80;1216
+MN;69;0230;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;3;0.25;1216
 MN;69;0240;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;36;4.34;830
 MN;69;0240;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;204;24.58;830
 MN;69;0240;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;588;70.84;830
@@ -16637,14 +16637,14 @@ MN;69;0245;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GL
 MN;69;0245;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;171;20.83;821
 MN;69;0245;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;542;66.02;821
 MN;69;0245;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;0;0.00;821
-MN;69;0250;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;58;7.70;753
-MN;69;0250;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;208;27.62;753
-MN;69;0250;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;486;64.54;753
-MN;69;0250;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.13;753
-MN;69;0255;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;125;12.10;1033
-MN;69;0255;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;255;24.69;1033
-MN;69;0255;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;652;63.12;1033
-MN;69;0255;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.10;1033
+MN;69;0250;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;58;7.67;756
+MN;69;0250;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;208;27.51;756
+MN;69;0250;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;489;64.68;756
+MN;69;0250;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.13;756
+MN;69;0255;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;125;12.09;1034
+MN;69;0255;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;256;24.76;1034
+MN;69;0255;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;652;63.06;1034
+MN;69;0255;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;1;1;1;0.10;1034
 MN;69;0260;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;1;1;75;4.67;1607
 MN;69;0260;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;1;1;617;38.39;1607
 MN;69;0260;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;1;1;912;56.75;1607
