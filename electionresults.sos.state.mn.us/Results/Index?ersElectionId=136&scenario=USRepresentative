@@ -335,7 +335,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,110&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 11:28 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 11:38 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,787
@@ -353,7 +353,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 11:28 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/09/20 11:38 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
