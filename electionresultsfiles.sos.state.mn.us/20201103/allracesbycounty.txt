@@ -3874,9 +3874,9 @@ MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25
 MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9302;64.83;14349
 MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.50;14349
 MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;11;0.08;14349
-MN;48;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;25;25;9650;68.15;14160
-MN;48;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;25;25;4493;31.73;14160
-MN;48;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;25;25;17;0.12;14160
+MN;48;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;25;25;9650;68.13;14164
+MN;48;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;25;25;4497;31.75;14164
+MN;48;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;25;25;17;0.12;14164
 MN;48;;0216;State Representative District 15A;15A;0301;Sondra Erickson;;;R;25;25;9934;69.74;14245
 MN;48;;0216;State Representative District 15A;15A;0401;Cal Schmock;;;DFL;25;25;4289;30.11;14245
 MN;48;;0216;State Representative District 15A;15A;9901;WRITE-IN;;;WI;25;25;22;0.15;14245
@@ -3896,9 +3896,9 @@ MN;48;;0432;Soil and Water Supervisor District 2;3095;9002;Kurt Beckstrom;;;NP;2
 MN;48;;0432;Soil and Water Supervisor District 2;3095;9901;WRITE-IN;;;WI;25;25;56;0.51;10986
 MN;48;;0434;Soil and Water Supervisor District 4;3095;9001;Andre LaSalle;;;NP;25;25;9840;99.07;9932
 MN;48;;0434;Soil and Water Supervisor District 4;3095;9901;WRITE-IN;;;WI;25;25;92;0.93;9932
-MN;48;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;25;25;5508;49.59;11107
-MN;48;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;25;25;5565;50.10;11107
-MN;48;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;25;25;34;0.31;11107
+MN;48;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;25;25;5508;49.59;11108
+MN;48;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;25;25;5565;50.10;11108
+MN;48;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;25;25;35;0.32;11108
 MN;48;;7012;Judge - Court of Appeals 3;;9001;Carol Hooten;;;NP;25;25;9118;99.12;9199
 MN;48;;7012;Judge - Court of Appeals 3;;9901;WRITE-IN;;;WI;25;25;81;0.88;9199
 MN;48;;7018;Judge - Court of Appeals 9;;9001;Randall J Slieter;;;NP;25;25;8906;99.15;8982
@@ -3929,16 +3929,16 @@ MN;48;;8921;Judge - 7th District Court 22;07;9001;Doug Clark;;;NP;25;25;8624;99.
 MN;48;;8921;Judge - 7th District Court 22;07;9901;WRITE-IN;;;WI;25;25;66;0.76;8690
 MN;48;;8922;Judge - 7th District Court 23;07;9001;Amber B. Gustafson;;;NP;25;25;8620;99.22;8688
 MN;48;;8922;Judge - 7th District Court 23;07;9901;WRITE-IN;;;WI;25;25;68;0.78;8688
-MN;48;;8923;Judge - 7th District Court 24;07;9001;Michael S. Jesse;;;NP;25;25;8671;99.21;8740
-MN;48;;8923;Judge - 7th District Court 24;07;9901;WRITE-IN;;;WI;25;25;69;0.79;8740
+MN;48;;8923;Judge - 7th District Court 24;07;9001;Michael S. Jesse;;;NP;25;25;8671;99.20;8741
+MN;48;;8923;Judge - 7th District Court 24;07;9901;WRITE-IN;;;WI;25;25;70;0.80;8741
 MN;48;;8925;Judge - 7th District Court 26;07;9001;Mark J. Herzing;;;NP;25;25;8807;99.03;8893
 MN;48;;8925;Judge - 7th District Court 26;07;9901;WRITE-IN;;;WI;25;25;86;0.97;8893
 MN;48;;8926;Judge - 7th District Court 27;07;9001;Tammy L. Merkins;;;NP;25;25;8520;99.19;8590
 MN;48;;8926;Judge - 7th District Court 27;07;9901;WRITE-IN;;;WI;25;25;70;0.81;8590
 MN;48;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;25;25;8611;99.14;8686
 MN;48;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;25;25;75;0.86;8686
-MN;48;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;25;25;8621;99.17;8693
-MN;48;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;25;25;72;0.83;8693
+MN;48;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;25;25;8621;99.18;8692
+MN;48;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;25;25;71;0.82;8692
 MN;49;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;14819;75.78;19556
 MN;49;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;4367;22.33;19556
 MN;49;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;34;0.17;19556
