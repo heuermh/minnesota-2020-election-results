@@ -3870,10 +3870,10 @@ MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;334;2.33;14343
 MN;48;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;8849;61.70;14343
 MN;48;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;4120;28.72;14343
 MN;48;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;15;0.10;14343
-MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;1090;7.65;14249
-MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9202;64.58;14249
-MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.69;14249
-MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;11;0.08;14249
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;1090;7.60;14349
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9302;64.83;14349
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.50;14349
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;11;0.08;14349
 MN;48;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;25;25;9650;68.15;14160
 MN;48;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;25;25;4493;31.73;14160
 MN;48;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;25;25;17;0.12;14160
@@ -3888,8 +3888,8 @@ MN;48;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;3;39;1.76;221
 MN;48;;0395;County Commissioner District 5;05;9001;Bradley E. Harrington;;;NP;7;7;911;35.05;2599
 MN;48;;0395;County Commissioner District 5;05;9002;David Oslin;;;NP;7;7;1682;64.72;2599
 MN;48;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;7;7;6;0.23;2599
-MN;48;;0431;Soil and Water Supervisor District 1;3095;9001;Mark Riverblood;;;NP;25;25;4251;39.56;10745
-MN;48;;0431;Soil and Water Supervisor District 1;3095;9002;Daniel K Campbell;;;NP;25;25;6426;59.80;10745
+MN;48;;0431;Soil and Water Supervisor District 1;3095;9001;Mark Riverblood;;;NP;25;25;4250;39.55;10745
+MN;48;;0431;Soil and Water Supervisor District 1;3095;9002;Daniel K Campbell;;;NP;25;25;6427;59.81;10745
 MN;48;;0431;Soil and Water Supervisor District 1;3095;9901;WRITE-IN;;;WI;25;25;68;0.63;10745
 MN;48;;0432;Soil and Water Supervisor District 2;3095;9001;Timothy Braun;;;NP;25;25;4399;40.04;10986
 MN;48;;0432;Soil and Water Supervisor District 2;3095;9002;Kurt Beckstrom;;;NP;25;25;6531;59.45;10986
@@ -3907,12 +3907,12 @@ MN;48;;7022;Judge - Court of Appeals 13;;9001;Jeanne Cochran;;;NP;25;25;8868;99.
 MN;48;;7022;Judge - Court of Appeals 13;;9901;WRITE-IN;;;WI;25;25;74;0.83;8942
 MN;48;;7024;Judge - Court of Appeals 15;;9001;Kevin G. Ross;;;NP;25;25;8857;99.19;8929
 MN;48;;7024;Judge - Court of Appeals 15;;9901;WRITE-IN;;;WI;25;25;72;0.81;8929
-MN;48;;8901;Judge - 7th District Court 2;07;9001;Jay D. Carlson;;;NP;25;25;8820;99.18;8893
-MN;48;;8901;Judge - 7th District Court 2;07;9901;WRITE-IN;;;WI;25;25;73;0.82;8893
-MN;48;;8907;Judge - 7th District Court 8;07;9001;Matthew E. Engelking;;;NP;25;25;8737;99.15;8812
-MN;48;;8907;Judge - 7th District Court 8;07;9901;WRITE-IN;;;WI;25;25;75;0.85;8812
-MN;48;;8908;Judge - 7th District Court 9;07;9001;Michelle W. Lawson;;;NP;25;25;8739;99.27;8803
-MN;48;;8908;Judge - 7th District Court 9;07;9901;WRITE-IN;;;WI;25;25;64;0.73;8803
+MN;48;;8901;Judge - 7th District Court 2;07;9001;Jay D. Carlson;;;NP;25;25;8821;99.18;8894
+MN;48;;8901;Judge - 7th District Court 2;07;9901;WRITE-IN;;;WI;25;25;73;0.82;8894
+MN;48;;8907;Judge - 7th District Court 8;07;9001;Matthew E. Engelking;;;NP;25;25;8738;99.15;8813
+MN;48;;8907;Judge - 7th District Court 8;07;9901;WRITE-IN;;;WI;25;25;75;0.85;8813
+MN;48;;8908;Judge - 7th District Court 9;07;9001;Michelle W. Lawson;;;NP;25;25;8740;99.27;8804
+MN;48;;8908;Judge - 7th District Court 9;07;9901;WRITE-IN;;;WI;25;25;64;0.73;8804
 MN;48;;8910;Judge - 7th District Court 11;07;9001;Andrew Pearson;;;NP;25;25;8705;99.20;8775
 MN;48;;8910;Judge - 7th District Court 11;07;9901;WRITE-IN;;;WI;25;25;70;0.80;8775
 MN;48;;8911;Judge - 7th District Court 12;07;9001;Kevin M. Miller;;;NP;25;25;8674;99.20;8744
@@ -3923,8 +3923,8 @@ MN;48;;8913;Judge - 7th District Court 14;07;9001;Leonard A. Weiler;;;NP;25;25;8
 MN;48;;8913;Judge - 7th District Court 14;07;9901;WRITE-IN;;;WI;25;25;67;0.77;8703
 MN;48;;8914;Judge - 7th District Court 15;07;9001;Sarah E. Hennesy;;;NP;25;25;8690;99.21;8759
 MN;48;;8914;Judge - 7th District Court 15;07;9901;WRITE-IN;;;WI;25;25;69;0.79;8759
-MN;48;;8920;Judge - 7th District Court 21;07;9001;Robert Raupp;;;NP;25;25;8624;99.22;8692
-MN;48;;8920;Judge - 7th District Court 21;07;9901;WRITE-IN;;;WI;25;25;68;0.78;8692
+MN;48;;8920;Judge - 7th District Court 21;07;9001;Robert Raupp;;;NP;25;25;8624;99.21;8693
+MN;48;;8920;Judge - 7th District Court 21;07;9901;WRITE-IN;;;WI;25;25;69;0.79;8693
 MN;48;;8921;Judge - 7th District Court 22;07;9001;Doug Clark;;;NP;25;25;8624;99.24;8690
 MN;48;;8921;Judge - 7th District Court 22;07;9901;WRITE-IN;;;WI;25;25;66;0.76;8690
 MN;48;;8922;Judge - 7th District Court 23;07;9001;Amber B. Gustafson;;;NP;25;25;8620;99.22;8688
