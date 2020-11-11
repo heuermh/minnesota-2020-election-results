@@ -3865,11 +3865,11 @@ MN;48;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;48;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;25;5;0.03;14688
 MN;48;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;25;181;1.23;14688
 MN;48;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;25;22;0.15;14688
-MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;1025;7.15;14343
-MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;334;2.33;14343
-MN;48;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;8849;61.70;14343
-MN;48;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;4120;28.72;14343
-MN;48;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;15;0.10;14343
+MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;1025;7.14;14346
+MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;334;2.33;14346
+MN;48;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;8849;61.68;14346
+MN;48;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;4123;28.74;14346
+MN;48;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;15;0.10;14346
 MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;1090;7.60;14349
 MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9302;64.83;14349
 MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.50;14349
@@ -3933,8 +3933,8 @@ MN;48;;8923;Judge - 7th District Court 24;07;9001;Michael S. Jesse;;;NP;25;25;86
 MN;48;;8923;Judge - 7th District Court 24;07;9901;WRITE-IN;;;WI;25;25;70;0.80;8741
 MN;48;;8925;Judge - 7th District Court 26;07;9001;Mark J. Herzing;;;NP;25;25;8807;99.03;8893
 MN;48;;8925;Judge - 7th District Court 26;07;9901;WRITE-IN;;;WI;25;25;86;0.97;8893
-MN;48;;8926;Judge - 7th District Court 27;07;9001;Tammy L. Merkins;;;NP;25;25;8520;99.19;8590
-MN;48;;8926;Judge - 7th District Court 27;07;9901;WRITE-IN;;;WI;25;25;70;0.81;8590
+MN;48;;8926;Judge - 7th District Court 27;07;9001;Tammy L. Merkins;;;NP;25;25;8601;99.19;8671
+MN;48;;8926;Judge - 7th District Court 27;07;9901;WRITE-IN;;;WI;25;25;70;0.81;8671
 MN;48;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;25;25;8611;99.14;8686
 MN;48;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;25;25;75;0.86;8686
 MN;48;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;25;25;8621;99.18;8692
