@@ -6874,14 +6874,14 @@ MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;45;45;9;0.01;83018
 MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;45;45;999;1.20;83018
 MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;45;45;234;0.28;83018
-MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5095;6.20;82190
-MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1544;1.88;82190
-MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;48799;59.37;82190
-MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;26689;32.47;82190
-MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;63;0.08;82190
-MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;56678;69.66;81368
-MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;24576;30.20;81368
-MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;114;0.14;81368
+MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5036;6.20;81237
+MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1536;1.89;81237
+MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;48394;59.57;81237
+MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;26209;32.26;81237
+MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;62;0.08;81237
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;56181;69.86;80424
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;24129;30.00;80424
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;114;0.14;80424
 MN;86;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;2;2;1358;70.44;1928
 MN;86;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;2;2;569;29.51;1928
 MN;86;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;2;2;1;0.05;1928
@@ -6892,9 +6892,9 @@ MN;86;;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;32;32;4041;8.44;
 MN;86;;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;32;32;30312;63.28;47901
 MN;86;;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;32;32;13506;28.20;47901
 MN;86;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;32;32;42;0.09;47901
-MN;86;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;9;9;19080;66.40;28736
-MN;86;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;9;9;9623;33.49;28736
-MN;86;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;9;9;33;0.11;28736
+MN;86;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;9;9;18593;66.91;27788
+MN;86;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;9;9;9163;32.97;27788
+MN;86;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;9;9;32;0.12;27788
 MN;86;;0217;State Representative District 15B;15B;0301;Shane Mekeland;;;R;2;2;1275;66.34;1922
 MN;86;;0217;State Representative District 15B;15B;0401;Ron Thiessen;;;DFL;2;2;537;27.94;1922
 MN;86;;0217;State Representative District 15B;15B;1101;Myron Arthur Wilson;;;VPM;2;2;108;5.62;1922
@@ -6910,26 +6910,26 @@ MN;86;;0245;State Representative District 29B;29B;9901;WRITE-IN;;;WI;10;10;38;0.
 MN;86;;0246;State Representative District 30A;30A;0301;Paul Novotny;;;R;1;1;367;59.48;617
 MN;86;;0246;State Representative District 30A;30A;0401;Chad Hobot;;;DFL;1;1;248;40.19;617
 MN;86;;0246;State Representative District 30A;30A;9901;WRITE-IN;;;WI;1;1;2;0.32;617
-MN;86;;0247;State Representative District 30B;30B;0301;Eric Lucero;;;R;8;8;18194;64.95;28014
-MN;86;;0247;State Representative District 30B;30B;0401;Brad Kovach;;;DFL;8;8;9776;34.90;28014
-MN;86;;0247;State Representative District 30B;30B;9901;WRITE-IN;;;WI;8;8;44;0.16;28014
+MN;86;;0247;State Representative District 30B;30B;0301;Eric Lucero;;;R;8;8;17741;65.52;27077
+MN;86;;0247;State Representative District 30B;30B;0401;Brad Kovach;;;DFL;8;8;9292;34.32;27077
+MN;86;;0247;State Representative District 30B;30B;9901;WRITE-IN;;;WI;8;8;44;0.16;27077
 MN;86;;0392;County Commissioner District 2;02;9001;Darek Vetsch;;;NP;9;9;6909;55.33;12486
 MN;86;;0392;County Commissioner District 2;02;9002;Tom Perrault;;;NP;9;9;5497;44.03;12486
 MN;86;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;9;9;80;0.64;12486
-MN;86;;0394;County Commissioner District 4;04;9001;Michael Potter;;;NP;7;7;6228;48.62;12810
-MN;86;;0394;County Commissioner District 4;04;9003;Mary Wetter;;;NP;7;7;6518;50.88;12810
-MN;86;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;7;7;64;0.50;12810
+MN;86;;0394;County Commissioner District 4;04;9001;Michael Potter;;;NP;7;7;5865;48.80;12018
+MN;86;;0394;County Commissioner District 4;04;9003;Mary Wetter;;;NP;7;7;6092;50.69;12018
+MN;86;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;7;7;61;0.51;12018
 MN;86;;0395;County Commissioner District 5;05;9001;Mike Kaczmarek;;;NP;13;13;9826;65.23;15063
 MN;86;;0395;County Commissioner District 5;05;9003;Daniel W. Bravinder;;;NP;13;13;5182;34.40;15063
 MN;86;;0395;County Commissioner District 5;05;9901;WRITE-IN;;;WI;13;13;55;0.37;15063
-MN;86;;0431;Special Election for Soil and Water Supervisor District 1;4171;9001;Michael W. Zieska;;;NP;45;45;54452;99.00;55001
-MN;86;;0431;Special Election for Soil and Water Supervisor District 1;4171;9901;WRITE-IN;;;WI;45;45;549;1.00;55001
-MN;86;;0432;Soil and Water Supervisor District 2;4171;9001;Jeffrey Burns;;;NP;45;45;54038;99.11;54523
-MN;86;;0432;Soil and Water Supervisor District 2;4171;9901;WRITE-IN;;;WI;45;45;485;0.89;54523
-MN;86;;0434;Soil and Water Supervisor District 4;4171;9001;Chris Uecker;;;NP;45;45;54016;99.17;54470
-MN;86;;0434;Soil and Water Supervisor District 4;4171;9901;WRITE-IN;;;WI;45;45;454;0.83;54470
-MN;86;;0435;Soil and Water Supervisor District 5;4171;9001;Duane Dahlman;;;NP;45;45;53811;99.15;54270
-MN;86;;0435;Soil and Water Supervisor District 5;4171;9901;WRITE-IN;;;WI;45;45;459;0.85;54270
+MN;86;;0431;Special Election for Soil and Water Supervisor District 1;4171;9001;Michael W. Zieska;;;NP;45;45;53788;99.00;54331
+MN;86;;0431;Special Election for Soil and Water Supervisor District 1;4171;9901;WRITE-IN;;;WI;45;45;543;1.00;54331
+MN;86;;0432;Soil and Water Supervisor District 2;4171;9001;Jeffrey Burns;;;NP;45;45;53378;99.11;53859
+MN;86;;0432;Soil and Water Supervisor District 2;4171;9901;WRITE-IN;;;WI;45;45;481;0.89;53859
+MN;86;;0434;Soil and Water Supervisor District 4;4171;9001;Chris Uecker;;;NP;45;45;53364;99.16;53814
+MN;86;;0434;Soil and Water Supervisor District 4;4171;9901;WRITE-IN;;;WI;45;45;450;0.84;53814
+MN;86;;0435;Soil and Water Supervisor District 5;4171;9001;Duane Dahlman;;;NP;45;45;53157;99.15;53612
+MN;86;;0435;Soil and Water Supervisor District 5;4171;9901;WRITE-IN;;;WI;45;45;455;0.85;53612
 MN;86;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;45;45;30211;49.56;60962
 MN;86;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;45;45;30498;50.03;60962
 MN;86;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;45;45;253;0.42;60962
