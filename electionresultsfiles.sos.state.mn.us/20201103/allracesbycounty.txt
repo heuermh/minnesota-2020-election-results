@@ -6874,24 +6874,24 @@ MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;45;45;9;0.01;83988
 MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;45;45;1010;1.20;83988
 MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;45;45;239;0.28;83988
-MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5151;6.17;83428
-MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1566;1.88;83428
-MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;49193;58.96;83428
-MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;27454;32.91;83428
-MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;64;0.08;83428
-MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;57218;69.27;82598
-MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;25264;30.59;82598
-MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;116;0.14;82598
+MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5095;6.20;82190
+MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1544;1.88;82190
+MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;48799;59.37;82190
+MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;26689;32.47;82190
+MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;63;0.08;82190
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;56678;69.66;81368
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;24576;30.20;81368
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;114;0.14;81368
 MN;86;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;2;2;1358;70.44;1928
 MN;86;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;2;2;569;29.51;1928
 MN;86;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;2;2;1;0.05;1928
 MN;86;;0138;State Senator District 18;18;0301;Scott Newman;;;R;2;2;1634;72.95;2240
 MN;86;;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;2;2;600;26.79;2240
 MN;86;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;2;2;6;0.27;2240
-MN;86;;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;32;32;4131;8.41;49115
-MN;86;;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;32;32;30760;62.63;49115
-MN;86;;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;32;32;14182;28.88;49115
-MN;86;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;32;32;42;0.09;49115
+MN;86;;0149;State Senator District 29;29;0201;Mary Murphy;;;GLC;32;32;4041;8.44;47901
+MN;86;;0149;State Senator District 29;29;0301;Bruce D. Anderson;;;R;32;32;30312;63.28;47901
+MN;86;;0149;State Senator District 29;29;0401;Chris Brazelton;;;DFL;32;32;13506;28.20;47901
+MN;86;;0149;State Senator District 29;29;9901;WRITE-IN;;;WI;32;32;42;0.09;47901
 MN;86;;0150;State Senator District 30;30;0301;Mary Kiffmeyer;;;R;9;9;19080;66.40;28736
 MN;86;;0150;State Senator District 30;30;0401;Diane Nguyen;;;DFL;9;9;9623;33.49;28736
 MN;86;;0150;State Senator District 30;30;9901;WRITE-IN;;;WI;9;9;33;0.11;28736
@@ -6904,9 +6904,9 @@ MN;86;;0222;State Representative District 18A;18A;9901;WRITE-IN;;;WI;2;2;53;2.64
 MN;86;;0244;State Representative District 29A;29A;0301;Joe McDonald;;;R;22;22;17724;70.41;25174
 MN;86;;0244;State Representative District 29A;29A;0401;Renée Cardarelle;;;DFL;22;22;7414;29.45;25174
 MN;86;;0244;State Representative District 29A;29A;9901;WRITE-IN;;;WI;22;22;36;0.14;25174
-MN;86;;0245;State Representative District 29B;29B;0301;Marion O'Neill;;;R;10;10;14723;61.55;23919
-MN;86;;0245;State Representative District 29B;29B;0401;Joe Rosh;;;DFL;10;10;9157;38.28;23919
-MN;86;;0245;State Representative District 29B;29B;9901;WRITE-IN;;;WI;10;10;39;0.16;23919
+MN;86;;0245;State Representative District 29B;29B;0301;Marion O'Neill;;;R;10;10;14724;61.56;23920
+MN;86;;0245;State Representative District 29B;29B;0401;Joe Rosh;;;DFL;10;10;9157;38.28;23920
+MN;86;;0245;State Representative District 29B;29B;9901;WRITE-IN;;;WI;10;10;39;0.16;23920
 MN;86;;0246;State Representative District 30A;30A;0301;Paul Novotny;;;R;1;1;367;59.48;617
 MN;86;;0246;State Representative District 30A;30A;0401;Chad Hobot;;;DFL;1;1;248;40.19;617
 MN;86;;0246;State Representative District 30A;30A;9901;WRITE-IN;;;WI;1;1;2;0.32;617
