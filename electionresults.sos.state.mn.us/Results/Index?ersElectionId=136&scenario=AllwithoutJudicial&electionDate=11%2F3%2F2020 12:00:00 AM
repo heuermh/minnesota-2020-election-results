@@ -343,10 +343,10 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,110&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/12/20 7:04 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/12/20 7:16 PM
                             </td>
                             <td class="text-right">
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,643
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,648
                             </td>
                     </tr>
             </table>
@@ -371,13 +371,13 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/12/20 7:04 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/12/20 7:16 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,643
+                                <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,589,648
                             </td>
                         </tr>
             </table>
@@ -415,7 +415,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Donald J. Trump and Michael R. Pence</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,483,550</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,483,551</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">45.29%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="45" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -479,7 +479,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Libertarian Party</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">LIB</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Jo Jorgensen and Jeremy &quot;Spike&quot; Cohen</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">34,947</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">34,948</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.07%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
@@ -524,7 +524,7 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Oliver Steinberg</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">57,138</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">57,139</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">1.78%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="1" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
