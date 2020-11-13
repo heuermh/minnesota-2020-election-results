@@ -2525,42 +2525,42 @@ MN;30;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;30;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;19;19;5;0.02;24235
 MN;30;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;19;19;304;1.25;24235
 MN;30;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;19;19;73;0.30;24235
-MN;30;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;1671;7.01;23826
-MN;30;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;608;2.55;23826
-MN;30;;0102;U.S. Senator;;0301;Jason Lewis;;;R;19;19;14775;62.01;23826
-MN;30;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;19;19;6752;28.34;23826
-MN;30;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;19;20;0.08;23826
-MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;1894;8.05;23535
-MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;15216;64.65;23535
-MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;6402;27.20;23535
-MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;23;0.10;23535
+MN;30;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;19;19;1671;7.01;23824
+MN;30;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;608;2.55;23824
+MN;30;;0102;U.S. Senator;;0301;Jason Lewis;;;R;19;19;14774;62.01;23824
+MN;30;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;19;19;6751;28.34;23824
+MN;30;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;19;20;0.08;23824
+MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;1894;8.05;23534
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;15215;64.65;23534
+MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;6402;27.20;23534
+MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;23;0.10;23534
 MN;30;;0151;State Senator District 31;31;0301;Michelle R. Benson;;;R;5;5;4342;73.88;5877
 MN;30;;0151;State Senator District 31;31;0401;Kate Luthner;;;DFL;5;5;1524;25.93;5877
 MN;30;;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;5;5;11;0.19;5877
-MN;30;;0152;State Senator District 32;32;0301;Mark Koran;;;R;14;14;11766;67.41;17455
-MN;30;;0152;State Senator District 32;32;0401;Joshua Fike;;;DFL;14;14;5659;32.42;17455
-MN;30;;0152;State Senator District 32;32;9901;WRITE-IN;;;WI;14;14;30;0.17;17455
+MN;30;;0152;State Senator District 32;32;0301;Mark Koran;;;R;14;14;11765;67.41;17454
+MN;30;;0152;State Senator District 32;32;0401;Joshua Fike;;;DFL;14;14;5659;32.42;17454
+MN;30;;0152;State Senator District 32;32;9901;WRITE-IN;;;WI;14;14;30;0.17;17454
 MN;30;;0248;State Representative District 31A;31A;0301;Kurt Daudt;;;R;5;5;4372;73.84;5921
 MN;30;;0248;State Representative District 31A;31A;0401;Brad Brown;;;DFL;5;5;1536;25.94;5921
 MN;30;;0248;State Representative District 31A;31A;9901;WRITE-IN;;;WI;5;5;13;0.22;5921
-MN;30;;0250;State Representative District 32A;32A;0301;Brian Johnson;;;R;14;14;11892;68.11;17459
-MN;30;;0250;State Representative District 32A;32A;0401;Renae Berg;;;DFL;14;14;5541;31.74;17459
-MN;30;;0250;State Representative District 32A;32A;9901;WRITE-IN;;;WI;14;14;26;0.15;17459
+MN;30;;0250;State Representative District 32A;32A;0301;Brian Johnson;;;R;14;14;11891;68.11;17458
+MN;30;;0250;State Representative District 32A;32A;0401;Renae Berg;;;DFL;14;14;5541;31.74;17458
+MN;30;;0250;State Representative District 32A;32A;9901;WRITE-IN;;;WI;14;14;26;0.15;17458
 MN;30;;0392;County Commissioner District 2;02;9001;Terry Turnquist;;;NP;6;6;3711;98.36;3773
 MN;30;;0392;County Commissioner District 2;02;9901;WRITE-IN;;;WI;6;6;62;1.64;3773
 MN;30;;0393;County Commissioner District 3;03;9001;Greg Anderson;;;NP;3;3;3292;97.98;3360
 MN;30;;0393;County Commissioner District 3;03;9901;WRITE-IN;;;WI;3;3;68;2.02;3360
 MN;30;;0394;County Commissioner District 4;04;9001;Mike Warring;;;NP;4;4;3285;97.94;3354
 MN;30;;0394;County Commissioner District 4;04;9901;WRITE-IN;;;WI;4;4;69;2.06;3354
-MN;30;;0431;Soil and Water Supervisor District 1;4059;9001;Valerie Marty Anderson;;;NP;19;19;9792;53.92;18161
-MN;30;;0431;Soil and Water Supervisor District 1;4059;9002;Barry Springborn;;;NP;19;19;8194;45.12;18161
-MN;30;;0431;Soil and Water Supervisor District 1;4059;9901;WRITE-IN;;;WI;19;19;175;0.96;18161
+MN;30;;0431;Soil and Water Supervisor District 1;4059;9001;Valerie Marty Anderson;;;NP;19;19;9791;53.92;18160
+MN;30;;0431;Soil and Water Supervisor District 1;4059;9002;Barry Springborn;;;NP;19;19;8194;45.12;18160
+MN;30;;0431;Soil and Water Supervisor District 1;4059;9901;WRITE-IN;;;WI;19;19;175;0.96;18160
 MN;30;;0433;Soil and Water Supervisor District 3;4059;9001;Clark F Anderson;;;NP;19;19;16564;98.57;16805
 MN;30;;0433;Soil and Water Supervisor District 3;4059;9901;WRITE-IN;;;WI;19;19;241;1.43;16805
 MN;30;;0434;Soil and Water Supervisor District 4;4059;9001;Allan R. Koczur;;;NP;19;19;16564;98.71;16780
 MN;30;;0434;Soil and Water Supervisor District 4;4059;9901;WRITE-IN;;;WI;19;19;216;1.29;16780
-MN;30;;0435;Special Election for Soil and Water Supervisor District 5;4059;9001;David Medvecky;;;NP;19;19;16391;98.61;16622
-MN;30;;0435;Special Election for Soil and Water Supervisor District 5;4059;9901;WRITE-IN;;;WI;19;19;231;1.39;16622
+MN;30;;0435;Special Election for Soil and Water Supervisor District 5;4059;9001;David Medvecky;;;NP;19;19;16391;98.62;16621
+MN;30;;0435;Special Election for Soil and Water Supervisor District 5;4059;9901;WRITE-IN;;;WI;19;19;230;1.38;16621
 MN;30;;7005;Associate Justice - Supreme Court 4;;9001;Michelle MacDonald;;;NP;19;19;9039;49.63;18213
 MN;30;;7005;Associate Justice - Supreme Court 4;;9002;Paul Thissen;;;NP;19;19;9048;49.68;18213
 MN;30;;7005;Associate Justice - Supreme Court 4;;9901;WRITE-IN;;;WI;19;19;126;0.69;18213
@@ -2578,8 +2578,8 @@ MN;30;;9203;Judge - 10th District Court 4;10;9001;Suzanne M. Brown;;;NP;19;19;14
 MN;30;;9203;Judge - 10th District Court 4;10;9901;WRITE-IN;;;WI;19;19;212;1.46;14543
 MN;30;;9204;Judge - 10th District Court 5;10;9001;Douglas B Meslow;;;NP;19;19;14273;98.53;14486
 MN;30;;9204;Judge - 10th District Court 5;10;9901;WRITE-IN;;;WI;19;19;213;1.47;14486
-MN;30;;9205;Judge - 10th District Court 6;10;9001;Stoney L Hiljus;;;NP;19;19;14536;98.45;14765
-MN;30;;9205;Judge - 10th District Court 6;10;9901;WRITE-IN;;;WI;19;19;229;1.55;14765
+MN;30;;9205;Judge - 10th District Court 6;10;9001;Stoney L Hiljus;;;NP;19;19;14536;98.46;14764
+MN;30;;9205;Judge - 10th District Court 6;10;9901;WRITE-IN;;;WI;19;19;228;1.54;14764
 MN;30;;9206;Judge - 10th District Court 7;10;9001;Richard C. Ilkka;;;NP;19;19;14174;98.49;14392
 MN;30;;9206;Judge - 10th District Court 7;10;9901;WRITE-IN;;;WI;19;19;218;1.51;14392
 MN;30;;9207;Judge - 10th District Court 8;10;9001;Laura A. Pietan;;;NP;19;19;14244;98.53;14457
