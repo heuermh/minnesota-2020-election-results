@@ -335,7 +335,7 @@
                             <span class="boldFont">Precincts Reporting in State:</span>&nbsp;100%&nbsp;&nbsp;4,110&nbsp;of&nbsp;4,110
                         </td>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/20/20 4:10 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/20/20 6:30 PM
                             </td>
                             <td class="text-right">
                                 <span class="boldFont">Voters Registered at 7AM:</span> &nbsp; 3,588,340
@@ -353,7 +353,7 @@
 <!-- if not legacy then show, regardless of whether there is data-->
                         <tr>
                             <td>
-                                <span class="boldFont">Last Updated:</span> &nbsp; 11/20/20 4:10 PM
+                                <span class="boldFont">Last Updated:</span> &nbsp; 11/20/20 6:30 PM
                             </td>
                         </tr>
 <!-- if not legacy then show, regardless of whether there is data-->
@@ -552,31 +552,31 @@
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Grassroots - Legalize Cannabis</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">GLC</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Susan Sindt</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,514</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">7.59%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">29,418</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">7.61%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="7" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Republican</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">R</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Gene Rechtzigel</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">112,671</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">28.97%</td>
-                                <td class="col-md-2 hidden-sm hidden-xs"><img width="28" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">112,324</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">29.06%</td>
+                                <td class="col-md-2 hidden-sm hidden-xs"><img width="29" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">Democratic-Farmer-Labor</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">DFL</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">Betty McCollum</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">245,639</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.17%</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">243,761</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">63.06%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="63" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
                             <tr>
                                 <td class="hidden-sm hidden-xs col-md-3  text-right">WRITE-IN</td>
                                 <td class="hidden-lg hidden-md col-sm-1 col-xs-1 text-right">WI</td>
                                 <td class="col-md-3 col-sm-3 col-xs-4 wrapText">WRITE-IN</td>
-                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,032</td>
+                                <td class="col-md-2 col-sm-2 col-xs-2 text-right">1,028</td>
                                 <td class="col-md-2 col-sm-2 col-xs-2 text-right">0.27%</td>
                                 <td class="col-md-2 hidden-sm hidden-xs"><img width="0" hspace="0" height="12" src="../images/dot_gblue.gif" alt="" /></td>
                             </tr>
