@@ -13,10 +13,10 @@ MN;01;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;143;1.45;9845
 MN;01;;0102;U.S. Senator;;0301;Jason Lewis;;;R;54;54;5761;58.52;9845
 MN;01;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;54;54;3474;35.29;9845
 MN;01;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;54;54;5;0.05;9845
-MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;54;54;456;4.68;9748
-MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;54;54;6062;62.19;9748
-MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;54;54;3227;33.10;9748
-MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;54;54;3;0.03;9748
+MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;54;54;457;4.69;9750
+MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;54;54;6063;62.18;9750
+MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;54;54;3227;33.10;9750
+MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;54;54;3;0.03;9750
 MN;01;;0130;State Senator District 10;10;0301;Carrie Ruud;;;R;54;54;6410;65.97;9716
 MN;01;;0130;State Senator District 10;10;0401;Steve Samuelson;;;DFL;54;54;3299;33.95;9716
 MN;01;;0130;State Senator District 10;10;9901;WRITE-IN;;;WI;54;54;7;0.07;9716
@@ -70,21 +70,21 @@ MN;01;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;54;54;5935
 MN;01;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;54;54;33;0.55;5968
 MN;01;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;54;54;5912;99.38;5949
 MN;01;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;54;54;37;0.62;5949
-MN;02;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;128;128;104902;49.69;211129
-MN;02;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;128;128;100890;47.79;211129
-MN;02;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;128;128;467;0.22;211129
-MN;02;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;128;128;731;0.35;211129
-MN;02;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;128;128;513;0.24;211129
-MN;02;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;128;128;408;0.19;211129
-MN;02;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;128;128;66;0.03;211129
-MN;02;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;128;128;36;0.02;211129
-MN;02;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;128;128;2475;1.17;211129
-MN;02;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;128;128;641;0.30;211129
-MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;128;128;15385;7.44;206800
-MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;128;128;3842;1.86;206800
-MN;02;;0102;U.S. Senator;;0301;Jason Lewis;;;R;128;128;98041;47.41;206800
-MN;02;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;128;128;89414;43.24;206800
-MN;02;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;128;128;118;0.06;206800
+MN;02;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;128;128;104902;49.69;211132
+MN;02;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;128;128;100893;47.79;211132
+MN;02;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;128;128;467;0.22;211132
+MN;02;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;128;128;731;0.35;211132
+MN;02;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;128;128;513;0.24;211132
+MN;02;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;128;128;408;0.19;211132
+MN;02;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;128;128;66;0.03;211132
+MN;02;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;128;128;36;0.02;211132
+MN;02;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;128;128;2475;1.17;211132
+MN;02;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;128;128;641;0.30;211132
+MN;02;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;128;128;15385;7.44;206804
+MN;02;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;128;128;3842;1.86;206804
+MN;02;;0102;U.S. Senator;;0301;Jason Lewis;;;R;128;128;98043;47.41;206804
+MN;02;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;128;128;89416;43.24;206804
+MN;02;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;128;128;118;0.06;206804
 MN;02;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;22;22;16547;47.85;34583
 MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;22;22;17977;51.98;34583
 MN;02;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;22;22;59;0.17;34583
@@ -92,9 +92,9 @@ MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;24;24;3884
 MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;24;24;11214;37.97;29537
 MN;02;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;24;24;14367;48.64;29537
 MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;24;24;72;0.24;29537
-MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;82;82;86809;62.19;139576
-MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;82;82;52628;37.71;139576
-MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;82;82;139;0.10;139576
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;82;82;86809;62.19;139577
+MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;82;82;52629;37.71;139577
+MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;82;82;139;0.10;139577
 MN;02;;0151;State Senator District 31;31;0301;Michelle R. Benson;;;R;22;22;26605;69.45;38306
 MN;02;;0151;State Senator District 31;31;0401;Kate Luthner;;;DFL;22;22;11672;30.47;38306
 MN;02;;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;22;22;29;0.08;38306
@@ -226,11 +226,11 @@ MN;03;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;03;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;4;0.02;19401
 MN;03;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;168;0.87;19401
 MN;03;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;43;0.22;19401
-MN;03;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;1069;5.62;19018
-MN;03;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;297;1.56;19018
-MN;03;;0102;U.S. Senator;;0301;Jason Lewis;;;R;48;48;11273;59.28;19018
-MN;03;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;48;48;6370;33.49;19018
-MN;03;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;48;48;9;0.05;19018
+MN;03;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;1069;5.62;19019
+MN;03;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;297;1.56;19019
+MN;03;;0102;U.S. Senator;;0301;Jason Lewis;;;R;48;48;11274;59.28;19019
+MN;03;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;48;48;6370;33.49;19019
+MN;03;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;48;48;9;0.05;19019
 MN;03;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;48;48;822;4.28;19190
 MN;03;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;48;48;318;1.66;19190
 MN;03;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;48;48;10342;53.89;19190
@@ -393,7 +393,7 @@ MN;04;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;63;63;195;1.21;1
 MN;04;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;63;63;16035;98.76;16237
 MN;04;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;63;63;202;1.24;16237
 MN;05;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;27;27;14382;64.61;22260
-MN;05;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;27;27;7281;32.71;22260
+MN;05;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;27;27;7280;32.70;22260
 MN;05;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;27;27;29;0.13;22260
 MN;05;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;27;27;81;0.36;22260
 MN;05;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;27;27;45;0.20;22260
@@ -401,15 +401,15 @@ MN;05;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard
 MN;05;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;27;27;5;0.02;22260
 MN;05;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;27;27;5;0.02;22260
 MN;05;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;27;27;351;1.58;22260
-MN;05;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;27;41;0.18;22260
-MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;1539;7.07;21770
-MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;465;2.14;21770
-MN;05;;0102;U.S. Senator;;0301;Jason Lewis;;;R;27;27;12914;59.32;21770
-MN;05;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;27;27;6835;31.40;21770
-MN;05;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;27;27;17;0.08;21770
-MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;27;27;15032;69.76;21547
-MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;27;27;6474;30.05;21547
-MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;27;27;41;0.19;21547
+MN;05;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;27;27;42;0.19;22260
+MN;05;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;27;27;1539;7.07;21771
+MN;05;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;465;2.14;21771
+MN;05;;0102;U.S. Senator;;0301;Jason Lewis;;;R;27;27;12915;59.32;21771
+MN;05;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;27;27;6835;31.39;21771
+MN;05;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;27;27;17;0.08;21771
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;27;27;15032;69.76;21548
+MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;27;27;6475;30.05;21548
+MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;27;27;41;0.19;21548
 MN;05;;0133;State Senator District 13;13;0301;Jeff Howe;;;R;8;8;5365;62.95;8523
 MN;05;;0133;State Senator District 13;13;0401;Michael Willemsen;;;DFL;8;8;3142;36.86;8523
 MN;05;;0133;State Senator District 13;13;9901;WRITE-IN;;;WI;8;8;16;0.19;8523
@@ -488,16 +488,16 @@ MN;05;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;27;2
 MN;05;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;27;27;101;0.74;13671
 MN;05;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;27;27;13524;99.30;13620
 MN;05;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;27;27;96;0.70;13620
-MN;06;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;23;1862;62.63;2973
-MN;06;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;23;1053;35.42;2973
-MN;06;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;23;4;0.13;2973
-MN;06;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;23;14;0.47;2973
-MN;06;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;23;14;0.47;2973
-MN;06;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;23;8;0.27;2973
-MN;06;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;23;0;0.00;2973
-MN;06;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;23;0;0.00;2973
-MN;06;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;23;14;0.47;2973
-MN;06;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;23;4;0.13;2973
+MN;06;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;23;1863;62.64;2974
+MN;06;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;23;1053;35.41;2974
+MN;06;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;23;4;0.13;2974
+MN;06;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;23;14;0.47;2974
+MN;06;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;23;14;0.47;2974
+MN;06;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;23;8;0.27;2974
+MN;06;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;23;0;0.00;2974
+MN;06;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;23;0;0.00;2974
+MN;06;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;23;14;0.47;2974
+MN;06;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;23;4;0.13;2974
 MN;06;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;163;5.53;2948
 MN;06;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;39;1.32;2948
 MN;06;;0102;U.S. Senator;;0301;Jason Lewis;;;R;23;23;1637;55.53;2948
@@ -567,10 +567,10 @@ MN;07;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;54;54;871;2.47;35326
 MN;07;;0102;U.S. Senator;;0301;Jason Lewis;;;R;54;54;15040;42.57;35326
 MN;07;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;54;54;16527;46.78;35326
 MN;07;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;54;54;41;0.12;35326
-MN;07;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;54;54;2468;6.98;35341
-MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;54;54;14653;41.46;35341
-MN;07;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;54;54;18188;51.46;35341
-MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;54;54;32;0.09;35341
+MN;07;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;54;54;2468;6.98;35340
+MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;54;54;14653;41.46;35340
+MN;07;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;54;54;18188;51.47;35340
+MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;54;54;31;0.09;35340
 MN;07;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;24;24;9158;37.66;24317
 MN;07;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;24;24;15123;62.19;24317
 MN;07;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;24;24;36;0.15;24317
@@ -760,23 +760,23 @@ MN;09;;8811;Judge - 6th District Court 12;06;9901;WRITE-IN;;;WI;38;38;74;0.54;13
 MN;09;;8813;Judge - 6th District Court 14;06;9001;Rebekka Stumme;;;NP;38;38;13497;99.47;13569
 MN;09;;8813;Judge - 6th District Court 14;06;9901;WRITE-IN;;;WI;38;38;72;0.53;13569
 MN;10;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;35;35;34009;51.25;66361
-MN;10;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;35;35;30773;46.37;66361
+MN;10;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;35;35;30774;46.37;66361
 MN;10;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;35;35;124;0.19;66361
 MN;10;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;35;35;141;0.21;66361
 MN;10;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;35;35;126;0.19;66361
 MN;10;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;35;35;107;0.16;66361
 MN;10;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;35;35;13;0.02;66361
 MN;10;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;35;35;5;0.01;66361
-MN;10;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;35;35;823;1.24;66361
+MN;10;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;35;35;822;1.24;66361
 MN;10;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;35;35;240;0.36;66361
-MN;10;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;3292;5.03;65493
-MN;10;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;928;1.42;65493
-MN;10;;0102;U.S. Senator;;0301;Jason Lewis;;;R;35;35;33621;51.34;65493
-MN;10;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;35;35;27614;42.16;65493
-MN;10;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;35;35;38;0.06;65493
-MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;17;17;21161;52.01;40688
-MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;17;17;19486;47.89;40688
-MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;17;17;41;0.10;40688
+MN;10;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;3292;5.03;65497
+MN;10;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;928;1.42;65497
+MN;10;;0102;U.S. Senator;;0301;Jason Lewis;;;R;35;35;33623;51.34;65497
+MN;10;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;35;35;27616;42.16;65497
+MN;10;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;35;35;38;0.06;65497
+MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;17;17;21162;52.01;40689
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;17;17;19486;47.89;40689
+MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;17;17;41;0.10;40689
 MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;18;18;16590;68.43;24245
 MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;18;18;7625;31.45;24245
 MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;18;18;30;0.12;24245
@@ -839,25 +839,25 @@ MN;10;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;35;35;238;0.63;3
 MN;10;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;35;35;28231;63.37;44551
 MN;10;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;35;35;16190;36.34;44551
 MN;10;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;35;35;130;0.29;44551
-MN;11;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;73;73;11621;63.54;18290
-MN;11;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;73;73;6342;34.67;18290
-MN;11;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;73;73;34;0.19;18290
-MN;11;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;73;73;60;0.33;18290
-MN;11;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;73;73;46;0.25;18290
-MN;11;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;73;73;27;0.15;18290
-MN;11;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;73;73;12;0.07;18290
-MN;11;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;73;73;3;0.02;18290
-MN;11;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;73;73;111;0.61;18290
-MN;11;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;73;73;34;0.19;18290
+MN;11;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;73;73;11620;63.54;18289
+MN;11;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;73;73;6342;34.68;18289
+MN;11;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;73;73;34;0.19;18289
+MN;11;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;73;73;60;0.33;18289
+MN;11;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;73;73;46;0.25;18289
+MN;11;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;73;73;27;0.15;18289
+MN;11;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;73;73;12;0.07;18289
+MN;11;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;73;73;3;0.02;18289
+MN;11;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;73;73;111;0.61;18289
+MN;11;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;73;73;34;0.19;18289
 MN;11;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;73;73;966;5.34;18105
 MN;11;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;73;73;333;1.84;18105
 MN;11;;0102;U.S. Senator;;0301;Jason Lewis;;;R;73;73;10877;60.08;18105
 MN;11;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;73;73;5913;32.66;18105
 MN;11;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;73;73;16;0.09;18105
-MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;73;73;1090;6.05;18008
-MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;73;73;11202;62.21;18008
-MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;73;73;5701;31.66;18008
-MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;73;73;15;0.08;18008
+MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;73;73;1090;6.05;18009
+MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;73;73;11202;62.20;18009
+MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;73;73;5702;31.66;18009
+MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;73;73;15;0.08;18009
 MN;11;;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;54;54;658;5.92;11108
 MN;11;;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;54;54;255;2.30;11108
 MN;11;;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;54;54;6320;56.90;11108
@@ -935,11 +935,11 @@ MN;12;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;12;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;25;2;0.03;6611
 MN;12;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;25;58;0.88;6611
 MN;12;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;25;12;0.18;6611
-MN;12;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;358;5.48;6527
-MN;12;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;90;1.38;6527
-MN;12;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;3807;58.33;6527
-MN;12;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;2269;34.76;6527
-MN;12;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;3;0.05;6527
+MN;12;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;358;5.48;6528
+MN;12;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;90;1.38;6528
+MN;12;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;3807;58.32;6528
+MN;12;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;2270;34.77;6528
+MN;12;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;3;0.05;6528
 MN;12;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;25;25;388;5.91;6562
 MN;12;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;25;25;109;1.66;6562
 MN;12;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;25;25;3169;48.29;6562
@@ -994,25 +994,25 @@ MN;12;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;25;25;5
 MN;12;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;25;25;35;0.67;5232
 MN;12;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;25;25;5120;99.61;5140
 MN;12;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;25;25;20;0.39;5140
-MN;13;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;23;21915;63.40;34564
-MN;13;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;23;11801;34.14;34564
-MN;13;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;23;70;0.20;34564
-MN;13;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;23;111;0.32;34564
-MN;13;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;23;53;0.15;34564
-MN;13;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;23;68;0.20;34564
-MN;13;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;23;8;0.02;34564
-MN;13;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;23;1;0.00;34564
-MN;13;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;23;464;1.34;34564
-MN;13;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;23;73;0.21;34564
-MN;13;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;2340;6.93;33762
-MN;13;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;691;2.05;33762
-MN;13;;0102;U.S. Senator;;0301;Jason Lewis;;;R;23;23;19699;58.35;33762
-MN;13;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;23;23;11012;32.62;33762
-MN;13;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;23;23;20;0.06;33762
-MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;23;23;2381;7.14;33343
-MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;23;23;20591;61.76;33343
-MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;23;23;10343;31.02;33343
-MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;23;23;28;0.08;33343
+MN;13;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;23;23;21916;63.40;34570
+MN;13;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;23;23;11806;34.15;34570
+MN;13;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;23;23;70;0.20;34570
+MN;13;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;23;23;111;0.32;34570
+MN;13;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;23;23;53;0.15;34570
+MN;13;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;23;23;68;0.20;34570
+MN;13;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;23;23;8;0.02;34570
+MN;13;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;23;23;1;0.00;34570
+MN;13;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;23;23;464;1.34;34570
+MN;13;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;23;23;73;0.21;34570
+MN;13;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;23;23;2340;6.93;33766
+MN;13;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;23;23;692;2.05;33766
+MN;13;;0102;U.S. Senator;;0301;Jason Lewis;;;R;23;23;19700;58.34;33766
+MN;13;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;23;23;11014;32.62;33766
+MN;13;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;23;23;20;0.06;33766
+MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;23;23;2383;7.15;33345
+MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;23;23;20591;61.75;33345
+MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;23;23;10343;31.02;33345
+MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;23;23;28;0.08;33345
 MN;13;;0152;State Senator District 32;32;0301;Mark Koran;;;R;20;20;20728;65.77;31517
 MN;13;;0152;State Senator District 32;32;0401;Joshua Fike;;;DFL;20;20;10753;34.12;31517
 MN;13;;0152;State Senator District 32;32;9901;WRITE-IN;;;WI;20;20;36;0.11;31517
@@ -1461,25 +1461,25 @@ MN;18;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;62;62;2523
 MN;18;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;62;62;155;0.61;25394
 MN;18;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;62;62;24950;99.41;25099
 MN;18;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;62;62;149;0.59;25099
-MN;19;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;141;141;109636;41.81;262251
-MN;19;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;141;141;146153;55.73;262251
-MN;19;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;141;141;535;0.20;262251
-MN;19;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;141;141;827;0.32;262251
-MN;19;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;141;141;593;0.23;262251
-MN;19;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;141;141;456;0.17;262251
-MN;19;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;141;141;83;0.03;262251
-MN;19;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;141;141;31;0.01;262251
-MN;19;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;141;141;2957;1.13;262251
-MN;19;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;141;141;980;0.37;262251
-MN;19;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;141;141;15317;5.93;258186
-MN;19;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;141;141;4162;1.61;258186
-MN;19;;0102;U.S. Senator;;0301;Jason Lewis;;;R;141;141;107117;41.49;258186
-MN;19;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;141;141;131394;50.89;258186
-MN;19;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;141;141;196;0.08;258186
-MN;19;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;141;141;14921;5.82;256542
-MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;141;141;109897;42.84;256542
-MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;141;141;131555;51.28;256542
-MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;141;141;169;0.07;256542
+MN;19;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;141;141;109638;41.81;262259
+MN;19;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;141;141;146155;55.73;262259
+MN;19;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;141;141;535;0.20;262259
+MN;19;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;141;141;827;0.32;262259
+MN;19;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;141;141;593;0.23;262259
+MN;19;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;141;141;456;0.17;262259
+MN;19;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;141;141;83;0.03;262259
+MN;19;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;141;141;31;0.01;262259
+MN;19;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;141;141;2957;1.13;262259
+MN;19;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;141;141;984;0.38;262259
+MN;19;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;141;141;15318;5.93;258187
+MN;19;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;141;141;4162;1.61;258187
+MN;19;;0102;U.S. Senator;;0301;Jason Lewis;;;R;141;141;107117;41.49;258187
+MN;19;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;141;141;131394;50.89;258187
+MN;19;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;141;141;196;0.08;258187
+MN;19;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;141;141;14922;5.82;256539
+MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;141;141;109893;42.84;256539
+MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;141;141;131554;51.28;256539
+MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;141;141;170;0.07;256539
 MN;19;;0171;State Senator District 51;51;0301;Douglas D. Willetts;;;R;24;24;19389;38.65;50168
 MN;19;;0171;State Senator District 51;51;0401;Jim Carlson;;;DFL;24;24;30719;61.23;50168
 MN;19;;0171;State Senator District 51;51;9901;WRITE-IN;;;WI;24;24;60;0.12;50168
@@ -1584,25 +1584,25 @@ MN;19;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;141;141;1330;0.8
 MN;19;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;141;141;114770;63.33;181221
 MN;19;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;141;141;65569;36.18;181221
 MN;19;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;141;141;882;0.49;181221
-MN;20;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;22;7782;63.87;12185
-MN;20;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;22;4078;33.47;12185
-MN;20;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;22;27;0.22;12185
-MN;20;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;22;39;0.32;12185
-MN;20;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;22;30;0.25;12185
-MN;20;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;22;26;0.21;12185
-MN;20;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;22;3;0.02;12185
-MN;20;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;3;0.02;12185
-MN;20;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;167;1.37;12185
-MN;20;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;30;0.25;12185
+MN;20;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;22;7783;63.86;12187
+MN;20;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;22;4079;33.47;12187
+MN;20;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;22;27;0.22;12187
+MN;20;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;22;39;0.32;12187
+MN;20;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;22;30;0.25;12187
+MN;20;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;22;26;0.21;12187
+MN;20;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;22;3;0.02;12187
+MN;20;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;3;0.02;12187
+MN;20;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;167;1.37;12187
+MN;20;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;30;0.25;12187
 MN;20;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;806;6.72;11997
 MN;20;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;248;2.07;11997
 MN;20;;0102;U.S. Senator;;0301;Jason Lewis;;;R;22;22;6924;57.71;11997
 MN;20;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;22;22;4013;33.45;11997
 MN;20;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;22;22;6;0.05;11997
-MN;20;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;22;22;839;6.99;11999
-MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;22;22;6796;56.64;11999
-MN;20;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;22;22;4352;36.27;11999
-MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;22;22;12;0.10;11999
+MN;20;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;22;22;839;6.99;12000
+MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;22;22;6797;56.64;12000
+MN;20;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;22;22;4352;36.27;12000
+MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;22;22;12;0.10;12000
 MN;20;;0141;State Senator District 21;21;0301;Michael P. Goggin;;;R;2;2;506;66.32;763
 MN;20;;0141;State Senator District 21;21;0401;Ralph Kaehler;;;DFL;2;2;254;33.29;763
 MN;20;;0141;State Senator District 21;21;9901;WRITE-IN;;;WI;2;2;3;0.39;763
@@ -1680,11 +1680,11 @@ MN;21;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;21;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;37;37;5;0.02;24165
 MN;21;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;37;37;238;0.98;24165
 MN;21;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;37;37;45;0.19;24165
-MN;21;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;1055;4.44;23781
-MN;21;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;321;1.35;23781
-MN;21;;0102;U.S. Senator;;0301;Jason Lewis;;;R;37;37;14775;62.13;23781
-MN;21;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;37;37;7616;32.03;23781
-MN;21;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;37;37;14;0.06;23781
+MN;21;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;37;37;1055;4.44;23782
+MN;21;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;37;37;321;1.35;23782
+MN;21;;0102;U.S. Senator;;0301;Jason Lewis;;;R;37;37;14775;62.13;23782
+MN;21;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;37;37;7617;32.03;23782
+MN;21;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;37;37;14;0.06;23782
 MN;21;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;37;37;865;3.64;23743
 MN;21;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;37;37;357;1.50;23743
 MN;21;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;37;37;13939;58.71;23743
@@ -1965,16 +1965,16 @@ MN;24;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;41;41;
 MN;24;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;41;41;79;0.68;11614
 MN;24;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;41;41;11474;99.32;11552
 MN;24;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;41;41;78;0.68;11552
-MN;25;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;40;40;16052;56.06;28635
-MN;25;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;40;40;11805;41.23;28635
-MN;25;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;40;40;64;0.22;28635
-MN;25;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;40;40;102;0.36;28635
-MN;25;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;40;40;64;0.22;28635
-MN;25;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;40;40;65;0.23;28635
-MN;25;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;40;40;8;0.03;28635
-MN;25;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;40;40;9;0.03;28635
-MN;25;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;397;1.39;28635
-MN;25;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;69;0.24;28635
+MN;25;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;40;40;16052;56.06;28636
+MN;25;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;40;40;11806;41.23;28636
+MN;25;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;40;40;64;0.22;28636
+MN;25;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;40;40;102;0.36;28636
+MN;25;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;40;40;64;0.22;28636
+MN;25;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;40;40;65;0.23;28636
+MN;25;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;40;40;8;0.03;28636
+MN;25;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;40;40;9;0.03;28636
+MN;25;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;397;1.39;28636
+MN;25;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;69;0.24;28636
 MN;25;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;1486;5.24;28357
 MN;25;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;489;1.72;28357
 MN;25;;0102;U.S. Senator;;0301;Jason Lewis;;;R;40;40;15171;53.50;28357
@@ -2107,28 +2107,28 @@ MN;26;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;23;23;2
 MN;26;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;23;23;11;0.40;2722
 MN;26;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;23;23;2640;99.40;2656
 MN;26;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;23;23;16;0.60;2656
-MN;27;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;425;425;205966;27.25;755947
-MN;27;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;425;425;532608;70.46;755947
-MN;27;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;425;425;1038;0.14;755947
-MN;27;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;425;425;2448;0.32;755947
-MN;27;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;425;425;1937;0.26;755947
-MN;27;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;425;425;1025;0.14;755947
-MN;27;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;425;425;448;0.06;755947
-MN;27;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;425;425;164;0.02;755947
-MN;27;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;425;425;7525;1.00;755947
-MN;27;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;425;425;2788;0.37;755947
-MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;425;425;41277;5.56;741775
-MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;425;425;12129;1.64;741775
-MN;27;;0102;U.S. Senator;;0301;Jason Lewis;;;R;425;425;209753;28.28;741775
-MN;27;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;425;425;478120;64.46;741775
-MN;27;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;425;425;496;0.07;741775
-MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;210;210;158910;43.14;368321
-MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;210;210;209198;56.80;368321
-MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;210;210;213;0.06;368321
-MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;213;213;33925;9.25;366828
-MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;213;213;91101;24.83;366828
-MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;213;213;240434;65.54;366828
-MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;213;213;1368;0.37;366828
+MN;27;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;425;425;205973;27.25;755969
+MN;27;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;425;425;532623;70.46;755969
+MN;27;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;425;425;1038;0.14;755969
+MN;27;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;425;425;2448;0.32;755969
+MN;27;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;425;425;1937;0.26;755969
+MN;27;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;425;425;1025;0.14;755969
+MN;27;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;425;425;448;0.06;755969
+MN;27;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;425;425;164;0.02;755969
+MN;27;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;425;425;7526;1.00;755969
+MN;27;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;425;425;2787;0.37;755969
+MN;27;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;425;425;41282;5.57;741791
+MN;27;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;425;425;12130;1.64;741791
+MN;27;;0102;U.S. Senator;;0301;Jason Lewis;;;R;425;425;209754;28.28;741791
+MN;27;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;425;425;478129;64.46;741791
+MN;27;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;425;425;496;0.07;741791
+MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;210;210;158916;43.14;368331
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;210;210;209203;56.80;368331
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;210;210;212;0.06;368331
+MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;213;213;33926;9.25;366832
+MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;213;213;91101;24.83;366832
+MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;213;213;240438;65.54;366832
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;213;213;1367;0.37;366832
 MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;2;2;403;66.39;607
 MN;27;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;2;2;204;33.61;607
 MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;2;2;0;0.00;607
@@ -2385,10 +2385,10 @@ MN;28;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;27;27;243;2.17;11207
 MN;28;;0102;U.S. Senator;;0301;Jason Lewis;;;R;27;27;5778;51.56;11207
 MN;28;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;27;27;4478;39.96;11207
 MN;28;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;27;27;8;0.07;11207
-MN;28;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;27;27;658;5.87;11216
-MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;27;27;5433;48.44;11216
-MN;28;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;27;27;5118;45.63;11216
-MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;27;27;7;0.06;11216
+MN;28;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;27;27;658;5.87;11217
+MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;27;27;5434;48.44;11217
+MN;28;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;27;27;5118;45.63;11217
+MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;27;27;7;0.06;11217
 MN;28;;0148;State Senator District 28;28;0301;Jeremy R. Miller;;;R;27;27;6734;59.95;11233
 MN;28;;0148;State Senator District 28;28;0401;Sarah Kruger;;;DFL;27;27;4484;39.92;11233
 MN;28;;0148;State Senator District 28;28;9901;WRITE-IN;;;WI;27;27;15;0.13;11233
@@ -2530,10 +2530,10 @@ MN;30;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;608;2.55;23824
 MN;30;;0102;U.S. Senator;;0301;Jason Lewis;;;R;19;19;14774;62.01;23824
 MN;30;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;19;19;6751;28.34;23824
 MN;30;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;19;20;0.08;23824
-MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;1894;8.05;23534
-MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;15215;64.65;23534
-MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;6402;27.20;23534
-MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;23;0.10;23534
+MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;1894;8.05;23535
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;15216;64.65;23535
+MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;6402;27.20;23535
+MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;23;0.10;23535
 MN;30;;0151;State Senator District 31;31;0301;Michelle R. Benson;;;R;5;5;4342;73.88;5877
 MN;30;;0151;State Senator District 31;31;0401;Kate Luthner;;;DFL;5;5;1524;25.93;5877
 MN;30;;0151;State Senator District 31;31;9901;WRITE-IN;;;WI;5;5;11;0.19;5877
@@ -2612,25 +2612,25 @@ MN;30;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;19;19
 MN;30;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;19;19;220;1.54;14324
 MN;30;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;19;19;14129;98.47;14348
 MN;30;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;19;19;219;1.53;14348
-MN;31;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;76;76;15239;57.37;26562
-MN;31;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;76;76;10787;40.61;26562
-MN;31;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;76;76;44;0.17;26562
-MN;31;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;76;76;77;0.29;26562
-MN;31;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;76;76;63;0.24;26562
-MN;31;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;76;76;50;0.19;26562
-MN;31;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;76;76;2;0.01;26562
-MN;31;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;76;76;3;0.01;26562
-MN;31;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;76;76;247;0.93;26562
-MN;31;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;76;76;50;0.19;26562
-MN;31;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;76;76;1353;5.16;26236
-MN;31;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;76;76;458;1.75;26236
-MN;31;;0102;U.S. Senator;;0301;Jason Lewis;;;R;76;76;13948;53.16;26236
-MN;31;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;76;76;10463;39.88;26236
-MN;31;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;76;76;14;0.05;26236
-MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;76;76;1255;4.79;26217
-MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;76;76;15400;58.74;26217
-MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;76;76;9545;36.41;26217
-MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;76;76;17;0.06;26217
+MN;31;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;76;76;15239;57.37;26561
+MN;31;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;76;76;10786;40.61;26561
+MN;31;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;76;76;44;0.17;26561
+MN;31;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;76;76;77;0.29;26561
+MN;31;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;76;76;63;0.24;26561
+MN;31;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;76;76;50;0.19;26561
+MN;31;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;76;76;2;0.01;26561
+MN;31;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;76;76;3;0.01;26561
+MN;31;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;76;76;247;0.93;26561
+MN;31;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;76;76;50;0.19;26561
+MN;31;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;76;76;1353;5.16;26237
+MN;31;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;76;76;458;1.75;26237
+MN;31;;0102;U.S. Senator;;0301;Jason Lewis;;;R;76;76;13949;53.17;26237
+MN;31;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;76;76;10463;39.88;26237
+MN;31;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;76;76;14;0.05;26237
+MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;76;76;1255;4.79;26218
+MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;76;76;15402;58.75;26218
+MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;76;76;9544;36.40;26218
+MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;76;76;17;0.06;26218
 MN;31;;0125;State Senator District 5;5;0101;Robyn Smith;;;LMN;54;54;888;4.33;20521
 MN;31;;0125;State Senator District 5;5;0201;Dennis Barsness;;;GLC;54;54;417;2.03;20521
 MN;31;;0125;State Senator District 5;5;0301;Justin Eichorn;;;R;54;54;11932;58.15;20521
@@ -2947,11 +2947,11 @@ MN;35;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;39;39;32;1.23;2597
 MN;35;;0102;U.S. Senator;;0301;Jason Lewis;;;R;39;39;1350;51.98;2597
 MN;35;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;39;39;1116;42.97;2597
 MN;35;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;39;39;1;0.04;2597
-MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;39;39;71;2.72;2606
-MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;39;39;41;1.57;2606
-MN;35;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;39;39;1092;41.90;2606
-MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;39;39;1398;53.65;2606
-MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;39;39;4;0.15;2606
+MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;39;39;71;2.72;2607
+MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;39;39;41;1.57;2607
+MN;35;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;39;39;1093;41.93;2607
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;39;39;1398;53.62;2607
+MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;39;39;4;0.15;2607
 MN;35;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;39;39;1648;64.15;2569
 MN;35;;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;39;39;918;35.73;2569
 MN;35;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;39;39;3;0.12;2569
@@ -3075,21 +3075,21 @@ MN;36;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;22;22;4802
 MN;36;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;22;22;29;0.60;4831
 MN;36;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;22;22;4802;99.38;4832
 MN;36;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;22;22;30;0.62;4832
-MN;37;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;29;29;2528;62.59;4039
-MN;37;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;29;29;1445;35.78;4039
-MN;37;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;29;29;4;0.10;4039
-MN;37;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;29;29;7;0.17;4039
-MN;37;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;29;29;13;0.32;4039
-MN;37;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;29;29;14;0.35;4039
-MN;37;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;29;29;0;0.00;4039
-MN;37;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;29;29;1;0.02;4039
-MN;37;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;29;29;20;0.50;4039
-MN;37;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;29;29;7;0.17;4039
-MN;37;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;139;3.49;3982
-MN;37;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;52;1.31;3982
-MN;37;;0102;U.S. Senator;;0301;Jason Lewis;;;R;29;29;2313;58.09;3982
-MN;37;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;29;29;1477;37.09;3982
-MN;37;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;29;29;1;0.03;3982
+MN;37;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;29;29;2528;62.57;4040
+MN;37;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;29;29;1446;35.79;4040
+MN;37;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;29;29;4;0.10;4040
+MN;37;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;29;29;7;0.17;4040
+MN;37;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;29;29;13;0.32;4040
+MN;37;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;29;29;14;0.35;4040
+MN;37;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;29;29;0;0.00;4040
+MN;37;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;29;29;1;0.02;4040
+MN;37;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;29;29;20;0.50;4040
+MN;37;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;29;29;7;0.17;4040
+MN;37;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;139;3.49;3983
+MN;37;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;52;1.31;3983
+MN;37;;0102;U.S. Senator;;0301;Jason Lewis;;;R;29;29;2314;58.10;3983
+MN;37;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;29;29;1477;37.08;3983
+MN;37;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;29;29;1;0.03;3983
 MN;37;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;29;29;154;3.88;3974
 MN;37;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;29;29;63;1.59;3974
 MN;37;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;29;29;1905;47.94;3974
@@ -3153,10 +3153,10 @@ MN;38;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;144;2.02;7120
 MN;38;;0102;U.S. Senator;;0301;Jason Lewis;;;R;19;19;3155;44.31;7120
 MN;38;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;19;19;3485;48.95;7120
 MN;38;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;19;4;0.06;7120
-MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;314;4.40;7137
-MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;3547;49.70;7137
-MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;3274;45.87;7137
-MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;2;0.03;7137
+MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;19;19;314;4.40;7138
+MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;19;19;3548;49.71;7138
+MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;19;19;3274;45.87;7138
+MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;19;19;2;0.03;7138
 MN;38;;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;19;19;3107;44.17;7034
 MN;38;;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;19;19;3924;55.79;7034
 MN;38;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;19;19;3;0.04;7034
@@ -3279,25 +3279,25 @@ MN;39;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;17;17;1595
 MN;39;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;17;17;12;0.75;1607
 MN;39;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;17;17;1602;99.26;1614
 MN;39;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;17;17;12;0.74;1614
-MN;40;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;26;26;10775;64.08;16816
-MN;40;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;26;26;5671;33.72;16816
-MN;40;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;26;26;35;0.21;16816
-MN;40;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;26;26;42;0.25;16816
-MN;40;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;26;26;42;0.25;16816
-MN;40;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;26;26;36;0.21;16816
-MN;40;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;26;26;1;0.01;16816
-MN;40;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;4;0.02;16816
-MN;40;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;169;1.00;16816
-MN;40;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;41;0.24;16816
+MN;40;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;26;26;10775;64.07;16818
+MN;40;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;26;26;5672;33.73;16818
+MN;40;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;26;26;35;0.21;16818
+MN;40;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;26;26;42;0.25;16818
+MN;40;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;26;26;42;0.25;16818
+MN;40;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;26;26;36;0.21;16818
+MN;40;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;26;26;1;0.01;16818
+MN;40;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;4;0.02;16818
+MN;40;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;169;1.00;16818
+MN;40;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;42;0.25;16818
 MN;40;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;969;5.87;16497
 MN;40;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;297;1.80;16497
 MN;40;;0102;U.S. Senator;;0301;Jason Lewis;;;R;26;26;9825;59.56;16497
 MN;40;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;26;26;5401;32.74;16497
 MN;40;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;26;26;5;0.03;16497
-MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;26;26;944;5.70;16574
-MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;26;26;9550;57.62;16574
-MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;26;26;6070;36.62;16574
-MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;26;26;10;0.06;16574
+MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;26;26;944;5.69;16576
+MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;26;26;9551;57.62;16576
+MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;26;26;6071;36.63;16576
+MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;26;26;10;0.06;16576
 MN;40;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;3;3;337;50.98;661
 MN;40;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;3;3;323;48.87;661
 MN;40;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;3;3;1;0.15;661
@@ -3430,26 +3430,26 @@ MN;41;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;20;20;2
 MN;41;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;20;20;15;0.59;2541
 MN;41;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;20;20;2521;99.41;2536
 MN;41;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;20;20;15;0.59;2536
-MN;42;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;7979;61.91;12889
-MN;42;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;4630;35.92;12889
-MN;42;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;24;0.19;12889
-MN;42;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;28;0.22;12889
-MN;42;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;31;0.24;12889
-MN;42;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;21;0.16;12889
-MN;42;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;4;0.03;12889
-MN;42;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;3;0.02;12889
-MN;42;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;140;1.09;12889
-MN;42;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;29;0.22;12889
-MN;42;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;667;5.24;12738
-MN;42;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;195;1.53;12738
-MN;42;;0102;U.S. Senator;;0301;Jason Lewis;;;R;33;33;7401;58.10;12738
-MN;42;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;33;33;4461;35.02;12738
-MN;42;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;33;33;14;0.11;12738
-MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;647;5.10;12691
-MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;210;1.65;12691
-MN;42;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;33;33;6860;54.05;12691
-MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;4957;39.06;12691
-MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;17;0.13;12691
+MN;42;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;7979;61.89;12893
+MN;42;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;4634;35.94;12893
+MN;42;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;24;0.19;12893
+MN;42;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;28;0.22;12893
+MN;42;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;31;0.24;12893
+MN;42;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;21;0.16;12893
+MN;42;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;4;0.03;12893
+MN;42;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;3;0.02;12893
+MN;42;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;140;1.09;12893
+MN;42;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;29;0.22;12893
+MN;42;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;668;5.24;12742
+MN;42;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;195;1.53;12742
+MN;42;;0102;U.S. Senator;;0301;Jason Lewis;;;R;33;33;7401;58.08;12742
+MN;42;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;33;33;4464;35.03;12742
+MN;42;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;33;33;14;0.11;12742
+MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;648;5.10;12696
+MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;212;1.67;12696
+MN;42;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;33;33;6861;54.04;12696
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;4958;39.05;12696
+MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;17;0.13;12696
 MN;42;;0136;State Senator District 16;16;0101;Steve "Stoney" Preslicka;;;LMN;20;20;1291;13.26;9739
 MN;42;;0136;State Senator District 16;16;0301;Gary Dahms;;;R;20;20;6843;70.26;9739
 MN;42;;0136;State Senator District 16;16;0501;Joshua Prine;;;IA;20;20;1566;16.08;9739
@@ -3515,11 +3515,11 @@ MN;43;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;43;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;28;28;9;0.04;20933
 MN;43;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;28;28;292;1.39;20933
 MN;43;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;28;28;45;0.21;20933
-MN;43;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;1222;5.93;20623
-MN;43;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;393;1.91;20623
-MN;43;;0102;U.S. Senator;;0301;Jason Lewis;;;R;28;28;12875;62.43;20623
-MN;43;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;28;28;6114;29.65;20623
-MN;43;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;28;28;19;0.09;20623
+MN;43;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;1223;5.93;20624
+MN;43;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;393;1.91;20624
+MN;43;;0102;U.S. Senator;;0301;Jason Lewis;;;R;28;28;12875;62.43;20624
+MN;43;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;28;28;6114;29.65;20624
+MN;43;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;28;28;19;0.09;20624
 MN;43;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;28;28;1234;6.02;20515
 MN;43;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;28;28;491;2.39;20515
 MN;43;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;28;28;12073;58.85;20515
@@ -3595,11 +3595,11 @@ MN;44;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;19;19;48;2.12;2266
 MN;44;;0102;U.S. Senator;;0301;Jason Lewis;;;R;19;19;1007;44.44;2266
 MN;44;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;19;19;1039;45.85;2266
 MN;44;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;19;19;3;0.13;2266
-MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;19;19;157;6.93;2266
-MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;19;19;48;2.12;2266
-MN;44;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;19;19;873;38.53;2266
-MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;19;19;1186;52.34;2266
-MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;19;19;2;0.09;2266
+MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;19;19;157;6.93;2267
+MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;19;19;48;2.12;2267
+MN;44;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;19;19;873;38.51;2267
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;19;19;1187;52.36;2267
+MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;19;19;2;0.09;2267
 MN;44;;0122;State Senator District 2;2;0301;Paul Utke;;;R;19;19;1314;58.53;2245
 MN;44;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;19;19;922;41.07;2245
 MN;44;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;19;19;9;0.40;2245
@@ -3793,21 +3793,21 @@ MN;46;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;37;37;8
 MN;46;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;37;37;62;0.74;8424
 MN;46;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;37;37;8261;99.40;8311
 MN;46;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;37;37;50;0.60;8311
-MN;47;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;9358;69.18;13528
-MN;47;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;3867;28.59;13528
-MN;47;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;30;0.22;13528
-MN;47;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;30;41;0.30;13528
-MN;47;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;30;45;0.33;13528
-MN;47;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;30;31;0.23;13528
-MN;47;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;30;2;0.01;13528
-MN;47;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;0;0.00;13528
-MN;47;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;122;0.90;13528
-MN;47;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;32;0.24;13528
-MN;47;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;663;4.96;13354
-MN;47;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;221;1.65;13354
-MN;47;;0102;U.S. Senator;;0301;Jason Lewis;;;R;30;30;8575;64.21;13354
-MN;47;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;30;30;3888;29.11;13354
-MN;47;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;30;30;7;0.05;13354
+MN;47;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;9359;69.18;13529
+MN;47;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;3867;28.58;13529
+MN;47;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;30;0.22;13529
+MN;47;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;30;41;0.30;13529
+MN;47;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;30;45;0.33;13529
+MN;47;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;30;31;0.23;13529
+MN;47;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;30;2;0.01;13529
+MN;47;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;0;0.00;13529
+MN;47;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;122;0.90;13529
+MN;47;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;32;0.24;13529
+MN;47;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;664;4.97;13356
+MN;47;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;221;1.65;13356
+MN;47;;0102;U.S. Senator;;0301;Jason Lewis;;;R;30;30;8575;64.20;13356
+MN;47;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;30;30;3889;29.12;13356
+MN;47;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;30;30;7;0.05;13356
 MN;47;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;656;4.93;13310
 MN;47;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;262;1.97;13310
 MN;47;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;30;30;8055;60.52;13310
@@ -3855,8 +3855,8 @@ MN;47;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;30;30;1
 MN;47;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;30;30;39;0.39;10074
 MN;47;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;30;30;10001;99.55;10046
 MN;47;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;30;30;45;0.45;10046
-MN;48;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;25;9953;67.76;14689
-MN;48;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;25;4403;29.97;14689
+MN;48;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;25;25;9952;67.75;14689
+MN;48;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;25;25;4404;29.98;14689
 MN;48;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;25;25;28;0.19;14689
 MN;48;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;25;25;31;0.21;14689
 MN;48;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;25;25;36;0.25;14689
@@ -3865,15 +3865,15 @@ MN;48;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;48;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;25;5;0.03;14689
 MN;48;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;25;181;1.23;14689
 MN;48;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;25;23;0.16;14689
-MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;1025;7.14;14346
-MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;334;2.33;14346
-MN;48;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;8849;61.68;14346
-MN;48;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;4123;28.74;14346
-MN;48;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;15;0.10;14346
-MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;1090;7.60;14350
-MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9304;64.84;14350
-MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.50;14350
-MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;10;0.07;14350
+MN;48;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;1025;7.14;14348
+MN;48;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;334;2.33;14348
+MN;48;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;8851;61.69;14348
+MN;48;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;4123;28.74;14348
+MN;48;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;15;0.10;14348
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;25;25;1090;7.60;14348
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;25;25;9302;64.83;14348
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;25;25;3946;27.50;14348
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;25;25;10;0.07;14348
 MN;48;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;25;25;9650;68.13;14164
 MN;48;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;25;25;4497;31.75;14164
 MN;48;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;25;25;17;0.12;14164
@@ -3939,25 +3939,25 @@ MN;48;;8927;Judge - 7th District Court 28;07;9001;Antoinette C. Wetzel;;;NP;25;2
 MN;48;;8927;Judge - 7th District Court 28;07;9901;WRITE-IN;;;WI;25;25;75;0.86;8686
 MN;48;;8929;Judge - 7th District Court 30;07;9001;Jade M. Rosenfeldt;;;NP;25;25;8621;99.17;8693
 MN;48;;8929;Judge - 7th District Court 30;07;9901;WRITE-IN;;;WI;25;25;72;0.83;8693
-MN;49;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;14819;75.78;19556
-MN;49;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;4367;22.33;19556
-MN;49;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;34;0.17;19556
-MN;49;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;48;48;52;0.27;19556
-MN;49;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;48;48;28;0.14;19556
-MN;49;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;48;48;44;0.22;19556
-MN;49;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;48;48;3;0.02;19556
-MN;49;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;3;0.02;19556
-MN;49;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;173;0.88;19556
-MN;49;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;33;0.17;19556
-MN;49;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;1012;5.29;19143
-MN;49;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;307;1.60;19143
-MN;49;;0102;U.S. Senator;;0301;Jason Lewis;;;R;48;48;13365;69.82;19143
-MN;49;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;48;48;4452;23.26;19143
-MN;49;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;48;48;7;0.04;19143
-MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;48;48;965;5.08;18978
-MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;48;48;13924;73.37;18978
-MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;48;48;4083;21.51;18978
-MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;48;48;6;0.03;18978
+MN;49;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;48;48;14821;75.78;19558
+MN;49;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;48;48;4367;22.33;19558
+MN;49;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;48;48;34;0.17;19558
+MN;49;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;48;48;52;0.27;19558
+MN;49;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;48;48;28;0.14;19558
+MN;49;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;48;48;44;0.22;19558
+MN;49;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;48;48;3;0.02;19558
+MN;49;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;48;48;3;0.02;19558
+MN;49;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;48;48;173;0.88;19558
+MN;49;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;48;48;33;0.17;19558
+MN;49;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;48;48;1012;5.29;19146
+MN;49;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;48;48;307;1.60;19146
+MN;49;;0102;U.S. Senator;;0301;Jason Lewis;;;R;48;48;13368;69.82;19146
+MN;49;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;48;48;4452;23.25;19146
+MN;49;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;48;48;7;0.04;19146
+MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;48;48;965;5.08;18981
+MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;48;48;13927;73.37;18981
+MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;48;48;4083;21.51;18981
+MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;48;48;6;0.03;18981
 MN;49;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;46;46;14402;78.09;18443
 MN;49;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;46;46;4028;21.84;18443
 MN;49;;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;46;46;13;0.07;18443
@@ -4039,8 +4039,8 @@ MN;50;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jar
 MN;50;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;177;0.91;19345
 MN;50;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;44;0.23;19345
 MN;50;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;1380;7.32;18859
-MN;50;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;384;2.04;18859
-MN;50;;0102;U.S. Senator;;0301;Jason Lewis;;;R;40;40;8616;45.69;18859
+MN;50;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;385;2.04;18859
+MN;50;;0102;U.S. Senator;;0301;Jason Lewis;;;R;40;40;8615;45.68;18859
 MN;50;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;40;40;8472;44.92;18859
 MN;50;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;40;40;7;0.04;18859
 MN;50;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;40;40;1269;6.64;19114
@@ -4106,11 +4106,11 @@ MN;51;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;51;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;29;29;2;0.04;4896
 MN;51;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;29;29;32;0.65;4896
 MN;51;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;29;29;13;0.27;4896
-MN;51;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;220;4.58;4802
-MN;51;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;52;1.08;4802
-MN;51;;0102;U.S. Senator;;0301;Jason Lewis;;;R;29;29;3081;64.16;4802
-MN;51;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;29;29;1448;30.15;4802
-MN;51;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;29;29;1;0.02;4802
+MN;51;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;29;29;221;4.60;4803
+MN;51;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;29;29;52;1.08;4803
+MN;51;;0102;U.S. Senator;;0301;Jason Lewis;;;R;29;29;3081;64.15;4803
+MN;51;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;29;29;1448;30.15;4803
+MN;51;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;29;29;1;0.02;4803
 MN;51;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;29;29;215;4.44;4843
 MN;51;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;29;29;59;1.22;4843
 MN;51;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;29;29;2833;58.50;4843
@@ -4162,25 +4162,25 @@ MN;51;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;29;29;3
 MN;51;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;29;29;13;0.36;3592
 MN;51;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;29;29;3570;99.69;3581
 MN;51;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;29;29;11;0.31;3581
-MN;52;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;28;28;9018;47.16;19124
-MN;52;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;28;28;9622;50.31;19124
-MN;52;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;28;28;37;0.19;19124
-MN;52;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;28;28;78;0.41;19124
-MN;52;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;28;28;42;0.22;19124
-MN;52;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;28;28;40;0.21;19124
-MN;52;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;28;28;4;0.02;19124
-MN;52;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;28;28;7;0.04;19124
-MN;52;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;28;28;222;1.16;19124
-MN;52;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;28;28;54;0.28;19124
+MN;52;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;28;28;9018;47.15;19125
+MN;52;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;28;28;9622;50.31;19125
+MN;52;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;28;28;37;0.19;19125
+MN;52;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;28;28;78;0.41;19125
+MN;52;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;28;28;43;0.22;19125
+MN;52;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;28;28;40;0.21;19125
+MN;52;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;28;28;4;0.02;19125
+MN;52;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;28;28;7;0.04;19125
+MN;52;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;28;28;222;1.16;19125
+MN;52;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;28;28;54;0.28;19125
 MN;52;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;28;28;1062;5.63;18876
 MN;52;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;28;28;412;2.18;18876
 MN;52;;0102;U.S. Senator;;0301;Jason Lewis;;;R;28;28;8397;44.49;18876
 MN;52;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;28;28;8992;47.64;18876
 MN;52;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;28;28;13;0.07;18876
-MN;52;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;28;28;1017;5.38;18897
-MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;28;28;7947;42.05;18897
-MN;52;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;28;28;9914;52.46;18897
-MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;28;28;19;0.10;18897
+MN;52;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;28;28;1018;5.39;18898
+MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;28;28;7947;42.05;18898
+MN;52;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;28;28;9914;52.46;18898
+MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;28;28;19;0.10;18898
 MN;52;;0139;State Senator District 19;19;0301;Elizabeth Bangert;;;R;28;28;8009;42.69;18763
 MN;52;;0139;State Senator District 19;19;0401;Nick Frentz;;;DFL;28;28;10719;57.13;18763
 MN;52;;0139;State Senator District 19;19;9901;WRITE-IN;;;WI;28;28;35;0.19;18763
@@ -4297,26 +4297,26 @@ MN;53;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;40;40;5
 MN;53;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;40;40;19;0.32;5957
 MN;53;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;40;40;5911;99.66;5931
 MN;53;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;40;40;20;0.34;5931
-MN;54;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;1954;56.77;3442
-MN;54;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;1404;40.79;3442
-MN;54;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;8;0.23;3442
-MN;54;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;10;0.29;3442
-MN;54;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;6;0.17;3442
-MN;54;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;18;0.52;3442
-MN;54;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;0;0.00;3442
-MN;54;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;3;0.09;3442
-MN;54;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;31;0.90;3442
-MN;54;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;8;0.23;3442
-MN;54;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;193;5.75;3358
-MN;54;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;48;1.43;3358
-MN;54;;0102;U.S. Senator;;0301;Jason Lewis;;;R;33;33;1618;48.18;3358
-MN;54;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;33;33;1497;44.58;3358
-MN;54;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;33;33;2;0.06;3358
-MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;153;4.50;3397
-MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;47;1.38;3397
-MN;54;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;33;33;1269;37.36;3397
-MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;1923;56.61;3397
-MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;5;0.15;3397
+MN;54;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;33;33;1953;56.76;3441
+MN;54;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;33;33;1404;40.80;3441
+MN;54;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;33;33;8;0.23;3441
+MN;54;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;33;33;10;0.29;3441
+MN;54;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;33;33;6;0.17;3441
+MN;54;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;33;33;18;0.52;3441
+MN;54;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;33;33;0;0.00;3441
+MN;54;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;33;33;3;0.09;3441
+MN;54;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;33;33;31;0.90;3441
+MN;54;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;33;33;8;0.23;3441
+MN;54;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;33;33;193;5.75;3357
+MN;54;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;33;33;48;1.43;3357
+MN;54;;0102;U.S. Senator;;0301;Jason Lewis;;;R;33;33;1617;48.17;3357
+MN;54;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;33;33;1497;44.59;3357
+MN;54;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;33;33;2;0.06;3357
+MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;33;33;153;4.51;3396
+MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;33;33;47;1.38;3396
+MN;54;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;33;33;1269;37.37;3396
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;33;33;1922;56.60;3396
+MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;33;33;5;0.15;3396
 MN;54;;0124;State Senator District 4;4;0301;Mark Larson;;;R;33;33;1273;37.55;3390
 MN;54;;0124;State Senator District 4;4;0401;Kent Eken;;;DFL;33;33;2116;62.42;3390
 MN;54;;0124;State Senator District 4;4;9901;WRITE-IN;;;WI;33;33;1;0.03;3390
@@ -4371,7 +4371,7 @@ MN;54;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;33;33;5;0.20;246
 MN;54;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;33;33;2471;99.56;2482
 MN;54;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;33;33;11;0.44;2482
 MN;55;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;84;84;39692;43.43;91385
-MN;55;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;84;84;49492;54.16;91385
+MN;55;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;84;84;49491;54.16;91385
 MN;55;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;84;84;159;0.17;91385
 MN;55;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;84;84;263;0.29;91385
 MN;55;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;84;84;188;0.21;91385
@@ -4379,12 +4379,12 @@ MN;55;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard
 MN;55;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;84;84;14;0.02;91385
 MN;55;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;84;84;11;0.01;91385
 MN;55;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;84;84;1078;1.18;91385
-MN;55;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;84;84;299;0.33;91385
-MN;55;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;84;84;4731;5.32;88908
-MN;55;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;84;84;1604;1.80;88908
-MN;55;;0102;U.S. Senator;;0301;Jason Lewis;;;R;84;84;36972;41.58;88908
-MN;55;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;84;84;45542;51.22;88908
-MN;55;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;84;84;59;0.07;88908
+MN;55;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;84;84;300;0.33;91385
+MN;55;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;84;84;4730;5.32;88909
+MN;55;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;84;84;1604;1.80;88909
+MN;55;;0102;U.S. Senator;;0301;Jason Lewis;;;R;84;84;36972;41.58;88909
+MN;55;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;84;84;45543;51.22;88909
+MN;55;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;84;84;60;0.07;88909
 MN;55;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;84;84;4461;4.97;89757
 MN;55;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;84;84;36460;40.62;89757
 MN;55;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;84;84;48759;54.32;89757
@@ -4449,26 +4449,26 @@ MN;55;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;84;84;
 MN;55;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;84;84;458;0.82;56122
 MN;55;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;84;84;54471;99.26;54879
 MN;55;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;84;84;408;0.74;54879
-MN;56;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;92;92;23800;65.39;36398
-MN;56;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;92;92;11958;32.85;36398
-MN;56;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;92;92;51;0.14;36398
-MN;56;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;92;92;76;0.21;36398
-MN;56;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;92;92;90;0.25;36398
-MN;56;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;92;92;73;0.20;36398
-MN;56;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;92;92;3;0.01;36398
-MN;56;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;92;92;3;0.01;36398
-MN;56;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;92;92;256;0.70;36398
-MN;56;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;92;92;88;0.24;36398
-MN;56;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;92;92;1816;5.07;35811
-MN;56;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;92;92;510;1.42;35811
-MN;56;;0102;U.S. Senator;;0301;Jason Lewis;;;R;92;92;21738;60.70;35811
-MN;56;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;92;92;11728;32.75;35811
-MN;56;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;92;92;19;0.05;35811
-MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;92;92;1492;4.16;35859
-MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;92;92;595;1.66;35859
-MN;56;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;92;92;20046;55.90;35859
-MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;92;92;13693;38.19;35859
-MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;92;92;33;0.09;35859
+MN;56;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;92;92;23800;65.39;36399
+MN;56;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;92;92;11958;32.85;36399
+MN;56;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;92;92;51;0.14;36399
+MN;56;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;92;92;76;0.21;36399
+MN;56;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;92;92;90;0.25;36399
+MN;56;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;92;92;73;0.20;36399
+MN;56;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;92;92;3;0.01;36399
+MN;56;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;92;92;3;0.01;36399
+MN;56;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;92;92;257;0.71;36399
+MN;56;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;92;92;88;0.24;36399
+MN;56;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;92;92;1817;5.07;35812
+MN;56;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;92;92;510;1.42;35812
+MN;56;;0102;U.S. Senator;;0301;Jason Lewis;;;R;92;92;21738;60.70;35812
+MN;56;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;92;92;11728;32.75;35812
+MN;56;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;92;92;19;0.05;35812
+MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;92;92;1493;4.16;35860
+MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;92;92;595;1.66;35860
+MN;56;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;92;92;20046;55.90;35860
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;92;92;13693;38.18;35860
+MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;92;92;33;0.09;35860
 MN;56;;0122;State Senator District 2;2;0301;Paul Utke;;;R;3;3;593;80.57;736
 MN;56;;0122;State Senator District 2;2;0401;Leonard Alan Roy;;;DFL;3;3;143;19.43;736
 MN;56;;0122;State Senator District 2;2;9901;WRITE-IN;;;WI;3;3;0;0.00;736
@@ -4558,16 +4558,16 @@ MN;57;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;57;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;31;31;3;0.04;7277
 MN;57;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;31;31;103;1.42;7277
 MN;57;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;31;31;14;0.19;7277
-MN;57;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;566;7.87;7196
-MN;57;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;133;1.85;7196
-MN;57;;0102;U.S. Senator;;0301;Jason Lewis;;;R;31;31;3919;54.46;7196
-MN;57;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;31;31;2573;35.76;7196
-MN;57;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;31;31;5;0.07;7196
-MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;31;31;420;5.83;7199
-MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;31;31;128;1.78;7199
-MN;57;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;31;31;3514;48.81;7199
-MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;31;31;3129;43.46;7199
-MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;31;31;8;0.11;7199
+MN;57;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;566;7.86;7197
+MN;57;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;133;1.85;7197
+MN;57;;0102;U.S. Senator;;0301;Jason Lewis;;;R;31;31;3919;54.45;7197
+MN;57;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;31;31;2574;35.76;7197
+MN;57;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;31;31;5;0.07;7197
+MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;31;31;421;5.85;7200
+MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;31;31;128;1.78;7200
+MN;57;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;31;31;3514;48.81;7200
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;31;31;3129;43.46;7200
+MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;31;31;8;0.11;7200
 MN;57;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;31;31;4728;66.07;7156
 MN;57;;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;31;31;2419;33.80;7156
 MN;57;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;31;31;9;0.13;7156
@@ -4719,16 +4719,16 @@ MN;58;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;48;48
 MN;58;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;48;48;65;0.70;9235
 MN;58;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;48;48;9189;99.34;9250
 MN;58;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;48;48;61;0.66;9250
-MN;59;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;22;3553;71.91;4941
-MN;59;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;22;1306;26.43;4941
-MN;59;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;22;11;0.22;4941
-MN;59;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;22;12;0.24;4941
-MN;59;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;22;15;0.30;4941
-MN;59;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;22;9;0.18;4941
-MN;59;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;22;0;0.00;4941
-MN;59;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;1;0.02;4941
-MN;59;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;25;0.51;4941
-MN;59;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;9;0.18;4941
+MN;59;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;22;22;3553;71.92;4940
+MN;59;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;22;22;1306;26.44;4940
+MN;59;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;22;22;11;0.22;4940
+MN;59;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;22;22;12;0.24;4940
+MN;59;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;22;22;15;0.30;4940
+MN;59;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;22;22;9;0.18;4940
+MN;59;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;22;22;0;0.00;4940
+MN;59;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;22;22;1;0.02;4940
+MN;59;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;22;22;25;0.51;4940
+MN;59;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;22;22;8;0.16;4940
 MN;59;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;22;22;264;5.43;4862
 MN;59;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;22;22;71;1.46;4862
 MN;59;;0102;U.S. Senator;;0301;Jason Lewis;;;R;22;22;3324;68.37;4862
@@ -4787,26 +4787,26 @@ MN;59;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;22;22;3
 MN;59;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;22;22;18;0.48;3716
 MN;59;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;22;22;3703;99.52;3721
 MN;59;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;22;22;18;0.48;3721
-MN;60;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;82;82;9864;63.26;15593
-MN;60;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;82;82;5439;34.88;15593
-MN;60;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;82;82;28;0.18;15593
-MN;60;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;82;82;29;0.19;15593
-MN;60;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;82;82;39;0.25;15593
-MN;60;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;82;82;36;0.23;15593
-MN;60;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;82;82;5;0.03;15593
-MN;60;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;82;82;4;0.03;15593
-MN;60;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;82;82;123;0.79;15593
-MN;60;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;82;82;26;0.17;15593
+MN;60;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;82;82;9865;63.26;15594
+MN;60;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;82;82;5439;34.88;15594
+MN;60;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;82;82;28;0.18;15594
+MN;60;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;82;82;29;0.19;15594
+MN;60;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;82;82;39;0.25;15594
+MN;60;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;82;82;36;0.23;15594
+MN;60;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;82;82;5;0.03;15594
+MN;60;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;82;82;4;0.03;15594
+MN;60;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;82;82;123;0.79;15594
+MN;60;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;82;82;26;0.17;15594
 MN;60;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;82;82;917;5.99;15299
 MN;60;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;82;82;236;1.54;15299
 MN;60;;0102;U.S. Senator;;0301;Jason Lewis;;;R;82;82;8559;55.94;15299
 MN;60;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;82;82;5577;36.45;15299
 MN;60;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;82;82;10;0.07;15299
-MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;82;82;677;4.41;15347
-MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;82;82;246;1.60;15347
-MN;60;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;82;82;7595;49.49;15347
-MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;82;82;6823;44.46;15347
-MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;82;82;6;0.04;15347
+MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;82;82;679;4.42;15350
+MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;82;82;246;1.60;15350
+MN;60;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;82;82;7596;49.49;15350
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;82;82;6823;44.45;15350
+MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;82;82;6;0.04;15350
 MN;60;;0121;State Senator District 1;1;0301;Mark Johnson;;;R;82;82;10058;66.80;15056
 MN;60;;0121;State Senator District 1;1;0401;Reed Perkins;;;DFL;82;82;4987;33.12;15056
 MN;60;;0121;State Senator District 1;1;9901;WRITE-IN;;;WI;82;82;11;0.07;15056
@@ -4927,25 +4927,25 @@ MN;61;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;31;31;5
 MN;61;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;31;31;19;0.37;5117
 MN;61;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;31;31;5061;99.39;5092
 MN;61;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;31;31;31;0.61;5092
-MN;62;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;169;169;77381;26.14;295990
-MN;62;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;169;169;211628;71.50;295990
-MN;62;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;169;169;422;0.14;295990
-MN;62;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;169;169;1062;0.36;295990
-MN;62;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;169;169;793;0.27;295990
-MN;62;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;169;169;428;0.14;295990
-MN;62;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;169;169;182;0.06;295990
-MN;62;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;169;169;88;0.03;295990
-MN;62;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;169;169;2865;0.97;295990
-MN;62;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;169;169;1141;0.39;295990
-MN;62;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;169;169;19087;6.63;288005
-MN;62;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;169;169;6160;2.14;288005
-MN;62;;0102;U.S. Senator;;0301;Jason Lewis;;;R;169;169;73641;25.57;288005
-MN;62;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;169;169;188793;65.55;288005
-MN;62;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;169;169;324;0.11;288005
-MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;168;168;23157;8.23;281225
-MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;168;168;68966;24.52;281225
-MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;168;168;188305;66.96;281225
-MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;168;168;797;0.28;281225
+MN;62;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;169;169;77376;26.14;295977
+MN;62;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;169;169;211620;71.50;295977
+MN;62;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;169;169;422;0.14;295977
+MN;62;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;169;169;1062;0.36;295977
+MN;62;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;169;169;793;0.27;295977
+MN;62;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;169;169;428;0.14;295977
+MN;62;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;169;169;182;0.06;295977
+MN;62;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;169;169;88;0.03;295977
+MN;62;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;169;169;2865;0.97;295977
+MN;62;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;169;169;1141;0.39;295977
+MN;62;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;169;169;19087;6.63;287991
+MN;62;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;169;169;6158;2.14;287991
+MN;62;;0102;U.S. Senator;;0301;Jason Lewis;;;R;169;169;73638;25.57;287991
+MN;62;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;169;169;188784;65.55;287991
+MN;62;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;169;169;324;0.11;287991
+MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;168;168;23155;8.23;281214
+MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;168;168;68963;24.52;281214
+MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;168;168;188299;66.96;281214
+MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;168;168;797;0.28;281214
 MN;62;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;1;1;169;9.09;1860
 MN;62;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;1;1;563;30.27;1860
 MN;62;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;1;1;1119;60.16;1860
@@ -5215,16 +5215,16 @@ MN;64;;8612;Judge - 5th District Court 13;05;9001;Troy G. Timmerman;;;NP;43;43;5
 MN;64;;8612;Judge - 5th District Court 13;05;9901;WRITE-IN;;;WI;43;43;28;0.47;6018
 MN;64;;8614;Judge - 5th District Court 15;05;9001;Robert Docherty;;;NP;43;43;5924;99.51;5953
 MN;64;;8614;Judge - 5th District Court 15;05;9901;WRITE-IN;;;WI;43;43;29;0.49;5953
-MN;65;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;38;38;5466;67.26;8127
-MN;65;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;38;38;2496;30.71;8127
-MN;65;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;38;38;15;0.18;8127
-MN;65;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;38;38;19;0.23;8127
-MN;65;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;38;38;23;0.28;8127
-MN;65;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;38;38;23;0.28;8127
-MN;65;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;38;38;1;0.01;8127
-MN;65;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;38;38;4;0.05;8127
-MN;65;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;38;38;68;0.84;8127
-MN;65;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;38;38;12;0.15;8127
+MN;65;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;38;38;5467;67.26;8128
+MN;65;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;38;38;2496;30.71;8128
+MN;65;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;38;38;15;0.18;8128
+MN;65;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;38;38;19;0.23;8128
+MN;65;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;38;38;23;0.28;8128
+MN;65;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;38;38;23;0.28;8128
+MN;65;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;38;38;1;0.01;8128
+MN;65;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;38;38;4;0.05;8128
+MN;65;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;38;38;68;0.84;8128
+MN;65;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;38;38;12;0.15;8128
 MN;65;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;38;38;390;4.91;7945
 MN;65;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;38;38;122;1.54;7945
 MN;65;;0102;U.S. Senator;;0301;Jason Lewis;;;R;38;38;4927;62.01;7945
@@ -5286,29 +5286,29 @@ MN;65;;9009;Judge - 8th District Court 10;08;9001;Thomas W. Van Hon;;;NP;38;38;6
 MN;65;;9009;Judge - 8th District Court 10;08;9901;WRITE-IN;;;WI;38;38;24;0.38;6276
 MN;65;;9010;Judge - 8th District Court 11;08;9001;David L. Mennis;;;NP;38;38;6090;99.69;6109
 MN;65;;9010;Judge - 8th District Court 11;08;9901;WRITE-IN;;;WI;38;38;19;0.31;6109
-MN;66;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;31;31;17463;48.94;35685
-MN;66;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;31;31;17402;48.77;35685
-MN;66;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;31;31;70;0.20;35685
-MN;66;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;31;31;115;0.32;35685
-MN;66;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;31;31;88;0.25;35685
-MN;66;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;31;31;78;0.22;35685
-MN;66;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;31;31;13;0.04;35685
-MN;66;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;31;31;7;0.02;35685
-MN;66;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;31;31;372;1.04;35685
-MN;66;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;31;31;77;0.22;35685
-MN;66;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;2138;6.10;35062
-MN;66;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;701;2.00;35062
-MN;66;;0102;U.S. Senator;;0301;Jason Lewis;;;R;31;31;15998;45.63;35062
-MN;66;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;31;31;16201;46.21;35062
-MN;66;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;31;31;24;0.07;35062
+MN;66;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;31;31;17464;48.94;35686
+MN;66;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;31;31;17402;48.76;35686
+MN;66;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;31;31;70;0.20;35686
+MN;66;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;31;31;115;0.32;35686
+MN;66;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;31;31;88;0.25;35686
+MN;66;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;31;31;78;0.22;35686
+MN;66;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;31;31;13;0.04;35686
+MN;66;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;31;31;7;0.02;35686
+MN;66;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;31;31;372;1.04;35686
+MN;66;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;31;31;77;0.22;35686
+MN;66;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;31;31;2138;6.10;35063
+MN;66;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;31;31;701;2.00;35063
+MN;66;;0102;U.S. Senator;;0301;Jason Lewis;;;R;31;31;15999;45.63;35063
+MN;66;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;31;31;16201;46.21;35063
+MN;66;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;31;31;24;0.07;35063
 MN;66;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;16;16;1458;7.27;20042
 MN;66;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;16;16;10777;53.77;20042
 MN;66;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;16;16;7784;38.84;20042
 MN;66;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;16;16;23;0.11;20042
-MN;66;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;15;15;764;5.17;14777
-MN;66;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;15;15;4860;32.89;14777
-MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;15;15;9142;61.87;14777
-MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;15;15;11;0.07;14777
+MN;66;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;15;15;765;5.18;14778
+MN;66;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;15;15;4860;32.89;14778
+MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;15;15;9142;61.86;14778
+MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;15;15;11;0.07;14778
 MN;66;;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;18;18;1154;5.81;19853
 MN;66;;0140;State Senator District 20;20;0301;Rich Draheim;;;R;18;18;8317;41.89;19853
 MN;66;;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;18;18;10355;52.16;19853
@@ -5363,25 +5363,25 @@ MN;66;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;31;31;
 MN;66;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;31;31;190;0.82;23090
 MN;66;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;31;31;23060;99.09;23272
 MN;66;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;31;31;212;0.91;23272
-MN;67;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;24;24;3582;68.37;5239
-MN;67;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;24;24;1556;29.70;5239
-MN;67;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;24;24;16;0.31;5239
-MN;67;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;24;24;13;0.25;5239
-MN;67;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;24;24;9;0.17;5239
-MN;67;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;24;24;13;0.25;5239
-MN;67;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;24;24;2;0.04;5239
-MN;67;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;24;24;1;0.02;5239
-MN;67;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;24;24;35;0.67;5239
-MN;67;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;24;24;12;0.23;5239
+MN;67;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;24;24;3583;68.38;5240
+MN;67;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;24;24;1556;29.69;5240
+MN;67;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;24;24;16;0.31;5240
+MN;67;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;24;24;13;0.25;5240
+MN;67;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;24;24;9;0.17;5240
+MN;67;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;24;24;13;0.25;5240
+MN;67;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;24;24;2;0.04;5240
+MN;67;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;24;24;1;0.02;5240
+MN;67;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;24;24;35;0.67;5240
+MN;67;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;24;24;12;0.23;5240
 MN;67;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;24;24;294;5.72;5140
 MN;67;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;24;24;98;1.91;5140
 MN;67;;0102;U.S. Senator;;0301;Jason Lewis;;;R;24;24;3286;63.93;5140
 MN;67;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;24;24;1461;28.42;5140
 MN;67;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;24;24;1;0.02;5140
-MN;67;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;24;24;232;4.53;5127
-MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;24;24;3277;63.92;5127
-MN;67;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;24;24;1618;31.56;5127
-MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;24;24;0;0.00;5127
+MN;67;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;24;24;232;4.52;5128
+MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;24;24;3278;63.92;5128
+MN;67;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;24;24;1618;31.55;5128
+MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;24;24;0;0.00;5128
 MN;67;;0142;State Senator District 22;22;0201;Brian Abrahamson;;;GLC;24;24;234;4.52;5178
 MN;67;;0142;State Senator District 22;22;0301;Bill Weber;;;R;24;24;3709;71.63;5178
 MN;67;;0142;State Senator District 22;22;0401;Shawna Marshall;;;DFL;24;24;1234;23.83;5178
@@ -5498,25 +5498,25 @@ MN;68;;9120;Judge - 9th District Court 21;09;9001;Patricia Aanes;;;NP;44;44;5947
 MN;68;;9120;Judge - 9th District Court 21;09;9901;WRITE-IN;;;WI;44;44;40;0.67;5987
 MN;68;;9121;Judge - 9th District Court 22;09;9001;Darlene Rivera Spalla;;;NP;44;44;5963;99.37;6001
 MN;68;;9121;Judge - 9th District Court 22;09;9901;WRITE-IN;;;WI;44;44;38;0.63;6001
-MN;69;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;172;172;49016;41.01;119534
-MN;69;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;172;172;67708;56.64;119534
-MN;69;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;172;172;166;0.14;119534
-MN;69;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;172;172;396;0.33;119534
-MN;69;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;172;172;290;0.24;119534
-MN;69;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;172;172;160;0.13;119534
-MN;69;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;172;172;49;0.04;119534
-MN;69;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;172;172;17;0.01;119534
-MN;69;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;172;172;1388;1.16;119534
-MN;69;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;172;172;344;0.29;119534
-MN;69;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;172;172;6545;5.59;117140
-MN;69;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;172;172;2452;2.09;117140
-MN;69;;0102;U.S. Senator;;0301;Jason Lewis;;;R;172;172;45015;38.43;117140
-MN;69;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;172;172;63041;53.82;117140
-MN;69;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;172;172;87;0.07;117140
-MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;172;172;6093;5.15;118414
-MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;172;172;53668;45.32;118414
-MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;172;172;58565;49.46;118414
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;172;172;88;0.07;118414
+MN;69;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;172;172;49017;41.01;119531
+MN;69;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;172;172;67704;56.64;119531
+MN;69;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;172;172;166;0.14;119531
+MN;69;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;172;172;396;0.33;119531
+MN;69;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;172;172;290;0.24;119531
+MN;69;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;172;172;160;0.13;119531
+MN;69;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;172;172;49;0.04;119531
+MN;69;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;172;172;17;0.01;119531
+MN;69;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;172;172;1388;1.16;119531
+MN;69;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;172;172;344;0.29;119531
+MN;69;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;172;172;6545;5.59;117135
+MN;69;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;172;172;2451;2.09;117135
+MN;69;;0102;U.S. Senator;;0301;Jason Lewis;;;R;172;172;45016;38.43;117135
+MN;69;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;172;172;63036;53.81;117135
+MN;69;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;172;172;87;0.07;117135
+MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;172;172;6091;5.14;118410
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;172;172;53667;45.32;118410
+MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;172;172;58564;49.46;118410
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;172;172;88;0.07;118410
 MN;69;;0123;State Senator District 3;3;0301;Christopher Hogan;;;R;49;49;13521;43.72;30924
 MN;69;;0123;State Senator District 3;3;0401;Thomas (Tom) Bakk;;;DFL;49;49;17356;56.12;30924
 MN;69;;0123;State Senator District 3;3;9901;WRITE-IN;;;WI;49;49;47;0.15;30924
@@ -5593,25 +5593,25 @@ MN;69;;8811;Judge - 6th District Court 12;06;9001;Sally L. Tarnowski;;;NP;172;17
 MN;69;;8811;Judge - 6th District Court 12;06;9901;WRITE-IN;;;WI;172;172;633;0.77;81695
 MN;69;;8813;Judge - 6th District Court 14;06;9001;Rebekka Stumme;;;NP;172;172;78913;99.27;79493
 MN;69;;8813;Judge - 6th District Court 14;06;9901;WRITE-IN;;;WI;172;172;580;0.73;79493
-MN;70;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;47;47;45871;52.15;87961
-MN;70;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;47;47;40037;45.52;87961
-MN;70;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;47;47;162;0.18;87961
-MN;70;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;47;47;240;0.27;87961
-MN;70;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;47;47;182;0.21;87961
-MN;70;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;47;47;162;0.18;87961
-MN;70;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;47;47;18;0.02;87961
-MN;70;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;47;47;9;0.01;87961
-MN;70;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;47;47;1048;1.19;87961
-MN;70;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;47;47;232;0.26;87961
-MN;70;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;47;47;5218;6.03;86504
-MN;70;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;47;47;1269;1.47;86504
-MN;70;;0102;U.S. Senator;;0301;Jason Lewis;;;R;47;47;44214;51.11;86504
-MN;70;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;47;47;35757;41.34;86504
-MN;70;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;47;47;46;0.05;86504
-MN;70;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;47;47;5078;5.93;85613
-MN;70;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;47;47;45444;53.08;85613
-MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;47;47;35048;40.94;85613
-MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;47;47;43;0.05;85613
+MN;70;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;47;47;45872;52.15;87965
+MN;70;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;47;47;40040;45.52;87965
+MN;70;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;47;47;162;0.18;87965
+MN;70;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;47;47;240;0.27;87965
+MN;70;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;47;47;182;0.21;87965
+MN;70;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;47;47;162;0.18;87965
+MN;70;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;47;47;18;0.02;87965
+MN;70;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;47;47;9;0.01;87965
+MN;70;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;47;47;1048;1.19;87965
+MN;70;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;47;47;232;0.26;87965
+MN;70;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;47;47;5218;6.03;86506
+MN;70;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;47;47;1269;1.47;86506
+MN;70;;0102;U.S. Senator;;0301;Jason Lewis;;;R;47;47;44215;51.11;86506
+MN;70;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;47;47;35758;41.34;86506
+MN;70;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;47;47;46;0.05;86506
+MN;70;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;47;47;5078;5.93;85615
+MN;70;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;47;47;45444;53.08;85615
+MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;47;47;35050;40.94;85615
+MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;47;47;43;0.05;85615
 MN;70;;0140;State Senator District 20;20;0201;Jason Hoschette;;;GLC;8;8;981;6.18;15875
 MN;70;;0140;State Senator District 20;20;0301;Rich Draheim;;;R;8;8;9950;62.68;15875
 MN;70;;0140;State Senator District 20;20;0401;Jon Olson;;;DFL;8;8;4933;31.07;15875
@@ -5681,24 +5681,24 @@ MN;70;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;47;47;478;0.90;5
 MN;70;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;47;47;35399;59.87;59124
 MN;70;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;47;47;23426;39.62;59124
 MN;70;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;47;47;299;0.51;59124
-MN;71;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;35;35;36221;65.13;55610
-MN;71;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;35;35;18064;32.48;55610
-MN;71;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;35;35;96;0.17;55610
-MN;71;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;35;35;153;0.28;55610
-MN;71;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;35;35;115;0.21;55610
-MN;71;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;35;35;89;0.16;55610
-MN;71;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;35;35;7;0.01;55610
-MN;71;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;35;35;6;0.01;55610
-MN;71;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;35;35;734;1.32;55610
-MN;71;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;35;35;125;0.22;55610
-MN;71;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;3701;6.80;54447
+MN;71;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;35;35;36222;65.13;55612
+MN;71;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;35;35;18065;32.48;55612
+MN;71;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;35;35;96;0.17;55612
+MN;71;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;35;35;153;0.28;55612
+MN;71;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;35;35;115;0.21;55612
+MN;71;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;35;35;89;0.16;55612
+MN;71;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;35;35;7;0.01;55612
+MN;71;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;35;35;6;0.01;55612
+MN;71;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;35;35;734;1.32;55612
+MN;71;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;35;35;125;0.22;55612
+MN;71;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;35;35;3702;6.80;54447
 MN;71;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;35;35;974;1.79;54447
-MN;71;;0102;U.S. Senator;;0301;Jason Lewis;;;R;35;35;33146;60.88;54447
+MN;71;;0102;U.S. Senator;;0301;Jason Lewis;;;R;35;35;33145;60.88;54447
 MN;71;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;35;35;16584;30.46;54447
 MN;71;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;35;35;42;0.08;54447
-MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;35;35;37894;70.83;53500
-MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;35;35;15546;29.06;53500
-MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;35;35;60;0.11;53500
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;35;35;37894;70.83;53501
+MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;35;35;15546;29.06;53501
+MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;35;35;61;0.11;53501
 MN;71;;0134;State Senator District 14;14;0101;Jaden Partlow;;;LMN;4;4;334;8.05;4147
 MN;71;;0134;State Senator District 14;14;0301;Jerry Relph;;;R;4;4;1806;43.55;4147
 MN;71;;0134;State Senator District 14;14;0401;Aric Putnam;;;DFL;4;4;2005;48.35;4147
@@ -5804,16 +5804,16 @@ MN;72;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;72;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;25;25;0;0.00;8452
 MN;72;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;25;25;71;0.84;8452
 MN;72;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;25;25;15;0.18;8452
-MN;72;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;426;5.13;8303
-MN;72;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;112;1.35;8303
-MN;72;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;5392;64.94;8303
-MN;72;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;2368;28.52;8303
-MN;72;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;5;0.06;8303
-MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;25;25;450;5.42;8299
-MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;25;25;151;1.82;8299
-MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;25;25;4960;59.77;8299
-MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;25;25;2732;32.92;8299
-MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;25;25;6;0.07;8299
+MN;72;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;25;25;426;5.13;8302
+MN;72;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;25;25;112;1.35;8302
+MN;72;;0102;U.S. Senator;;0301;Jason Lewis;;;R;25;25;5391;64.94;8302
+MN;72;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;25;25;2368;28.52;8302
+MN;72;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;25;25;5;0.06;8302
+MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;25;25;450;5.42;8298
+MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;25;25;151;1.82;8298
+MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;25;25;4959;59.76;8298
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;25;25;2732;32.92;8298
+MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;25;25;6;0.07;8298
 MN;72;;0138;State Senator District 18;18;0301;Scott Newman;;;R;25;25;5930;72.63;8165
 MN;72;;0138;State Senator District 18;18;0401;Chad R. Tschimperle;;;DFL;25;25;2227;27.27;8165
 MN;72;;0138;State Senator District 18;18;9901;WRITE-IN;;;WI;25;25;8;0.10;8165
@@ -5863,24 +5863,24 @@ MN;72;;8126;Judge - 1st District Court 27;01;9901;WRITE-IN;;;WI;25;25;18;0.33;54
 MN;72;;8131;Judge - 1st District Court 32;01;9001;Joseph Carter;;;NP;25;25;3440;57.31;6002
 MN;72;;8131;Judge - 1st District Court 32;01;9002;Martin "Marty" Judge;;;NP;25;25;2547;42.44;6002
 MN;72;;8131;Judge - 1st District Court 32;01;9901;WRITE-IN;;;WI;25;25;15;0.25;6002
-MN;73;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;98;98;50959;60.07;84839
-MN;73;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;98;98;31881;37.58;84839
-MN;73;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;98;98;136;0.16;84839
-MN;73;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;98;98;276;0.33;84839
-MN;73;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;98;98;165;0.19;84839
-MN;73;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;98;98;154;0.18;84839
-MN;73;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;98;98;20;0.02;84839
-MN;73;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;98;98;16;0.02;84839
-MN;73;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;98;98;1037;1.22;84839
-MN;73;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;98;98;195;0.23;84839
-MN;73;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;98;98;4842;5.81;83403
-MN;73;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;98;98;1485;1.78;83403
-MN;73;;0102;U.S. Senator;;0301;Jason Lewis;;;R;98;98;47081;56.45;83403
-MN;73;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;98;98;29932;35.89;83403
-MN;73;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;98;98;63;0.08;83403
-MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;59;59;41843;62.79;66641
-MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;59;59;24662;37.01;66641
-MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;59;59;136;0.20;66641
+MN;73;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;98;98;50959;60.07;84835
+MN;73;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;98;98;31879;37.58;84835
+MN;73;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;98;98;136;0.16;84835
+MN;73;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;98;98;275;0.32;84835
+MN;73;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;98;98;165;0.19;84835
+MN;73;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;98;98;154;0.18;84835
+MN;73;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;98;98;20;0.02;84835
+MN;73;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;98;98;16;0.02;84835
+MN;73;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;98;98;1036;1.22;84835
+MN;73;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;98;98;195;0.23;84835
+MN;73;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;98;98;4843;5.81;83402
+MN;73;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;98;98;1484;1.78;83402
+MN;73;;0102;U.S. Senator;;0301;Jason Lewis;;;R;98;98;47080;56.45;83402
+MN;73;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;98;98;29931;35.89;83402
+MN;73;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;98;98;64;0.08;83402
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;59;59;41838;62.79;66636
+MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;59;59;24662;37.01;66636
+MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;59;59;136;0.20;66636
 MN;73;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;39;39;609;3.78;16093
 MN;73;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;39;39;252;1.57;16093
 MN;73;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;39;39;10807;67.15;16093
@@ -5977,11 +5977,11 @@ MN;74;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;74;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;5;0.02;21128
 MN;74;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;278;1.32;21128
 MN;74;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;52;0.25;21128
-MN;74;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;1381;6.71;20592
-MN;74;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;435;2.11;20592
-MN;74;;0102;U.S. Senator;;0301;Jason Lewis;;;R;26;26;11358;55.16;20592
-MN;74;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;26;26;7413;36.00;20592
-MN;74;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;26;26;5;0.02;20592
+MN;74;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;1381;6.71;20591
+MN;74;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;435;2.11;20591
+MN;74;;0102;U.S. Senator;;0301;Jason Lewis;;;R;26;26;11358;55.16;20591
+MN;74;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;26;26;7412;36.00;20591
+MN;74;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;26;26;5;0.02;20591
 MN;74;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;26;26;1299;6.27;20729
 MN;74;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;26;26;11120;53.64;20729
 MN;74;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;26;26;8297;40.03;20729
@@ -6044,26 +6044,26 @@ MN;74;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;26;26;
 MN;74;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;26;26;90;0.62;14439
 MN;74;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;26;26;14309;99.42;14393
 MN;74;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;26;26;84;0.58;14393
-MN;75;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;26;26;3044;59.87;5084
-MN;75;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;26;26;1921;37.79;5084
-MN;75;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;26;26;4;0.08;5084
-MN;75;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;26;26;18;0.35;5084
-MN;75;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;26;26;18;0.35;5084
-MN;75;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;26;26;11;0.22;5084
-MN;75;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;26;26;4;0.08;5084
-MN;75;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;1;0.02;5084
-MN;75;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;44;0.87;5084
-MN;75;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;19;0.37;5084
+MN;75;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;26;26;3044;59.86;5085
+MN;75;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;26;26;1922;37.80;5085
+MN;75;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;26;26;4;0.08;5085
+MN;75;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;26;26;18;0.35;5085
+MN;75;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;26;26;18;0.35;5085
+MN;75;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;26;26;11;0.22;5085
+MN;75;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;26;26;4;0.08;5085
+MN;75;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;26;26;1;0.02;5085
+MN;75;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;26;26;44;0.87;5085
+MN;75;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;26;26;19;0.37;5085
 MN;75;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;26;26;192;3.83;5013
 MN;75;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;26;26;67;1.34;5013
 MN;75;;0102;U.S. Senator;;0301;Jason Lewis;;;R;26;26;2848;56.81;5013
 MN;75;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;26;26;1906;38.02;5013
 MN;75;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;26;26;0;0.00;5013
-MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;26;26;199;3.95;5038
-MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;26;26;90;1.79;5038
-MN;75;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;26;26;2490;49.42;5038
-MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;26;26;2253;44.72;5038
-MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;26;26;6;0.12;5038
+MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;26;26;199;3.95;5039
+MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;26;26;90;1.79;5039
+MN;75;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;26;26;2490;49.41;5039
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;26;26;2254;44.73;5039
+MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;26;26;6;0.12;5039
 MN;75;;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;26;26;3476;69.19;5024
 MN;75;;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;26;26;1544;30.73;5024
 MN;75;;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;26;26;4;0.08;5024
@@ -6175,16 +6175,16 @@ MN;77;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Pel
 MN;77;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;40;40;1;0.01;13257
 MN;77;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;40;40;85;0.64;13257
 MN;77;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;40;40;21;0.16;13257
-MN;77;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;650;4.98;13059
-MN;77;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;205;1.57;13059
-MN;77;;0102;U.S. Senator;;0301;Jason Lewis;;;R;40;40;8840;67.69;13059
-MN;77;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;40;40;3354;25.68;13059
-MN;77;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;40;40;10;0.08;13059
-MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;40;40;612;4.70;13013
-MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;40;40;259;1.99;13013
-MN;77;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;40;40;8276;63.60;13013
-MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;40;40;3854;29.62;13013
-MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;40;40;12;0.09;13013
+MN;77;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;40;40;650;4.98;13061
+MN;77;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;40;40;205;1.57;13061
+MN;77;;0102;U.S. Senator;;0301;Jason Lewis;;;R;40;40;8842;67.70;13061
+MN;77;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;40;40;3354;25.68;13061
+MN;77;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;40;40;10;0.08;13061
+MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;40;40;612;4.70;13014
+MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;40;40;259;1.99;13014
+MN;77;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;40;40;8277;63.60;13014
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;40;40;3854;29.61;13014
+MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;40;40;12;0.09;13014
 MN;77;;0129;State Senator District 9;9;0301;Paul Gazelka;;;R;40;40;9490;73.50;12911
 MN;77;;0129;State Senator District 9;9;0401;A. John Peters;;;DFL;40;40;3403;26.36;12911
 MN;77;;0129;State Senator District 9;9;9901;WRITE-IN;;;WI;40;40;18;0.14;12911
@@ -6264,11 +6264,11 @@ MN;78;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;20;20;27;1.48;1829
 MN;78;;0102;U.S. Senator;;0301;Jason Lewis;;;R;20;20;1045;57.14;1829
 MN;78;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;20;20;656;35.87;1829
 MN;78;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;20;20;3;0.16;1829
-MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;20;20;78;4.28;1823
-MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;20;20;33;1.81;1823
-MN;78;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;20;20;886;48.60;1823
-MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;20;20;825;45.26;1823
-MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;20;20;1;0.05;1823
+MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;20;20;78;4.28;1824
+MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;20;20;33;1.81;1824
+MN;78;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;20;20;887;48.63;1824
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;20;20;825;45.23;1824
+MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;20;20;1;0.05;1824
 MN;78;;0132;State Senator District 12;12;0301;Torrey Westrom;;;R;20;20;1301;72.12;1804
 MN;78;;0132;State Senator District 12;12;0401;Jill Abahsain;;;DFL;20;20;502;27.83;1804
 MN;78;;0132;State Senator District 12;12;9901;WRITE-IN;;;WI;20;20;1;0.06;1804
@@ -6528,21 +6528,21 @@ MN;81;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;22;22;
 MN;81;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;22;22;37;0.49;7622
 MN;81;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;22;22;7583;99.50;7621
 MN;81;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;22;22;38;0.50;7621
-MN;82;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;83;83;73764;44.23;166784
-MN;82;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;83;83;89164;53.46;166784
-MN;82;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;83;83;271;0.16;166784
-MN;82;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;83;83;477;0.29;166784
-MN;82;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;83;83;342;0.21;166784
-MN;82;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;83;83;267;0.16;166784
-MN;82;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;83;83;53;0.03;166784
-MN;82;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;83;83;34;0.02;166784
-MN;82;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;83;83;1895;1.14;166784
-MN;82;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;83;83;517;0.31;166784
-MN;82;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;83;83;8382;5.13;163550
-MN;82;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;83;83;2677;1.64;163550
-MN;82;;0102;U.S. Senator;;0301;Jason Lewis;;;R;83;83;71906;43.97;163550
-MN;82;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;83;83;80479;49.21;163550
-MN;82;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;83;83;106;0.06;163550
+MN;82;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;83;83;73764;44.23;166786
+MN;82;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;83;83;89165;53.46;166786
+MN;82;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;83;83;271;0.16;166786
+MN;82;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;83;83;477;0.29;166786
+MN;82;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;83;83;342;0.21;166786
+MN;82;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;83;83;267;0.16;166786
+MN;82;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;83;83;53;0.03;166786
+MN;82;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;83;83;34;0.02;166786
+MN;82;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;83;83;1895;1.14;166786
+MN;82;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;83;83;518;0.31;166786
+MN;82;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;83;83;8382;5.12;163552
+MN;82;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;83;83;2679;1.64;163552
+MN;82;;0102;U.S. Senator;;0301;Jason Lewis;;;R;83;83;71906;43.97;163552
+MN;82;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;83;83;80479;49.21;163552
+MN;82;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;83;83;106;0.06;163552
 MN;82;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;13;13;1854;7.00;26478
 MN;82;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;13;13;11786;44.51;26478
 MN;82;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;13;13;12818;48.41;26478
@@ -6811,10 +6811,10 @@ MN;85;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;49;49;594;2.25;26390
 MN;85;;0102;U.S. Senator;;0301;Jason Lewis;;;R;49;49;11961;45.32;26390
 MN;85;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;49;49;12002;45.48;26390
 MN;85;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;49;49;20;0.08;26390
-MN;85;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;49;49;1559;5.85;26634
-MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;49;49;11580;43.48;26634
-MN;85;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;49;49;13478;50.60;26634
-MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;49;49;17;0.06;26634
+MN;85;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;49;49;1560;5.86;26636
+MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;49;49;11581;43.48;26636
+MN;85;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;49;49;13478;50.60;26636
+MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;49;49;17;0.06;26636
 MN;85;;0141;State Senator District 21;21;0301;Michael P. Goggin;;;R;15;15;3671;54.65;6717
 MN;85;;0141;State Senator District 21;21;0401;Ralph Kaehler;;;DFL;15;15;3043;45.30;6717
 MN;85;;0141;State Senator District 21;21;9901;WRITE-IN;;;WI;15;15;3;0.04;6717
@@ -6864,24 +6864,24 @@ MN;85;;8419;Judge - 3rd District Court 20;03;9001;Jodi L. Williamson;;;NP;49;49;
 MN;85;;8419;Judge - 3rd District Court 20;03;9901;WRITE-IN;;;WI;49;49;129;0.74;17547
 MN;85;;8421;Judge - 3rd District Court 22;03;9001;Jeffrey M Johnson;;;NP;49;49;17338;99.33;17455
 MN;85;;8421;Judge - 3rd District Court 22;03;9901;WRITE-IN;;;WI;49;49;117;0.67;17455
-MN;86;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;45;45;51970;63.06;82420
-MN;86;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;45;45;28427;34.49;82420
-MN;86;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;45;45;138;0.17;82420
-MN;86;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;45;45;273;0.33;82420
-MN;86;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;45;45;195;0.24;82420
-MN;86;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;45;45;172;0.21;82420
-MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;45;45;12;0.01;82420
-MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;45;45;9;0.01;82420
-MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;45;45;992;1.20;82420
-MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;45;45;232;0.28;82420
-MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5008;6.21;80655
-MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1523;1.89;80655
-MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;48171;59.72;80655
-MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;25893;32.10;80655
-MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;60;0.07;80655
-MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;55894;70.00;79848
-MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;23843;29.86;79848
-MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;111;0.14;79848
+MN;86;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;45;45;51973;63.05;82426
+MN;86;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;45;45;28430;34.49;82426
+MN;86;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;45;45;138;0.17;82426
+MN;86;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;45;45;273;0.33;82426
+MN;86;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;45;45;195;0.24;82426
+MN;86;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;45;45;172;0.21;82426
+MN;86;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;45;45;12;0.01;82426
+MN;86;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;45;45;9;0.01;82426
+MN;86;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;45;45;992;1.20;82426
+MN;86;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;45;45;232;0.28;82426
+MN;86;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;45;45;5009;6.21;80661
+MN;86;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;45;45;1523;1.89;80661
+MN;86;;0102;U.S. Senator;;0301;Jason Lewis;;;R;45;45;48173;59.72;80661
+MN;86;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;45;45;25896;32.10;80661
+MN;86;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;45;45;60;0.07;80661
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;45;45;55899;70.00;79853
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;45;45;23843;29.86;79853
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;45;45;111;0.14;79853
 MN;86;;0135;State Senator District 15;15;0301;Andrew Mathews;;;R;2;2;1358;70.44;1928
 MN;86;;0135;State Senator District 15;15;0401;Brent Krist;;;DFL;2;2;569;29.51;1928
 MN;86;;0135;State Senator District 15;15;9901;WRITE-IN;;;WI;2;2;1;0.05;1928
@@ -6981,21 +6981,21 @@ MN;86;;9238;Judge - 10th District Court 39;10;9001;Walter M. Kaminsky;;;NP;45;45
 MN;86;;9238;Judge - 10th District Court 39;10;9901;WRITE-IN;;;WI;45;45;424;0.97;43535
 MN;86;;9242;Judge - 10th District Court 43;10;9001;Jonathan Jasper;;;NP;45;45;43062;98.98;43506
 MN;86;;9242;Judge - 10th District Court 43;10;9901;WRITE-IN;;;WI;45;45;444;1.02;43506
-MN;87;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;3734;67.56;5527
-MN;87;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;1687;30.52;5527
-MN;87;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;12;0.22;5527
-MN;87;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;30;11;0.20;5527
-MN;87;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;30;13;0.24;5527
-MN;87;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;30;10;0.18;5527
-MN;87;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;30;0;0.00;5527
-MN;87;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;0;0.00;5527
-MN;87;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;45;0.81;5527
-MN;87;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;15;0.27;5527
-MN;87;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;270;4.95;5451
-MN;87;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;65;1.19;5451
-MN;87;;0102;U.S. Senator;;0301;Jason Lewis;;;R;30;30;3435;63.02;5451
-MN;87;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;30;30;1678;30.78;5451
-MN;87;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;30;30;3;0.06;5451
+MN;87;;0101;U.S. President & Vice President;;0301;Donald J. Trump and Michael R. Pence;;;R;30;30;3734;67.55;5528
+MN;87;;0101;U.S. President & Vice President;;0401;Joseph R. Biden and Kamala Harris;;;DFL;30;30;1688;30.54;5528
+MN;87;;0101;U.S. President & Vice President;;0501;Roque "Rocky" De La Fuente and Darcy Richardson;;;IA;30;30;12;0.22;5528
+MN;87;;0101;U.S. President & Vice President;;0601;Howie Hawkins and Angela Walker;;;GP;30;30;11;0.20;5528
+MN;87;;0101;U.S. President & Vice President;;0701;Kanye West and Michelle Tidball;;;IND;30;30;13;0.24;5528
+MN;87;;0101;U.S. President & Vice President;;0801;Brock Pierce and Karla Ballard;;;IND;30;30;10;0.18;5528
+MN;87;;0101;U.S. President & Vice President;;0901;Gloria La Riva and Leonard Peltier;;;SLP;30;30;0;0.00;5528
+MN;87;;0101;U.S. President & Vice President;;1001;Alyson Kennedy and Malcolm Jarrett;;;SWP;30;30;0;0.00;5528
+MN;87;;0101;U.S. President & Vice President;;1201;Jo Jorgensen and Jeremy "Spike" Cohen;;;LIB;30;30;45;0.81;5528
+MN;87;;0101;U.S. President & Vice President;;9901;WRITE-IN;;;WI;30;30;15;0.27;5528
+MN;87;;0102;U.S. Senator;;0101;Kevin O'Connor;;;LMN;30;30;270;4.95;5452
+MN;87;;0102;U.S. Senator;;0201;Oliver Steinberg;;;GLC;30;30;65;1.19;5452
+MN;87;;0102;U.S. Senator;;0301;Jason Lewis;;;R;30;30;3436;63.02;5452
+MN;87;;0102;U.S. Senator;;0401;Tina Smith;;;DFL;30;30;1678;30.78;5452
+MN;87;;0102;U.S. Senator;;9901;WRITE-IN;;;WI;30;30;3;0.06;5452
 MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;30;30;284;5.18;5481
 MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;30;30;74;1.35;5481
 MN;87;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;30;30;2989;54.53;5481

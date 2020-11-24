@@ -1,7 +1,7 @@
-MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;456;4.68;9748
-MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;6062;62.19;9748
-MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3227;33.10;9748
-MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;3;0.03;9748
+MN;01;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;457;4.69;9750
+MN;01;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;6063;62.18;9750
+MN;01;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3227;33.10;9750
+MN;01;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;3;0.03;9750
 MN;02;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;16547;47.85;34583
 MN;02;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;17977;51.98;34583
 MN;02;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;59;0.17;34583
@@ -9,9 +9,9 @@ MN;02;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;3884
 MN;02;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;11214;37.97;29537
 MN;02;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;238;14367;48.64;29537
 MN;02;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;238;72;0.24;29537
-MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;86809;62.19;139576
-MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;52628;37.71;139576
-MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;139;0.10;139576
+MN;02;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;86809;62.19;139577
+MN;02;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;52629;37.71;139577
+MN;02;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;139;0.10;139577
 MN;03;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;822;4.28;19190
 MN;03;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;318;1.66;19190
 MN;03;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;10342;53.89;19190
@@ -26,18 +26,18 @@ MN;04;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;
 MN;04;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;5523;61.38;8998
 MN;04;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3004;33.39;8998
 MN;04;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;6;0.07;8998
-MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;15032;69.76;21547
-MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;6474;30.05;21547
-MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;41;0.19;21547
+MN;05;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;15032;69.76;21548
+MN;05;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;6475;30.05;21548
+MN;05;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;41;0.19;21548
 MN;06;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;136;4.66;2918
 MN;06;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;56;1.92;2918
 MN;06;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1456;49.90;2918
 MN;06;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1261;43.21;2918
 MN;06;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;9;0.31;2918
-MN;07;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;2468;6.98;35341
-MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;14653;41.46;35341
-MN;07;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;18188;51.46;35341
-MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;32;0.09;35341
+MN;07;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;2468;6.98;35340
+MN;07;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;14653;41.46;35340
+MN;07;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;18188;51.47;35340
+MN;07;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;31;0.09;35340
 MN;08;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;728;5.02;14488
 MN;08;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;8585;59.26;14488
 MN;08;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;5166;35.66;14488
@@ -46,25 +46,25 @@ MN;09;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;
 MN;09;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;10243;50.70;20205
 MN;09;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;8935;44.22;20205
 MN;09;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;7;0.03;20205
-MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;21161;52.01;40688
-MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;19486;47.89;40688
-MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;41;0.10;40688
+MN;10;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;21162;52.01;40689
+MN;10;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;19486;47.89;40689
+MN;10;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;41;0.10;40689
 MN;10;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;16590;68.43;24245
 MN;10;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;7625;31.45;24245
 MN;10;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;30;0.12;24245
-MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1090;6.05;18008
-MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;11202;62.21;18008
-MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;5701;31.66;18008
-MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;15;0.08;18008
+MN;11;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1090;6.05;18009
+MN;11;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;11202;62.20;18009
+MN;11;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;5702;31.66;18009
+MN;11;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;15;0.08;18009
 MN;12;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;388;5.91;6562
 MN;12;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;109;1.66;6562
 MN;12;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3169;48.29;6562
 MN;12;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2889;44.03;6562
 MN;12;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;7;0.11;6562
-MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;2381;7.14;33343
-MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;20591;61.76;33343
-MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;10343;31.02;33343
-MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;28;0.08;33343
+MN;13;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;2383;7.15;33345
+MN;13;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;20591;61.75;33345
+MN;13;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;10343;31.02;33345
+MN;13;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;28;0.08;33345
 MN;14;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;1927;6.10;31592
 MN;14;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;716;2.27;31592
 MN;14;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;11653;36.89;31592
@@ -92,14 +92,14 @@ MN;18;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;
 MN;18;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;24546;62.26;39422
 MN;18;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;12993;32.96;39422
 MN;18;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;7;0.02;39422
-MN;19;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;14921;5.82;256542
-MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;109897;42.84;256542
-MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;131555;51.28;256542
-MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;169;0.07;256542
-MN;20;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;839;6.99;11999
-MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6796;56.64;11999
-MN;20;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;4352;36.27;11999
-MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;12;0.10;11999
+MN;19;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;14922;5.82;256539
+MN;19;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;109893;42.84;256539
+MN;19;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;131554;51.28;256539
+MN;19;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;170;0.07;256539
+MN;20;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;839;6.99;12000
+MN;20;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;6797;56.64;12000
+MN;20;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;4352;36.27;12000
+MN;20;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;12;0.10;12000
 MN;21;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;865;3.64;23743
 MN;21;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;357;1.50;23743
 MN;21;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;13939;58.71;23743
@@ -126,32 +126,32 @@ MN;26;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;26;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1751;48.28;3627
 MN;26;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1686;46.48;3627
 MN;26;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;2;0.06;3627
-MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;158910;43.14;368321
-MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;209198;56.80;368321
-MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;213;0.06;368321
-MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;33925;9.25;366828
-MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;91101;24.83;366828
-MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;238;240434;65.54;366828
-MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;238;1368;0.37;366828
+MN;27;;0106;U.S. Representative District 3;3;0301;Kendall Qualls;;;R;0;249;158916;43.14;368331
+MN;27;;0106;U.S. Representative District 3;3;0401;Dean Phillips;;;DFL;0;249;209203;56.80;368331
+MN;27;;0106;U.S. Representative District 3;3;9901;WRITE-IN;;;WI;0;249;212;0.06;368331
+MN;27;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;33926;9.25;366832
+MN;27;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;91101;24.83;366832
+MN;27;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;238;240438;65.54;366832
+MN;27;;0108;U.S. Representative District 5;5;9901;WRITE-IN;;;WI;0;238;1367;0.37;366832
 MN;27;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;403;66.39;607
 MN;27;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;204;33.61;607
 MN;27;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;0;0.00;607
-MN;28;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;658;5.87;11216
-MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5433;48.44;11216
-MN;28;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;5118;45.63;11216
-MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;7;0.06;11216
+MN;28;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;658;5.87;11217
+MN;28;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5434;48.44;11217
+MN;28;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;5118;45.63;11217
+MN;28;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;7;0.06;11217
 MN;29;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;700;5.49;12751
 MN;29;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;8064;63.24;12751
 MN;29;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3977;31.19;12751
 MN;29;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;10;0.08;12751
-MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1894;8.05;23534
-MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;15215;64.65;23534
-MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;6402;27.20;23534
-MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;23;0.10;23534
-MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1255;4.79;26217
-MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;15400;58.74;26217
-MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;9545;36.41;26217
-MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;17;0.06;26217
+MN;30;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1894;8.05;23535
+MN;30;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;15216;64.65;23535
+MN;30;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;6402;27.20;23535
+MN;30;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;23;0.10;23535
+MN;31;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1255;4.79;26218
+MN;31;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;15402;58.75;26218
+MN;31;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;9544;36.40;26218
+MN;31;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;17;0.06;26218
 MN;32;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;312;5.41;5764
 MN;32;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;3522;61.10;5764
 MN;32;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;1930;33.48;5764
@@ -165,11 +165,11 @@ MN;34;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;34;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;12210;52.86;23100
 MN;34;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;9424;40.80;23100
 MN;34;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;22;0.10;23100
-MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;71;2.72;2606
-MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;41;1.57;2606
-MN;35;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1092;41.90;2606
-MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1398;53.65;2606
-MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;4;0.15;2606
+MN;35;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;71;2.72;2607
+MN;35;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;41;1.57;2607
+MN;35;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1093;41.93;2607
+MN;35;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1398;53.62;2607
+MN;35;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;4;0.15;2607
 MN;36;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;296;4.34;6825
 MN;36;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;4135;60.59;6825
 MN;36;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;2393;35.06;6825
@@ -179,39 +179,39 @@ MN;37;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;37;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1905;47.94;3974
 MN;37;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1852;46.60;3974
 MN;37;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;0;0.00;3974
-MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;314;4.40;7137
-MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;3547;49.70;7137
-MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3274;45.87;7137
-MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;2;0.03;7137
+MN;38;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;314;4.40;7138
+MN;38;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;3548;49.71;7138
+MN;38;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3274;45.87;7138
+MN;38;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;2;0.03;7138
 MN;39;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;126;5.34;2358
 MN;39;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;30;1.27;2358
 MN;39;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1432;60.73;2358
 MN;39;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;769;32.61;2358
 MN;39;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;1;0.04;2358
-MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;944;5.70;16574
-MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;9550;57.62;16574
-MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;6070;36.62;16574
-MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;10;0.06;16574
+MN;40;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;944;5.69;16576
+MN;40;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;9551;57.62;16576
+MN;40;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;6071;36.63;16576
+MN;40;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;10;0.06;16576
 MN;41;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;119;3.85;3088
 MN;41;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;44;1.42;3088
 MN;41;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1735;56.19;3088
 MN;41;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1188;38.47;3088
 MN;41;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;2;0.06;3088
-MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;647;5.10;12691
-MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;210;1.65;12691
-MN;42;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;6860;54.05;12691
-MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;4957;39.06;12691
-MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;17;0.13;12691
+MN;42;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;648;5.10;12696
+MN;42;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;212;1.67;12696
+MN;42;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;6861;54.04;12696
+MN;42;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;4958;39.05;12696
+MN;42;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;17;0.13;12696
 MN;43;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;1234;6.02;20515
 MN;43;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;491;2.39;20515
 MN;43;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;12073;58.85;20515
 MN;43;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;6695;32.63;20515
 MN;43;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;22;0.11;20515
-MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;157;6.93;2266
-MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;48;2.12;2266
-MN;44;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;873;38.53;2266
-MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1186;52.34;2266
-MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;2;0.09;2266
+MN;44;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;157;6.93;2267
+MN;44;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;48;2.12;2267
+MN;44;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;873;38.51;2267
+MN;44;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1187;52.36;2267
+MN;44;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;2;0.09;2267
 MN;45;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;153;3.02;5065
 MN;45;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;63;1.24;5065
 MN;45;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2745;54.20;5065
@@ -226,14 +226,14 @@ MN;47;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;47;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;8055;60.52;13310
 MN;47;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;4325;32.49;13310
 MN;47;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;12;0.09;13310
-MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1090;7.60;14350
-MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;9304;64.84;14350
-MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3946;27.50;14350
-MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;10;0.07;14350
-MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;965;5.08;18978
-MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;13924;73.37;18978
-MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;4083;21.51;18978
-MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;6;0.03;18978
+MN;48;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1090;7.60;14348
+MN;48;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;9302;64.83;14348
+MN;48;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;3946;27.50;14348
+MN;48;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;10;0.07;14348
+MN;49;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;965;5.08;18981
+MN;49;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;13927;73.37;18981
+MN;49;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;4083;21.51;18981
+MN;49;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;6;0.03;18981
 MN;50;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1269;6.64;19114
 MN;50;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;8679;45.41;19114
 MN;50;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;9155;47.90;19114
@@ -243,33 +243,33 @@ MN;51;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;51;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2833;58.50;4843
 MN;51;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1733;35.78;4843
 MN;51;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;3;0.06;4843
-MN;52;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1017;5.38;18897
-MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7947;42.05;18897
-MN;52;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;9914;52.46;18897
-MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;19;0.10;18897
+MN;52;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1018;5.39;18898
+MN;52;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;7947;42.05;18898
+MN;52;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;9914;52.46;18898
+MN;52;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;19;0.10;18898
 MN;53;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;438;5.11;8578
 MN;53;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;5020;58.52;8578
 MN;53;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;3114;36.30;8578
 MN;53;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;6;0.07;8578
-MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;153;4.50;3397
-MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;47;1.38;3397
-MN;54;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1269;37.36;3397
-MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1923;56.61;3397
-MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;5;0.15;3397
+MN;54;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;153;4.51;3396
+MN;54;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;47;1.38;3396
+MN;54;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1269;37.37;3396
+MN;54;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1922;56.60;3396
+MN;54;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;5;0.15;3396
 MN;55;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;4461;4.97;89757
 MN;55;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;36460;40.62;89757
 MN;55;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;48759;54.32;89757
 MN;55;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;77;0.09;89757
-MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;1492;4.16;35859
-MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;595;1.66;35859
-MN;56;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;20046;55.90;35859
-MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;13693;38.19;35859
-MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;33;0.09;35859
-MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;420;5.83;7199
-MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;128;1.78;7199
-MN;57;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3514;48.81;7199
-MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;3129;43.46;7199
-MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;8;0.11;7199
+MN;56;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;1493;4.16;35860
+MN;56;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;595;1.66;35860
+MN;56;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;20046;55.90;35860
+MN;56;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;13693;38.18;35860
+MN;56;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;33;0.09;35860
+MN;57;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;421;5.85;7200
+MN;57;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;128;1.78;7200
+MN;57;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3514;48.81;7200
+MN;57;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;3129;43.46;7200
+MN;57;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;8;0.11;7200
 MN;58;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;1088;6.99;15562
 MN;58;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;9673;62.16;15562
 MN;58;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;4792;30.79;15562
@@ -279,20 +279,20 @@ MN;59;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;59;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3110;63.85;4871
 MN;59;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1464;30.06;4871
 MN;59;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;2;0.04;4871
-MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;677;4.41;15347
-MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;246;1.60;15347
-MN;60;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;7595;49.49;15347
-MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;6823;44.46;15347
-MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.04;15347
+MN;60;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;679;4.42;15350
+MN;60;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;246;1.60;15350
+MN;60;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;7596;49.49;15350
+MN;60;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;6823;44.45;15350
+MN;60;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.04;15350
 MN;61;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;294;4.24;6942
 MN;61;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;110;1.58;6942
 MN;61;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;3660;52.72;6942
 MN;61;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2873;41.39;6942
 MN;61;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;5;0.07;6942
-MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;23157;8.23;281225
-MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;68966;24.52;281225
-MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;188305;66.96;281225
-MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;225;797;0.28;281225
+MN;62;;0107;U.S. Representative District 4;4;0201;Susan Sindt;;;GLC;0;225;23155;8.23;281214
+MN;62;;0107;U.S. Representative District 4;4;0301;Gene Rechtzigel;;;R;0;225;68963;24.52;281214
+MN;62;;0107;U.S. Representative District 4;4;0401;Betty McCollum;;;DFL;0;225;188299;66.96;281214
+MN;62;;0107;U.S. Representative District 4;4;9901;WRITE-IN;;;WI;0;225;797;0.28;281214
 MN;62;;0108;U.S. Representative District 5;5;0101;Michael Moore;;;LMN;0;238;169;9.09;1860
 MN;62;;0108;U.S. Representative District 5;5;0301;Lacy Johnson;;;R;0;238;563;30.27;1860
 MN;62;;0108;U.S. Representative District 5;5;0401;Ilhan Omar;;;DFL;0;238;1119;60.16;1860
@@ -316,38 +316,38 @@ MN;66;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1458;7.2
 MN;66;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;10777;53.77;20042
 MN;66;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;7784;38.84;20042
 MN;66;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;23;0.11;20042
-MN;66;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;764;5.17;14777
-MN;66;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;4860;32.89;14777
-MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;9142;61.87;14777
-MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;11;0.07;14777
-MN;67;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;232;4.53;5127
-MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;3277;63.92;5127
-MN;67;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;1618;31.56;5127
-MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;0;0.00;5127
+MN;66;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;765;5.18;14778
+MN;66;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;4860;32.89;14778
+MN;66;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;9142;61.86;14778
+MN;66;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;11;0.07;14778
+MN;67;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;232;4.52;5128
+MN;67;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;3278;63.92;5128
+MN;67;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;1618;31.55;5128
+MN;67;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;0;0.00;5128
 MN;68;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;314;3.76;8343
 MN;68;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;87;1.04;8343
 MN;68;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;5133;61.52;8343
 MN;68;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2799;33.55;8343
 MN;68;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;10;0.12;8343
-MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;6093;5.15;118414
-MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;53668;45.32;118414
-MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;58565;49.46;118414
-MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;88;0.07;118414
-MN;70;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;5078;5.93;85613
-MN;70;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;45444;53.08;85613
-MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;35048;40.94;85613
-MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;43;0.05;85613
-MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;37894;70.83;53500
-MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;15546;29.06;53500
-MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;60;0.11;53500
-MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;450;5.42;8299
-MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;151;1.82;8299
-MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;4960;59.77;8299
-MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2732;32.92;8299
-MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.07;8299
-MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;41843;62.79;66641
-MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;24662;37.01;66641
-MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;136;0.20;66641
+MN;69;;0111;U.S. Representative District 8;8;0201;Judith Schwartzbacker;;;GLC;0;802;6091;5.14;118410
+MN;69;;0111;U.S. Representative District 8;8;0301;Pete Stauber;;;R;0;802;53667;45.32;118410
+MN;69;;0111;U.S. Representative District 8;8;0401;Quinn Nystrom;;;DFL;0;802;58564;49.46;118410
+MN;69;;0111;U.S. Representative District 8;8;9901;WRITE-IN;;;WI;0;802;88;0.07;118410
+MN;70;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;5078;5.93;85615
+MN;70;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;45444;53.08;85615
+MN;70;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;35050;40.94;85615
+MN;70;;0105;U.S. Representative District 2;2;9901;WRITE-IN;;;WI;0;289;43;0.05;85615
+MN;71;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;37894;70.83;53501
+MN;71;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;15546;29.06;53501
+MN;71;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;61;0.11;53501
+MN;72;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;450;5.42;8298
+MN;72;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;151;1.82;8298
+MN;72;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;4959;59.76;8298
+MN;72;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2732;32.92;8298
+MN;72;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.07;8298
+MN;73;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;41838;62.79;66636
+MN;73;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;24662;37.01;66636
+MN;73;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;136;0.20;66636
 MN;73;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;609;3.78;16093
 MN;73;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;252;1.57;16093
 MN;73;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;10807;67.15;16093
@@ -357,26 +357,26 @@ MN;74;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1299;6.2
 MN;74;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;11120;53.64;20729
 MN;74;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;8297;40.03;20729
 MN;74;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;13;0.06;20729
-MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;199;3.95;5038
-MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;90;1.79;5038
-MN;75;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2490;49.42;5038
-MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2253;44.72;5038
-MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.12;5038
+MN;75;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;199;3.95;5039
+MN;75;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;90;1.79;5039
+MN;75;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2490;49.41;5039
+MN;75;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2254;44.73;5039
+MN;75;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;6;0.12;5039
 MN;76;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;208;4.04;5148
 MN;76;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;68;1.32;5148
 MN;76;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2497;48.50;5148
 MN;76;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;2371;46.06;5148
 MN;76;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;4;0.08;5148
-MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;612;4.70;13013
-MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;259;1.99;13013
-MN;77;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;8276;63.60;13013
-MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;3854;29.62;13013
-MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;12;0.09;13013
-MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;78;4.28;1823
-MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;33;1.81;1823
-MN;78;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;886;48.60;1823
-MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;825;45.26;1823
-MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;1;0.05;1823
+MN;77;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;612;4.70;13014
+MN;77;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;259;1.99;13014
+MN;77;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;8277;63.60;13014
+MN;77;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;3854;29.61;13014
+MN;77;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;12;0.09;13014
+MN;78;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;78;4.28;1824
+MN;78;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;33;1.81;1824
+MN;78;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;887;48.63;1824
+MN;78;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;825;45.23;1824
+MN;78;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;1;0.05;1824
 MN;79;;0105;U.S. Representative District 2;2;0101;Adam Charles Weeks;;;LMN;0;289;638;4.93;12931
 MN;79;;0105;U.S. Representative District 2;2;0301;Tyler Kistner;;;R;0;289;7701;59.55;12931
 MN;79;;0105;U.S. Representative District 2;2;0401;Angie Craig;;;DFL;0;289;4587;35.47;12931
@@ -409,13 +409,13 @@ MN;84;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329
 MN;84;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;1631;47.79;3413
 MN;84;;0110;U.S. Representative District 7;7;0401;Collin C Peterson;;;DFL;0;1329;1555;45.56;3413
 MN;84;;0110;U.S. Representative District 7;7;9901;WRITE-IN;;;WI;0;1329;7;0.21;3413
-MN;85;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1559;5.85;26634
-MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;11580;43.48;26634
-MN;85;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;13478;50.60;26634
-MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;17;0.06;26634
-MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;55894;70.00;79848
-MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;23843;29.86;79848
-MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;111;0.14;79848
+MN;85;;0104;U.S. Representative District 1;1;0201;Bill Rood;;;GLC;0;697;1560;5.86;26636
+MN;85;;0104;U.S. Representative District 1;1;0301;Jim Hagedorn;;;R;0;697;11581;43.48;26636
+MN;85;;0104;U.S. Representative District 1;1;0401;Dan Feehan;;;DFL;0;697;13478;50.60;26636
+MN;85;;0104;U.S. Representative District 1;1;9901;WRITE-IN;;;WI;0;697;17;0.06;26636
+MN;86;;0109;U.S. Representative District 6;6;0301;Tom Emmer;;;R;0;281;55899;70.00;79853
+MN;86;;0109;U.S. Representative District 6;6;0401;Tawnja Zahradka;;;DFL;0;281;23843;29.86;79853
+MN;86;;0109;U.S. Representative District 6;6;9901;WRITE-IN;;;WI;0;281;111;0.14;79853
 MN;87;;0110;U.S. Representative District 7;7;0101;Slater Johnson;;;LMN;0;1329;284;5.18;5481
 MN;87;;0110;U.S. Representative District 7;7;0201;Rae Hart Anderson;;;GLC;0;1329;74;1.35;5481
 MN;87;;0110;U.S. Representative District 7;7;0301;Michelle Fischbach;;;R;0;1329;2989;54.53;5481
